@@ -1,0 +1,526 @@
+Element_Name,Element_ID
+After Time Outs,1
+Against Man,2
+Against Zone,3
+All Jump Shots off the Dribble,4
+Around Basket (not Post-Ups),5
+Ball Handler,6
+Basket Cuts (incl. open under),7
+Catch and Shoot,8
+Cut,9
+Drives Left,10
+Drives Left.Drives to the Basket,11
+Drives Left.Pulls up for the jumper,12
+Drives Left.Runner,13
+Drives Left.Turnover/Fouled,14
+Drives Right,15
+Drives Right.Drives to the Basket,16
+Drives Right.Pulls up for the jumper,17
+Drives Right.Runner,18
+Drives Right.Turnover/Fouled,19
+First Middle,20
+Flash Cuts,21
+Flash Middle,22
+Flash Middle (in the paint),23
+Flash Middle (in the paint).Faces Up,24
+Flash Middle (in the paint).Faces Up.Drives Left,25
+Flash Middle (in the paint).Faces Up.Drives Right,26
+Flash Middle (in the paint).Faces Up.Early Jumper,27
+Flash Middle (in the paint).Faces Up.Turnover/Fouled,28
+Flash Middle (in the paint).Post Pin (over the top),29
+Flash Middle (in the paint).Turnover/Fouled,30
+Flash Middle (in the paint).Turns Left Shoulder.,31
+Flash Middle (in the paint).Turns Left Shoulder.Drop Step,32
+Flash Middle (in the paint).Turns Left Shoulder.Hook,33
+Flash Middle (in the paint).Turns Left Shoulder.Jump Shot,34
+Flash Middle (in the paint).Turns Left Shoulder.Left Shoulder - Dribble,35
+Flash Middle (in the paint).Turns Left Shoulder.Left Shoulder - No Dribble,36
+Flash Middle (in the paint).Turns Left Shoulder.To Basket,37
+Flash Middle (in the paint).Turns Left Shoulder.Turnover/Fouled,38
+Flash Middle (in the paint).Turns Left Shoulder.Up and Under,39
+Flash Middle (in the paint).Turns Right Shoulder,40
+Flash Middle (in the paint).Turns Right Shoulder.Drop Step,41
+Flash Middle (in the paint).Turns Right Shoulder.Hook,42
+Flash Middle (in the paint).Turns Right Shoulder.Jump Shot,43
+Flash Middle (in the paint).Turns Right Shoulder.Right Shoulder - Dribble,44
+Flash Middle (in the paint).Turns Right Shoulder.Right Shoulder - No Dribble,45
+Flash Middle (in the paint).Turns Right Shoulder.To Basket,46
+Flash Middle (in the paint).Turns Right Shoulder.Turnover/Fouled,47
+Flash Middle (in the paint).Turns Right Shoulder.Up and Under,48
+Flash Middle Pass Outs.,49
+Flash Middle Pass Outs.Pass Out Results,50
+Flash Middle Pass Outs.Pass To Cut,51
+Flash Middle Pass Outs.Pass To Spot Up,52
+Flash Middle Pass Outs.Turnover/Fouled,53
+Flash Middle.'s Scoring Attempt,54
+Flash Middle.Pass Out Results,55
+Flash Middle.Pass To Cut,56
+Flash Middle.Pass To Spot Up,57
+Flash Middle.Turnovers/Fouled,58
+From Dribble,59
+From ISO - Defense Commits,60
+From Other Man-To-Man Defense,61
+From P&R BH - Defense Commits,62
+From P&R Defensive Switch,63
+From Post-Up - Defense Commits,64
+From Stationary,65
+From other man-to-man defense,66
+Guarded,67
+Hand Off,68
+High P&R - Single,69
+High P&R - Single.Defender Into Pick,70
+High P&R - Single.Defender Over Pick,71
+High P&R - Single.Defender Under Pick,72
+High P&R - Single.Dribbles Off Pick,73
+High P&R - Single.Dribbles Off Pick.Defender Into Pick,74
+High P&R - Single.Dribbles Off Pick.Defender Over Pick,75
+High P&R - Single.Dribbles Off Pick.Defender Under Pick,76
+High P&R - Single.Dribbles Off Pick.Takes a Dribble Jumper,77
+High P&R - Single.Dribbles Off Pick.Takes a Runner,78
+High P&R - Single.Dribbles Off Pick.Takes it to the Basket,79
+High P&R - Single.Dribbles Off Pick.Turnover/Fouled,80
+High P&R - Single.Goes Away From Pick,81
+High P&R - Single.Goes Away From Pick.Defender Into Pick,82
+High P&R - Single.Goes Away From Pick.Defender Over Pick,83
+High P&R - Single.Goes Away From Pick.Defender Under Pick,84
+High P&R - Single.Goes Away From Pick.Takes a Dribble Jumper,85
+High P&R - Single.Goes Away From Pick.Takes a Runner,86
+High P&R - Single.Goes Away From Pick.Takes it to the Basket,87
+High P&R - Single.Goes Away From Pick.Turnover/Fouled,88
+High P&R - Single.Splits the Defenders,89
+High P&R - Single.Splits the Defenders.Defender Into Pick,90
+High P&R - Single.Splits the Defenders.Defender Over Pick,91
+High P&R - Single.Splits the Defenders.Defender Under Pick,92
+High P&R - Single.Splits the Defenders.Takes a Dribble Jumper,93
+High P&R - Single.Splits the Defenders.Takes a Runner,94
+High P&R - Single.Splits the Defenders.Takes it to the Basket,95
+High P&R - Single.Splits the Defenders.Turnover/Fouled,96
+High P&R - Single.Takes Early Jump Shot,97
+High P&R - Single.Takes Early Jump Shot.Defender Into Pick,98
+High P&R - Single.Takes Early Jump Shot.Defender Over Pick,99
+High P&R - Single.Takes Early Jump Shot.Defender Under Pick,100
+High P&R - Single.Turnover/Fouled,101
+High P&R Pass Outs,102
+High P&R Pass Outs.Pass Out Results,103
+High P&R Pass Outs.Pass To Cut,104
+High P&R Pass Outs.Pass To P&R - Roll Man,105
+High P&R Pass Outs.Pass To Spot Up,106
+High P&R Pass Outs.Turnover/Fouled,107
+ISO - Defense Commits,108
+Isolation,109
+Isolation Passes Offense,110
+Isolation Player's Offense,111
+Isolations Including Passes,112
+Jump Shots,113
+Jump Shots.Short Shot Clock <4 Seconds,114
+Leak Outs,115
+Left Block,116
+Left Block Pass Outs,117
+Left Block Pass Outs.Pass Out Results,118
+Left Block Pass Outs.Pass To Cut,119
+Left Block Pass Outs.Pass To Spot Up,120
+Left Block Pass Outs.Turnover/Fouled,121
+Left Block.'s Scoring Attempts,122
+Left Block.Faces Up,123
+Left Block.Faces Up.Drives Baseline,124
+Left Block.Faces Up.Drives Middle,125
+Left Block.Faces Up.Early Jumper,126
+Left Block.Faces Up.Turnover/Fouled,127
+Left Block.Pass Out Results,128
+Left Block.Pass To Cut,129
+Left Block.Pass To Spot Up,130
+Left Block.Post Pin (over the top),131
+Left Block.Turnover/Fouled,132
+Left Block.Turnovers/Fouled,133
+Left Block.Turns Left Shoulder,134
+Left Block.Turns Left Shoulder.Drop Step,135
+Left Block.Turns Left Shoulder.Hook,136
+Left Block.Turns Left Shoulder.Jump Shot,137
+Left Block.Turns Left Shoulder.Left Shoulder - Dribble,138
+Left Block.Turns Left Shoulder.Left Shoulder - No Dribble,139
+Left Block.Turns Left Shoulder.To Basket,140
+Left Block.Turns Left Shoulder.Turnover/Fouled,141
+Left Block.Turns Left Shoulder.Up and Under,142
+Left Block.Turns Right Shoulder,143
+Left Block.Turns Right Shoulder.Drop Step,144
+Left Block.Turns Right Shoulder.Hook,145
+Left Block.Turns Right Shoulder.Jump Shot,146
+Left Block.Turns Right Shoulder.Right Shoulder - Dribble,147
+Left Block.Turns Right Shoulder.Right Shoulder - No Dribble,148
+Left Block.Turns Right Shoulder.To Basket,149
+Left Block.Turns Right Shoulder.Turnover/Fouled,150
+Left Block.Turns Right Shoulder.Up and Under,151
+Left Side ISOs,152
+Left Side ISOs.Drives Baseline,153
+Left Side ISOs.Drives Baseline.Dribble Jumper,154
+Left Side ISOs.Drives Baseline.Runner,155
+Left Side ISOs.Drives Baseline.To Basket,156
+Left Side ISOs.Drives Baseline.Turnover/Fouled,157
+Left Side ISOs.Drives Middle,158
+Left Side ISOs.Drives Middle.Dribble Jumper,159
+Left Side ISOs.Drives Middle.Runner,160
+Left Side ISOs.Drives Middle.To Basket,161
+Left Side ISOs.Drives Middle.Turnover/Fouled,162
+Left Side ISOs.Shoots No Drive,163
+Left Side ISOs.Turnover/Fouled,164
+Left Side Isolation Kicks,165
+Left Side Isolation Kicks.Draw and Kick Results,166
+Left Side Isolation Kicks.Pass To Cut,167
+Left Side Isolation Kicks.Pass To Spot Up,168
+Left Side Isolation Kicks.Turnover/Fouled,169
+Left Side P&R - Single,170
+Left Side P&R - Single.Defender Into Pick,171
+Left Side P&R - Single.Defender Over Pick,172
+Left Side P&R - Single.Defender Under Pick,173
+Left Side P&R - Single.Dribbles Off Pick,174
+Left Side P&R - Single.Dribbles Off Pick.Defender Into Pick,175
+Left Side P&R - Single.Dribbles Off Pick.Defender Over Pick,176
+Left Side P&R - Single.Dribbles Off Pick.Defender Under Pick,177
+Left Side P&R - Single.Dribbles Off Pick.Takes a Dribble Jumper,178
+Left Side P&R - Single.Dribbles Off Pick.Takes a Runner,179
+Left Side P&R - Single.Dribbles Off Pick.Takes it to the Basket,180
+Left Side P&R - Single.Dribbles Off Pick.Turnover/Fouled,181
+Left Side P&R - Single.Goes Away From Pick,182
+Left Side P&R - Single.Goes Away From Pick.Defender Into Pick,183
+Left Side P&R - Single.Goes Away From Pick.Defender Over Pick,184
+Left Side P&R - Single.Goes Away From Pick.Defender Under Pick,185
+Left Side P&R - Single.Goes Away From Pick.Takes a Dribble Jumper,186
+Left Side P&R - Single.Goes Away From Pick.Takes a Runner,187
+Left Side P&R - Single.Goes Away From Pick.Takes it to the Basket,188
+Left Side P&R - Single.Goes Away From Pick.Turnover/Fouled,189
+Left Side P&R - Single.Splits the Defenders,190
+Left Side P&R - Single.Splits the Defenders.Defender Into Pick,191
+Left Side P&R - Single.Splits the Defenders.Defender Over Pick,192
+Left Side P&R - Single.Splits the Defenders.Defender Under Pick,193
+Left Side P&R - Single.Splits the Defenders.Takes a Dribble Jumper,194
+Left Side P&R - Single.Splits the Defenders.Takes a Runner,195
+Left Side P&R - Single.Splits the Defenders.Takes it to the Basket,196
+Left Side P&R - Single.Splits the Defenders.Turnover/Fouled,197
+Left Side P&R - Single.Takes Early Jump Shot,198
+Left Side P&R - Single.Takes Early Jump Shot.Defender Into Pick,199
+Left Side P&R - Single.Takes Early Jump Shot.Defender Over Pick,200
+Left Side P&R - Single.Takes Early Jump Shot.Defender Under Pick,201
+Left Side P&R - Single.Turnover/Fouled,202
+Left Side Pass Outs,203
+Left Side Pass Outs.Pass Out Results,204
+Left Side Pass Outs.Pass To Cut,205
+Left Side Pass Outs.Pass To P&R - Roll Man,206
+Left Side Pass Outs.Pass To Spot Up,207
+Left Side Pass Outs.Turnover/Fouled,208
+Left Wing,209
+Long (3 point jump shots),210
+Long Rebound,211
+Man Defense,212
+Medium (17' to <3 point line),213
+Miscellaneous,214
+Off Screen,215
+Offensive Rebounds (put backs),216
+Out of Bounds (End),217
+Out of Bounds (Side),218
+Overall Cut,219
+Overall Half Court,220
+Overall HandOff,221
+Overall High,222
+Overall High.'s Scoring Attempt,223
+Overall High.Pass Out Results,224
+Overall High.Pass To Cut,225
+Overall High.Pass To P&R - Roll Man,226
+Overall High.Pass To Spot Up,227
+Overall High.Turnover/Fouled,228
+Overall ISO - Defense Commits,229
+Overall ISO - Defense Commits.Draw and Kick Results,230
+Overall ISO - Defense Commits.Pass To Cut,231
+Overall ISO - Defense Commits.Pass To Spot Up,232
+Overall ISO - Defense Commits.Short Shot Clock <4 Seconds,233
+Overall ISO - Defense Commits.Turnover/Fouled,234
+Overall ISO - Single Covered,235
+Overall ISO - Single Covered.Drives (including pull-up jumpers),236
+Overall ISO - Single Covered.Shoots Jumper (no drive),237
+Overall ISO - Single Covered.Short Shot Clock <4 Seconds,238
+Overall ISO - Single Covered.Turnover/Fouled,239
+Overall Isolation - Derived Offense,240
+Overall Left Side,241
+Overall Left Side.'s Scoring Attempts,242
+Overall Left Side.Pass Out Results,243
+Overall Left Side.Pass To Cut,244
+Overall Left Side.Pass To P&R - Roll Man,245
+Overall Left Side.Pass To Spot Up,246
+Overall Left Side.Turnover/Fouled,247
+Overall Miscellaneous Possessions,248
+Overall OffScreen,249
+Overall OffScreen.Comes Off to Shooter's Left,250
+Overall OffScreen.Comes Off to Shooter's Left.Comes Off Straight,251
+Overall OffScreen.Comes Off to Shooter's Left.Curls,252
+Overall OffScreen.Comes Off to Shooter's Left.Fades,253
+Overall OffScreen.Comes Off to Shooter's Left.Flares,254
+Overall OffScreen.Comes Off to Shooter's Left.Turnover/Fouled,255
+Overall OffScreen.Comes Off to Shooter's Right,256
+Overall OffScreen.Comes Off to Shooter's Right.Comes Off Straight,257
+Overall OffScreen.Comes Off to Shooter's Right.Curls,258
+Overall OffScreen.Comes Off to Shooter's Right.Fades,259
+Overall OffScreen.Comes Off to Shooter's Right.Flares,260
+Overall OffScreen.Comes Off to Shooter's Right.Turnover/Fouled,261
+Overall OffScreen.Short Shot Clock <4 Seconds,262
+Overall OffScreen.Turnover/Fouled,263
+Overall Offensive Reb (putbacks),264
+Overall P&R - Derived Offense,265
+Overall P&R BH - DefenseCommits,266
+Overall P&R BH - DefenseCommits.Pass Out Results,267
+Overall P&R BH - DefenseCommits.Pass To Cut,268
+Overall P&R BH - DefenseCommits.Pass To P&R - Roll Man,269
+Overall P&R BH - DefenseCommits.Pass To Spot Up,270
+Overall P&R BH - DefenseCommits.Short Shot Clock <4 Seconds,271
+Overall P&R BH - DefenseCommits.Turnover/Fouled,272
+Overall P&R BH - Single Covered,273
+Overall P&R BH - Single Covered.Defender Into Pick,274
+Overall P&R BH - Single Covered.Defender Over Pick,275
+Overall P&R BH - Single Covered.Defender Under Pick,276
+Overall P&R BH - Single Covered.Dribbles Off Pick,277
+Overall P&R BH - Single Covered.Dribbles Off Pick.Defender Into Pick,278
+Overall P&R BH - Single Covered.Dribbles Off Pick.Defender Over Pick,279
+Overall P&R BH - Single Covered.Dribbles Off Pick.Defender Under Pick,280
+Overall P&R BH - Single Covered.Dribbles Off Pick.Takes a Dribble Jumper,281
+Overall P&R BH - Single Covered.Dribbles Off Pick.Takes a Runner,282
+Overall P&R BH - Single Covered.Dribbles Off Pick.Takes it to the Basket,283
+Overall P&R BH - Single Covered.Dribbles Off Pick.Turnover/Fouled,284
+Overall P&R BH - Single Covered.Goes Away From Pick,285
+Overall P&R BH - Single Covered.Goes Away From Pick.Defender Into Pick,286
+Overall P&R BH - Single Covered.Goes Away From Pick.Defender Over Pick,287
+Overall P&R BH - Single Covered.Goes Away From Pick.Defender Under Pick,288
+Overall P&R BH - Single Covered.Goes Away From Pick.Takes a Dribble Jumper,289
+Overall P&R BH - Single Covered.Goes Away From Pick.Takes a Runner,290
+Overall P&R BH - Single Covered.Goes Away From Pick.Takes it to the Basket,291
+Overall P&R BH - Single Covered.Goes Away From Pick.Turnover/Fouled,292
+Overall P&R BH - Single Covered.Short Shot Clock <4 Seconds,293
+Overall P&R BH - Single Covered.Splits the Defenders,294
+Overall P&R BH - Single Covered.Splits the Defenders.Defender Into Pick,295
+Overall P&R BH - Single Covered.Splits the Defenders.Defender Over Pick,296
+Overall P&R BH - Single Covered.Splits the Defenders.Defender Under Pick,297
+Overall P&R BH - Single Covered.Splits the Defenders.Takes a Dribble Jumper,298
+Overall P&R BH - Single Covered.Splits the Defenders.Takes a Runner,299
+Overall P&R BH - Single Covered.Splits the Defenders.Takes it to the Basket,300
+Overall P&R BH - Single Covered.Splits the Defenders.Turnover/Fouled,301
+Overall P&R BH - Single Covered.Takes Early Jump Shot,302
+Overall P&R BH - Single Covered.Takes Early Jump Shot.Defender Into Pick,303
+Overall P&R BH - Single Covered.Takes Early Jump Shot.Defender Over Pick,304
+Overall P&R BH - Single Covered.Takes Early Jump Shot.Defender Under Pick,305
+Overall P&R BH - Single Covered.Turnover/Fouled,306
+Overall P&R Ball Handler - Traps,307
+Overall P&R Ball Handler - Traps.'s Scoring Attempts,308
+Overall P&R Ball Handler - Traps.Pass Out Results,309
+Overall P&R Ball Handler - Traps.Pass To Cut,310
+Overall P&R Ball Handler - Traps.Pass To Spot Up,311
+Overall P&R Ball Handler - Traps.Short Shot Clock <4 Seconds,312
+Overall P&R Ball Handler - Traps.Turnover/Fouled,313
+Overall P&R Roll Man,314
+Overall P&R Roll Man.High,315
+Overall P&R Roll Man.Left Side,316
+Overall P&R Roll Man.Pick and Pop,317
+Overall P&R Roll Man.Pick and Pop.Dribble Jumper,318
+Overall P&R Roll Man.Pick and Pop.No Dribble Jumper,319
+Overall P&R Roll Man.Pick and Pop.To Basket,320
+Overall P&R Roll Man.Pick and Pop.Turnover/Fouled,321
+Overall P&R Roll Man.Right Side,322
+Overall P&R Roll Man.Rolls to Basket,323
+Overall P&R Roll Man.Short Shot Clock <4 Seconds,324
+Overall P&R Roll Man.Slips the Pick,325
+Overall P&R Roll Man.Slips the Pick.Dribble Jumper,326
+Overall P&R Roll Man.Slips the Pick.No Dribble Jumper,327
+Overall P&R Roll Man.Slips the Pick.To Basket,328
+Overall P&R Roll Man.Slips the Pick.Turnover/Fouled,329
+Overall P&R Roll Man.Turnover/Fouled,330
+Overall Post Up - Defense Commits,331
+Overall Post Up - Defense Commits.Pass Out Results,332
+Overall Post Up - Defense Commits.Pass To Cut,333
+Overall Post Up - Defense Commits.Pass To Spot Up,334
+Overall Post Up - Defense Commits.Short Shot Clock <4 Seconds,335
+Overall Post Up - Defense Commits.Turnover/Fouled,336
+Overall Post Up - Derived Offense,337
+Overall Post Up - Hard Double Team,338
+Overall Post Up - Hard Double Team.'s Scoring Attempts,339
+Overall Post Up - Hard Double Team.Pass Out Results,340
+Overall Post Up - Hard Double Team.Pass To Cut,341
+Overall Post Up - Hard Double Team.Pass To Spot Up,342
+Overall Post Up - Hard Double Team.Short Shot Clock <4 Seconds,343
+Overall Post Up - Hard Double Team.Turnover/Fouled,344
+Overall Post Up - Single Covered,345
+Overall Post Up - Single Covered.Short Shot Clock <4 Seconds,346
+Overall Right Side,347
+Overall Right Side.'s Scoring Attempt,348
+Overall Right Side.Pass Out Results,349
+Overall Right Side.Pass To Cut,350
+Overall Right Side.Pass To P&R - Roll Man,351
+Overall Right Side.Pass To Spot Up,352
+Overall Right Side.Turnover/Fouled,353
+Overall Spot Up,354
+Overall Spot Up.Dribble Jumper,355
+Overall Spot Up.Drives Left,356
+Overall Spot Up.Drives Left.Drives to the basket,357
+Overall Spot Up.Drives Left.Pulls up for the jumper,358
+Overall Spot Up.Drives Left.Runner,359
+Overall Spot Up.Drives Left.Turnover/Fouled,360
+Overall Spot Up.Drives Right,361
+Overall Spot Up.Drives Right.Drives to the basket,362
+Overall Spot Up.Drives Right.Pulls up for the jumper,363
+Overall Spot Up.Drives Right.Runner,364
+Overall Spot Up.Drives Right.Turnover/Fouled,365
+Overall Spot Up.Drives Straight,366
+Overall Spot Up.Drives Straight.Drives to the basket,367
+Overall Spot Up.Drives Straight.Pulls up for the jumper,368
+Overall Spot Up.Drives Straight.Runner,369
+Overall Spot Up.Drives Straight.Turnover/Fouled,370
+Overall Spot Up.No Dribble Jumper,371
+Overall Spot Up.Runner,372
+Overall Spot Up.Short Shot Clock <4 Seconds,373
+Overall Spot Up.To Basket,374
+Overall Spot Up.Turnover/Fouled,375
+Overall Transition,376
+P&R BH - Defense Commits,377
+P&R BH - Traps,378
+P&R Ball Handler,379
+P&R Ball Handler's Offense,380
+P&R Ball Handler's Passes,381
+P&R Ball Handler.Turnover/Fouled,382
+P&R Roll Man,383
+Pass To P&R - Roll Man,384
+Pick and Rolls Including Passes,385
+Player,386
+Post-Up,387
+Post-Up - Defense Commits,388
+Post-Up - Hard Double,389
+Post-Up Player's Offense,390
+Post-Up Player's Passes,391
+Post-Ups,392
+Post-Ups Including Passes,393
+Post-Ups.Short Shot Clock <4 Seconds,394
+Right Block,395
+Right Block Pass Outs,396
+Right Block Pass Outs.Pass Out Results,397
+Right Block Pass Outs.Pass To Cut,398
+Right Block Pass Outs.Pass To Spot Up,399
+Right Block Pass Outs.Turnover/Fouled,400
+Right Block.'s Scoring Attempt,401
+Right Block.Faces Up,402
+Right Block.Faces Up.Drives Baseline,403
+Right Block.Faces Up.Drives Middle,404
+Right Block.Faces Up.Early Jumper,405
+Right Block.Faces Up.Turnover/Fouled,406
+Right Block.Pass Out Results,407
+Right Block.Pass To Cut,408
+Right Block.Pass To Spot Up,409
+Right Block.Post Pin (over the top),410
+Right Block.Turnover/Fouled,411
+Right Block.Turnovers/Fouled,412
+Right Block.Turns Left Shoulder,413
+Right Block.Turns Left Shoulder.Drop Step,414
+Right Block.Turns Left Shoulder.Hook,415
+Right Block.Turns Left Shoulder.Jump Shot,416
+Right Block.Turns Left Shoulder.Left Shoulder - Dribble,417
+Right Block.Turns Left Shoulder.Left Shoulder - No Dribble,418
+Right Block.Turns Left Shoulder.To Basket,419
+Right Block.Turns Left Shoulder.Turnover/Fouled,420
+Right Block.Turns Left Shoulder.Up and Under,421
+Right Block.Turns Right Shoulder,422
+Right Block.Turns Right Shoulder.Drop Step,423
+Right Block.Turns Right Shoulder.Hook,424
+Right Block.Turns Right Shoulder.Jump Shot,425
+Right Block.Turns Right Shoulder.Right Shoulder - Dribble,426
+Right Block.Turns Right Shoulder.Right Shoulder - No Dribble,427
+Right Block.Turns Right Shoulder.To Basket,428
+Right Block.Turns Right Shoulder.Turnover/Fouled,429
+Right Block.Turns Right Shoulder.Up and Under,430
+Right Side ISOs,431
+Right Side ISOs.Dribble Jumper,432
+Right Side ISOs.Dribble Jumper.Runner,433
+Right Side ISOs.Dribble Jumper.To Basket,434
+Right Side ISOs.Dribble Jumper.Turnover/Fouled,435
+Right Side ISOs.Drives Baseline,436
+Right Side ISOs.Drives Baseline.Dribble Jumper,437
+Right Side ISOs.Drives Baseline.Runner,438
+Right Side ISOs.Drives Baseline.To Basket,439
+Right Side ISOs.Drives Baseline.Turnover/Fouled,440
+Right Side ISOs.Drives Middle,441
+Right Side ISOs.Shoots No Drive,442
+Right Side ISOs.Turnover/Fouled,443
+Right Side Isolation Kicks,444
+Right Side Isolation Kicks.Draw and Kick Results,445
+Right Side Isolation Kicks.Pass To Cut,446
+Right Side Isolation Kicks.Pass To Spot Up,447
+Right Side Isolation Kicks.Turnover/Fouled,448
+Right Side P&R - Single,449
+Right Side P&R - Single.Defender Into Pick,450
+Right Side P&R - Single.Defender Over Pick,451
+Right Side P&R - Single.Defender Under Pick,452
+Right Side P&R - Single.Dribbles Off Pick,453
+Right Side P&R - Single.Dribbles Off Pick.Defender Into Pick,454
+Right Side P&R - Single.Dribbles Off Pick.Defender Over Pick,455
+Right Side P&R - Single.Dribbles Off Pick.Defender Under Pick,456
+Right Side P&R - Single.Dribbles Off Pick.Takes a Dribble Jumper,457
+Right Side P&R - Single.Dribbles Off Pick.Takes a Runner,458
+Right Side P&R - Single.Dribbles Off Pick.Takes it to the Basket,459
+Right Side P&R - Single.Dribbles Off Pick.Turnover/Fouled,460
+Right Side P&R - Single.Goes Away From Pick,461
+Right Side P&R - Single.Goes Away From Pick.Defender Into Pick,462
+Right Side P&R - Single.Goes Away From Pick.Defender Over Pick,463
+Right Side P&R - Single.Goes Away From Pick.Defender Under Pick,464
+Right Side P&R - Single.Goes Away From Pick.Takes a Dribble Jumper,465
+Right Side P&R - Single.Goes Away From Pick.Takes a Runner,466
+Right Side P&R - Single.Goes Away From Pick.Takes it to the Basket,467
+Right Side P&R - Single.Goes Away From Pick.Turnover/Fouled,468
+Right Side P&R - Single.Splits the Defenders,469
+Right Side P&R - Single.Splits the Defenders.Defender Into Pick,470
+Right Side P&R - Single.Splits the Defenders.Defender Over Pick,471
+Right Side P&R - Single.Splits the Defenders.Defender Under Pick,472
+Right Side P&R - Single.Splits the Defenders.Takes a Dribble Jumper,473
+Right Side P&R - Single.Splits the Defenders.Takes a Runner,474
+Right Side P&R - Single.Splits the Defenders.Takes it to the Basket,475
+Right Side P&R - Single.Splits the Defenders.Turnover/Fouled,476
+Right Side P&R - Single.Takes Early Jump Shot,477
+Right Side P&R - Single.Takes Early Jump Shot.Defender Into Pick,478
+Right Side P&R - Single.Takes Early Jump Shot.Defender Under Pick,479
+Right Side P&R - Single.Turnover/Fouled,480
+Right Side Pass Outs,481
+Right Side Pass Outs.Pass Out Results,482
+Right Side Pass Outs.Pass To Cut,483
+Right Side Pass Outs.Pass To P&R - Roll Man,484
+Right Side Pass Outs.Pass To Spot Up,485
+Right Side Pass Outs.Turnover/Fouled,486
+Right Wing,487
+Runeer.Short Shot Clock <4 Seconds,488
+Runner,489
+Runner.Short Shot Clock <4 Seconds,490
+Screen Cuts,491
+Short (<17'),492
+Short Rebound,493
+Short Shot Clock <4 Seconds,494
+Spot Up,495
+To Cut,496
+To P&R - Roll Man,497
+To Spot-Up,498
+Top ISOs,499
+Top ISOs.Drives Left,500
+Top ISOs.Drives Left.Dribble Jumper,501
+Top ISOs.Drives Left.Runner,502
+Top ISOs.Drives Left.To Basket,503
+Top ISOs.Drives Left.Turnover/Fouled,504
+Top ISOs.Drives Right,505
+Top ISOs.Drives Right.Dribble Jumper,506
+Top ISOs.Drives Right.Runner,507
+Top ISOs.Drives Right.To Basket,508
+Top ISOs.Drives Right.Turnover/Fouled,509
+Top ISOs.Shoots No Drive,510
+Top ISOs.Turnover/Fouled,511
+Top Isolation Kicks,512
+Top Isolation Kicks.Draw and Kick Results,513
+Top Isolation Kicks.Pass To Cut,514
+Top Isolation Kicks.Pass To Spot Up,515
+Top Isolation Kicks.Turnover/Fouled,516
+Trailer,517
+Transition,518
+Turnover/Fouled,519
+Unguarded,520
+Video Not Available,521
+Zone Defense,522
+Overall School,523
+Press Offense,524
+Press Defense,525
