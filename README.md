@@ -13,5 +13,8 @@ This is a diary-like file to document the progress we have made in some periods.
 2018.7.6 - 7.15
 
   During this period we developed the whole database structure for future analysis, please refer to the schema and the sql for more information.
-  
-  
+
+2018.7- 7.23
+  This week we modified some parts of the database. Specifically, we added a new table called "Team_Cumulative" since we found some parts of the stats in this table are very valuable in calculating some critical stats such as "PER","Efficient Shooting Percentage" and such.
+So I uploaded the modified version of SQL for creating tables.
+
