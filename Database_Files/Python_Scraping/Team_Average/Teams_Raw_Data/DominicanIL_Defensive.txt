@@ -1,0 +1,476 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Dominican (IL) Stars	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Dominican (IL) Stars	Date Range: 11/17/2017 to 02/17/2018	Number of Games: 25
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	100%	2076	1881	0.906	39%	Average	778	690	1468	47%	51.9%	19.2%	12.7%	9.2%	42.3%
+ Transition	17.5%	363	347	0.956	63%	Good	129	127	256	49.6%	53.9%	18.7%	15.7%	12.1%	44.1%
+ Overall Half Court	82.5%	1713	1534	0.896	31%	Average	649	563	1212	46.5%	51.4%	19.3%	12%	8.6%	42%
+                    Short Shot Clock <4 Seconds	3%	63	50	0.794	24%	Below Average	31	19	50	38%	41%	12.7%	11.1%	6.3%	36.5%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.2%	123	122	0.992	10%	Poor	46	47	93	50.5%	54.8%	13.8%	12.2%	8.9%	47.2%
+         Out of Bounds (Side)	4.7%	81	74	0.914	26%	Below Average	33	30	63	47.6%	51.6%	13.6%	8.6%	7.4%	45.7%
+         After Time Outs	12.3%	210	176	0.838	58%	Good	79	62	141	44%	49.3%	21%	13.3%	8.6%	39.5%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	87.8%	1504	1348	0.896	27%	Below Average	555	499	1054	47.3%	52%	19.9%	12.1%	8.6%	42.4%
+    Zone Defense	12.2%	209	186	0.89	56%	Good	94	64	158	40.5%	47.5%	15.3%	11.5%	9.1%	38.8%
+Breakdown of Full Court Press Situations:
+  Press Defense	7.4%	126	109	0.865	46%	Average	46	39	85	45.9%	51.2%	23%	11.9%	6.3%	40.5%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	20.3%	422	372	0.882	70%	Very Good	213	124	337	36.8%	48.4%	14.7%	7.3%	6.2%	34.4%
+ Transition	17.5%	363	347	0.956	63%	Good	129	127	256	49.6%	53.9%	18.7%	15.7%	12.1%	44.1%
+ P&R Ball Handler	11.2%	232	185	0.797	39%	Average	96	71	167	42.5%	44.6%	19%	11.2%	9.1%	38.8%
+ Cut	11.1%	231	284	1.229	8%	Poor	63	120	183	65.6%	65.6%	10.8%	13%	11.7%	61.9%
+ Post-Up	9.9%	205	150	0.732	88%	Excellent	84	61	145	42.1%	42.1%	18.5%	11.2%	7.3%	38%
+ Offensive Rebounds (put backs)	6.5%	134	159	1.187	13%	Poor	38	62	100	62%	62.5%	10.4%	17.9%	14.9%	61.2%
+ Off Screen	5.5%	114	114	1	24%	Below Average	50	41	91	45.1%	55.5%	13.2%	7.9%	7.9%	43%
+ Isolation	4.4%	92	76	0.826	45%	Average	37	30	67	44.8%	46.3%	18.5%	15.2%	13%	39.1%
+ Hand Off	3.2%	66	52	0.788	59%	Good	32	19	51	37.3%	44.1%	13.6%	9.1%	7.6%	37.9%
+ P&R Roll Man	2.9%	61	66	1.082	25%	Below Average	25	22	47	46.8%	52.1%	9.8%	16.4%	14.8%	49.2%
+ Miscellaneous	7.5%	156	76	0.487	46%	Average	11	13	24	54.2%	58.3%	64.7%	21.2%	2.6%	26.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6%	124	115	0.927	23%	Below Average	49	45	94	47.9%	52.1%	16.9%	12.9%	11.3%	41.9%
+  Pick and Rolls Including Passes	18.6%	387	335	0.866	44%	Average	168	124	292	42.5%	46.9%	15.5%	11.1%	9%	40.3%
+  Post-Ups Including Passes	12.9%	268	222	0.828	76%	Very Good	110	91	201	45.3%	47.5%	16.4%	9.3%	6.3%	40.7%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.5%	32	39	1.219	16%	Below Average	12	15	27	55.6%	66.7%	12.5%	6.3%	6.3%	50%
+  P&R BH - Defense Commits	9%	187	152	0.813	56%	Good	72	53	125	42.4%	50%	25.1%	9.6%	7.5%	35.8%
+  Post-Up - Defense Commits	3%	63	72	1.143	27%	Below Average	26	30	56	53.6%	61.6%	9.5%	3.2%	3.2%	49.2%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+  Post-Up - Hard Double	2%	42	29	0.69	72%	Very Good	13	13	26	50%	55.8%	35.7%	2.4%	2.4%	31%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	43.2%	523	485	0.927	67%	Very Good	342	181	523	34.6%	46.2%	0%	0.6%	0.6%	34.6%
+          Short Shot Clock <4 Seconds	2.4%	29	13	0.448	84%	Excellent	24	5	29	17.2%	22.4%	0%	0%	0%	17.2%
+Runner	5.9%	71	82	1.155	1%	Poor	32	39	71	54.9%	54.9%	0%	8.5%	8.5%	54.9%
+          Short Shot Clock <4 Seconds	0.2%	3	7	2.333	-	-	0	3	3	100%	100%	0%	33.3%	33.3%	100%
+Around Basket (not Post-Ups)	39%	473	579	1.224	12%	Poor	191	282	473	59.6%	59.6%	0%	5.5%	5.5%	59.6%
+Post-Ups	12%	145	122	0.841	87%	Excellent	84	61	145	42.1%	42.1%	0%	0.7%	0.7%	42.1%
+          Short Shot Clock <4 Seconds	0.3%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	26.9%	326	346	1.061	36%	Average	206	120	326	36.8%	52.9%	0%	0.3%	0.3%	36.8%
+  Guarded	64.4%	210	217	1.033	34%	Average	135	75	210	35.7%	51.4%	0%	0.5%	0.5%	35.7%
+  Unguarded	35.6%	116	129	1.112	47%	Average	71	45	116	38.8%	55.6%	0%	0%	0%	38.8%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	14.6%	177	117	0.661	90%	Excellent	125	52	177	29.4%	32.8%	0%	1.1%	1.1%	29.4%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	19.3%	101	69	0.683	77%	Very Good	67	34	101	33.7%	33.7%	0%	2%	2%	33.7%
+Medium (17' to <3 point line)	15.1%	79	52	0.658	72%	Very Good	53	26	79	32.9%	32.9%	0%	0%	0%	32.9%
+Long (3 point jump shots)	65.6%	343	364	1.061	32%	Average	222	121	343	35.3%	52.9%	0%	0.3%	0.3%	35.3%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	100%	2076	1881	0.906	39%	Average	778	690	1468	47%	51.9%	19.2%	12.7%	9.2%	42.3%
+#1 Jonny Woolf	9.4%	196	149	0.76	77%	Very Good	81	54	135	40%	47%	24.5%	8.7%	6.6%	33.7%
+#24 Tim Robertson	8.4%	174	143	0.822	64%	Good	88	54	142	38%	43%	11.5%	7.5%	6.3%	37.4%
+#12 Domenic Aiello	5.7%	119	103	0.866	52%	Good	47	33	80	41.3%	49.4%	21.8%	12.6%	9.2%	37.8%
+#3 Nick LaVere	5.6%	116	101	0.871	51%	Good	60	40	100	40%	45%	8.6%	8.6%	7.8%	39.7%
+#5 Dennis Handy	4.8%	99	80	0.808	67%	Very Good	43	27	70	38.6%	45%	19.2%	11.1%	10.1%	36.4%
+#33 Connor Dartt	4.3%	89	61	0.685	88%	Excellent	47	19	66	28.8%	32.6%	12.4%	15.7%	11.2%	32.6%
+#22 Isaac Moore	3.8%	78	79	1.013	19%	Below Average	38	27	65	41.5%	52.3%	9%	9%	7.7%	41%
+#11 Jackson Smith	3.5%	72	55	0.764	77%	Very Good	38	20	58	34.5%	41.4%	15.3%	6.9%	5.6%	31.9%
+#2 Sean Ek	3.4%	70	67	0.957	28%	Below Average	29	26	55	47.3%	57.3%	17.1%	5.7%	5.7%	41.4%
+#15 Antonio Amoah	3.2%	66	54	0.818	65%	Very Good	29	20	49	40.8%	48%	21.2%	7.6%	7.6%	34.8%
+#10 Andrew Wojcik	1.8%	38	39	1.026	17%	Below Average	13	15	28	53.6%	62.5%	18.4%	7.9%	2.6%	44.7%
+#20 Rory Cunningham	1.8%	37	37	1	20%	Below Average	13	15	28	53.6%	57.1%	10.8%	16.2%	16.2%	51.4%
+#4 Arrin Westbrook	0.5%	10	9	0.9	44%	Average	5	4	9	44.4%	50%	0%	10%	0%	40%
+#40 Marin Bandalo	0.1%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	0%	50%
+#100 Unidentifiable Player	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	20.3%	422	372	0.882	70%	Very Good	213	124	337	36.8%	48.4%	14.7%	7.3%	6.2%	34.4%
+#1 Jonny Woolf	18.2%	77	51	0.662	89%	Excellent	37	15	52	28.8%	38.5%	24.7%	9.1%	6.5%	26%
+#24 Tim Robertson	16.4%	69	50	0.725	83%	Excellent	39	17	56	30.4%	39.3%	14.5%	4.3%	4.3%	29%
+#12 Domenic Aiello	10.2%	43	47	1.093	21%	Below Average	18	14	32	43.8%	56.3%	14%	14%	14%	44.2%
+#22 Isaac Moore	10%	42	40	0.952	44%	Average	23	13	36	36.1%	51.4%	9.5%	4.8%	4.8%	35.7%
+#5 Dennis Handy	9%	38	30	0.789	74%	Very Good	19	10	29	34.5%	46.6%	21.1%	5.3%	5.3%	28.9%
+#2 Sean Ek	7.1%	30	30	1	34%	Average	15	11	26	42.3%	57.7%	13.3%	0%	0%	36.7%
+#3 Nick LaVere	6.9%	29	32	1.103	20%	Below Average	15	12	27	44.4%	57.4%	6.9%	6.9%	6.9%	41.4%
+#15 Antonio Amoah	6.4%	27	24	0.889	57%	Good	16	9	25	36%	46%	7.4%	3.7%	3.7%	33.3%
+#11 Jackson Smith	6.4%	27	23	0.852	64%	Good	14	8	22	36.4%	45.5%	14.8%	7.4%	3.7%	33.3%
+#33 Connor Dartt	5.7%	24	15	0.625	92%	Excellent	15	4	19	21.1%	28.9%	12.5%	8.3%	4.2%	25%
+#20 Rory Cunningham	1.9%	8	17	2.125	-	-	0	6	6	100%	116.7%	0%	37.5%	37.5%	100%
+#10 Andrew Wojcik	1.4%	6	8	1.333	-	-	2	3	5	60%	80%	0%	16.7%	0%	50%
+#4 Arrin Westbrook	0.5%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	11.2%	232	185	0.797	39%	Average	96	71	167	42.5%	44.6%	19%	11.2%	9.1%	38.8%
+#12 Domenic Aiello	18.5%	43	30	0.698	62%	Good	20	11	31	35.5%	37.1%	20.9%	9.3%	7%	32.6%
+#1 Jonny Woolf	17.7%	41	38	0.927	23%	Below Average	13	16	29	55.2%	58.6%	22%	12.2%	12.2%	46.3%
+#3 Nick LaVere	15.1%	35	27	0.771	48%	Average	19	12	31	38.7%	38.7%	8.6%	5.7%	5.7%	37.1%
+#5 Dennis Handy	13.4%	31	22	0.71	60%	Good	12	6	18	33.3%	33.3%	19.4%	22.6%	19.4%	38.7%
+#2 Sean Ek	9.5%	22	20	0.909	26%	Below Average	7	10	17	58.8%	58.8%	22.7%	4.5%	4.5%	45.5%
+#10 Andrew Wojcik	7.3%	17	17	1	15%	Below Average	4	6	10	60%	65%	29.4%	11.8%	5.9%	47.1%
+#11 Jackson Smith	7.3%	17	9	0.529	86%	Excellent	9	4	13	30.8%	34.6%	23.5%	0%	0%	23.5%
+#24 Tim Robertson	3.9%	9	8	0.889	-	-	3	1	4	25%	25%	22.2%	33.3%	22.2%	44.4%
+#15 Antonio Amoah	2.6%	6	5	0.833	-	-	3	2	5	40%	50%	16.7%	0%	0%	33.3%
+#4 Arrin Westbrook	2.2%	5	2	0.4	-	-	3	1	4	25%	25%	0%	20%	0%	20%
+#22 Isaac Moore	1.3%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#100 Unidentifiable Player	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Connor Dartt	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	9.9%	205	150	0.732	88%	Excellent	84	61	145	42.1%	42.1%	18.5%	11.2%	7.3%	38%
+#24 Tim Robertson	23.4%	48	44	0.917	39%	Average	18	20	38	52.6%	52.6%	14.6%	6.3%	4.2%	45.8%
+#33 Connor Dartt	22.9%	47	29	0.617	85%	Excellent	23	10	33	30.3%	30.3%	14.9%	14.9%	10.6%	34%
+#20 Rory Cunningham	12.7%	26	18	0.692	77%	Very Good	11	8	19	42.1%	42.1%	15.4%	11.5%	11.5%	38.5%
+#1 Jonny Woolf	11.7%	24	12	0.5	95%	Excellent	10	5	15	33.3%	33.3%	33.3%	4.2%	0%	25%
+#22 Isaac Moore	10.2%	21	18	0.857	48%	Average	11	7	18	38.9%	38.9%	0%	14.3%	9.5%	42.9%
+#15 Antonio Amoah	5.4%	11	8	0.727	71%	Very Good	2	2	4	50%	50%	45.5%	27.3%	27.3%	36.4%
+#12 Domenic Aiello	3.9%	8	7	0.875	-	-	0	2	2	100%	100%	50%	25%	0%	50%
+#3 Nick LaVere	2.9%	6	4	0.667	-	-	3	2	5	40%	40%	16.7%	0%	0%	33.3%
+#11 Jackson Smith	2%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#5 Dennis Handy	2%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#10 Andrew Wojcik	1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#2 Sean Ek	1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#40 Marin Bandalo	1%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	0%	50%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	5.5%	114	114	1	24%	Below Average	50	41	91	45.1%	55.5%	13.2%	7.9%	7.9%	43%
+#1 Jonny Woolf	21.9%	25	23	0.92	47%	Average	10	9	19	47.4%	55.3%	20%	8%	8%	40%
+#24 Tim Robertson	16.7%	19	15	0.789	64%	Good	12	6	18	33.3%	38.9%	0%	5.3%	5.3%	36.8%
+#3 Nick LaVere	14.9%	17	18	1.059	31%	Average	7	6	13	46.2%	57.7%	11.8%	11.8%	11.8%	47.1%
+#5 Dennis Handy	9.6%	11	9	0.818	60%	Good	5	3	8	37.5%	43.8%	18.2%	9.1%	9.1%	36.4%
+#2 Sean Ek	7.9%	9	16	1.778	-	-	2	5	7	71.4%	92.9%	0%	22.2%	22.2%	77.8%
+#15 Antonio Amoah	6.1%	7	7	1	-	-	2	3	5	60%	70%	28.6%	0%	0%	42.9%
+#11 Jackson Smith	6.1%	7	5	0.714	-	-	4	1	5	20%	30%	14.3%	14.3%	14.3%	28.6%
+#12 Domenic Aiello	5.3%	6	6	1	-	-	3	2	5	40%	60%	16.7%	0%	0%	33.3%
+#33 Connor Dartt	3.5%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#10 Andrew Wojcik	3.5%	4	8	2	-	-	1	3	4	75%	100%	0%	0%	0%	75%
+#22 Isaac Moore	2.6%	3	3	1	-	-	0	1	1	100%	150%	66.7%	0%	0%	33.3%
+#20 Rory Cunningham	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#4 Arrin Westbrook	0.9%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	4.4%	92	76	0.826	45%	Average	37	30	67	44.8%	46.3%	18.5%	15.2%	13%	39.1%
+#3 Nick LaVere	17.4%	16	12	0.75	54%	Good	9	5	14	35.7%	35.7%	6.3%	12.5%	12.5%	37.5%
+#12 Domenic Aiello	12%	11	5	0.455	90%	Excellent	3	2	5	40%	40%	36.4%	18.2%	9.1%	27.3%
+#1 Jonny Woolf	12%	11	5	0.455	90%	Excellent	3	2	5	40%	50%	54.5%	0%	0%	18.2%
+#5 Dennis Handy	10.9%	10	10	1	20%	Below Average	3	4	7	57.1%	57.1%	20%	10%	10%	50%
+#24 Tim Robertson	9.8%	9	11	1.222	-	-	4	5	9	55.6%	55.6%	0%	11.1%	11.1%	55.6%
+#15 Antonio Amoah	8.7%	8	6	0.75	-	-	4	2	6	33.3%	33.3%	12.5%	12.5%	12.5%	37.5%
+#11 Jackson Smith	7.6%	7	10	1.429	-	-	2	4	6	66.7%	75%	14.3%	14.3%	14.3%	57.1%
+#22 Isaac Moore	6.5%	6	5	0.833	-	-	3	2	5	40%	40%	16.7%	16.7%	16.7%	33.3%
+#10 Andrew Wojcik	6.5%	6	4	0.667	-	-	3	2	5	40%	40%	16.7%	0%	0%	33.3%
+#33 Connor Dartt	4.3%	4	7	1.75	-	-	0	2	2	100%	100%	0%	100%	75%	75%
+#2 Sean Ek	2.2%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#4 Arrin Westbrook	2.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	3.2%	66	52	0.788	59%	Good	32	19	51	37.3%	44.1%	13.6%	9.1%	7.6%	37.9%
+#1 Jonny Woolf	18.2%	12	16	1.333	8%	Poor	5	6	11	54.5%	68.2%	0%	8.3%	8.3%	58.3%
+#3 Nick LaVere	13.6%	9	8	0.889	-	-	4	3	7	42.9%	42.9%	0%	22.2%	11.1%	55.6%
+#24 Tim Robertson	12.1%	8	5	0.625	-	-	5	1	6	16.7%	16.7%	0%	25%	25%	37.5%
+#11 Jackson Smith	10.6%	7	8	1.143	-	-	3	3	6	50%	58.3%	0%	14.3%	14.3%	57.1%
+#12 Domenic Aiello	9.1%	6	6	1	-	-	2	2	4	50%	75%	33.3%	0%	0%	33.3%
+#15 Antonio Amoah	9.1%	6	4	0.667	-	-	2	2	4	50%	50%	33.3%	0%	0%	33.3%
+#2 Sean Ek	7.6%	5	0	0	-	-	3	0	3	0%	0%	40%	0%	0%	0%
+#5 Dennis Handy	7.6%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#33 Connor Dartt	4.5%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#10 Andrew Wojcik	4.5%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#22 Isaac Moore	1.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Dominican (IL) Stars	2.9%	61	66	1.082	25%	Below Average	25	22	47	46.8%	52.1%	9.8%	16.4%	14.8%	49.2%
+#24 Tim Robertson	19.7%	12	10	0.833	50%	Average	7	4	11	36.4%	45.5%	8.3%	0%	0%	33.3%
+#33 Connor Dartt	9.8%	6	8	1.333	-	-	2	2	4	50%	75%	16.7%	16.7%	16.7%	50%
+#1 Jonny Woolf	9.8%	6	4	0.667	-	-	3	1	4	25%	25%	16.7%	16.7%	0%	33.3%
+#3 Nick LaVere	6.6%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#11 Jackson Smith	4.9%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#12 Domenic Aiello	3.3%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#22 Isaac Moore	3.3%	2	6	3	-	-	0	1	1	100%	150%	0%	50%	50%	100%
+#20 Rory Cunningham	3.3%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#15 Antonio Amoah	1.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

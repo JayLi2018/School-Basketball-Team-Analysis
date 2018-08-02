@@ -1,0 +1,91 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Cumulative Box Score/College Men - Chicago Maroons	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents	Print Possessions / Game
+Season: 2017-2018	Team:	Date Range: 11/18/2017 to 02/24/2018	Report Generated: 06/29/2018
+
+
+Chicago Maroons
+GP
+Min
+SST
+SST exPts
+Pts
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#2 Collin Barthel	23	716	1.29	0.47	308	53	47	1.13	25	16	7	201	56	145
+#3 Cole Schmitz	20	159	0.91	0.64	40	18	4	4.50	6	3	1	42	17	25
+#4 Louis Mehaffey	3	2	0	0	0	0	2	0	0	0	0	2	2	0
+#5 Noah Karras	25	596	0.66	0.16	234	27	26	1.04	8	14	7	55	8	47
+#10 Ezra Swell	1	2	3.48	0	3	0	0	-	0	0	0	0	0	0
+#14 Jake Fenlon	25	775	0.96	0.10	436	36	44	0.82	14	21	3	50	8	42
+#15 Dominic Laravie	25	193	0.96	0.45	64	5	9	0.56	3	5	2	57	28	29
+#20 Porter Veach	1	1	0	0	0	0	0	-	0	0	0	0	0	0
+#21 Max Jacobs	25	340	0.86	0.32	92	24	23	1.04	15	9	0	59	17	42
+#23 Jake Berhorst	24	236	0.48	0.11	65	20	24	0.83	1	13	0	28	3	25
+#24 Jordan Baum	25	752	0.85	0.52	185	142	54	2.63	35	32	11	117	6	111
+#30 Ryan Shearmire	2	2	-.80	0	0	0	0	-	0	0	0	0	0	0
+#32 Mattia Colangelo	24	151	0.43	0.32	23	10	9	1.11	3	4	4	26	7	19
+#33 Sam Sustacek	25	261	1.13	0.43	100	17	15	1.13	6	4	1	68	27	41
+#35 Brennan Mcdaniel	2	2	0.50	0.50	0	0	1	0	0	0	0	2	1	1
+#42 Justin Jackson	25	377	1.12	0.30	152	22	24	0.92	5	6	2	65	38	27
+#45 Ryan Jacobsen	22	459	1.09	0.46	160	24	30	0.80	10	10	7	134	54	80
+Team Totals	25	480	0.94	0.34	1862	398	314	1.28	131	137	45	906	272	634
+
+Chicago Maroons_1
+GP
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#2 Collin Barthel	23	242	103	139	42.6%	46.7%	181	83	98	45.9%	61	20	41	32.8%	107	82	25	76.6%	13	90	47
+#3 Cole Schmitz	20	47	19	28	40.4%	40.4%	44	19	25	43.2%	3	0	3	0%	2	2	0	100%	0	1	16
+#4 Louis Mehaffey	3	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	1
+#5 Noah Karras	25	227	85	142	37.4%	47.6%	82	39	43	47.6%	145	46	99	31.7%	23	18	5	78.3%	0	18	50
+#10 Ezra Swell	1	2	1	1	50%	50%	1	1	0	100%	1	0	1	0%	1	1	0	100%	1	1	0
+#14 Jake Fenlon	25	345	140	205	40.6%	55.1%	85	40	45	47.1%	260	100	160	38.5%	68	56	12	82.4%	5	50	34
+#15 Dominic Laravie	25	61	24	37	39.3%	41.8%	45	21	24	46.7%	16	3	13	18.8%	25	13	12	52%	1	16	16
+#20 Porter Veach	1	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+#21 Max Jacobs	25	60	32	28	53.3%	55.8%	54	29	25	53.7%	6	3	3	50%	37	25	12	67.6%	0	29	38
+#23 Jake Berhorst	24	59	22	37	37.3%	49.2%	22	8	14	36.4%	37	14	23	37.8%	10	7	3	70%	2	13	14
+#24 Jordan Baum	25	155	61	94	39.4%	55.2%	31	12	19	38.7%	124	49	75	39.5%	17	14	3	82.4%	1	15	47
+#30 Ryan Shearmire	2	2	0	2	0%	0%	0	0	0	-	2	0	2	0%	0	0	0	-	0	0	0
+#32 Mattia Colangelo	24	32	8	24	25%	35.9%	7	1	6	14.3%	25	7	18	28%	0	0	0	-	0	2	8
+#33 Sam Sustacek	25	66	39	27	59.1%	59.1%	66	39	27	59.1%	0	0	0	-	42	22	20	52.4%	1	25	37
+#35 Brennan Mcdaniel	2	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	1
+#42 Justin Jackson	25	110	50	60	45.4%	46.8%	87	47	40	54%	23	3	20	13%	82	49	33	59.8%	10	51	41
+#45 Ryan Jacobsen	22	110	60	50	54.6%	55.9%	95	57	38	60%	15	3	12	20%	72	37	35	51.4%	8	59	59
+Team Totals	25	1518	644	874	42.4%	50.6%	800	396	404	49.5%	718	248	470	34.5%	486	326	160	67.1%	42	370	409
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

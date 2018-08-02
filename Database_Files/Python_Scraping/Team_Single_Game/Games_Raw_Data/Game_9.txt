@@ -1,0 +1,142 @@
+IllinoisTech
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb_
+Anthony_Mosley	32	0.92	0.38	12	1.09	5	2	2.50	2	1	0	1	1	0
+Malik_Howze	33	0.76	0.30	10	0.83	4	0	0.00	0	0	0	2	0	2
+Quentin_Forberg	3	0.67	0.67	0	-	1	0	0.00	0	0	0	0	0	0
+Jake_Bruns	16	0.56	0.19	6	1.00	0	1	0.00	1	0	0	3	0	3
+Calvin_Schmitz	12	1.16	0.00	9	2.25	0	0	0.00	0	0	0	0	0	0
+Capriest_Gardner	16	1.49	0.50	11	1.00	2	1	2.00	0	1	0	3	3	0
+Brett_Ott	6	1.18	0.67	1	0.33	1	1	1.00	1	1	0	1	1	0
+Jake_Digiorgio	31	1.73	1.06	13	0.87	2	0	0.00	5	0	0	13	6	7
+Max_Hisatake	25	1.80	1.16	12	0.86	2	1	2.00	0	1	5	12	5	7
+Brinden_Carlson	2	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Parker_Joncus	22	0.39	0.32	2	0.67	3	0	0.00	0	0	0	1	0	1
+Kohl_Linder	2	0.50	0.50	0	-	0	0	0.00	0	0	0	1	0	1
+Team_Totals	40	1.09	0.55	76	0.96	20	6	3.33	9	4	5	37	16	21
+
+IllinoisTech_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Anthony_Mosley	8	5	3	62.5%	68.8%	6	4	2	66.7%	2	1	1	50%	3	1	2	33.3%	1	2	0
+Malik_Howze	11	3	8	27.3%	36.4%	3	1	2	33.3%	8	2	6	25%	2	2	0	100%	0	3	2
+Quentin_Forberg	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	1
+Jake_Bruns	6	2	4	33.3%	50%	1	0	1	0%	5	2	3	40%	0	0	0	-	0	1	2
+Calvin_Schmitz	4	4	0	100%	112.5%	3	3	0	100%	1	1	0	100%	0	0	0	-	0	0	1
+Capriest_Gardner	9	5	4	55.6%	55.6%	8	5	3	62.5%	1	0	1	0%	2	1	1	50%	0	1	3
+Brett_Ott	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	2	1	1	50%	0	1	0
+Jake_Digiorgio	14	5	9	35.7%	35.7%	14	5	9	35.7%	0	0	0	-	4	3	1	75%	0	2	1
+Max_Hisatake	12	5	7	41.7%	41.7%	12	5	7	41.7%	0	0	0	-	5	2	3	40%	2	5	3
+Brinden_Carlson	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Parker_Joncus	3	1	2	33.3%	33.3%	1	1	0	100%	2	0	2	0%	0	0	0	-	0	0	0
+Kohl_Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Team_Totals	68	30	38	44.1%	48.5%	48	24	24	50%	20	6	14	30%	18	10	8	55.6%	3	15	13
+
+
+Knox
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb_
+Blake_Godbold	27	0.81	0.33	6	0.67	1	3	0.33	1	3	0	9	2	7
+Alik_Airapetyan	2	0.05	-1.50	2	0.67	0	2	0.00	0	1	0	1	0	1
+Ikenna_Ozor	5	1.02	0.40	2	2.00	1	0	0.00	0	0	0	0	0	0
+Garrett_Stone	6	-.13	0.00	0	0.00	0	0	0.00	0	0	0	0	0	0
+Jacob_Kampf	13	0.56	0.15	3	0.75	1	0	0.00	0	0	0	0	0	0
+Deryk_Ruple	31	0.58	0.29	9	0.90	3	1	3.00	0	0	0	4	1	3
+Dj_Lewis	21	0.88	0.38	10	0.91	2	2	1.00	2	2	0	3	1	2
+Eric_Thompson	9	2.17	0.44	6	2.00	0	0	0.00	1	0	0	2	0	2
+Bryce_Wilkinson	4	-1.00	-1.00	0	0.00	0	2	0.00	0	0	0	0	0	0
+Tyre_Dukes	14	0.22	0.14	1	0.25	0	0	0.00	0	0	0	1	1	0
+Jonathan_Damota	27	0.38	0.00	6	0.50	2	4	0.50	0	2	0	4	0	4
+Jeremiah_Horton	1	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Sean_Pollock	2	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Aaron_Crose	14	0.13	-.07	3	0.60	0	2	0.00	0	0	0	2	1	1
+John_Tsahageas	2	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Eric_Pillath	2	1.00	1.00	0	-	1	0	0.00	0	0	0	0	0	0
+Marko_Protic	20	0.65	0.15	7	1.17	0	0	0.00	0	1	0	3	0	3
+Team_Totals	40	0.58	0.16	55	0.77	11	16	0.69	4	9	0	29	6	23
+
+Knox_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Blake_Godbold	5	2	3	40%	40%	3	2	1	66.7%	2	0	2	0%	2	2	0	100%	0	1	1
+Alik_Airapetyan	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	0
+Ikenna_Ozor	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	1
+Garrett_Stone	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	1
+Jacob_Kampf	3	1	2	33.3%	33.3%	2	1	1	50%	1	0	1	0%	2	1	1	50%	0	1	0
+Deryk_Ruple	9	3	6	33.3%	50%	1	0	1	0%	8	3	5	37.5%	0	0	0	-	0	1	1
+Dj_Lewis	10	4	6	40%	50%	5	2	3	40%	5	2	3	40%	0	0	0	-	0	0	3
+Eric_Thompson	2	2	0	100%	100%	2	2	0	100%	0	0	0	-	2	2	0	100%	0	1	2
+Bryce_Wilkinson	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Tyre_Dukes	3	0	3	0%	0%	3	0	3	0%	0	0	0	-	2	1	1	50%	0	1	0
+Jonathan_Damota	8	2	6	25%	25%	7	2	5	28.6%	1	0	1	0%	2	2	0	100%	0	2	2
+Jeremiah_Horton	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Sean_Pollock	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Aaron_Crose	3	1	2	33.3%	50%	2	0	2	0%	1	1	0	100%	0	0	0	-	0	3	4
+John_Tsahageas	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Eric_Pillath	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Marko_Protic	4	3	1	75%	87.5%	2	2	0	100%	2	1	1	50%	0	0	0	-	0	0	4
+Team_Totals	50	20	30	40%	47%	29	13	16	44.8%	21	7	14	33.3%	10	8	2	80%	0	10	19
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.100	_	_

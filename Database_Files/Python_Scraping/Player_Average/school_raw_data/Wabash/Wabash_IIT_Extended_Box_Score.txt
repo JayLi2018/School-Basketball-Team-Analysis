@@ -1,0 +1,155 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Single-Game Views/College Men -	Wabash College Little Giants	
+(2 - 4 Away)
+(5 - 6)
+@	Illinois Tech Scarlet Hawks	
+(3 - 1 Home)
+(8 - 3)
+1/3/2018
+Change
+Game
+Extended Box Score	Game Breakdown	Team Play Types	Player Play Types	Player Stats	Play By Play	Shot Chart
+
+Team
+Final
+1
+2
+Wabash College Little Giants	66	36	30
+Illinois Tech Scarlet Hawks	61	29	32
+
+Team_1
+Series
+Home
+Away
+Season
+Wabash College Little Giants	1	7-6	5-8	12-14
+Illinois Tech Scarlet Hawks	0	7-3	5-4	12-7
+
+Illinois Tech Scarlet Hawks
+Min
+SST
+SST exPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#2 Anthony Mosley	36:00	1.48	0.14	23	1.10	1	4	0.25	2	3	3	1	0	1
+#3 Malik Howze	34:00	0.89	0.12	15	0.83	2	3	0.67	1	3	0	3	1	2
+#4 Quentin Forberg	3:00	-.30	0.00	0	0.00	0	0	0.00	0	0	0	0	0	0
+#10 Jake Bruns	7:00	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+#13 Calvin Schmitz	12:00	-.23	-.17	0	0.00	0	1	0.00	0	1	0	0	0	0
+#21 Jake Digiorgio	35:00	0.83	0.57	8	0.62	0	0	0.00	3	0	0	11	3	8
+#22 Max Hisatake	35:00	0.84	0.37	6	0.55	1	2	0.50	0	0	2	11	0	11
+#32 Parker Joncus	28:00	0.58	0.14	9	1.50	0	0	0.00	1	0	0	2	0	2
+#35 Kohl Linder	10:00	0.20	0.20	0	-	1	0	0.00	0	0	0	0	0	0
+Team Totals	40:00	0.78	0.23	61	0.85	5	10	0.50	7	7	5	28	4	24
+
+Illinois Tech Scarlet Hawks_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2 FG%
+3 FGA
+3 FGM
+3 FGm
+3 FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#2 Anthony Mosley	14	8	6	57.1%	60.7%	9	7	2	77.8%	5	1	4	20%	7	6	1	85.7%	1	4	1
+#3 Malik Howze	13	6	7	46.2%	46.2%	13	6	7	46.2%	0	0	0	-	3	3	0	100%	3	5	1
+#4 Quentin Forberg	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	0	0	0	-	0	0	0
+#10 Jake Bruns	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+#13 Calvin Schmitz	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	1
+#21 Jake Digiorgio	9	3	6	33.3%	33.3%	9	3	6	33.3%	0	0	0	-	7	2	5	28.6%	1	4	1
+#22 Max Hisatake	7	1	6	14.3%	14.3%	7	1	6	14.3%	0	0	0	-	4	4	0	100%	0	2	4
+#32 Parker Joncus	6	4	2	66.7%	75%	4	3	1	75%	2	1	1	50%	0	0	0	-	0	0	2
+#35 Kohl Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	2
+Team Totals	51	22	29	43.1%	45.1%	43	20	23	46.5%	8	2	6	25%	21	15	6	71.4%	5	15	12
+
+
+Wabash College Little Giants
+Min
+SST
+SST exPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#0 Connor Rotterman	25:00	1.01	0.04	17	1.13	0	2	0.00	0	2	0	5	0	5
+#3 Jack Davidson	24:00	0.99	0.12	15	0.83	1	2	0.50	1	1	0	2	1	1
+#11 Duncan Roy	5:00	0.60	0.60	0	-	0	0	0.00	1	0	0	1	0	1
+#12 Colten Garland	30:00	0.35	0.13	8	0.73	1	1	1.00	1	1	0	2	0	2
+#14 Rhett Helt	6:00	0.37	0.50	0	0.00	0	0	0.00	1	0	0	1	0	1
+#31 Max Kurkowski	10:00	0.42	0.20	2	0.67	0	1	0.00	0	0	0	2	2	0
+#32 Logan White	25:00	0.64	0.40	6	0.75	1	2	0.50	1	1	0	7	3	4
+#33 Harrison Hallstrom	27:00	0.76	0.81	2	0.22	6	2	3.00	1	2	1	7	3	4
+#34 Dalton Vachon	14:00	0.08	0.14	0	0.00	0	0	0.00	0	0	0	2	0	2
+#41 Alex Eberhard	34:00	1.31	0.26	16	1.60	0	1	0.00	1	0	0	8	1	7
+Team Totals	40:00	0.75	0.30	66	0.87	9	11	0.82	7	7	1	37	10	27
+
+Wabash College Little Giants_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2 FG%
+3 FGA
+3 FGM
+3 FGm
+3 FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#0 Connor Rotterman	12	7	5	58.3%	66.7%	10	5	5	50%	2	2	0	100%	2	1	1	50%	0	1	1
+#3 Jack Davidson	14	6	8	42.9%	46.4%	11	5	6	45.4%	3	1	2	33.3%	4	2	2	50%	1	3	2
+#11 Duncan Roy	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	1
+#12 Colten Garland	10	3	7	30%	40%	5	1	4	20%	5	2	3	40%	0	0	0	-	0	0	1
+#14 Rhett Helt	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	0
+#31 Max Kurkowski	2	1	1	50%	50%	2	1	1	50%	0	0	0	-	0	0	0	-	0	0	2
+#32 Logan White	5	3	2	60%	60%	5	3	2	60%	0	0	0	-	2	0	2	0%	0	2	3
+#33 Harrison Hallstrom	6	1	5	16.7%	16.7%	6	1	5	16.7%	0	0	0	-	0	0	0	-	0	0	5
+#34 Dalton Vachon	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	0	0	0	-	0	0	1
+#41 Alex Eberhard	7	5	2	71.4%	85.7%	5	3	2	60%	2	2	0	100%	4	4	0	100%	0	1	2
+Team Totals	58	26	32	44.8%	50.9%	45	19	26	42.2%	13	7	6	53.8%	12	7	5	58.3%	1	7	18
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

@@ -1,0 +1,93 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Cumulative Box Score/College Men - Knox	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents	Print Possessions / Game
+Season: 2017-2018	Team:	Date Range: 11/25/2017 to 02/17/2018	Report Generated: 06/29/2018
+
+
+Knox
+GP
+Min
+SST
+SST exPts
+Pts
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#0 Blake Godbold	17	505	0.73	0.29	138	22	29	0.76	13	16	5	103	21	82
+#2 Alik Airapetyan	11	56	0.21	0.05	12	5	10	0.50	1	6	0	10	1	9
+#3 Danny Serrano	8	17	0.59	0.59	0	2	0	-	2	0	0	2	0	2
+#4 Ikenna Ozor	9	101	0.94	0.29	37	6	5	1.20	2	3	0	17	6	11
+#5 Garrett Stone	14	119	0.22	0.11	8	6	8	0.75	3	4	1	7	2	5
+#10 Jacob Kampf	11	214	0.71	0.21	79	27	16	1.69	7	10	0	7	1	6
+#11 Deryk Ruple	17	466	0.58	0.20	171	31	28	1.11	15	16	0	49	6	43
+#20 Dj Lewis	17	405	0.68	0.26	125	40	34	1.18	20	14	3	43	5	38
+#23 Eric Thompson	9	105	0.84	0.32	39	4	8	0.50	7	3	1	20	6	14
+#24 Bryce Wilkinson	16	150	0.91	0.17	60	8	13	0.62	3	9	0	21	9	12
+#25 Tyre Dukes	15	153	0.33	0.14	21	14	13	1.08	3	7	0	12	2	10
+#32 Jonathan Damota	17	472	0.84	0.13	205	22	54	0.41	21	30	4	55	19	36
+#33 Jeremiah Horton	10	39	0.77	0.13	19	2	3	0.67	0	1	0	6	1	5
+#42 Sean Pollock	10	21	0.11	0.05	4	0	0	-	0	0	0	1	0	1
+#44 Aaron Crose	12	122	0.67	0.11	35	5	10	0.50	1	1	1	14	6	8
+#45 John Tsahageas	10	21	0.54	0.29	4	2	1	2	0	0	0	2	2	0
+#50 Eric Pillath	10	74	0.54	0.18	19	3	4	0.75	2	2	0	10	1	9
+#52 Marko Protic	17	385	0.73	0.35	92	15	29	0.52	4	13	7	98	42	56
+Team Totals	17	445	0.68	0.22	1068	214	270	0.81	104	135	22	477	130	347
+
+Knox_1
+GP
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#0 Blake Godbold	17	119	52	67	43.7%	49.2%	71	39	32	54.9%	48	13	35	27.1%	23	21	2	91.3%	1	18	33
+#2 Alik Airapetyan	11	15	5	10	33.3%	40%	12	3	9	25%	3	2	1	66.7%	1	0	1	0%	1	3	6
+#3 Danny Serrano	8	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	1
+#4 Ikenna Ozor	9	21	16	5	76.2%	76.2%	21	16	5	76.2%	0	0	0	-	8	5	3	62.5%	2	5	13
+#5 Garrett Stone	14	10	2	8	20%	25%	6	1	5	16.7%	4	1	3	25%	5	3	2	60%	1	4	12
+#10 Jacob Kampf	11	76	25	51	32.9%	44.7%	27	7	20	25.9%	49	18	31	36.7%	18	11	7	61.1%	1	18	13
+#11 Deryk Ruple	17	182	64	118	35.2%	45.1%	78	28	50	35.9%	104	36	68	34.6%	16	7	9	43.8%	1	15	21
+#20 Dj Lewis	17	119	47	72	39.5%	46.2%	71	31	40	43.7%	48	16	32	33.3%	27	15	12	55.6%	2	26	48
+#23 Eric Thompson	9	33	18	15	54.6%	54.6%	33	18	15	54.6%	0	0	0	-	5	3	2	60%	1	5	18
+#24 Bryce Wilkinson	16	43	17	26	39.5%	54.6%	15	4	11	26.7%	28	13	15	46.4%	14	13	1	92.9%	0	11	20
+#25 Tyre Dukes	15	18	8	10	44.4%	50%	11	6	5	54.6%	7	2	5	28.6%	9	3	6	33.3%	1	8	9
+#32 Jonathan Damota	17	176	80	96	45.4%	48%	148	71	77	48%	28	9	19	32.1%	48	36	12	75%	7	58	34
+#33 Jeremiah Horton	10	12	8	4	66.7%	79.2%	8	5	3	62.5%	4	3	1	75%	1	0	1	0%	1	1	1
+#42 Sean Pollock	10	4	2	2	50%	50%	3	2	1	66.7%	1	0	1	0%	4	0	4	0%	0	2	1
+#44 Aaron Crose	12	28	10	18	35.7%	41.1%	22	7	15	31.8%	6	3	3	50%	22	12	10	54.6%	1	16	29
+#45 John Tsahageas	10	3	2	1	66.7%	66.7%	2	2	0	100%	1	0	1	0%	0	0	0	-	0	0	3
+#50 Eric Pillath	10	17	7	10	41.2%	50%	9	4	5	44.4%	8	3	5	37.5%	2	2	0	100%	0	1	12
+#52 Marko Protic	17	83	35	48	42.2%	44%	73	32	41	43.8%	10	3	7	30%	34	19	15	55.9%	1	23	38
+Team Totals	17	959	398	561	41.5%	47.9%	610	276	334	45.2%	349	122	227	35%	237	150	87	63.3%	21	214	312
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

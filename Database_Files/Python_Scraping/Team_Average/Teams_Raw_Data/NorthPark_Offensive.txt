@@ -1,0 +1,637 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - North Park Vikings	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: North Park Vikings	Date Range: 11/10/2017 to 02/20/2018	Number of Games: 26
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	100%	1965	1633	0.831	27%	Below Average	927	580	1507	38.5%	46.6%	15.9%	9%	6.7%	35.8%
+ Transition	14.7%	289	293	1.014	67%	Very Good	118	105	223	47.1%	54.7%	13.1%	13.1%	11.1%	45.3%
+ Overall Half Court	85.3%	1676	1340	0.8	23%	Below Average	809	475	1284	37%	45.2%	16.4%	8.2%	5.9%	34.1%
+                    Short Shot Clock <4 Seconds	8.3%	164	127	0.774	72%	Very Good	95	46	141	32.6%	40.8%	9.1%	4.9%	3%	32.3%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	6.9%	116	85	0.733	21%	Below Average	59	31	90	34.4%	42.2%	19%	5.2%	3.4%	30.2%
+         Out of Bounds (Side)	6.1%	103	87	0.845	60%	Good	47	33	80	41.3%	48.8%	15.5%	7.8%	6.8%	36.9%
+         After Time Outs	12.7%	213	179	0.84	50%	Average	104	65	169	38.5%	46.2%	13.6%	7%	6.1%	36.6%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	96%	1609	1295	0.805	28%	Below Average	773	457	1230	37.2%	45.5%	16.3%	8.5%	6.1%	34.4%
+    Against Zone	4%	67	45	0.672	3%	Poor	36	18	54	33.3%	38.9%	17.9%	1.5%	1.5%	28.4%
+Breakdown of Full Court Press Situations:
+  Press Offense	11.8%	197	131	0.665	11%	Poor	89	46	135	34.1%	39.6%	23.4%	8.6%	5.1%	29.9%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	28%	551	495	0.898	44%	Average	317	168	485	34.6%	47.5%	8%	4.7%	4%	33.6%
+ Transition	14.7%	289	293	1.014	67%	Very Good	118	105	223	47.1%	54.7%	13.1%	13.1%	11.1%	45.3%
+ Isolation	11.2%	221	177	0.801	54%	Good	119	61	180	33.9%	39.7%	9.5%	12.2%	10.9%	35.3%
+ P&R Ball Handler	9.7%	191	131	0.686	29%	Below Average	93	50	143	35%	40.6%	20.4%	6.3%	5.2%	30.4%
+ Off Screen	8.8%	173	162	0.936	65%	Very Good	87	53	140	37.9%	49.6%	12.1%	8.1%	6.4%	37%
+ Cut	8%	157	169	1.076	50%	Average	57	71	128	55.5%	55.5%	7.6%	12.7%	12.1%	54.8%
+ Offensive Rebounds (put backs)	3.3%	65	42	0.646	0%	Poor	31	17	48	35.4%	36.5%	20%	7.7%	7.7%	32.3%
+ P&R Roll Man	3%	58	42	0.724	13%	Poor	36	16	52	30.8%	38.5%	6.9%	3.4%	1.7%	29.3%
+ Post-Up	2.8%	55	41	0.745	26%	Below Average	24	20	44	45.5%	45.5%	16.4%	5.5%	5.5%	38.2%
+ Hand Off	2.4%	48	32	0.667	21%	Below Average	25	10	35	28.6%	35.7%	18.8%	8.3%	8.3%	29.2%
+ Miscellaneous	8%	157	49	0.312	11%	Poor	20	9	29	31%	34.5%	65.6%	15.9%	0%	17.8%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	14.5%	285	244	0.856	58%	Good	151	85	236	36%	43.4%	8.8%	10.9%	9.5%	36.8%
+  Pick and Rolls Including Passes	18.5%	363	259	0.713	11%	Poor	196	99	295	33.6%	40.2%	14.9%	4.7%	3.9%	30.6%
+  Post-Ups Including Passes	3.8%	74	64	0.865	46%	Average	33	29	62	46.8%	50.8%	13.5%	5.4%	5.4%	40.5%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	3.3%	64	67	1.047	66%	Very Good	32	24	56	42.9%	55.4%	6.3%	6.3%	4.7%	42.2%
+  P&R BH - Defense Commits	10.5%	206	130	0.631	7%	Poor	103	49	152	32.2%	39.8%	23.3%	2.9%	1.9%	26.2%
+  Post-Up - Defense Commits	1%	19	23	1.211	83%	Excellent	9	9	18	50%	63.9%	5.3%	5.3%	5.3%	47.4%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.7%	13	0	0	0%	Poor	8	0	8	0%	0%	38.5%	0%	0%	0%
+  Post-Up - Hard Double	0.5%	9	10	1.111	-	-	4	4	8	50%	62.5%	11.1%	0%	0%	44.4%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	62.9%	808	734	0.908	36%	Average	547	261	808	32.3%	45.4%	0%	0.1%	0.1%	32.3%
+          Short Shot Clock <4 Seconds	7%	90	83	0.922	93%	Excellent	60	30	90	33.3%	46.1%	0%	0%	0%	33.3%
+Runner	6.5%	83	56	0.675	38%	Average	55	28	83	33.7%	33.7%	0%	0%	0%	33.7%
+          Short Shot Clock <4 Seconds	0.8%	10	6	0.6	48%	Average	7	3	10	30%	30%	0%	0%	0%	30%
+Around Basket (not Post-Ups)	27.2%	349	345	0.989	13%	Poor	183	166	349	47.6%	47.6%	0%	5.4%	5.4%	47.6%
+Post-Ups	3.4%	44	40	0.909	39%	Average	24	20	44	45.5%	45.5%	0%	2.3%	2.3%	45.5%
+          Short Shot Clock <4 Seconds	0.3%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	40.9%	525	517	0.985	37%	Average	348	177	525	33.7%	49.1%	0%	0.2%	0.2%	33.7%
+  Guarded	62.9%	330	305	0.924	31%	Average	225	105	330	31.8%	46.1%	0%	0.3%	0.3%	31.8%
+  Unguarded	37.1%	195	212	1.087	50%	Average	123	72	195	36.9%	54.4%	0%	0%	0%	36.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	18%	231	163	0.706	24%	Below Average	166	65	231	28.1%	35.3%	0%	0%	0%	28.1%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	8.3%	67	42	0.627	15%	Below Average	46	21	67	31.3%	31.3%	0%	0%	0%	31.3%
+Medium (17' to <3 point line)	9.9%	80	58	0.725	52%	Good	51	29	80	36.3%	36.3%	0%	0%	0%	36.3%
+Long (3 point jump shots)	81.8%	661	634	0.959	27%	Below Average	450	211	661	31.9%	47.9%	0%	0.2%	0.2%	31.9%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	100%	1965	1633	0.831	27%	Below Average	927	580	1507	38.5%	46.6%	15.9%	9%	6.7%	35.8%
+#4 Colin Lake	27.6%	542	506	0.934	72%	Very Good	274	171	445	38.4%	47.2%	9.6%	10.7%	8.9%	39.5%
+#23 Billy Kirby	15.7%	308	287	0.932	72%	Very Good	129	104	233	44.6%	50.9%	14%	13.3%	9.1%	41.9%
+#1 Matt Szuba	11%	217	197	0.908	66%	Very Good	97	65	162	40.1%	54.6%	20.3%	5.1%	1.8%	35%
+#2 Jack Gurvey	5.8%	114	77	0.675	22%	Below Average	53	27	80	33.8%	46.3%	28.1%	1.8%	0.9%	25.4%
+#5 Aaron Reed	5.5%	108	84	0.778	38%	Average	40	30	70	42.9%	50%	25%	10.2%	8.3%	37%
+#30 Dyron Woods	5.3%	105	75	0.714	27%	Below Average	48	35	83	42.2%	42.2%	17.1%	3.8%	3.8%	37.1%
+#21 Vegard Tangen	5.1%	101	85	0.842	51%	Good	46	33	79	41.8%	50%	14.9%	6.9%	5%	36.6%
+#13 Jason Hines	4.8%	94	76	0.809	44%	Average	43	27	70	38.6%	47.9%	18.1%	9.6%	8.5%	34%
+#15 Matt Mohr	3.4%	66	42	0.636	17%	Below Average	34	18	52	34.6%	36.5%	18.2%	6.1%	4.5%	28.8%
+#11 Antonio Gardner	3.2%	62	52	0.839	51%	Good	31	18	49	36.7%	48%	12.9%	9.7%	4.8%	35.5%
+#0 Toby Marek	3%	59	42	0.712	27%	Below Average	31	14	45	31.1%	36.7%	15.3%	13.6%	10.2%	30.5%
+#25 Scott Olsen	2.5%	50	35	0.7	25%	Below Average	31	13	44	29.5%	39.8%	10%	2%	2%	26%
+#3 Josh Washburn	2%	39	30	0.769	37%	Average	17	10	27	37%	44.4%	23.1%	7.7%	5.1%	33.3%
+#10 Quinn Williams	1.7%	34	14	0.412	4%	Poor	16	5	21	23.8%	28.6%	29.4%	11.8%	11.8%	17.6%
+#12 Jarrod Coleman	0.8%	15	6	0.4	3%	Poor	9	2	11	18.2%	22.7%	13.3%	13.3%	0%	20%
+#14 Cardell Simmons	0.7%	14	5	0.357	3%	Poor	8	0	8	0%	0%	21.4%	21.4%	21.4%	21.4%
+#32 Khalen Davis	0.5%	10	7	0.7	25%	Below Average	4	2	6	33.3%	41.7%	30%	10%	10%	30%
+#20 Isaiah Webster	0.5%	10	8	0.8	43%	Average	5	4	9	44.4%	44.4%	10%	0%	0%	40%
+#14 Jelani Sankey	0.4%	8	4	0.5	-	-	4	2	6	33.3%	33.3%	25%	0%	0%	25%
+#24 Raysean Jones	0.3%	5	1	0.2	-	-	3	0	3	0%	0%	20%	20%	20%	20%
+#44 Jonathon Mcdonald	0.2%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#20 Nicolai Foss	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	28%	551	495	0.898	44%	Average	317	168	485	34.6%	47.5%	8%	4.7%	4%	33.6%
+#23 Billy Kirby	15.8%	87	81	0.931	57%	Good	43	29	72	40.3%	50%	10.3%	9.2%	8%	39.1%
+#1 Matt Szuba	15.1%	83	89	1.072	78%	Very Good	46	30	76	39.5%	57.2%	7.2%	1.2%	0%	37.3%
+#4 Colin Lake	13.4%	74	86	1.162	88%	Excellent	42	30	72	41.7%	56.9%	1.4%	4.1%	4.1%	41.9%
+#2 Jack Gurvey	8.9%	49	38	0.776	33%	Average	31	12	43	27.9%	40.7%	8.2%	4.1%	2%	28.6%
+#5 Aaron Reed	7.3%	40	36	0.9	52%	Good	20	12	32	37.5%	50%	12.5%	7.5%	7.5%	35%
+#21 Vegard Tangen	6.9%	38	40	1.053	76%	Very Good	20	15	35	42.9%	57.1%	5.3%	2.6%	2.6%	39.5%
+#11 Antonio Gardner	5.6%	31	33	1.065	77%	Very Good	17	11	28	39.3%	57.1%	6.5%	3.2%	3.2%	38.7%
+#13 Jason Hines	4.7%	26	28	1.077	79%	Very Good	12	9	21	42.9%	61.9%	11.5%	7.7%	7.7%	38.5%
+#25 Scott Olsen	4.4%	24	24	1	69%	Very Good	16	8	24	33.3%	50%	0%	0%	0%	33.3%
+#15 Matt Mohr	4.2%	23	3	0.13	0%	Poor	18	1	19	5.3%	7.9%	17.4%	0%	0%	4.3%
+#0 Toby Marek	4%	22	13	0.591	13%	Poor	15	4	19	21.1%	28.9%	4.5%	9.1%	4.5%	22.7%
+#30 Dyron Woods	2.9%	16	4	0.25	1%	Poor	12	2	14	14.3%	14.3%	12.5%	0%	0%	12.5%
+#3 Josh Washburn	2.5%	14	10	0.714	25%	Below Average	8	2	10	20%	25%	14.3%	14.3%	14.3%	28.6%
+#12 Jarrod Coleman	1.1%	6	3	0.5	-	-	5	1	6	16.7%	25%	0%	0%	0%	16.7%
+#32 Khalen Davis	0.9%	5	3	0.6	-	-	2	1	3	33.3%	50%	40%	0%	0%	20%
+#10 Quinn Williams	0.7%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#14 Jelani Sankey	0.5%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#14 Cardell Simmons	0.5%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+#24 Raysean Jones	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Nicolai Foss	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Isaiah Webster	0.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	14.7%	289	293	1.014	67%	Very Good	118	105	223	47.1%	54.7%	13.1%	13.1%	11.1%	45.3%
+#4 Colin Lake	30.1%	87	102	1.172	80%	Very Good	35	33	68	48.5%	58.1%	6.9%	21.8%	17.2%	51.7%
+#23 Billy Kirby	15.6%	45	42	0.933	45%	Average	17	15	32	46.9%	53.1%	20%	11.1%	11.1%	42.2%
+#5 Aaron Reed	8.7%	25	26	1.04	60%	Good	6	12	18	66.7%	69.4%	24%	4%	4%	52%
+#1 Matt Szuba	7.6%	22	34	1.545	99%	Excellent	9	12	21	57.1%	76.2%	0%	4.5%	4.5%	59.1%
+#2 Jack Gurvey	6.2%	18	11	0.611	9%	Poor	9	4	13	30.8%	42.3%	27.8%	0%	0%	22.2%
+#30 Dyron Woods	4.2%	12	12	1	55%	Good	5	5	10	50%	50%	8.3%	8.3%	8.3%	50%
+#13 Jason Hines	3.8%	11	13	1.182	81%	Very Good	5	5	10	50%	55%	0%	18.2%	18.2%	54.5%
+#0 Toby Marek	3.8%	11	11	1	55%	Good	5	4	9	44.4%	50%	9.1%	18.2%	18.2%	45.5%
+#10 Quinn Williams	3.8%	11	4	0.364	1%	Poor	4	1	5	20%	20%	45.5%	9.1%	9.1%	18.2%
+#25 Scott Olsen	3.1%	9	7	0.778	-	-	6	3	9	33.3%	38.9%	0%	0%	0%	33.3%
+#11 Antonio Gardner	2.8%	8	3	0.375	-	-	3	1	4	25%	25%	25%	37.5%	12.5%	25%
+#21 Vegard Tangen	2.4%	7	8	1.143	-	-	3	3	6	50%	50%	0%	14.3%	14.3%	57.1%
+#15 Matt Mohr	2.4%	7	6	0.857	-	-	3	2	5	40%	40%	14.3%	14.3%	14.3%	42.9%
+#3 Josh Washburn	1.7%	5	8	1.6	-	-	1	3	4	75%	100%	20%	0%	0%	60%
+#20 Isaiah Webster	1%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#14 Cardell Simmons	1%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#24 Raysean Jones	0.7%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#14 Jelani Sankey	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Jarrod Coleman	0.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#44 Jonathon Mcdonald	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	11.2%	221	177	0.801	54%	Good	119	61	180	33.9%	39.7%	9.5%	12.2%	10.9%	35.3%
+#4 Colin Lake	48.4%	107	99	0.925	71%	Very Good	61	33	94	35.1%	43.6%	4.7%	10.3%	10.3%	38.3%
+#23 Billy Kirby	17.6%	39	30	0.769	45%	Average	21	10	31	32.3%	33.9%	5.1%	20.5%	15.4%	35.9%
+#1 Matt Szuba	6.3%	14	15	1.071	87%	Excellent	8	6	14	42.9%	53.6%	0%	0%	0%	42.9%
+#2 Jack Gurvey	4.5%	10	4	0.4	6%	Poor	2	2	4	50%	50%	60%	0%	0%	20%
+#13 Jason Hines	4.5%	10	8	0.8	51%	Good	3	3	6	50%	50%	30%	10%	10%	40%
+#21 Vegard Tangen	3.6%	8	5	0.625	-	-	3	1	4	25%	37.5%	25%	25%	12.5%	37.5%
+#10 Quinn Williams	2.7%	6	2	0.333	-	-	3	1	4	25%	25%	16.7%	33.3%	33.3%	16.7%
+#5 Aaron Reed	2.3%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#30 Dyron Woods	1.4%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#32 Khalen Davis	1.4%	3	4	1.333	-	-	1	1	2	50%	50%	0%	33.3%	33.3%	66.7%
+#11 Antonio Gardner	1.4%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#3 Josh Washburn	1.4%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#15 Matt Mohr	0.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#12 Jarrod Coleman	0.9%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#44 Jonathon Mcdonald	0.9%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#14 Cardell Simmons	0.9%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#0 Toby Marek	0.5%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+#20 Isaiah Webster	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	9.7%	191	131	0.686	29%	Below Average	93	50	143	35%	40.6%	20.4%	6.3%	5.2%	30.4%
+#4 Colin Lake	62.8%	120	94	0.783	54%	Good	64	35	99	35.4%	42.4%	12.5%	5.8%	5%	34.2%
+#23 Billy Kirby	16.2%	31	19	0.613	27%	Below Average	15	7	22	31.8%	31.8%	22.6%	12.9%	9.7%	29%
+#10 Quinn Williams	5.8%	11	8	0.727	44%	Average	4	3	7	42.9%	57.1%	27.3%	9.1%	9.1%	27.3%
+#5 Aaron Reed	3.1%	6	4	0.667	-	-	0	2	2	100%	100%	66.7%	0%	0%	33.3%
+#0 Toby Marek	2.6%	5	2	0.4	-	-	2	1	3	33.3%	33.3%	40%	0%	0%	20%
+#2 Jack Gurvey	2.1%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#1 Matt Szuba	2.1%	4	0	0	-	-	2	0	2	0%	0%	50%	0%	0%	0%
+#11 Antonio Gardner	1.6%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#14 Cardell Simmons	1.6%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#3 Josh Washburn	1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#15 Matt Mohr	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Isaiah Webster	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	8.8%	173	162	0.936	65%	Very Good	87	53	140	37.9%	49.6%	12.1%	8.1%	6.4%	37%
+#4 Colin Lake	31.2%	54	53	0.981	58%	Good	31	16	47	34%	44.7%	3.7%	11.1%	9.3%	38.9%
+#23 Billy Kirby	17.9%	31	32	1.032	65%	Very Good	16	13	29	44.8%	55.2%	6.5%	0%	0%	41.9%
+#1 Matt Szuba	16.2%	28	25	0.893	47%	Average	12	7	19	36.8%	52.6%	25%	7.1%	3.6%	32.1%
+#2 Jack Gurvey	9.2%	16	18	1.125	75%	Very Good	6	6	12	50%	75%	25%	0%	0%	37.5%
+#0 Toby Marek	4%	7	6	0.857	-	-	2	1	3	33.3%	50%	28.6%	28.6%	14.3%	42.9%
+#13 Jason Hines	3.5%	6	3	0.5	-	-	5	1	6	16.7%	25%	0%	0%	0%	16.7%
+#5 Aaron Reed	3.5%	6	6	1	-	-	2	1	3	33.3%	50%	16.7%	33.3%	33.3%	50%
+#15 Matt Mohr	2.9%	5	7	1.4	-	-	2	3	5	60%	60%	0%	20%	20%	60%
+#14 Jelani Sankey	2.3%	4	4	1	-	-	0	2	2	100%	100%	50%	0%	0%	50%
+#25 Scott Olsen	2.3%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	25%
+#21 Vegard Tangen	1.7%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#11 Antonio Gardner	1.7%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#3 Josh Washburn	1.7%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#10 Quinn Williams	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Jarrod Coleman	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Cardell Simmons	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	8%	157	169	1.076	50%	Average	57	71	128	55.5%	55.5%	7.6%	12.7%	12.1%	54.8%
+#23 Billy Kirby	25.5%	40	52	1.3	80%	Very Good	11	22	33	66.7%	66.7%	7.5%	12.5%	12.5%	65%
+#4 Colin Lake	21%	33	39	1.182	63%	Good	11	15	26	57.7%	57.7%	6.1%	15.2%	15.2%	60.6%
+#30 Dyron Woods	11.5%	18	17	0.944	30%	Below Average	9	8	17	47.1%	47.1%	0%	5.6%	5.6%	50%
+#21 Vegard Tangen	8.3%	13	8	0.615	4%	Poor	6	3	9	33.3%	33.3%	15.4%	15.4%	15.4%	30.8%
+#13 Jason Hines	5.7%	9	8	0.889	-	-	3	3	6	50%	50%	22.2%	11.1%	11.1%	44.4%
+#5 Aaron Reed	5.7%	9	6	0.667	-	-	4	2	6	33.3%	33.3%	11.1%	22.2%	22.2%	44.4%
+#15 Matt Mohr	4.5%	7	11	1.571	-	-	1	5	6	83.3%	83.3%	0%	28.6%	14.3%	71.4%
+#1 Matt Szuba	3.8%	6	6	1	-	-	1	3	4	75%	75%	33.3%	0%	0%	50%
+#2 Jack Gurvey	3.2%	5	6	1.2	-	-	2	3	5	60%	60%	0%	0%	0%	60%
+#0 Toby Marek	3.2%	5	7	1.4	-	-	2	3	5	60%	60%	0%	20%	20%	60%
+#3 Josh Washburn	2.5%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#25 Scott Olsen	1.9%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#20 Isaiah Webster	1.3%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#11 Antonio Gardner	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#24 Raysean Jones	0.6%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+#12 Jarrod Coleman	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	3.3%	65	42	0.646	0%	Poor	31	17	48	35.4%	36.5%	20%	7.7%	7.7%	32.3%
+#15 Matt Mohr	16.9%	11	6	0.545	3%	Poor	6	3	9	33.3%	33.3%	18.2%	0%	0%	27.3%
+#30 Dyron Woods	13.8%	9	9	1	-	-	4	4	8	50%	50%	0%	11.1%	11.1%	55.6%
+#1 Matt Szuba	12.3%	8	4	0.5	-	-	3	1	4	25%	25%	37.5%	12.5%	12.5%	25%
+#4 Colin Lake	10.8%	7	7	1	-	-	3	2	5	40%	50%	14.3%	14.3%	14.3%	42.9%
+#13 Jason Hines	9.2%	6	0	0	-	-	3	0	3	0%	0%	50%	0%	0%	0%
+#23 Billy Kirby	7.7%	5	8	1.6	-	-	1	3	4	75%	75%	0%	40%	40%	80%
+#21 Vegard Tangen	6.2%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+#11 Antonio Gardner	6.2%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#0 Toby Marek	4.6%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#2 Jack Gurvey	3.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#25 Scott Olsen	3.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#5 Aaron Reed	3.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Jarrod Coleman	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Cardell Simmons	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	3%	58	42	0.724	13%	Poor	36	16	52	30.8%	38.5%	6.9%	3.4%	1.7%	29.3%
+#1 Matt Szuba	25.9%	15	10	0.667	15%	Below Average	10	3	13	23.1%	30.8%	6.7%	6.7%	6.7%	26.7%
+#21 Vegard Tangen	20.7%	12	6	0.5	5%	Poor	8	3	11	27.3%	27.3%	8.3%	0%	0%	25%
+#13 Jason Hines	20.7%	12	11	0.917	41%	Average	7	4	11	36.4%	50%	8.3%	0%	0%	33.3%
+#15 Matt Mohr	8.6%	5	7	1.4	-	-	1	3	4	75%	87.5%	20%	0%	0%	60%
+#30 Dyron Woods	6.9%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#23 Billy Kirby	6.9%	4	6	1.5	-	-	1	2	3	66.7%	100%	0%	25%	0%	50%
+#25 Scott Olsen	5.2%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#4 Colin Lake	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#32 Khalen Davis	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Jarrod Coleman	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	2.8%	55	41	0.745	26%	Below Average	24	20	44	45.5%	45.5%	16.4%	5.5%	5.5%	38.2%
+#30 Dyron Woods	61.8%	34	29	0.853	54%	Good	13	14	27	51.9%	51.9%	17.6%	2.9%	2.9%	44.1%
+#1 Matt Szuba	12.7%	7	2	0.286	-	-	3	1	4	25%	25%	42.9%	0%	0%	14.3%
+#21 Vegard Tangen	10.9%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+#13 Jason Hines	10.9%	6	4	0.667	-	-	3	2	5	40%	40%	0%	33.3%	33.3%	33.3%
+#23 Billy Kirby	1.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#15 Matt Mohr	1.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	2.4%	48	32	0.667	21%	Below Average	25	10	35	28.6%	35.7%	18.8%	8.3%	8.3%	29.2%
+#4 Colin Lake	47.9%	23	14	0.609	22%	Below Average	14	4	18	22.2%	27.8%	13%	8.7%	8.7%	26.1%
+#23 Billy Kirby	10.4%	5	5	1	-	-	2	2	4	50%	62.5%	20%	0%	0%	40%
+#1 Matt Szuba	10.4%	5	2	0.4	-	-	3	1	4	25%	25%	20%	0%	0%	20%
+#11 Antonio Gardner	8.3%	4	4	1	-	-	1	1	2	50%	75%	25%	25%	25%	50%
+#5 Aaron Reed	6.3%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#21 Vegard Tangen	4.2%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#0 Toby Marek	4.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#3 Josh Washburn	4.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Jack Gurvey	2.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#30 Dyron Woods	2.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+North Park Vikings	8%	157	49	0.312	11%	Poor	20	9	29	31%	34.5%	65.6%	15.9%	0%	17.8%
+#4 Colin Lake	22.9%	36	12	0.333	31%	Average	12	3	15	20%	20%	47.2%	11.1%	0%	16.7%
+#1 Matt Szuba	15.9%	25	10	0.4	42%	Average	0	1	1	100%	150%	76%	20%	0%	24%
+#23 Billy Kirby	12.7%	20	12	0.6	71%	Very Good	1	1	2	50%	75%	50%	40%	0%	30%
+#5 Aaron Reed	7.6%	12	2	0.167	11%	Poor	1	0	1	0%	0%	75%	16.7%	0%	16.7%
+#2 Jack Gurvey	5.7%	9	0	0	-	-	2	0	2	0%	0%	77.8%	0%	0%	0%
+#30 Dyron Woods	5.1%	8	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#21 Vegard Tangen	5.1%	8	0	0	-	-	0	0	0	-	-	87.5%	12.5%	0%	0%
+#13 Jason Hines	5.1%	8	1	0.125	-	-	2	0	2	0%	0%	62.5%	12.5%	0%	12.5%
+#3 Josh Washburn	3.8%	6	5	0.833	-	-	0	2	2	100%	100%	50%	16.7%	0%	50%
+#25 Scott Olsen	3.2%	5	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Antonio Gardner	3.2%	5	6	1.2	-	-	1	2	3	66.7%	66.7%	20%	20%	0%	60%
+#15 Matt Mohr	2.5%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#0 Toby Marek	1.9%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#20 Isaiah Webster	1.3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Jarrod Coleman	1.3%	2	1	0.5	-	-	0	0	0	-	-	0%	100%	0%	50%
+#32 Khalen Davis	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#24 Raysean Jones	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Quinn Williams	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#14 Cardell Simmons	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

@@ -1,0 +1,159 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Single-Game Views/College Men -	Illinois Tech Scarlet Hawks	
+(4 - 1 Away)
+(4 - 2)
+@	Albion Britons	
+(0 - 1 Home)
+(1 - 3)
+12/2/2017
+Change
+Game
+Extended Box Score	Game Breakdown	Team Play Types	Player Play Types	Player Stats	Play By Play	Shot Chart
+
+Team
+Final
+1
+2
+Illinois Tech Scarlet Hawks	83	37	46
+Albion Britons	78	38	40
+
+Team_1
+Series
+Home
+Away
+Season
+Illinois Tech Scarlet Hawks	1	7-3	5-4	12-7
+Albion Britons	0	5-6	4-8	9-14
+
+Albion Britons
+Min
+SST
+SST exPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#3 Robert Ryan	20	0.89	0.60	2	0.40	2	0	0.00	1	0	0	4	2	2
+#4 Corey Wheeler	33	1.70	0.42	20	1.43	2	0	0.00	3	0	1	1	1	0
+#10 Arshawn Parker	20	0.86	0.40	7	1.40	1	0	0.00	3	0	0	0	0	0
+#12 Dylan Bennett	22	0.37	0.41	0	0.00	4	0	0.00	0	0	0	1	0	1
+#20 Jaylen Fordham	18	0.57	0.44	3	0.75	1	0	0.00	1	0	0	3	1	2
+#24 Aquavius Burks	26	1.62	0.08	19	1.12	3	5	0.60	2	3	0	2	0	2
+#30 Nathaniel Collins	6	-.28	0.00	0	0.00	0	0	0.00	0	0	0	0	0	0
+#40 Nathan Kellum	3	-.27	0.00	0	0.00	0	1	0.00	0	0	1	0	0	0
+#42 Caden Ebeling	18	1.77	0.33	11	1.00	0	2	0.00	0	0	0	7	3	4
+#44 Quinton Armstrong	16	0.63	0.12	8	0.67	0	3	0.00	0	1	0	5	3	2
+#54 Ryan Lowe	18	1.15	0.17	8	0.89	2	4	0.50	0	1	1	5	0	5
+Team Totals	40	1.06	0.32	78	0.95	15	15	1	10	5	3	28	10	18
+
+Albion Britons_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2 FG%
+3 FGA
+3 FGM
+3 FGm
+3 FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#3 Robert Ryan	3	0	3	0%	0%	3	0	3	0%	0	0	0	-	3	2	1	66.7%	0	2	5
+#4 Corey Wheeler	12	7	5	58.3%	62.5%	10	6	4	60%	2	1	1	50%	5	5	0	100%	1	3	2
+#10 Arshawn Parker	5	3	2	60%	70%	2	2	0	100%	3	1	2	33.3%	0	0	0	-	0	0	0
+#12 Dylan Bennett	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	3
+#20 Jaylen Fordham	3	1	2	33.3%	50%	0	0	0	-	3	1	2	33.3%	1	0	1	0%	0	1	4
+#24 Aquavius Burks	8	6	2	75%	87.5%	5	4	1	80%	3	2	1	66.7%	9	5	4	55.6%	1	6	3
+#30 Nathaniel Collins	2	0	2	0%	0%	1	0	1	0%	1	0	1	0%	0	0	0	-	0	0	2
+#40 Nathan Kellum	0	0	0	-	-	0	0	0	-	0	0	0	-	1	0	1	0%	0	2	1
+#42 Caden Ebeling	7	3	4	42.9%	50%	6	2	4	33.3%	1	1	0	100%	4	4	0	100%	0	3	3
+#44 Quinton Armstrong	9	4	5	44.4%	44.4%	7	4	3	57.1%	2	0	2	0%	0	0	0	-	0	2	5
+#54 Ryan Lowe	4	3	1	75%	75%	4	3	1	75%	0	0	0	-	2	2	0	100%	0	3	2
+Team Totals	54	27	27	50%	55.6%	38	21	17	55.3%	16	6	10	37.5%	25	18	7	72%	2	22	30
+
+
+Illinois Tech Scarlet Hawks
+Min
+SST
+SST exPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+Stl Pos
+Blk
+Ttl Reb
+Off Reb
+Def Reb
+#3 Malik Howze	34	2.68	0.32	25	1.14	9	6	1.50	1	4	0	3	0	3
+#4 Quentin Forberg	12	0.30	-.08	3	1.50	0	1	0.00	0	0	0	1	0	1
+#10 Jake Bruns	28	0.84	0.18	13	1.30	3	3	1.00	0	0	0	4	1	3
+#13 Calvin Schmitz	5	-.16	0.00	0	0.00	0	0	0.00	0	0	0	0	0	0
+#15 Capriest Gardner	13	0.25	0.15	2	0.50	0	1	0.00	0	1	0	3	1	2
+#20 Brett Ott	2	-1.00	-1.00	0	0.00	0	1	0.00	0	1	0	0	0	0
+#21 Jake Digiorgio	37	0.53	0.27	7	0.64	0	1	0.00	3	2	0	6	0	6
+#22 Max Hisatake	24	2.16	0.33	21	1.40	1	1	1.00	1	1	1	3	1	2
+#32 Parker Joncus	34	0.90	0.06	12	1.33	1	1	1.00	0	1	0	2	0	2
+#35 Kohl Linder	11	-.45	-.36	0	0.00	0	2	0.00	0	0	0	0	0	0
+Team Totals	40	1.08	0.16	83	1.06	14	17	0.82	5	10	1	22	3	19
+
+Illinois Tech Scarlet Hawks_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2 FGA
+2 FGM
+2 FGm
+2 FG%
+3 FGA
+3 FGM
+3 FGm
+3 FG%
+FTA
+FTM
+FTm
+FT%
++1
+PF Tkn
+PF Com
+#3 Malik Howze	9	4	5	44.4%	55.6%	5	2	3	40%	4	2	2	50%	16	15	1	93.8%	0	8	3
+#4 Quentin Forberg	1	1	0	100%	150%	0	0	0	-	1	1	0	100%	0	0	0	-	0	0	2
+#10 Jake Bruns	7	5	2	71.4%	92.9%	2	2	0	100%	5	3	2	60%	0	0	0	-	0	1	4
+#13 Calvin Schmitz	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	0
+#15 Capriest Gardner	3	1	2	33.3%	33.3%	3	1	2	33.3%	0	0	0	-	0	0	0	-	0	0	2
+#20 Brett Ott	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+#21 Jake Digiorgio	7	3	4	42.9%	42.9%	7	3	4	42.9%	0	0	0	-	2	1	1	50%	0	1	3
+#22 Max Hisatake	10	8	2	80%	80%	10	8	2	80%	0	0	0	-	8	5	3	62.5%	0	5	5
+#32 Parker Joncus	4	3	1	75%	100%	1	1	0	100%	3	2	1	66.7%	6	4	2	66.7%	0	3	0
+#35 Kohl Linder	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	0	0	0	-	0	2	5
+Team Totals	43	25	18	58.1%	67.4%	29	17	12	58.6%	14	8	6	57.1%	32	25	7	78.1%	0	20	24
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

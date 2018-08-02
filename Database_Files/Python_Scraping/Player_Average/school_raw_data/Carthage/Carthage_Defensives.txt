@@ -1,0 +1,477 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Carthage Red Men	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Carthage Red Men	Date Range: 11/17/2017 to 02/20/2018	Number of Games: 25
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	100%	2011	1792	0.891	49%	Average	848	636	1484	42.9%	49.4%	15.9%	12.2%	7.6%	40.4%
+ Transition	17.8%	357	369	1.034	27%	Below Average	135	134	269	49.8%	58.6%	13.7%	12.9%	9.5%	47.1%
+ Overall Half Court	82.2%	1654	1423	0.86	58%	Good	713	502	1215	41.3%	47.4%	16.3%	12%	7.2%	39%
+                    Short Shot Clock <4 Seconds	4.2%	84	57	0.679	58%	Good	47	21	68	30.9%	33.8%	13.1%	9.5%	6%	29.8%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.3%	121	98	0.81	61%	Good	54	35	89	39.3%	45.5%	19.8%	9.9%	8.3%	34.7%
+         Out of Bounds (Side)	6.3%	104	77	0.74	68%	Very Good	54	28	82	34.1%	39.6%	12.5%	8.7%	3.8%	33.7%
+         After Time Outs	12.5%	207	166	0.802	70%	Very Good	91	60	151	39.7%	46.4%	17.4%	11.6%	7.7%	35.7%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	92.6%	1532	1297	0.847	66%	Very Good	664	459	1123	40.9%	46.4%	16.3%	12.3%	7.3%	38.7%
+    Zone Defense	7.4%	122	126	1.033	14%	Poor	49	43	92	46.7%	59.2%	16.4%	9%	5.7%	42.6%
+Breakdown of Full Court Press Situations:
+  Press Defense	6.8%	112	93	0.83	58%	Good	44	24	68	35.3%	42.6%	19.6%	20.5%	3.6%	40.2%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	20.9%	421	378	0.898	62%	Good	236	136	372	36.6%	48.1%	8.3%	3.6%	2.9%	34.9%
+ Transition	17.8%	357	369	1.034	27%	Below Average	135	134	269	49.8%	58.6%	13.7%	12.9%	9.5%	47.1%
+ P&R Ball Handler	12.5%	251	203	0.809	34%	Average	120	82	202	40.6%	43.3%	12.7%	8.4%	4%	37.8%
+ Post-Up	9.4%	190	141	0.742	86%	Excellent	84	55	139	39.6%	39.6%	17.4%	11.6%	9.5%	36.8%
+ Cut	8.7%	174	194	1.115	42%	Average	57	80	137	58.4%	58.4%	8.6%	19%	18.4%	55.7%
+ Off Screen	6.3%	126	134	1.063	14%	Poor	62	43	105	41%	56.7%	9.5%	7.1%	3.2%	40.5%
+ Offensive Rebounds (put backs)	5.4%	109	110	1.009	67%	Very Good	36	36	72	50%	50.7%	10.1%	26.6%	23.9%	52.3%
+ Isolation	4.4%	88	61	0.693	79%	Very Good	43	24	67	35.8%	38.1%	19.3%	9.1%	9.1%	31.8%
+ P&R Roll Man	3%	61	55	0.902	65%	Very Good	30	22	52	42.3%	45.2%	9.8%	8.2%	4.9%	41%
+ Hand Off	2.9%	58	43	0.741	71%	Very Good	31	15	46	32.6%	40.2%	13.8%	6.9%	6.9%	32.8%
+ Miscellaneous	8.8%	176	104	0.591	14%	Poor	14	9	23	39.1%	45.7%	57.4%	30.1%	1.1%	31.8%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6.2%	124	101	0.815	60%	Good	57	39	96	40.6%	44.3%	14.5%	13.7%	13.7%	37.9%
+  Pick and Rolls Including Passes	21.6%	434	350	0.806	76%	Very Good	224	142	366	38.8%	42.8%	11.1%	6.5%	3.5%	36.4%
+  Post-Ups Including Passes	11.9%	239	194	0.812	82%	Very Good	107	73	180	40.6%	43.1%	15.5%	11.3%	9.6%	38.5%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.8%	36	40	1.111	26%	Below Average	14	15	29	51.7%	58.6%	2.8%	25%	25%	52.8%
+  P&R BH - Defense Commits	10.6%	214	150	0.701	88%	Excellent	104	60	164	36.6%	42.1%	19.6%	5.6%	2.3%	30.4%
+  Post-Up - Defense Commits	2.4%	49	53	1.082	38%	Average	23	18	41	43.9%	54.9%	8.2%	10.2%	10.2%	44.9%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.2%	4	1	0.25	-	-	3	0	3	0%	0%	0%	25%	0%	25%
+  Post-Up - Hard Double	0.9%	18	14	0.778	61%	Good	8	5	13	38.5%	46.2%	16.7%	11.1%	5.6%	33.3%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	51.9%	630	579	0.919	71%	Very Good	414	216	630	34.3%	46%	0%	0%	0%	34.3%
+          Short Shot Clock <4 Seconds	3.7%	45	22	0.489	78%	Very Good	36	9	45	20%	24.4%	0%	0%	0%	20%
+Runner	4.9%	59	50	0.847	17%	Below Average	35	24	59	40.7%	40.7%	0%	3.4%	3.4%	40.7%
+          Short Shot Clock <4 Seconds	0.4%	5	7	1.4	-	-	2	3	5	60%	60%	0%	20%	20%	60%
+Around Basket (not Post-Ups)	31.9%	387	434	1.121	47%	Average	180	207	387	53.5%	53.5%	0%	6.2%	6.2%	53.5%
+Post-Ups	11.4%	139	113	0.813	90%	Excellent	84	55	139	39.6%	39.6%	0%	2.9%	2.9%	39.6%
+          Short Shot Clock <4 Seconds	0.3%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	32.7%	397	423	1.065	34%	Average	249	148	397	37.3%	53.3%	0%	0%	0%	37.3%
+  Guarded	49.4%	196	188	0.959	59%	Good	128	68	196	34.7%	48%	0%	0%	0%	34.7%
+  Unguarded	50.6%	201	235	1.169	32%	Average	121	80	201	39.8%	58.5%	0%	0%	0%	39.8%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	17.4%	211	146	0.692	84%	Excellent	147	64	211	30.3%	34.6%	0%	0%	0%	30.3%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	16.2%	102	64	0.627	88%	Excellent	70	32	102	31.4%	31.4%	0%	0%	0%	31.4%
+Medium (17' to <3 point line)	13.2%	83	74	0.892	11%	Poor	46	37	83	44.6%	44.6%	0%	0%	0%	44.6%
+Long (3 point jump shots)	70.6%	445	441	0.991	70%	Very Good	298	147	445	33%	49.6%	0%	0%	0%	33%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	100%	2011	1792	0.891	49%	Average	848	636	1484	42.9%	49.4%	15.9%	12.2%	7.6%	40.4%
+#5 Derek Mason II	9.4%	189	172	0.91	40%	Average	96	61	157	38.9%	48.7%	11.1%	5.8%	3.7%	37.6%
+#54 Brad Perry	8.6%	172	150	0.872	51%	Good	85	59	144	41%	46.5%	11%	8.1%	6.4%	39%
+#25 Brad Kruse	8%	161	112	0.696	87%	Excellent	99	42	141	29.8%	37.2%	10.6%	3.1%	2.5%	28%
+#21 Kamal Shasi	6.9%	139	121	0.871	51%	Good	67	45	112	40.2%	46.9%	13.7%	7.2%	5%	37.4%
+#4 Jordan Thomas	6.8%	136	125	0.919	38%	Average	68	49	117	41.9%	50.9%	10.3%	3.7%	1.5%	38.2%
+#34 Sean Johnson	5.1%	102	81	0.794	70%	Very Good	50	32	82	39%	42.1%	11.8%	9.8%	7.8%	37.3%
+#32 SteveLeazer	4%	81	69	0.852	56%	Good	33	21	54	38.9%	44.4%	17.3%	16%	9.9%	39.5%
+#24 Kienan Baltimore	3%	61	50	0.82	64%	Good	32	19	51	37.3%	47.1%	13.1%	3.3%	3.3%	32.8%
+#15 Mike Canady	2%	40	31	0.775	74%	Very Good	25	10	35	28.6%	37.1%	5%	10%	10%	32.5%
+#10 Tj Best	1.5%	30	19	0.633	92%	Excellent	15	7	22	31.8%	36.4%	20%	6.7%	0%	30%
+#44 Jordan Vedder	1.1%	23	33	1.435	1%	Poor	6	13	19	68.4%	84.2%	17.4%	4.3%	4.3%	56.5%
+#14 Jacob Polglase	1%	20	24	1.2	5%	Poor	9	8	17	47.1%	58.8%	0%	15%	10%	50%
+#12 Adam Radcliffe	0.2%	5	2	0.4	-	-	2	1	3	33.3%	33.3%	40%	0%	0%	20%
+#30 Dan Messina	0.2%	4	2	0.5	-	-	3	0	3	0%	0%	0%	25%	25%	25%
+#40 DimitrijeKastratovic	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#20 Brett Czerak	0.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	20.9%	421	378	0.898	62%	Good	236	136	372	36.6%	48.1%	8.3%	3.6%	2.9%	34.9%
+#25 Brad Kruse	15.2%	64	44	0.688	87%	Excellent	42	15	57	26.3%	38.6%	10.9%	0%	0%	23.4%
+#5 Derek Mason II	15.2%	64	55	0.859	62%	Good	36	18	54	33.3%	45.4%	9.4%	6.3%	3.1%	32.8%
+#54 Brad Perry	14.3%	60	68	1.133	17%	Below Average	29	27	56	48.2%	59.8%	5%	1.7%	1.7%	46.7%
+#21 Kamal Shasi	10.7%	45	47	1.044	28%	Below Average	20	17	37	45.9%	58.1%	13.3%	4.4%	4.4%	42.2%
+#4 Jordan Thomas	10.5%	44	46	1.045	28%	Below Average	25	17	42	40.5%	54.8%	4.5%	0%	0%	38.6%
+#34 Sean Johnson	8.1%	34	24	0.706	85%	Excellent	21	10	31	32.3%	37.1%	8.8%	2.9%	2.9%	29.4%
+#32 SteveLeazer	7.1%	30	27	0.9	55%	Good	16	10	26	38.5%	48.1%	10%	3.3%	3.3%	36.7%
+#24 Kienan Baltimore	7.1%	30	24	0.8	72%	Very Good	18	9	27	33.3%	44.4%	6.7%	3.3%	3.3%	30%
+#15 Mike Canady	3.3%	14	8	0.571	94%	Excellent	10	2	12	16.7%	25%	0%	14.3%	14.3%	28.6%
+#14 Jacob Polglase	3.1%	13	18	1.385	4%	Poor	5	6	11	54.5%	72.7%	0%	15.4%	7.7%	53.8%
+#10 Tj Best	2.4%	10	6	0.6	93%	Excellent	7	2	9	22.2%	33.3%	10%	0%	0%	20%
+#44 Jordan Vedder	1.7%	7	9	1.286	-	-	3	3	6	50%	75%	14.3%	0%	0%	42.9%
+#30 Dan Messina	0.7%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#40 DimitrijeKastratovic	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Adam Radcliffe	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Brett Czerak	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	12.5%	251	203	0.809	34%	Average	120	82	202	40.6%	43.3%	12.7%	8.4%	4%	37.8%
+#21 Kamal Shasi	25.1%	63	54	0.857	33%	Average	30	22	52	42.3%	44.2%	11.1%	9.5%	6.3%	39.7%
+#5 Derek Mason II	21.9%	55	46	0.836	36%	Average	30	18	48	37.5%	42.7%	7.3%	5.5%	1.8%	38.2%
+#4 Jordan Thomas	21.5%	54	40	0.741	54%	Good	25	18	43	41.9%	44.2%	14.8%	5.6%	0%	35.2%
+#25 Brad Kruse	13.9%	35	27	0.771	48%	Average	19	11	30	36.7%	40%	11.4%	5.7%	2.9%	34.3%
+#10 Tj Best	5.6%	14	11	0.786	46%	Average	4	4	8	50%	50%	28.6%	14.3%	0%	42.9%
+#32 SteveLeazer	4.8%	12	14	1.167	5%	Poor	3	4	7	57.1%	57.1%	8.3%	33.3%	25%	58.3%
+#15 Mike Canady	3.2%	8	5	0.625	-	-	6	2	8	25%	25%	0%	12.5%	12.5%	25%
+#24 Kienan Baltimore	1.2%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#54 Brad Perry	0.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Adam Radcliffe	0.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#44 Jordan Vedder	0.8%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#14 Jacob Polglase	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	9.4%	190	141	0.742	86%	Excellent	84	55	139	39.6%	39.6%	17.4%	11.6%	9.5%	36.8%
+#54 Brad Perry	38.4%	73	43	0.589	88%	Excellent	41	17	58	29.3%	29.3%	13.7%	11%	9.6%	28.8%
+#34 Sean Johnson	25.8%	49	46	0.939	35%	Average	17	19	36	52.8%	52.8%	14.3%	14.3%	10.2%	46.9%
+#32 SteveLeazer	9.5%	18	14	0.778	63%	Good	5	4	9	44.4%	44.4%	33.3%	16.7%	11.1%	38.9%
+#25 Brad Kruse	8.4%	16	8	0.5	95%	Excellent	8	4	12	33.3%	33.3%	25%	0%	0%	25%
+#24 Kienan Baltimore	6.3%	12	6	0.5	95%	Excellent	5	3	8	37.5%	37.5%	33.3%	0%	0%	25%
+#4 Jordan Thomas	4.2%	8	10	1.25	-	-	3	3	6	50%	50%	0%	25%	25%	62.5%
+#5 Derek Mason II	3.7%	7	6	0.857	-	-	3	2	5	40%	40%	14.3%	14.3%	14.3%	42.9%
+#44 Jordan Vedder	2.1%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#21 Kamal Shasi	1.6%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	6.3%	126	134	1.063	14%	Poor	62	43	105	41%	56.7%	9.5%	7.1%	3.2%	40.5%
+#5 Derek Mason II	23%	29	29	1	36%	Average	16	9	25	36%	52%	10.3%	3.4%	3.4%	34.5%
+#25 Brad Kruse	17.5%	22	18	0.818	60%	Good	13	7	20	35%	45%	9.1%	0%	0%	31.8%
+#21 Kamal Shasi	11.1%	14	14	1	36%	Average	7	4	11	36.4%	54.5%	14.3%	7.1%	0%	35.7%
+#4 Jordan Thomas	10.3%	13	17	1.308	9%	Poor	6	6	12	50%	70.8%	7.7%	0%	0%	46.2%
+#15 Mike Canady	7.9%	10	11	1.1	24%	Below Average	5	4	9	44.4%	61.1%	10%	0%	0%	40%
+#32 SteveLeazer	7.1%	9	5	0.556	-	-	3	0	3	0%	0%	22.2%	44.4%	11.1%	33.3%
+#24 Kienan Baltimore	6.3%	8	16	2	-	-	2	5	7	71.4%	100%	0%	12.5%	12.5%	75%
+#54 Brad Perry	5.6%	7	8	1.143	-	-	3	3	6	50%	58.3%	0%	14.3%	0%	57.1%
+#14 Jacob Polglase	3.2%	4	4	1	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#44 Jordan Vedder	3.2%	4	9	2.25	-	-	0	3	3	100%	150%	25%	0%	0%	75%
+#34 Sean Johnson	3.2%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#10 Tj Best	1.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	4.4%	88	61	0.693	79%	Very Good	43	24	67	35.8%	38.1%	19.3%	9.1%	9.1%	31.8%
+#5 Derek Mason II	20.5%	18	20	1.111	12%	Poor	3	8	11	72.7%	77.3%	27.8%	11.1%	11.1%	55.6%
+#54 Brad Perry	15.9%	14	11	0.786	49%	Average	5	5	10	50%	50%	28.6%	14.3%	14.3%	35.7%
+#25 Brad Kruse	12.5%	11	6	0.545	82%	Very Good	9	2	11	18.2%	22.7%	0%	9.1%	9.1%	18.2%
+#32 SteveLeazer	11.4%	10	5	0.5	87%	Excellent	6	2	8	25%	31.3%	20%	0%	0%	20%
+#21 Kamal Shasi	8%	7	2	0.286	-	-	5	1	6	16.7%	16.7%	14.3%	0%	0%	14.3%
+#34 Sean Johnson	8%	7	2	0.286	-	-	4	0	4	0%	0%	28.6%	14.3%	14.3%	14.3%
+#4 Jordan Thomas	5.7%	5	0	0	-	-	4	0	4	0%	0%	20%	0%	0%	0%
+#24 Kienan Baltimore	4.5%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#44 Jordan Vedder	3.4%	3	7	2.333	-	-	0	3	3	100%	100%	0%	33.3%	33.3%	100%
+#15 Mike Canady	2.3%	2	4	2	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#12 Adam Radcliffe	2.3%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#30 Dan Messina	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Jacob Polglase	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#10 Tj Best	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Brett Czerak	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	3%	61	55	0.902	65%	Very Good	30	22	52	42.3%	45.2%	9.8%	8.2%	4.9%	41%
+#54 Brad Perry	26.2%	16	20	1.25	12%	Poor	6	7	13	53.8%	61.5%	6.3%	12.5%	6.3%	56.3%
+#34 Sean Johnson	6.6%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#25 Brad Kruse	4.9%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#4 Jordan Thomas	4.9%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#24 Kienan Baltimore	4.9%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#44 Jordan Vedder	3.3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#5 Derek Mason II	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 DimitrijeKastratovic	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#32 SteveLeazer	1.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carthage Red Men	2.9%	58	43	0.741	71%	Very Good	31	15	46	32.6%	40.2%	13.8%	6.9%	6.9%	32.8%
+#5 Derek Mason II	25.9%	15	16	1.067	24%	Below Average	7	6	13	46.2%	61.5%	13.3%	0%	0%	40%
+#25 Brad Kruse	17.2%	10	7	0.7	62%	Good	6	2	8	25%	25%	0%	20%	20%	40%
+#4 Jordan Thomas	15.5%	9	8	0.889	-	-	4	3	7	42.9%	57.1%	22.2%	0%	0%	33.3%
+#21 Kamal Shasi	12.1%	7	2	0.286	-	-	4	1	5	20%	20%	28.6%	0%	0%	14.3%
+#15 Mike Canady	10.3%	6	3	0.5	-	-	4	1	5	20%	30%	16.7%	0%	0%	16.7%
+#34 Sean Johnson	6.9%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#10 Tj Best	5.2%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#32 SteveLeazer	1.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#24 Kienan Baltimore	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Jacob Polglase	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Jordan Vedder	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

@@ -1,0 +1,602 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Olivet Comets	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Olivet Comets	Date Range: 11/14/2017 to 02/24/2018	Number of Games: 29
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	100%	2627	2310	0.879	49%	Average	1091	830	1921	43.2%	47.7%	15%	13.9%	9.9%	42%
+ Transition	25.1%	659	688	1.044	78%	Very Good	211	245	456	53.7%	57.7%	15.5%	18.1%	15.6%	50.8%
+ Overall Half Court	74.9%	1968	1622	0.824	33%	Average	880	585	1465	39.9%	44.6%	14.8%	12.4%	8%	39.1%
+                    Short Shot Clock <4 Seconds	5.1%	135	104	0.77	70%	Very Good	68	40	108	37%	44%	14.8%	5.2%	3%	34.1%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.9%	176	130	0.739	22%	Below Average	84	50	134	37.3%	41%	17.6%	7.4%	6.3%	34.7%
+         Out of Bounds (Side)	5.6%	111	90	0.811	51%	Good	52	33	85	38.8%	45.3%	15.3%	8.1%	6.3%	36.9%
+         After Time Outs	13.6%	268	215	0.802	38%	Average	118	85	203	41.9%	46.6%	16.8%	9%	6%	36.9%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	82.3%	1619	1329	0.821	35%	Average	712	481	1193	40.3%	44.4%	15.1%	13%	8.5%	39.5%
+    Against Zone	17.7%	349	293	0.84	30%	Below Average	168	104	272	38.2%	45.2%	13.5%	10%	5.7%	37.2%
+Breakdown of Full Court Press Situations:
+  Press Offense	6.5%	128	94	0.734	23%	Below Average	43	29	72	40.3%	45.8%	28.1%	18%	7.8%	35.9%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Transition	25.1%	659	688	1.044	78%	Very Good	211	245	456	53.7%	57.7%	15.5%	18.1%	15.6%	50.8%
+ Spot Up	19.2%	505	434	0.859	28%	Below Average	293	150	443	33.9%	44.1%	7.1%	5.7%	4.4%	34.7%
+ Isolation	10.3%	271	217	0.801	54%	Good	126	83	209	39.7%	42.3%	13.3%	13.3%	10.3%	38.7%
+ P&R Ball Handler	9.9%	261	180	0.69	30%	Below Average	116	69	185	37.3%	40.3%	20.3%	8.8%	5.7%	33.7%
+ Offensive Rebounds (put backs)	7.3%	192	199	1.036	45%	Average	67	73	140	52.1%	52.9%	11.5%	19.8%	16.1%	51.6%
+ Cut	7.3%	191	194	1.016	32%	Average	70	79	149	53%	53%	9.9%	14.7%	13.6%	52.9%
+ Hand Off	4.9%	129	92	0.713	30%	Below Average	75	32	107	29.9%	34.1%	7.8%	9.3%	7.8%	34.1%
+ Off Screen	3.6%	94	65	0.691	14%	Poor	62	25	87	28.7%	33.9%	2.1%	5.3%	3.2%	29.8%
+ Post-Up	3.4%	90	85	0.944	81%	Very Good	35	38	73	52.1%	52.1%	13.3%	7.8%	5.6%	46.7%
+ P&R Roll Man	2.1%	56	41	0.732	15%	Below Average	22	16	38	42.1%	43.4%	17.9%	16.1%	12.5%	37.5%
+ Miscellaneous	6.8%	179	115	0.642	92%	Excellent	14	20	34	58.8%	61.8%	50.8%	32.4%	5.6%	36.9%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	12.8%	336	286	0.851	55%	Good	154	108	262	41.2%	44.5%	12.2%	13.4%	11%	40.8%
+  Pick and Rolls Including Passes	17.4%	458	351	0.766	23%	Below Average	217	132	349	37.8%	43%	15.5%	8.7%	6.6%	35.6%
+  Post-Ups Including Passes	4.6%	121	114	0.942	72%	Very Good	52	49	101	48.5%	51%	10.7%	7.4%	5.8%	45.5%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.5%	65	69	1.062	68%	Very Good	28	25	53	47.2%	52.8%	7.7%	13.8%	13.8%	49.2%
+  P&R BH - Defense Commits	9.5%	249	173	0.695	17%	Below Average	101	63	164	38.4%	46%	26.9%	8%	6%	30.5%
+  Post-Up - Defense Commits	1.2%	31	29	0.935	34%	Average	17	11	28	39.3%	48.2%	3.2%	6.5%	6.5%	41.9%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.2%	5	3	0.6	-	-	1	1	2	50%	50%	40%	20%	20%	40%
+  Post-Up - Hard Double	1.2%	31	29	0.935	71%	Very Good	16	12	28	42.9%	50%	9.7%	3.2%	3.2%	38.7%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	54.7%	801	655	0.818	10%	Poor	542	259	801	32.3%	40.8%	0%	0.5%	0.5%	32.3%
+          Short Shot Clock <4 Seconds	5.2%	76	67	0.882	90%	Excellent	50	26	76	34.2%	44.1%	0%	0%	0%	34.2%
+Runner	4.8%	71	47	0.662	33%	Average	49	22	71	31%	31%	0%	4.2%	4.2%	31%
+          Short Shot Clock <4 Seconds	0.5%	7	2	0.286	-	-	6	1	7	14.3%	14.3%	0%	0%	0%	14.3%
+Around Basket (not Post-Ups)	35.5%	520	546	1.05	29%	Below Average	254	266	520	51.2%	51.2%	0%	4.6%	4.6%	51.2%
+Post-Ups	5%	73	78	1.068	77%	Very Good	35	38	73	52.1%	52.1%	0%	2.7%	2.7%	52.1%
+          Short Shot Clock <4 Seconds	0.1%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	27.6%	404	353	0.874	10%	Poor	280	124	404	30.7%	43.7%	0%	0.2%	0.2%	30.7%
+  Guarded	58.4%	236	166	0.703	2%	Poor	177	59	236	25%	35.2%	0%	0.4%	0.4%	25%
+  Unguarded	41.6%	168	187	1.113	57%	Good	103	65	168	38.7%	55.7%	0%	0%	0%	38.7%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	21.7%	318	249	0.783	56%	Good	203	115	318	36.2%	39%	0%	0.9%	0.9%	36.2%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	23.5%	188	147	0.782	62%	Good	115	73	188	38.8%	38.8%	0%	1.6%	1.6%	38.8%
+Medium (17' to <3 point line)	17%	136	100	0.735	54%	Good	86	50	136	36.8%	36.8%	0%	0%	0%	36.8%
+Long (3 point jump shots)	59.6%	477	408	0.855	7%	Poor	341	136	477	28.5%	42.8%	0%	0.2%	0.2%	28.5%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	100%	2627	2310	0.879	49%	Average	1091	830	1921	43.2%	47.7%	15%	13.9%	9.9%	42%
+#14 Jalen Adams	27.9%	733	721	0.984	81%	Very Good	300	273	573	47.6%	49.7%	10.4%	14.9%	12.4%	47.7%
+#10 Tracy Edmond	26.5%	696	599	0.861	56%	Good	245	211	456	46.3%	49%	18.8%	18.2%	12.4%	43.2%
+#35 Eldridge Mason	12.8%	335	316	0.943	74%	Very Good	159	109	268	40.7%	49.8%	10.4%	9.9%	6.9%	41.2%
+#11 Chase Brocker	6.1%	159	156	0.981	81%	Very Good	73	49	122	40.2%	49.2%	10.1%	13.2%	7.5%	42.8%
+#33 John Mcadoo	5%	132	99	0.75	33%	Average	72	29	101	28.7%	37.6%	12.1%	11.4%	6.1%	31.8%
+#24 Aaron Washington	4.3%	112	87	0.777	38%	Average	67	30	97	30.9%	43.8%	11.6%	1.8%	1.8%	28.6%
+#5 Diangelo Carlton	3.8%	99	74	0.747	32%	Average	38	30	68	44.1%	44.9%	20.2%	12.1%	10.1%	40.4%
+#40 Blake Siersma	3.1%	81	81	1	84%	Excellent	17	30	47	63.8%	63.8%	21%	22.2%	13.6%	55.6%
+#50 Angus Bennett	2.8%	74	67	0.905	66%	Very Good	28	29	57	50.9%	50.9%	13.5%	13.5%	8.1%	45.9%
+#32 Sirafino Davis	2.7%	72	54	0.75	33%	Average	25	20	45	44.4%	44.4%	25%	13.9%	11.1%	40.3%
+#20 Mike Williams	1.3%	34	11	0.324	2%	Poor	18	4	22	18.2%	20.5%	32.4%	2.9%	2.9%	14.7%
+#22 Delbert Redfield	1.3%	33	12	0.364	3%	Poor	20	4	24	16.7%	25%	27.3%	0%	0%	12.1%
+#44 Griffin Lewis	0.9%	23	15	0.652	19%	Below Average	10	5	15	33.3%	36.7%	17.4%	17.4%	4.3%	34.8%
+#30 Quintin Way	0.7%	19	11	0.579	12%	Poor	8	4	12	33.3%	41.7%	31.6%	5.3%	0%	26.3%
+#3 Kylen Brown	0.5%	13	0	0	0%	Poor	5	0	5	0%	0%	61.5%	0%	0%	0%
+#23 Brent Davis	0.5%	12	7	0.583	12%	Poor	6	3	9	33.3%	33.3%	25%	8.3%	8.3%	25%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	25.1%	659	688	1.044	78%	Very Good	211	245	456	53.7%	57.7%	15.5%	18.1%	15.6%	50.8%
+#10 Tracy Edmond	33.7%	222	209	0.941	46%	Average	71	72	143	50.3%	50.3%	15.3%	23.9%	18.9%	49.1%
+#14 Jalen Adams	28.4%	187	227	1.214	84%	Excellent	53	84	137	61.3%	63.1%	10.7%	20.3%	20.9%	59.9%
+#35 Eldridge Mason	12.4%	82	93	1.134	76%	Very Good	34	30	64	46.9%	59.4%	9.8%	12.2%	11%	48.8%
+#24 Aaron Washington	5%	33	35	1.061	64%	Good	13	13	26	50%	65.4%	18.2%	3%	3%	42.4%
+#11 Chase Brocker	4.7%	31	39	1.258	87%	Excellent	6	11	17	64.7%	76.5%	19.4%	25.8%	12.9%	58.1%
+#5 Diangelo Carlton	4.6%	30	27	0.9	39%	Average	9	12	21	57.1%	57.1%	20%	10%	10%	50%
+#33 John Mcadoo	3.8%	25	19	0.76	20%	Below Average	12	7	19	36.8%	42.1%	16%	8%	4%	36%
+#40 Blake Siersma	1.7%	11	12	1.091	70%	Very Good	0	5	5	100%	100%	45.5%	9.1%	9.1%	54.5%
+#32 Sirafino Davis	1.4%	9	13	1.444	-	-	1	5	6	83.3%	83.3%	22.2%	22.2%	22.2%	66.7%
+#22 Delbert Redfield	1.2%	8	0	0	-	-	4	0	4	0%	0%	50%	0%	0%	0%
+#20 Mike Williams	0.9%	6	2	0.333	-	-	2	1	3	33.3%	33.3%	50%	0%	0%	16.7%
+#30 Quintin Way	0.6%	4	3	0.75	-	-	2	1	3	33.3%	50%	25%	0%	0%	25%
+#44 Griffin Lewis	0.5%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#23 Brent Davis	0.5%	3	5	1.667	-	-	1	2	3	66.7%	66.7%	0%	33.3%	33.3%	66.7%
+#50 Angus Bennett	0.5%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#3 Kylen Brown	0.3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	19.2%	505	434	0.859	28%	Below Average	293	150	443	33.9%	44.1%	7.1%	5.7%	4.4%	34.7%
+#14 Jalen Adams	23.2%	117	101	0.863	46%	Average	65	35	100	35%	43%	7.7%	8.5%	6%	36.8%
+#35 Eldridge Mason	21.4%	108	101	0.935	58%	Good	63	35	98	35.7%	49%	6.5%	3.7%	3.7%	35.2%
+#11 Chase Brocker	12.9%	65	68	1.046	75%	Very Good	35	22	57	38.6%	49.1%	3.1%	9.2%	6.2%	43.1%
+#33 John Mcadoo	12.7%	64	48	0.75	30%	Below Average	46	17	63	27%	38.1%	1.6%	0%	0%	26.6%
+#10 Tracy Edmond	11.1%	56	54	0.964	62%	Good	23	18	41	43.9%	56.1%	14.3%	12.5%	8.9%	42.9%
+#24 Aaron Washington	6.9%	35	30	0.857	45%	Average	23	10	33	30.3%	45.5%	5.7%	0%	0%	28.6%
+#5 Diangelo Carlton	4.4%	22	11	0.5	7%	Poor	14	5	19	26.3%	26.3%	9.1%	4.5%	4.5%	27.3%
+#20 Mike Williams	1.8%	9	4	0.444	-	-	6	1	7	14.3%	14.3%	11.1%	11.1%	11.1%	22.2%
+#22 Delbert Redfield	1.6%	8	6	0.75	-	-	6	2	8	25%	37.5%	0%	0%	0%	25%
+#44 Griffin Lewis	1.4%	7	5	0.714	-	-	4	2	6	33.3%	41.7%	14.3%	0%	0%	28.6%
+#23 Brent Davis	1%	5	0	0	-	-	3	0	3	0%	0%	40%	0%	0%	0%
+#32 Sirafino Davis	0.8%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#30 Quintin Way	0.4%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#40 Blake Siersma	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#50 Angus Bennett	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Kylen Brown	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	10.3%	271	217	0.801	54%	Good	126	83	209	39.7%	42.3%	13.3%	13.3%	10.3%	38.7%
+#10 Tracy Edmond	56.1%	152	133	0.875	63%	Good	62	48	110	43.6%	46.8%	14.5%	18.4%	14.5%	42.8%
+#14 Jalen Adams	27.7%	75	55	0.733	40%	Average	41	23	64	35.9%	36.7%	9.3%	8%	6.7%	36%
+#35 Eldridge Mason	6.6%	18	15	0.833	56%	Good	9	6	15	40%	43.3%	5.6%	11.1%	5.6%	38.9%
+#5 Diangelo Carlton	1.8%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#11 Chase Brocker	1.5%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+#22 Delbert Redfield	1.5%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#24 Aaron Washington	1.1%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#30 Quintin Way	1.1%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#3 Kylen Brown	1.1%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#33 John Mcadoo	1.1%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#20 Mike Williams	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	9.9%	261	180	0.69	30%	Below Average	116	69	185	37.3%	40.3%	20.3%	8.8%	5.7%	33.7%
+#10 Tracy Edmond	63.6%	166	114	0.687	37%	Average	70	45	115	39.1%	41.7%	21.7%	9%	5.4%	34.3%
+#14 Jalen Adams	19.2%	50	39	0.78	54%	Good	23	16	39	41%	42.3%	14%	8%	4%	38%
+#35 Eldridge Mason	4.2%	11	8	0.727	44%	Average	4	4	8	50%	50%	27.3%	0%	0%	36.4%
+#24 Aaron Washington	3.8%	10	7	0.7	40%	Average	7	2	9	22.2%	33.3%	0%	10%	10%	30%
+#22 Delbert Redfield	3.4%	9	3	0.333	-	-	6	1	7	14.3%	21.4%	22.2%	0%	0%	11.1%
+#33 John Mcadoo	2.3%	6	6	1	-	-	3	1	4	25%	37.5%	16.7%	16.7%	16.7%	33.3%
+#3 Kylen Brown	1.5%	4	0	0	-	-	1	0	1	0%	0%	75%	0%	0%	0%
+#5 Diangelo Carlton	0.8%	2	3	1.5	-	-	0	0	0	-	-	0%	100%	100%	100%
+#11 Chase Brocker	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Mike Williams	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#23 Brent Davis	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	7.3%	192	199	1.036	45%	Average	67	73	140	52.1%	52.9%	11.5%	19.8%	16.1%	51.6%
+#14 Jalen Adams	40.1%	77	100	1.299	81%	Very Good	23	37	60	61.7%	61.7%	5.2%	23.4%	20.8%	63.6%
+#50 Angus Bennett	10.4%	20	19	0.95	33%	Average	7	8	15	53.3%	53.3%	20%	10%	10%	45%
+#32 Sirafino Davis	8.9%	17	12	0.706	9%	Poor	8	5	13	38.5%	38.5%	17.6%	5.9%	5.9%	35.3%
+#10 Tracy Edmond	8.3%	16	11	0.688	8%	Poor	7	5	12	41.7%	41.7%	18.8%	12.5%	6.3%	31.3%
+#33 John Mcadoo	8.3%	16	14	0.875	23%	Below Average	5	2	7	28.6%	28.6%	18.8%	37.5%	25%	43.8%
+#40 Blake Siersma	7.8%	15	13	0.867	22%	Below Average	5	6	11	54.5%	54.5%	13.3%	13.3%	6.7%	46.7%
+#35 Eldridge Mason	5.7%	11	6	0.545	3%	Poor	5	0	5	0%	0%	18.2%	36.4%	27.3%	36.4%
+#5 Diangelo Carlton	3.6%	7	12	1.714	-	-	1	5	6	83.3%	91.7%	0%	28.6%	28.6%	85.7%
+#20 Mike Williams	2.6%	5	2	0.4	-	-	3	1	4	25%	25%	20%	0%	0%	20%
+#11 Chase Brocker	2.1%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#44 Griffin Lewis	1%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#24 Aaron Washington	0.5%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#30 Quintin Way	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	7.3%	191	194	1.016	32%	Average	70	79	149	53%	53%	9.9%	14.7%	13.6%	52.9%
+#14 Jalen Adams	35.6%	68	63	0.926	27%	Below Average	25	25	50	50%	50%	16.2%	14.7%	14.7%	47.1%
+#40 Blake Siersma	16.2%	31	37	1.194	65%	Very Good	8	13	21	61.9%	61.9%	6.5%	29%	22.6%	64.5%
+#50 Angus Bennett	12.6%	24	25	1.042	42%	Average	10	12	22	54.5%	54.5%	4.2%	8.3%	8.3%	54.2%
+#32 Sirafino Davis	9.4%	18	14	0.778	11%	Poor	9	6	15	40%	40%	5.6%	11.1%	11.1%	44.4%
+#10 Tracy Edmond	6.3%	12	14	1.167	61%	Good	3	6	9	66.7%	66.7%	16.7%	8.3%	8.3%	58.3%
+#35 Eldridge Mason	5.8%	11	19	1.727	99%	Excellent	1	8	9	88.9%	88.9%	0%	18.2%	18.2%	90.9%
+#11 Chase Brocker	4.7%	9	8	0.889	-	-	5	3	8	37.5%	37.5%	0%	11.1%	11.1%	44.4%
+#5 Diangelo Carlton	3.1%	6	6	1	-	-	2	3	5	60%	60%	16.7%	0%	0%	50%
+#44 Griffin Lewis	2.6%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#33 John Mcadoo	1.6%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+#20 Mike Williams	1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#30 Quintin Way	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#23 Brent Davis	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	4.9%	129	92	0.713	30%	Below Average	75	32	107	29.9%	34.1%	7.8%	9.3%	7.8%	34.1%
+#14 Jalen Adams	31%	40	30	0.75	38%	Average	20	13	33	39.4%	39.4%	10%	7.5%	7.5%	40%
+#35 Eldridge Mason	18.6%	24	19	0.792	43%	Average	14	7	21	33.3%	38.1%	4.2%	8.3%	8.3%	37.5%
+#24 Aaron Washington	14.7%	19	6	0.316	4%	Poor	16	2	18	11.1%	16.7%	5.3%	0%	0%	10.5%
+#11 Chase Brocker	10.9%	14	15	1.071	77%	Very Good	8	3	11	27.3%	40.9%	0%	21.4%	14.3%	42.9%
+#5 Diangelo Carlton	8.5%	11	7	0.636	25%	Below Average	5	2	7	28.6%	28.6%	18.2%	18.2%	18.2%	36.4%
+#10 Tracy Edmond	7.8%	10	8	0.8	45%	Average	5	3	8	37.5%	37.5%	10%	10%	0%	40%
+#20 Mike Williams	3.9%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#30 Quintin Way	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#32 Sirafino Davis	0.8%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+#23 Brent Davis	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Kylen Brown	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 John Mcadoo	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#22 Delbert Redfield	0.8%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	3.6%	94	65	0.691	14%	Poor	62	25	87	28.7%	33.9%	2.1%	5.3%	3.2%	29.8%
+#14 Jalen Adams	37.2%	35	21	0.6	14%	Poor	24	9	33	27.3%	28.8%	0%	5.7%	2.9%	28.6%
+#35 Eldridge Mason	25.5%	24	20	0.833	39%	Average	16	7	23	30.4%	37%	0%	4.2%	4.2%	33.3%
+#11 Chase Brocker	21.3%	20	15	0.75	29%	Below Average	11	6	17	35.3%	44.1%	10%	5%	0%	30%
+#24 Aaron Washington	8.5%	8	6	0.75	-	-	6	2	8	25%	37.5%	0%	0%	0%	25%
+#5 Diangelo Carlton	3.2%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#20 Mike Williams	2.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#30 Quintin Way	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 John Mcadoo	1.1%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	3.4%	90	85	0.944	81%	Very Good	35	38	73	52.1%	52.1%	13.3%	7.8%	5.6%	46.7%
+#14 Jalen Adams	46.7%	42	46	1.095	91%	Excellent	17	20	37	54.1%	54.1%	7.1%	9.5%	4.8%	52.4%
+#35 Eldridge Mason	15.6%	14	12	0.857	55%	Good	7	5	12	41.7%	41.7%	7.1%	7.1%	7.1%	42.9%
+#50 Angus Bennett	12.2%	11	6	0.545	11%	Poor	6	3	9	33.3%	33.3%	18.2%	0%	0%	27.3%
+#10 Tracy Edmond	11.1%	10	10	1	82%	Very Good	2	5	7	71.4%	71.4%	20%	10%	10%	50%
+#40 Blake Siersma	8.9%	8	9	1.125	-	-	2	4	6	66.7%	66.7%	12.5%	12.5%	12.5%	62.5%
+#32 Sirafino Davis	3.3%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#11 Chase Brocker	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#5 Diangelo Carlton	1.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	2.1%	56	41	0.732	15%	Below Average	22	16	38	42.1%	43.4%	17.9%	16.1%	12.5%	37.5%
+#14 Jalen Adams	28.6%	16	13	0.813	27%	Below Average	6	5	11	45.5%	45.5%	18.8%	18.8%	18.8%	37.5%
+#35 Eldridge Mason	19.6%	11	11	1	52%	Good	4	5	9	55.6%	61.1%	18.2%	0%	0%	45.5%
+#50 Angus Bennett	17.9%	10	8	0.8	25%	Below Average	3	3	6	50%	50%	10%	30%	10%	40%
+#40 Blake Siersma	10.7%	6	5	0.833	-	-	2	2	4	50%	50%	16.7%	16.7%	16.7%	50%
+#32 Sirafino Davis	10.7%	6	3	0.5	-	-	4	1	5	20%	20%	0%	16.7%	16.7%	33.3%
+#11 Chase Brocker	5.4%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#44 Griffin Lewis	3.6%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#33 John Mcadoo	3.6%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Olivet Comets	6.8%	179	115	0.642	92%	Excellent	14	20	34	58.8%	61.8%	50.8%	32.4%	5.6%	36.9%
+#10 Tracy Edmond	29.1%	52	46	0.885	93%	Excellent	2	9	11	81.8%	90.9%	44.2%	36.5%	9.6%	48.1%
+#14 Jalen Adams	14.5%	26	26	1	97%	Excellent	3	6	9	66.7%	66.7%	30.8%	42.3%	11.5%	53.8%
+#35 Eldridge Mason	11.7%	21	12	0.571	66%	Very Good	2	2	4	50%	50%	47.6%	33.3%	0%	33.3%
+#32 Sirafino Davis	7.8%	14	7	0.5	56%	Good	0	1	1	100%	100%	71.4%	21.4%	7.1%	28.6%
+#5 Diangelo Carlton	6.7%	12	2	0.167	11%	Poor	1	0	1	0%	0%	75%	16.7%	0%	8.3%
+#33 John Mcadoo	6.1%	11	4	0.364	36%	Average	2	0	2	0%	0%	45.5%	36.4%	0%	27.3%
+#40 Blake Siersma	5%	9	5	0.556	-	-	0	0	0	-	-	55.6%	44.4%	0%	44.4%
+#11 Chase Brocker	3.9%	7	4	0.571	-	-	3	1	4	25%	25%	28.6%	14.3%	0%	28.6%
+#30 Quintin Way	3.4%	6	1	0.167	-	-	0	0	0	-	-	83.3%	16.7%	0%	16.7%
+#50 Angus Bennett	2.8%	5	5	1	-	-	0	1	1	100%	100%	40%	60%	20%	60%
+#44 Griffin Lewis	2.2%	4	3	0.75	-	-	0	0	0	-	-	25%	75%	0%	50%
+#24 Aaron Washington	1.7%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#20 Mike Williams	1.7%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Delbert Redfield	1.7%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#3 Kylen Brown	1.1%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#23 Brent Davis	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

@@ -1,0 +1,461 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Roosevelt Lakers	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Roosevelt Lakers	Date Range: 11/01/2017 to 03/07/2018	Number of Games: 33
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	100%	2522	2122	0.841	88%	Excellent	1077	755	1832	41.2%	47.3%	17.2%	12.1%	8.8%	38.6%
+ Transition	14%	353	332	0.941	74%	Very Good	141	120	261	46%	51.1%	14.7%	15%	11.9%	44.2%
+ Overall Half Court	86%	2169	1790	0.825	88%	Excellent	936	635	1571	40.4%	46.6%	17.7%	11.6%	8.3%	37.7%
+                    Short Shot Clock <4 Seconds	5.6%	142	110	0.775	31%	Average	77	44	121	36.4%	40.9%	9.9%	5.6%	2.8%	35.2%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.2%	177	122	0.689	93%	Excellent	85	47	132	35.6%	43.6%	21.5%	4.5%	4.5%	29.4%
+         Out of Bounds (Side)	4.8%	105	90	0.857	39%	Average	46	35	81	43.2%	49.4%	19%	7.6%	6.7%	37.1%
+         After Time Outs	14%	304	265	0.872	54%	Good	140	95	235	40.4%	46.6%	14.5%	11.2%	8.6%	38.8%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	87.3%	1894	1554	0.82	85%	Excellent	812	554	1366	40.6%	46.3%	17.7%	12%	8.3%	37.9%
+    Zone Defense	12.7%	275	236	0.858	74%	Very Good	124	81	205	39.5%	49%	17.5%	9.1%	8%	36.4%
+Breakdown of Full Court Press Situations:
+  Press Defense	11.5%	249	200	0.803	72%	Very Good	109	65	174	37.4%	45.4%	20.1%	11.6%	6%	34.9%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	26.2%	660	591	0.895	75%	Very Good	367	206	573	36%	47.8%	9.5%	4.5%	3.6%	34.7%
+ Transition	14%	353	332	0.941	74%	Very Good	141	120	261	46%	51.1%	14.7%	15%	11.9%	44.2%
+ Post-Up	11.2%	282	238	0.844	59%	Good	110	97	207	46.9%	46.9%	13.8%	14.2%	11.7%	44%
+ P&R Ball Handler	9.4%	236	182	0.771	60%	Good	110	66	176	37.5%	43.2%	18.2%	9.7%	8.5%	33.9%
+ Cut	8.4%	212	230	1.085	61%	Good	73	93	166	56%	56%	9.9%	16.5%	16.5%	55.2%
+ Isolation	7.7%	195	140	0.718	73%	Very Good	94	50	144	34.7%	39.6%	19%	10.8%	8.7%	32.3%
+ Offensive Rebounds (put backs)	6.1%	154	146	0.948	92%	Excellent	63	54	117	46.2%	47%	6.5%	19.5%	17.5%	49.4%
+ Off Screen	3.7%	93	69	0.742	90%	Excellent	54	23	77	29.9%	38.3%	8.6%	8.6%	7.5%	31.2%
+ P&R Roll Man	2.5%	62	47	0.758	93%	Excellent	25	18	43	41.9%	43%	17.7%	12.9%	12.9%	40.3%
+ Hand Off	2.3%	59	53	0.898	41%	Average	23	19	42	45.2%	53.6%	20.3%	8.5%	6.8%	40.7%
+ Miscellaneous	8.6%	216	94	0.435	73%	Very Good	17	9	26	34.6%	38.5%	64.4%	24.1%	2.3%	23.1%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	10.2%	257	208	0.809	62%	Good	123	74	197	37.6%	43.7%	15.6%	11.3%	9.3%	36.2%
+  Pick and Rolls Including Passes	16.3%	411	313	0.762	92%	Excellent	195	118	313	37.7%	42.5%	16.8%	9%	8.3%	34.8%
+  Post-Ups Including Passes	13.6%	342	296	0.865	69%	Very Good	138	116	254	45.7%	47.2%	13.2%	13.7%	11.7%	43.9%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.5%	62	68	1.097	28%	Below Average	29	24	53	45.3%	54.7%	4.8%	12.9%	11.3%	48.4%
+  P&R BH - Defense Commits	8.6%	217	131	0.604	99%	Excellent	85	52	137	38%	41.6%	30.9%	6.9%	6.5%	29%
+  Post-Up - Defense Commits	2.4%	60	58	0.967	72%	Very Good	28	19	47	40.4%	48.9%	10%	11.7%	11.7%	43.3%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	<1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+  Post-Up - Hard Double	1.1%	27	13	0.481	93%	Excellent	11	4	15	26.7%	26.7%	29.6%	14.8%	14.8%	25.9%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	51.8%	813	746	0.918	78%	Very Good	539	274	813	33.7%	45.7%	0%	0.6%	0.6%	33.7%
+          Short Shot Clock <4 Seconds	4.3%	67	45	0.672	42%	Average	50	17	67	25.4%	33.6%	0%	0%	0%	25.4%
+Runner	5.2%	82	42	0.512	96%	Excellent	61	21	82	25.6%	25.6%	0%	0%	0%	25.6%
+          Short Shot Clock <4 Seconds	0.5%	8	6	0.75	-	-	5	3	8	37.5%	37.5%	0%	0%	0%	37.5%
+Around Basket (not Post-Ups)	29.9%	469	503	1.072	80%	Very Good	226	243	469	51.8%	51.8%	0%	6%	6%	51.8%
+Post-Ups	13.2%	207	196	0.947	64%	Good	110	97	207	46.9%	46.9%	0%	1.9%	1.9%	46.9%
+          Short Shot Clock <4 Seconds	0.6%	10	12	1.2	33%	Average	4	6	10	60%	60%	0%	0%	0%	60%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	29.3%	461	475	1.03	64%	Good	299	162	461	35.1%	51.4%	0%	0.2%	0.2%	35.1%
+  Guarded	68.5%	316	311	0.984	58%	Good	210	106	316	33.5%	49.1%	0%	0.3%	0.3%	33.5%
+  Unguarded	31.5%	145	164	1.131	45%	Average	89	56	145	38.6%	56.6%	0%	0%	0%	38.6%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	18.2%	286	208	0.727	75%	Very Good	197	89	286	31.1%	36%	0%	1.4%	1.4%	31.1%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	16.2%	132	89	0.674	81%	Very Good	88	44	132	33.3%	33.3%	0%	1.5%	1.5%	33.3%
+Medium (17' to <3 point line)	12.8%	104	71	0.683	64%	Good	69	35	104	33.7%	33.7%	0%	1.9%	1.9%	33.7%
+Long (3 point jump shots)	71%	577	586	1.016	68%	Very Good	382	195	577	33.8%	50.7%	0%	0.2%	0.2%	33.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	100%	2522	2122	0.841	88%	Excellent	1077	755	1832	41.2%	47.3%	17.2%	12.1%	8.8%	38.6%
+#4 Jake Ludwig	9.1%	230	222	0.965	29%	Below Average	109	82	191	42.9%	53.1%	12.2%	7.4%	5.7%	40%
+#24 Adam Alexander	8.9%	225	152	0.676	91%	Excellent	118	56	174	32.2%	37.4%	15.1%	8%	6.2%	30.7%
+#1 CarsonHughes	8.7%	219	177	0.808	70%	Very Good	113	64	177	36.2%	44.1%	13.7%	7.3%	6.4%	33.8%
+#23 Grant Gibson	8.7%	219	190	0.868	54%	Good	110	68	178	38.2%	48%	14.2%	5.9%	5.9%	35.6%
+#13 Kyle Bumbalough	7.3%	185	145	0.784	75%	Very Good	95	52	147	35.4%	44.2%	14.1%	7%	4.9%	33.5%
+#3 KevinDay	4.7%	119	98	0.824	66%	Very Good	58	37	95	38.9%	43.7%	11.8%	12.6%	10.9%	37.8%
+#22 Joshua Dillingham	4.6%	117	78	0.667	92%	Excellent	60	31	91	34.1%	39.6%	17.1%	6%	5.1%	29.9%
+#44 ChandlerFuzak	4.1%	103	99	0.961	30%	Below Average	50	36	86	41.9%	48.8%	6.8%	10.7%	10.7%	43.7%
+#33 JakeAsquini	3.6%	91	91	1	21%	Below Average	40	30	70	42.9%	50.7%	11%	13.2%	9.9%	44%
+#21 AndreRaiford Jr.	1.1%	27	24	0.889	48%	Average	11	9	20	45%	50%	14.8%	11.1%	7.4%	40.7%
+#2 Jordan Radcliff	0.8%	19	13	0.684	91%	Excellent	11	4	15	26.7%	30%	10.5%	10.5%	10.5%	31.6%
+#11 TomasCutts	0.1%	2	4	2	-	-	0	0	0	-	-	0%	100%	50%	100%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	26.2%	660	591	0.895	75%	Very Good	367	206	573	36%	47.8%	9.5%	4.5%	3.6%	34.7%
+#23 Grant Gibson	15.9%	105	88	0.838	69%	Very Good	65	28	93	30.1%	43%	7.6%	3.8%	3.8%	30.5%
+#4 Jake Ludwig	15.6%	103	111	1.078	26%	Below Average	49	39	88	44.3%	58.5%	9.7%	6.8%	3.9%	41.7%
+#24 Adam Alexander	13%	86	57	0.663	90%	Excellent	51	21	72	29.2%	38.2%	15.1%	1.2%	1.2%	25.6%
+#13 Kyle Bumbalough	12.7%	84	93	1.107	21%	Below Average	45	33	78	42.3%	57.1%	3.6%	3.6%	3.6%	42.9%
+#1 CarsonHughes	12.6%	83	70	0.843	68%	Very Good	47	26	73	35.6%	46.6%	10.8%	3.6%	2.4%	32.5%
+#22 Joshua Dillingham	7.7%	51	25	0.49	97%	Excellent	34	9	43	20.9%	27.9%	13.7%	2%	2%	19.6%
+#3 KevinDay	6.7%	44	45	1.023	35%	Average	22	16	38	42.1%	53.9%	9.1%	9.1%	9.1%	40.9%
+#33 JakeAsquini	6.1%	40	39	0.975	43%	Average	21	13	34	38.2%	48.5%	7.5%	7.5%	7.5%	40%
+#44 ChandlerFuzak	5.8%	38	40	1.053	30%	Below Average	20	14	34	41.2%	55.9%	7.9%	2.6%	2.6%	39.5%
+#21 AndreRaiford Jr.	2.3%	15	14	0.933	50%	Average	8	5	13	38.5%	46.2%	6.7%	6.7%	0%	40%
+#2 Jordan Radcliff	1.5%	10	7	0.7	88%	Excellent	5	2	7	28.6%	35.7%	20%	10%	10%	30%
+#11 TomasCutts	0.2%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	11.2%	282	238	0.844	59%	Good	110	97	207	46.9%	46.9%	13.8%	14.2%	11.7%	44%
+#24 Adam Alexander	19.1%	54	40	0.741	70%	Very Good	24	15	39	38.5%	38.5%	9.3%	20.4%	16.7%	40.7%
+#44 ChandlerFuzak	16.7%	47	39	0.83	54%	Good	22	14	36	38.9%	38.9%	6.4%	19.1%	19.1%	44.7%
+#3 KevinDay	15.6%	44	33	0.75	69%	Very Good	19	15	34	44.1%	44.1%	15.9%	6.8%	4.5%	38.6%
+#22 Joshua Dillingham	13.8%	39	35	0.897	44%	Average	14	15	29	51.7%	51.7%	12.8%	15.4%	12.8%	46.2%
+#4 Jake Ludwig	7.4%	21	21	1	25%	Below Average	7	7	14	50%	50%	14.3%	19%	14.3%	52.4%
+#1 CarsonHughes	7.4%	21	20	0.952	33%	Average	9	9	18	50%	50%	9.5%	4.8%	4.8%	47.6%
+#13 Kyle Bumbalough	6.4%	18	8	0.444	96%	Excellent	5	4	9	44.4%	44.4%	44.4%	5.6%	0%	22.2%
+#23 Grant Gibson	6.4%	18	18	1	25%	Below Average	4	9	13	69.2%	69.2%	27.8%	5.6%	5.6%	50%
+#33 JakeAsquini	5.3%	15	16	1.067	18%	Below Average	6	6	12	50%	50%	6.7%	13.3%	6.7%	53.3%
+#21 AndreRaiford Jr.	1.8%	5	8	1.6	-	-	0	3	3	100%	100%	0%	40%	40%	80%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	9.4%	236	182	0.771	60%	Good	110	66	176	37.5%	43.2%	18.2%	9.7%	8.5%	33.9%
+#1 CarsonHughes	22.9%	54	45	0.833	41%	Average	21	17	38	44.7%	51.3%	24.1%	9.3%	9.3%	35.2%
+#4 Jake Ludwig	17.4%	41	24	0.585	82%	Very Good	23	9	32	28.1%	34.4%	19.5%	4.9%	4.9%	24.4%
+#13 Kyle Bumbalough	16.5%	39	21	0.538	87%	Excellent	23	9	32	28.1%	31.3%	15.4%	5.1%	5.1%	25.6%
+#23 Grant Gibson	14.4%	34	28	0.824	42%	Average	14	9	23	39.1%	45.7%	20.6%	11.8%	11.8%	38.2%
+#24 Adam Alexander	13.6%	32	29	0.906	28%	Below Average	15	10	25	40%	46%	9.4%	12.5%	6.3%	40.6%
+#33 JakeAsquini	7.2%	17	17	1	15%	Below Average	5	6	11	54.5%	63.6%	23.5%	17.6%	11.8%	41.2%
+#22 Joshua Dillingham	3%	7	7	1	-	-	3	3	6	50%	58.3%	14.3%	0%	0%	42.9%
+#3 KevinDay	2.1%	5	5	1	-	-	3	1	4	25%	25%	0%	40%	40%	40%
+#2 Jordan Radcliff	1.7%	4	4	1	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#21 AndreRaiford Jr.	1.3%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	7.7%	195	140	0.718	73%	Very Good	94	50	144	34.7%	39.6%	19%	10.8%	8.7%	32.3%
+#23 Grant Gibson	19%	37	29	0.784	47%	Average	16	12	28	42.9%	50%	24.3%	5.4%	5.4%	32.4%
+#24 Adam Alexander	16.4%	32	16	0.5	86%	Excellent	16	6	22	27.3%	27.3%	25%	6.3%	6.3%	25%
+#1 CarsonHughes	15.9%	31	23	0.742	53%	Good	16	6	22	27.3%	34.1%	12.9%	16.1%	12.9%	32.3%
+#4 Jake Ludwig	13.8%	27	29	1.074	15%	Below Average	12	12	24	50%	58.3%	11.1%	11.1%	11.1%	44.4%
+#13 Kyle Bumbalough	12.3%	24	13	0.542	81%	Very Good	13	4	17	23.5%	26.5%	16.7%	12.5%	4.2%	29.2%
+#3 KevinDay	6.7%	13	7	0.538	81%	Very Good	7	3	10	30%	30%	23.1%	15.4%	15.4%	23.1%
+#33 JakeAsquini	5.1%	10	10	1	18%	Below Average	4	3	7	42.9%	50%	10%	20%	10%	50%
+#44 ChandlerFuzak	3.6%	7	9	1.286	-	-	3	3	6	50%	58.3%	0%	14.3%	14.3%	57.1%
+#22 Joshua Dillingham	3.1%	6	0	0	-	-	3	0	3	0%	0%	50%	0%	0%	0%
+#21 AndreRaiford Jr.	2.1%	4	0	0	-	-	2	0	2	0%	0%	50%	0%	0%	0%
+#2 Jordan Radcliff	1.5%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#11 TomasCutts	0.5%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	3.7%	93	69	0.742	90%	Excellent	54	23	77	29.9%	38.3%	8.6%	8.6%	7.5%	31.2%
+#4 Jake Ludwig	22.6%	21	22	1.048	32%	Average	10	9	19	47.4%	57.9%	9.5%	0%	0%	42.9%
+#1 CarsonHughes	20.4%	19	12	0.632	82%	Very Good	14	4	18	22.2%	33.3%	5.3%	0%	0%	21.1%
+#23 Grant Gibson	17.2%	16	16	1	36%	Average	8	5	13	38.5%	50%	6.3%	12.5%	12.5%	43.8%
+#13 Kyle Bumbalough	14%	13	4	0.308	98%	Excellent	8	0	8	0%	0%	15.4%	23.1%	23.1%	15.4%
+#24 Adam Alexander	10.8%	10	7	0.7	75%	Very Good	5	3	8	37.5%	43.8%	20%	0%	0%	30%
+#3 KevinDay	7.5%	7	5	0.714	-	-	3	1	4	25%	25%	0%	42.9%	28.6%	42.9%
+#22 Joshua Dillingham	2.2%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#33 JakeAsquini	2.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#2 Jordan Radcliff	2.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#44 ChandlerFuzak	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	2.5%	62	47	0.758	93%	Excellent	25	18	43	41.9%	43%	17.7%	12.9%	12.9%	40.3%
+#44 ChandlerFuzak	11.3%	7	6	0.857	-	-	4	3	7	42.9%	42.9%	0%	0%	0%	42.9%
+#22 Joshua Dillingham	8.1%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#3 KevinDay	8.1%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#4 Jake Ludwig	6.5%	4	3	0.75	-	-	1	1	2	50%	50%	25%	25%	25%	50%
+#24 Adam Alexander	4.8%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#13 Kyle Bumbalough	3.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#1 CarsonHughes	3.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#33 JakeAsquini	3.2%	2	4	2	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#23 Grant Gibson	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Roosevelt Lakers	2.3%	59	53	0.898	41%	Average	23	19	42	45.2%	53.6%	20.3%	8.5%	6.8%	40.7%
+#4 Jake Ludwig	22%	13	12	0.923	37%	Average	7	5	12	41.7%	50%	7.7%	0%	0%	38.5%
+#1 CarsonHughes	15.3%	9	5	0.556	-	-	5	1	6	16.7%	16.7%	11.1%	22.2%	22.2%	33.3%
+#24 Adam Alexander	13.6%	8	3	0.375	-	-	4	1	5	20%	30%	37.5%	0%	0%	12.5%
+#23 Grant Gibson	13.6%	8	11	1.375	-	-	2	5	7	71.4%	78.6%	12.5%	0%	0%	62.5%
+#22 Joshua Dillingham	11.9%	7	5	0.714	-	-	2	2	4	50%	62.5%	42.9%	0%	0%	28.6%
+#13 Kyle Bumbalough	8.5%	5	6	1.2	-	-	1	2	3	66.7%	66.7%	20%	20%	0%	60%
+#33 JakeAsquini	8.5%	5	5	1	-	-	2	1	3	33.3%	50%	20%	20%	20%	40%
+#44 ChandlerFuzak	5.1%	3	5	1.667	-	-	0	2	2	100%	125%	33.3%	0%	0%	66.7%
+#3 KevinDay	1.7%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

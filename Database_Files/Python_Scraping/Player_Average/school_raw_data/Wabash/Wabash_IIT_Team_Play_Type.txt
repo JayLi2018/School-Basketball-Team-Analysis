@@ -1,0 +1,28 @@
+
+Play Type Grid
+All Possession Clips	72	76	148	40	36	76	32	40	72
+Transitions	10	6	16	6	5	11	4	1	5
+All Post-Up	8	12	20	5	2	7	3	10	13
+   Post-Up - Single Covered	6	9	15	5	2	7	1	7	8
+   Post-Up - Hard Double Team	0	1	1	0	0	0	0	1	1
+   Post-Up - Defense Commits	2	2	4	0	0	0	2	2	4
+All P&R Ball Handler	30	21	51	14	15	29	16	6	22
+   P&R Ball Handler - Single Covered	19	14	33	7	9	16	12	5	17
+   P&R Ball Handler - Traps	0	1	1	0	1	1	0	0	0
+   P&R Ball Handler - Defense Commits	11	6	17	7	5	12	4	1	5
+P&R Roll Man	5	1	6	4	1	5	1	0	1
+All Isolation	9	5	14	5	3	8	4	2	6
+   Isolation - Single Covered	9	3	12	5	2	7	4	1	5
+   Isolation - Defense Commits	0	2	2	0	1	1	0	1	1
+Off Screens	1	5	6	1	1	2	0	4	4
+Handoffs	1	5	6	0	4	4	1	1	2
+Spot Ups	8	17	25	4	7	11	4	10	14
+Cuts	3	3	6	1	1	2	2	2	4
+All Offensive Rebounds	4	10	14	4	2	6	0	8	8
+   Off. Reb. - Reset Offense	1	4	5	1	1	2	0	3	3
+   Off. Reb. - Put Backs	3	6	9	3	1	4	0	5	5
+Miscellaneous Possessions	6	6	12	4	2	6	2	4	6
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

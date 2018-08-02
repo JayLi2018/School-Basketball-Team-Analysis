@@ -1,0 +1,595 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Milwaukee School of Engineering	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Milwaukee School of Engineering	Date Range: 11/18/2017 to 02/20/2018	Number of Games: 26
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	100%	2089	1887	0.903	64%	Good	805	682	1487	45.9%	51.3%	17.3%	13.5%	8.1%	42.7%
+ Transition	10.7%	223	206	0.924	29%	Below Average	71	73	144	50.7%	55.9%	20.6%	18.4%	14.8%	44.4%
+ Overall Half Court	89.3%	1866	1681	0.901	72%	Very Good	734	609	1343	45.3%	50.8%	16.9%	12.9%	7.3%	42.6%
+                    Short Shot Clock <4 Seconds	4.7%	99	67	0.677	46%	Average	58	27	85	31.8%	37.1%	11.1%	3%	3%	30.3%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	9.9%	184	147	0.799	38%	Average	82	56	138	40.6%	43.1%	15.2%	10.3%	9.8%	39.7%
+         Out of Bounds (Side)	4.3%	81	63	0.778	42%	Average	39	24	63	38.1%	43.7%	14.8%	8.6%	4.9%	37%
+         After Time Outs	12.1%	226	172	0.761	24%	Below Average	99	60	159	37.7%	43.1%	19.9%	11.5%	7.5%	35.8%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	94.2%	1757	1592	0.906	77%	Very Good	691	576	1267	45.5%	50.9%	16.7%	12.9%	7.5%	42.9%
+    Against Zone	5.8%	109	89	0.817	25%	Below Average	43	33	76	43.4%	49.3%	20.2%	12.8%	5.5%	36.7%
+Breakdown of Full Court Press Situations:
+  Press Offense	9.6%	179	162	0.905	72%	Very Good	56	47	103	45.6%	54.4%	22.3%	22.3%	8.4%	44.1%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	28%	585	538	0.92	53%	Good	304	195	499	39.1%	48.6%	9.7%	6.3%	4.4%	38.3%
+ P&R Ball Handler	11.4%	239	198	0.828	75%	Very Good	92	67	159	42.1%	46.9%	19.7%	15.9%	13.4%	40.6%
+ Cut	11.4%	238	261	1.097	58%	Good	75	111	186	59.7%	59.7%	11.8%	12.2%	12.2%	56.3%
+ Transition	10.7%	223	206	0.924	29%	Below Average	71	73	144	50.7%	55.9%	20.6%	18.4%	14.8%	44.4%
+ Post-Up	9.3%	195	174	0.892	65%	Very Good	68	73	141	51.8%	51.8%	17.4%	11.8%	7.7%	46.2%
+ Off Screen	7.9%	166	151	0.91	57%	Good	86	58	144	40.3%	50%	9%	4.2%	1.2%	37.3%
+ Isolation	4.3%	89	62	0.697	24%	Below Average	40	26	66	39.4%	40.2%	19.1%	11.2%	7.9%	34.8%
+ P&R Roll Man	4%	83	83	1	60%	Good	35	34	69	49.3%	51.4%	10.8%	9.6%	8.4%	47%
+ Offensive Rebounds (put backs)	3.5%	74	95	1.284	97%	Excellent	12	34	46	73.9%	73.9%	17.6%	27%	17.6%	64.9%
+ Hand Off	0.9%	19	18	0.947	80%	Very Good	6	6	12	50%	62.5%	26.3%	10.5%	10.5%	42.1%
+ Miscellaneous	8.5%	178	101	0.567	80%	Very Good	16	5	21	23.8%	28.6%	50.6%	37.6%	2.2%	34.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6.2%	129	95	0.736	22%	Below Average	61	40	101	39.6%	42.6%	17.1%	7.8%	5.4%	34.9%
+  Pick and Rolls Including Passes	22.5%	470	417	0.887	70%	Very Good	202	154	356	43.3%	48%	14.5%	11.9%	10%	41.9%
+  Post-Ups Including Passes	14.2%	297	291	0.98	83%	Excellent	113	118	231	51.1%	55.4%	14.1%	9.1%	6.4%	46.8%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.9%	40	33	0.825	26%	Below Average	21	14	35	40%	47.1%	12.5%	0%	0%	35%
+  P&R BH - Defense Commits	12.9%	270	223	0.826	57%	Good	110	87	197	44.2%	49%	20.7%	8.1%	5.6%	37.8%
+  Post-Up - Defense Commits	4.9%	102	117	1.147	74%	Very Good	45	45	90	50%	61.1%	7.8%	3.9%	3.9%	48%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.4%	8	8	1	-	-	4	3	7	42.9%	57.1%	12.5%	0%	0%	37.5%
+  Post-Up - Hard Double	3.3%	68	46	0.676	27%	Below Average	29	18	47	38.3%	45.7%	27.9%	2.9%	0%	29.4%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	50.9%	684	630	0.921	41%	Average	443	241	684	35.2%	46%	0%	0.1%	0.1%	35.2%
+          Short Shot Clock <4 Seconds	3.9%	53	35	0.66	56%	Good	40	13	53	24.5%	33%	0%	0%	0%	24.5%
+Runner	5.2%	70	67	0.957	94%	Excellent	37	33	70	47.1%	47.1%	0%	1.4%	1.4%	47.1%
+          Short Shot Clock <4 Seconds	0.7%	10	6	0.6	48%	Average	7	3	10	30%	30%	0%	0%	0%	30%
+Around Basket (not Post-Ups)	33.4%	448	541	1.208	89%	Excellent	186	262	448	58.5%	58.5%	0.2%	6%	6%	58.5%
+Post-Ups	10.5%	141	148	1.05	72%	Very Good	68	73	141	51.8%	51.8%	0%	2.1%	2.1%	51.8%
+          Short Shot Clock <4 Seconds	0.7%	10	8	0.8	40%	Average	6	4	10	40%	40%	0%	0%	0%	40%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	33.6%	451	438	0.971	32%	Average	295	156	451	34.6%	48.4%	0%	0.2%	0.2%	34.6%
+  Guarded	50.3%	227	200	0.881	20%	Below Average	155	72	227	31.7%	43.8%	0%	0.4%	0.4%	31.7%
+  Unguarded	49.7%	224	238	1.062	43%	Average	140	84	224	37.5%	53.1%	0%	0%	0%	37.5%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	15.9%	213	178	0.836	75%	Very Good	134	79	213	37.1%	41.8%	0%	0%	0%	37.1%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	16.5%	113	88	0.779	61%	Good	69	44	113	38.9%	38.9%	0%	0%	0%	38.9%
+Medium (17' to <3 point line)	16.8%	115	100	0.87	88%	Excellent	65	50	115	43.5%	43.5%	0%	0%	0%	43.5%
+Long (3 point jump shots)	66.7%	456	442	0.969	33%	Average	309	147	456	32.2%	48.4%	0%	0.2%	0.2%	32.2%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	100%	2089	1887	0.903	64%	Good	805	682	1487	45.9%	51.3%	17.3%	13.5%	8.1%	42.7%
+#3 Jason Palesse	18.4%	385	321	0.834	50%	Average	147	103	250	41.2%	45.2%	17.4%	19%	9.6%	42.1%
+#23 Matthew Kirmse	18.4%	385	417	1.083	93%	Excellent	195	143	338	42.3%	55%	5.7%	8.3%	6.5%	42.9%
+#50 Tegan Miles	13.1%	273	270	0.989	82%	Very Good	77	109	186	58.6%	58.6%	17.9%	16.1%	10.3%	51.3%
+#35 JakeGebert	9.2%	192	197	1.026	87%	Excellent	65	71	136	52.2%	54%	13.5%	18.2%	8.9%	51.6%
+#34 Sammy Linn	8.6%	179	123	0.687	24%	Below Average	66	51	117	43.6%	46.6%	29.6%	7.8%	6.7%	33.5%
+#45 Travis Ballard	7.3%	153	147	0.961	77%	Very Good	70	63	133	47.4%	48.5%	5.9%	9.2%	5.9%	47.7%
+#25 Nolan Henton	6.9%	144	120	0.833	50%	Average	53	40	93	43%	52.2%	22.2%	14.6%	9%	38.2%
+#33 Gabe Wear	6.6%	138	119	0.862	56%	Good	52	41	93	44.1%	52.7%	24.6%	9.4%	3.6%	38.4%
+#12 Brian Dorn	4%	83	60	0.723	29%	Below Average	24	23	47	48.9%	50%	31.3%	15.7%	13.3%	36.1%
+#11 Bailey Mcdaniel	3.6%	75	73	0.973	79%	Very Good	25	23	48	47.9%	53.1%	18.7%	21.3%	13.3%	46.7%
+#5 Luke Nelson	1.5%	32	13	0.406	4%	Poor	16	5	21	23.8%	26.2%	31.3%	3.1%	3.1%	18.8%
+#21 Josh Herzog	1.1%	24	13	0.542	10%	Poor	7	4	11	36.4%	40.9%	37.5%	16.7%	8.3%	29.2%
+#32 David Llorente	0.6%	12	5	0.417	4%	Poor	5	2	7	28.6%	28.6%	33.3%	8.3%	0%	25%
+#2 Eddie Harwick	0.2%	5	3	0.6	-	-	1	1	2	50%	50%	40%	20%	0%	40%
+#44 Matt Powers	0.2%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#54 Lennart Rieckmann	0.1%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#52 Anthony Bartman	0.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	28%	585	538	0.92	53%	Good	304	195	499	39.1%	48.6%	9.7%	6.3%	4.4%	38.3%
+#23 Matthew Kirmse	26.5%	155	179	1.155	87%	Excellent	83	60	143	42%	57%	2.6%	7.7%	5.8%	43.2%
+#3 Jason Palesse	15.6%	91	82	0.901	52%	Good	46	31	77	40.3%	46.1%	7.7%	8.8%	6.6%	41.8%
+#33 Gabe Wear	11.5%	67	53	0.791	35%	Average	36	19	55	34.5%	45.5%	16.4%	3%	1.5%	31.3%
+#34 Sammy Linn	10.4%	61	39	0.639	18%	Below Average	27	16	43	37.2%	43%	26.2%	3.3%	0%	29.5%
+#25 Nolan Henton	10.1%	59	55	0.932	57%	Good	33	18	51	35.3%	50%	10.2%	3.4%	1.7%	33.9%
+#35 JakeGebert	8.2%	48	50	1.042	74%	Very Good	22	21	43	48.8%	52.3%	6.3%	8.3%	6.3%	47.9%
+#45 Travis Ballard	4.4%	26	29	1.115	83%	Excellent	12	13	25	52%	58%	3.8%	0%	0%	50%
+#11 Bailey Mcdaniel	4.1%	24	21	0.875	47%	Average	12	7	19	36.8%	47.4%	12.5%	8.3%	8.3%	37.5%
+#12 Brian Dorn	3.2%	19	11	0.579	13%	Poor	12	5	17	29.4%	32.4%	10.5%	0%	0%	26.3%
+#50 Tegan Miles	2.2%	13	11	0.846	43%	Average	6	3	9	33.3%	33.3%	7.7%	23.1%	23.1%	46.2%
+#5 Luke Nelson	1.9%	11	4	0.364	3%	Poor	7	1	8	12.5%	12.5%	18.2%	9.1%	9.1%	18.2%
+#21 Josh Herzog	1%	6	2	0.333	-	-	4	0	4	0%	0%	16.7%	16.7%	0%	16.7%
+#32 David Llorente	0.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#52 Anthony Bartman	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	11.4%	239	198	0.828	75%	Very Good	92	67	159	42.1%	46.9%	19.7%	15.9%	13.4%	40.6%
+#3 Jason Palesse	47.7%	114	97	0.851	67%	Very Good	41	31	72	43.1%	47.2%	19.3%	19.3%	15.8%	43.9%
+#23 Matthew Kirmse	15.9%	38	37	0.974	84%	Excellent	22	11	33	33.3%	43.9%	5.3%	10.5%	10.5%	36.8%
+#25 Nolan Henton	8.8%	21	15	0.714	43%	Average	5	6	11	54.5%	54.5%	28.6%	23.8%	19%	42.9%
+#12 Brian Dorn	8.4%	20	19	0.95	81%	Very Good	4	6	10	60%	60%	25%	25%	20%	50%
+#34 Sammy Linn	6.7%	16	7	0.438	10%	Poor	9	3	12	25%	29.2%	25%	0%	0%	18.8%
+#11 Bailey Mcdaniel	3.8%	9	8	0.889	-	-	2	3	5	60%	60%	33.3%	22.2%	22.2%	44.4%
+#33 Gabe Wear	2.1%	5	2	0.4	-	-	2	1	3	33.3%	33.3%	40%	0%	0%	20%
+#5 Luke Nelson	2.1%	5	4	0.8	-	-	2	2	4	50%	50%	20%	0%	0%	40%
+#21 Josh Herzog	2.1%	5	5	1	-	-	1	2	3	66.7%	83.3%	40%	0%	0%	40%
+#35 JakeGebert	1.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#2 Eddie Harwick	0.8%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	11.4%	238	261	1.097	58%	Good	75	111	186	59.7%	59.7%	11.8%	12.2%	12.2%	56.3%
+#50 Tegan Miles	22.7%	54	72	1.333	84%	Excellent	10	32	42	76.2%	76.2%	13%	11.1%	11.1%	68.5%
+#35 JakeGebert	16.4%	39	38	0.974	33%	Average	13	16	29	55.2%	55.2%	15.4%	10.3%	10.3%	51.3%
+#45 Travis Ballard	14.3%	34	32	0.941	29%	Below Average	17	15	32	46.9%	46.9%	2.9%	5.9%	5.9%	47.1%
+#3 Jason Palesse	10.5%	25	31	1.24	72%	Very Good	8	13	21	61.9%	61.9%	4%	12%	12%	64%
+#23 Matthew Kirmse	9.7%	23	31	1.348	85%	Excellent	7	12	19	63.2%	63.2%	0%	17.4%	17.4%	69.6%
+#25 Nolan Henton	6.7%	16	12	0.75	10%	Poor	4	4	8	50%	50%	31.3%	18.8%	18.8%	43.8%
+#33 Gabe Wear	5%	12	17	1.417	91%	Excellent	2	8	10	80%	80%	16.7%	8.3%	8.3%	66.7%
+#34 Sammy Linn	5%	12	6	0.5	1%	Poor	6	2	8	25%	25%	25%	8.3%	8.3%	25%
+#12 Brian Dorn	3.8%	9	11	1.222	-	-	3	5	8	62.5%	62.5%	0%	33.3%	33.3%	55.6%
+#11 Bailey Mcdaniel	3.4%	8	5	0.625	-	-	3	1	4	25%	25%	25%	25%	25%	37.5%
+#5 Luke Nelson	1.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#32 David Llorente	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#21 Josh Herzog	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#44 Matt Powers	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	10.7%	223	206	0.924	29%	Below Average	71	73	144	50.7%	55.9%	20.6%	18.4%	14.8%	44.4%
+#23 Matthew Kirmse	19.7%	44	58	1.318	91%	Excellent	18	20	38	52.6%	68.4%	4.5%	13.6%	11.4%	54.5%
+#3 Jason Palesse	17.9%	40	25	0.625	10%	Poor	13	6	19	31.6%	31.6%	27.5%	27.5%	20%	35%
+#35 JakeGebert	11.2%	25	22	0.88	36%	Average	9	8	17	47.1%	47.1%	20%	12%	8%	44%
+#34 Sammy Linn	9.4%	21	14	0.667	12%	Poor	5	6	11	54.5%	54.5%	38.1%	14.3%	14.3%	38.1%
+#11 Bailey Mcdaniel	8.5%	19	20	1.053	63%	Good	6	7	13	53.8%	53.8%	21.1%	21.1%	21.1%	47.4%
+#25 Nolan Henton	7.6%	17	17	1	55%	Good	2	5	7	71.4%	71.4%	23.5%	41.2%	23.5%	52.9%
+#12 Brian Dorn	6.3%	14	14	1	55%	Good	2	6	8	75%	75%	28.6%	21.4%	21.4%	50%
+#50 Tegan Miles	4.9%	11	10	0.909	41%	Average	2	4	6	66.7%	66.7%	18.2%	27.3%	27.3%	45.5%
+#33 Gabe Wear	4.9%	11	10	0.909	41%	Average	5	4	9	44.4%	55.6%	18.2%	0%	0%	36.4%
+#45 Travis Ballard	3.1%	7	10	1.429	-	-	2	5	7	71.4%	71.4%	0%	0%	0%	71.4%
+#5 Luke Nelson	2.2%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#21 Josh Herzog	2.2%	5	3	0.6	-	-	2	1	3	33.3%	33.3%	20%	20%	20%	40%
+#32 David Llorente	1.3%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#2 Eddie Harwick	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	9.3%	195	174	0.892	65%	Very Good	68	73	141	51.8%	51.8%	17.4%	11.8%	7.7%	46.2%
+#50 Tegan Miles	65.1%	127	117	0.921	66%	Very Good	41	48	89	53.9%	53.9%	16.5%	15%	8.7%	48.8%
+#45 Travis Ballard	20%	39	34	0.872	57%	Good	17	15	32	46.9%	46.9%	12.8%	5.1%	5.1%	43.6%
+#34 Sammy Linn	5.1%	10	3	0.3	1%	Poor	5	1	6	16.7%	16.7%	40%	10%	10%	10%
+#35 JakeGebert	4.1%	8	8	1	-	-	3	4	7	57.1%	57.1%	12.5%	0%	0%	50%
+#33 Gabe Wear	2.1%	4	6	1.5	-	-	0	2	2	100%	100%	25%	25%	25%	75%
+#54 Lennart Rieckmann	1.5%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#3 Jason Palesse	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#25 Nolan Henton	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Luke Nelson	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#52 Anthony Bartman	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	7.9%	166	151	0.91	57%	Good	86	58	144	40.3%	50%	9%	4.2%	1.2%	37.3%
+#23 Matthew Kirmse	56%	93	98	1.054	67%	Very Good	52	36	88	40.9%	54.5%	3.2%	2.2%	0%	39.8%
+#3 Jason Palesse	13.3%	22	14	0.636	18%	Below Average	11	5	16	31.3%	34.4%	13.6%	13.6%	0%	31.8%
+#45 Travis Ballard	7.2%	12	12	1	62%	Good	6	6	12	50%	50%	0%	0%	0%	50%
+#25 Nolan Henton	6.6%	11	10	0.909	50%	Average	4	4	8	50%	62.5%	27.3%	0%	0%	36.4%
+#33 Gabe Wear	6%	10	9	0.9	48%	Average	4	3	7	42.9%	50%	20%	10%	10%	40%
+#34 Sammy Linn	4.8%	8	6	0.75	-	-	4	3	7	42.9%	42.9%	12.5%	0%	0%	37.5%
+#35 JakeGebert	3%	5	2	0.4	-	-	3	1	4	25%	25%	0%	20%	20%	20%
+#11 Bailey Mcdaniel	1.8%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#12 Brian Dorn	1.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	4.3%	89	62	0.697	24%	Below Average	40	26	66	39.4%	40.2%	19.1%	11.2%	7.9%	34.8%
+#3 Jason Palesse	39.3%	35	22	0.629	25%	Below Average	19	8	27	29.6%	29.6%	11.4%	14.3%	5.7%	31.4%
+#34 Sammy Linn	18%	16	17	1.063	85%	Excellent	4	8	12	66.7%	66.7%	18.8%	18.8%	18.8%	56.3%
+#23 Matthew Kirmse	13.5%	12	6	0.5	11%	Poor	7	2	9	22.2%	22.2%	16.7%	8.3%	8.3%	25%
+#35 JakeGebert	5.6%	5	6	1.2	-	-	1	3	4	75%	75%	20%	20%	20%	60%
+#5 Luke Nelson	5.6%	5	0	0	-	-	2	0	2	0%	0%	60%	0%	0%	0%
+#50 Tegan Miles	4.5%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+#33 Gabe Wear	3.4%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#25 Nolan Henton	3.4%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#12 Brian Dorn	2.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#21 Josh Herzog	2.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#45 Travis Ballard	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Bailey Mcdaniel	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	4%	83	83	1	60%	Good	35	34	69	49.3%	51.4%	10.8%	9.6%	8.4%	47%
+#50 Tegan Miles	33.7%	28	23	0.821	28%	Below Average	12	9	21	42.9%	42.9%	14.3%	10.7%	7.1%	42.9%
+#45 Travis Ballard	22.9%	19	16	0.842	31%	Average	11	6	17	35.3%	35.3%	5.3%	15.8%	15.8%	36.8%
+#35 JakeGebert	15.7%	13	13	1	52%	Good	7	6	13	46.2%	50%	0%	0%	0%	46.2%
+#34 Sammy Linn	12%	10	18	1.8	100%	Excellent	1	7	8	87.5%	93.8%	10%	20%	20%	80%
+#33 Gabe Wear	6%	5	4	0.8	-	-	1	2	3	66.7%	66.7%	40%	0%	0%	40%
+#25 Nolan Henton	4.8%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#3 Jason Palesse	3.6%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#11 Bailey Mcdaniel	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	3.5%	74	95	1.284	97%	Excellent	12	34	46	73.9%	73.9%	17.6%	27%	17.6%	64.9%
+#50 Tegan Miles	28.4%	21	27	1.286	80%	Very Good	4	11	15	73.3%	73.3%	19%	23.8%	14.3%	57.1%
+#35 JakeGebert	28.4%	21	31	1.476	95%	Excellent	4	9	13	69.2%	69.2%	4.8%	42.9%	23.8%	76.2%
+#34 Sammy Linn	14.9%	11	11	1	39%	Average	3	4	7	57.1%	57.1%	18.2%	18.2%	18.2%	54.5%
+#45 Travis Ballard	6.8%	5	6	1.2	-	-	1	2	3	66.7%	66.7%	0%	40%	20%	80%
+#3 Jason Palesse	5.4%	4	4	1	-	-	0	2	2	100%	100%	50%	0%	0%	50%
+#23 Matthew Kirmse	5.4%	4	4	1	-	-	0	2	2	100%	100%	50%	0%	0%	50%
+#33 Gabe Wear	4.1%	3	4	1.333	-	-	0	1	1	100%	100%	33.3%	33.3%	33.3%	66.7%
+#25 Nolan Henton	2.7%	2	4	2	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#11 Bailey Mcdaniel	2.7%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#5 Luke Nelson	1.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	0.9%	19	18	0.947	80%	Very Good	6	6	12	50%	62.5%	26.3%	10.5%	10.5%	42.1%
+#3 Jason Palesse	42.1%	8	11	1.375	-	-	2	4	6	66.7%	91.7%	25%	0%	0%	50%
+#23 Matthew Kirmse	21.1%	4	2	0.5	-	-	2	0	2	0%	0%	25%	25%	25%	25%
+#12 Brian Dorn	10.5%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#45 Travis Ballard	5.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#35 JakeGebert	5.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#34 Sammy Linn	5.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#11 Bailey Mcdaniel	5.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#21 Josh Herzog	5.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Milwaukee School of Engineering	8.5%	178	101	0.567	80%	Very Good	16	5	21	23.8%	28.6%	50.6%	37.6%	2.2%	34.3%
+#3 Jason Palesse	23.6%	42	30	0.714	83%	Excellent	6	1	7	14.3%	14.3%	33.3%	50%	0%	42.9%
+#35 JakeGebert	12.9%	23	25	1.087	98%	Excellent	0	2	2	100%	125%	34.8%	56.5%	4.3%	60.9%
+#33 Gabe Wear	10.1%	18	11	0.611	72%	Very Good	0	0	0	-	-	61.1%	38.9%	0%	38.9%
+#50 Tegan Miles	8.4%	15	6	0.4	42%	Average	1	0	1	0%	0%	60%	33.3%	0%	26.7%
+#12 Brian Dorn	8.4%	15	3	0.2	15%	Below Average	1	0	1	0%	0%	80%	13.3%	6.7%	13.3%
+#34 Sammy Linn	7.3%	13	0	0	0%	Poor	2	0	2	0%	0%	84.6%	0%	0%	0%
+#23 Matthew Kirmse	6.7%	12	2	0.167	11%	Poor	4	0	4	0%	0%	50%	16.7%	8.3%	8.3%
+#25 Nolan Henton	5.6%	10	3	0.3	27%	Below Average	0	0	0	-	-	70%	30%	0%	20%
+#45 Travis Ballard	5.1%	9	8	0.889	-	-	2	1	3	33.3%	33.3%	11.1%	55.6%	11.1%	55.6%
+#11 Bailey Mcdaniel	3.9%	7	11	1.571	-	-	0	1	1	100%	150%	0%	85.7%	0%	85.7%
+#32 David Llorente	2.2%	4	1	0.25	-	-	0	0	0	-	-	75%	25%	0%	25%
+#21 Josh Herzog	2.2%	4	0	0	-	-	0	0	0	-	-	75%	25%	0%	0%
+#44 Matt Powers	1.7%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Eddie Harwick	1.1%	2	1	0.5	-	-	0	0	0	-	-	50%	50%	0%	50%
+#5 Luke Nelson	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

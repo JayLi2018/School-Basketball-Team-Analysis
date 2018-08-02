@@ -1,0 +1,591 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Wabash College Little Giants	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Wabash College Little Giants	Date Range: 11/17/2017 to 02/20/2018	Number of Games: 26
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	100%	2083	1843	0.885	54%	Good	903	617	1520	40.6%	47.1%	15.1%	14.2%	8%	40.1%
+ Transition	10.6%	220	200	0.909	25%	Below Average	90	66	156	42.3%	50.3%	17.7%	14.5%	9.5%	40.9%
+ Overall Half Court	89.4%	1863	1643	0.882	62%	Good	813	551	1364	40.4%	46.7%	14.8%	14.1%	7.8%	40%
+                    Short Shot Clock <4 Seconds	6.1%	127	64	0.504	12%	Poor	80	23	103	22.3%	25.2%	12.6%	6.3%	2.4%	23.6%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.6%	161	131	0.814	42%	Average	74	49	123	39.8%	45.5%	16.1%	10.6%	8.1%	36.6%
+         Out of Bounds (Side)	5%	93	70	0.753	34%	Average	47	21	68	30.9%	34.6%	15.1%	14%	10.8%	34.4%
+         After Time Outs	11.8%	219	170	0.776	29%	Below Average	102	55	157	35%	40.1%	17.4%	13.2%	7.3%	35.2%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	97.1%	1809	1584	0.876	62%	Good	794	530	1324	40%	46.2%	14.8%	14.3%	7.9%	39.9%
+    Against Zone	2.9%	54	59	1.093	93%	Excellent	19	21	40	52.5%	65%	16.7%	9.3%	3.7%	46.3%
+Breakdown of Full Court Press Situations:
+  Press Offense	5.3%	98	84	0.857	59%	Good	34	23	57	40.4%	49.1%	22.4%	19.4%	4.1%	40.8%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	23.8%	496	474	0.956	65%	Very Good	269	154	423	36.4%	49.6%	8.9%	6.7%	4.2%	36.3%
+ P&R Ball Handler	18.4%	383	291	0.76	51%	Good	181	79	260	30.4%	35%	17%	17.8%	12.3%	35.8%
+ Post-Up	10.8%	225	217	0.964	86%	Excellent	92	93	185	50.3%	50.3%	8.4%	11.6%	8%	48.4%
+ Transition	10.6%	220	200	0.909	25%	Below Average	90	66	156	42.3%	50.3%	17.7%	14.5%	9.5%	40.9%
+ Offensive Rebounds (put backs)	6%	126	126	1	33%	Average	48	54	102	52.9%	52.9%	10.3%	11.9%	7.9%	50%
+ Isolation	5.2%	108	82	0.759	42%	Average	52	26	78	33.3%	35.3%	13.9%	15.7%	10.2%	37%
+ Cut	5%	105	118	1.124	68%	Very Good	34	51	85	60%	60%	11.4%	12.4%	12.4%	56.2%
+ Off Screen	4.8%	100	87	0.87	49%	Average	59	29	88	33%	42%	6%	9%	7%	35%
+ Hand Off	4%	83	79	0.952	81%	Very Good	40	28	68	41.2%	50.7%	9.6%	10.8%	8.4%	41%
+ P&R Roll Man	3.8%	80	78	0.975	54%	Good	29	33	62	53.2%	56.5%	15%	11.3%	6.3%	47.5%
+ Miscellaneous	7.5%	157	91	0.58	83%	Excellent	9	4	13	30.8%	34.6%	52.2%	40.8%	3.8%	32.5%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6.7%	139	104	0.748	25%	Below Average	74	33	107	30.8%	34.6%	10.8%	13.7%	8.6%	35.3%
+  Pick and Rolls Including Passes	32.4%	674	565	0.838	51%	Good	316	180	496	36.3%	43.3%	15.3%	13.4%	9.1%	37.2%
+  Post-Ups Including Passes	13.5%	281	270	0.961	78%	Very Good	125	112	237	47.3%	49.6%	7.5%	10.3%	7.5%	46.3%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.5%	31	22	0.71	12%	Poor	22	7	29	24.1%	32.8%	0%	6.5%	3.2%	29%
+  P&R BH - Defense Commits	16.9%	353	289	0.819	56%	Good	135	101	236	42.8%	52.5%	25.8%	8.8%	4%	34.8%
+  Post-Up - Defense Commits	2.7%	56	53	0.946	36%	Average	33	19	52	36.5%	47.1%	3.6%	5.4%	5.4%	37.5%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.8%	17	10	0.588	35%	Average	1	3	4	75%	100%	64.7%	11.8%	0%	29.4%
+  Post-Up - Hard Double	1.3%	28	15	0.536	13%	Poor	17	7	24	29.2%	31.3%	14.3%	0%	0%	25%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	47.7%	651	624	0.959	56%	Good	427	224	651	34.4%	47.7%	0%	0.6%	0.6%	34.4%
+          Short Shot Clock <4 Seconds	3.8%	52	22	0.423	17%	Below Average	44	8	52	15.4%	21.2%	0%	0%	0%	15.4%
+Runner	6.4%	87	39	0.448	5%	Poor	68	19	87	21.8%	21.8%	0%	1.1%	1.1%	21.8%
+          Short Shot Clock <4 Seconds	0.4%	6	0	0	-	-	6	0	6	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	32.3%	441	452	1.025	22%	Below Average	226	215	441	48.8%	48.8%	0%	6.8%	6.8%	48.8%
+Post-Ups	13.6%	185	191	1.032	69%	Very Good	92	93	185	50.3%	50.3%	0%	2.7%	2.7%	50.3%
+          Short Shot Clock <4 Seconds	0.5%	7	4	0.571	-	-	5	2	7	28.6%	28.6%	0%	0%	0%	28.6%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	29%	396	425	1.073	67%	Very Good	253	143	396	36.1%	53.4%	0%	0.5%	0.5%	36.1%
+  Guarded	72%	285	277	0.972	50%	Average	192	93	285	32.6%	48.2%	0%	0.7%	0.7%	32.6%
+  Unguarded	28%	111	148	1.333	96%	Excellent	61	50	111	45%	66.7%	0%	0%	0%	45%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	16%	218	167	0.766	48%	Average	150	68	218	31.2%	38.1%	0%	0.5%	0.5%	31.2%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	18.6%	121	91	0.752	52%	Good	76	45	121	37.2%	37.2%	0%	1.7%	1.7%	37.2%
+Medium (17' to <3 point line)	6.8%	44	12	0.273	0%	Poor	38	6	44	13.6%	13.6%	0%	0%	0%	13.6%
+Long (3 point jump shots)	74.7%	486	521	1.072	70%	Very Good	313	173	486	35.6%	53.4%	0%	0.4%	0.4%	35.6%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	100%	2083	1843	0.885	54%	Good	903	617	1520	40.6%	47.1%	15.1%	14.2%	8%	40.1%
+#3 Jack Davidson	21.9%	457	468	1.024	87%	Excellent	168	117	285	41.1%	51.2%	16.2%	24.9%	13.1%	46.2%
+#0 Connor Rotterman	17.6%	366	286	0.781	39%	Average	182	95	277	34.3%	42.8%	16.4%	8.7%	4.6%	33.3%
+#41 Alex Eberhard	13.5%	281	252	0.897	64%	Good	115	83	198	41.9%	46.5%	16.4%	16.7%	10.3%	41.3%
+#33 Harrison Hallstrom	13.1%	272	288	1.059	91%	Excellent	88	120	208	57.7%	57.7%	13.2%	14.3%	9.2%	52.9%
+#12 ColtenGarland	11.8%	246	178	0.724	29%	Below Average	150	56	206	27.2%	35.9%	8.9%	7.3%	3.3%	29.7%
+#20 Parker Manges	6.3%	132	105	0.795	42%	Average	67	41	108	38%	47.2%	15.9%	2.3%	1.5%	32.6%
+#32 Logan White	5.7%	118	89	0.754	34%	Average	46	39	85	45.9%	45.9%	16.9%	13.6%	8.5%	38.1%
+#42 Conner Brens	2.5%	52	50	0.962	77%	Very Good	19	23	42	54.8%	54.8%	11.5%	13.5%	9.6%	48.1%
+#13 Ben Stachowski	2.4%	49	44	0.898	64%	Good	22	16	38	42.1%	51.3%	16.3%	6.1%	4.1%	38.8%
+#34 Dalton Vachon	1.5%	32	17	0.531	9%	Poor	11	7	18	38.9%	38.9%	28.1%	15.6%	9.4%	31.3%
+#11 Duncan Roy	1.3%	28	28	1	84%	Excellent	12	8	20	40%	55%	14.3%	14.3%	3.6%	39.3%
+#14 Rhett Helt	1.2%	26	26	1	84%	Excellent	11	9	20	45%	57.5%	15.4%	11.5%	7.7%	42.3%
+#31 Max Kurkowski	0.4%	9	6	0.667	-	-	3	2	5	40%	40%	22.2%	22.2%	0%	33.3%
+#2 Ronald Ryan	0.3%	7	3	0.429	-	-	3	0	3	0%	0%	28.6%	28.6%	28.6%	28.6%
+#1 Zach Anderson	0.2%	5	0	0	-	-	5	0	5	0%	0%	0%	0%	0%	0%
+#5 Blake Miller	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Matt Chinn	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#1 Max Flinchum	<1%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	23.8%	496	474	0.956	65%	Very Good	269	154	423	36.4%	49.6%	8.9%	6.7%	4.2%	36.3%
+#0 Connor Rotterman	21%	104	91	0.875	47%	Average	66	31	97	32%	45.4%	5.8%	1%	1%	30.8%
+#41 Alex Eberhard	19.2%	95	79	0.832	41%	Average	50	26	76	34.2%	42.8%	12.6%	9.5%	6.3%	33.7%
+#12 ColtenGarland	17.3%	86	88	1.023	72%	Very Good	51	29	80	36.3%	52.5%	4.7%	2.3%	1.2%	36%
+#3 Jack Davidson	14.7%	73	98	1.342	97%	Excellent	26	27	53	50.9%	69.8%	8.2%	19.2%	9.6%	54.8%
+#20 Parker Manges	12.5%	62	50	0.806	37%	Average	36	18	54	33.3%	44.4%	11.3%	1.6%	1.6%	30.6%
+#13 Ben Stachowski	4.2%	21	16	0.762	31%	Average	14	6	20	30%	40%	4.8%	0%	0%	28.6%
+#14 Rhett Helt	3%	15	15	1	69%	Very Good	7	5	12	41.7%	62.5%	20%	0%	0%	33.3%
+#11 Duncan Roy	2.8%	14	17	1.214	92%	Excellent	8	5	13	38.5%	57.7%	0%	7.1%	0%	42.9%
+#33 Harrison Hallstrom	2.4%	12	15	1.25	94%	Excellent	3	6	9	66.7%	66.7%	16.7%	25%	25%	58.3%
+#32 Logan White	1.2%	6	0	0	-	-	4	0	4	0%	0%	16.7%	16.7%	16.7%	0%
+#2 Ronald Ryan	0.4%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#31 Max Kurkowski	0.4%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#1 Zach Anderson	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Blake Miller	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Matt Chinn	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#1 Max Flinchum	0.2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	18.4%	383	291	0.76	51%	Good	181	79	260	30.4%	35%	17%	17.8%	12.3%	35.8%
+#3 Jack Davidson	48.3%	185	162	0.876	71%	Very Good	77	37	114	32.5%	39.9%	17.8%	24.3%	16.8%	40.5%
+#0 Connor Rotterman	25.6%	98	68	0.694	39%	Average	47	21	68	30.9%	33.8%	18.4%	13.3%	8.2%	33.7%
+#12 ColtenGarland	15.9%	61	33	0.541	19%	Below Average	40	10	50	20%	23%	9.8%	8.2%	4.9%	24.6%
+#41 Alex Eberhard	5.2%	20	20	1	88%	Excellent	8	7	15	46.7%	46.7%	10%	25%	25%	50%
+#20 Parker Manges	3.1%	12	4	0.333	5%	Poor	6	2	8	25%	25%	33.3%	0%	0%	16.7%
+#13 Ben Stachowski	0.8%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#2 Ronald Ryan	0.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Harrison Hallstrom	0.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#14 Rhett Helt	0.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#42 Conner Brens	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	10.8%	225	217	0.964	86%	Excellent	92	93	185	50.3%	50.3%	8.4%	11.6%	8%	48.4%
+#33 Harrison Hallstrom	44.4%	100	107	1.07	89%	Excellent	38	46	84	54.8%	54.8%	7%	10%	7%	54%
+#32 Logan White	24%	54	51	0.944	71%	Very Good	22	24	46	52.2%	52.2%	7.4%	7.4%	3.7%	48.1%
+#41 Alex Eberhard	16.9%	38	27	0.711	29%	Below Average	19	9	28	32.1%	32.1%	15.8%	18.4%	15.8%	34.2%
+#42 Conner Brens	10.7%	24	25	1.042	86%	Excellent	9	12	21	57.1%	57.1%	8.3%	8.3%	4.2%	50%
+#34 Dalton Vachon	3.1%	7	5	0.714	-	-	3	2	5	40%	40%	0%	28.6%	28.6%	42.9%
+#13 Ben Stachowski	0.4%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+#14 Rhett Helt	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	10.6%	220	200	0.909	25%	Below Average	90	66	156	42.3%	50.3%	17.7%	14.5%	9.5%	40.9%
+#3 Jack Davidson	31.8%	70	76	1.086	69%	Very Good	22	26	48	54.2%	64.6%	18.6%	17.1%	8.6%	48.6%
+#0 Connor Rotterman	27.3%	60	45	0.75	19%	Below Average	28	15	43	34.9%	41.9%	20%	10%	6.7%	33.3%
+#12 ColtenGarland	13.2%	29	13	0.448	3%	Poor	17	3	20	15%	20%	20.7%	10.3%	10.3%	20.7%
+#20 Parker Manges	8.2%	18	17	0.944	47%	Average	9	6	15	40%	53.3%	11.1%	5.6%	0%	38.9%
+#41 Alex Eberhard	6.4%	14	18	1.286	89%	Excellent	4	6	10	60%	65%	14.3%	21.4%	14.3%	57.1%
+#33 Harrison Hallstrom	4.5%	10	15	1.5	98%	Excellent	1	5	6	83.3%	83.3%	10%	30%	20%	80%
+#13 Ben Stachowski	4.1%	9	9	1	-	-	2	2	4	50%	75%	33.3%	22.2%	22.2%	44.4%
+#32 Logan White	2.3%	5	5	1	-	-	3	2	5	40%	40%	0%	20%	20%	40%
+#14 Rhett Helt	0.9%	2	2	1	-	-	1	1	2	50%	50%	0%	50%	50%	50%
+#1 Zach Anderson	0.9%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#2 Ronald Ryan	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	6%	126	126	1	33%	Average	48	54	102	52.9%	52.9%	10.3%	11.9%	7.9%	50%
+#33 Harrison Hallstrom	43.7%	55	62	1.127	58%	Good	21	28	49	57.1%	57.1%	7.3%	9.1%	7.3%	54.5%
+#32 Logan White	13.5%	17	9	0.529	3%	Poor	9	4	13	30.8%	30.8%	17.6%	11.8%	11.8%	23.5%
+#41 Alex Eberhard	11.1%	14	16	1.143	61%	Good	4	6	10	60%	60%	14.3%	14.3%	7.1%	57.1%
+#20 Parker Manges	6.3%	8	10	1.25	-	-	1	5	6	83.3%	83.3%	12.5%	12.5%	12.5%	62.5%
+#0 Connor Rotterman	6.3%	8	6	0.75	-	-	3	3	6	50%	50%	25%	0%	0%	37.5%
+#34 Dalton Vachon	5.6%	7	5	0.714	-	-	3	2	5	40%	40%	14.3%	14.3%	14.3%	42.9%
+#42 Conner Brens	4.8%	6	5	0.833	-	-	3	2	5	40%	40%	0%	16.7%	16.7%	50%
+#3 Jack Davidson	4%	5	5	1	-	-	2	0	2	0%	0%	0%	60%	0%	60%
+#13 Ben Stachowski	2.4%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#12 ColtenGarland	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Rhett Helt	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#31 Max Kurkowski	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	5.2%	108	82	0.759	42%	Average	52	26	78	33.3%	35.3%	13.9%	15.7%	10.2%	37%
+#3 Jack Davidson	32.4%	35	25	0.714	37%	Average	16	6	22	27.3%	29.5%	17.1%	22.9%	11.4%	34.3%
+#0 Connor Rotterman	19.4%	21	17	0.81	53%	Good	10	6	16	37.5%	40.6%	14.3%	9.5%	4.8%	38.1%
+#41 Alex Eberhard	14.8%	16	17	1.063	85%	Excellent	5	4	9	44.4%	44.4%	12.5%	31.3%	25%	56.3%
+#33 Harrison Hallstrom	12%	13	12	0.923	71%	Very Good	6	5	11	45.5%	45.5%	7.7%	15.4%	15.4%	46.2%
+#12 ColtenGarland	11.1%	12	7	0.583	20%	Below Average	7	3	10	30%	35%	16.7%	0%	0%	25%
+#20 Parker Manges	3.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#42 Conner Brens	3.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#32 Logan White	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Ronald Ryan	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Rhett Helt	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	5%	105	118	1.124	68%	Very Good	34	51	85	60%	60%	11.4%	12.4%	12.4%	56.2%
+#33 Harrison Hallstrom	32.4%	34	35	1.029	41%	Average	12	16	28	57.1%	57.1%	14.7%	8.8%	8.8%	50%
+#41 Alex Eberhard	18.1%	19	24	1.263	74%	Very Good	6	11	17	64.7%	64.7%	5.3%	5.3%	5.3%	63.2%
+#32 Logan White	10.5%	11	11	1	35%	Average	4	4	8	50%	50%	9.1%	18.2%	18.2%	54.5%
+#3 Jack Davidson	6.7%	7	14	2	-	-	0	5	5	100%	100%	0%	57.1%	57.1%	100%
+#0 Connor Rotterman	6.7%	7	6	0.857	-	-	4	3	7	42.9%	42.9%	0%	0%	0%	42.9%
+#34 Dalton Vachon	5.7%	6	0	0	-	-	4	0	4	0%	0%	33.3%	0%	0%	0%
+#20 Parker Manges	3.8%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#42 Conner Brens	3.8%	4	5	1.25	-	-	1	2	3	66.7%	66.7%	25%	25%	25%	50%
+#11 Duncan Roy	2.9%	3	4	1.333	-	-	0	1	1	100%	100%	33.3%	33.3%	33.3%	66.7%
+#13 Ben Stachowski	2.9%	3	4	1.333	-	-	0	2	2	100%	100%	33.3%	0%	0%	66.7%
+#14 Rhett Helt	2.9%	3	3	1	-	-	1	1	2	50%	50%	0%	33.3%	33.3%	66.7%
+#12 ColtenGarland	1.9%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#31 Max Kurkowski	1.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	4.8%	100	87	0.87	49%	Average	59	29	88	33%	42%	6%	9%	7%	35%
+#3 Jack Davidson	25%	25	29	1.16	79%	Very Good	12	8	20	40%	55%	4%	20%	12%	48%
+#0 Connor Rotterman	25%	25	26	1.04	66%	Very Good	12	9	21	42.9%	54.8%	12%	8%	8%	40%
+#12 ColtenGarland	19%	19	7	0.368	4%	Poor	16	2	18	11.1%	13.9%	0%	5.3%	5.3%	15.8%
+#20 Parker Manges	12%	12	9	0.75	29%	Below Average	7	3	10	30%	45%	16.7%	0%	0%	25%
+#41 Alex Eberhard	10%	10	9	0.9	48%	Average	6	4	10	40%	40%	0%	10%	10%	40%
+#13 Ben Stachowski	3%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#33 Harrison Hallstrom	2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#1 Zach Anderson	2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#11 Duncan Roy	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#31 Max Kurkowski	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	4%	83	79	0.952	81%	Very Good	40	28	68	41.2%	50.7%	9.6%	10.8%	8.4%	41%
+#12 ColtenGarland	27.7%	23	17	0.739	37%	Average	16	7	23	30.4%	37%	0%	0%	0%	30.4%
+#3 Jack Davidson	24.1%	20	19	0.95	65%	Very Good	10	6	16	37.5%	46.9%	10%	15%	15%	40%
+#0 Connor Rotterman	19.3%	16	17	1.063	76%	Very Good	8	6	14	42.9%	60.7%	12.5%	0%	0%	37.5%
+#41 Alex Eberhard	12%	10	14	1.4	97%	Excellent	1	4	5	80%	90%	20%	40%	30%	70%
+#20 Parker Manges	7.2%	6	7	1.167	-	-	3	3	6	50%	58.3%	0%	0%	0%	50%
+#13 Ben Stachowski	3.6%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#2 Ronald Ryan	2.4%	2	1	0.5	-	-	0	0	0	-	-	50%	50%	50%	50%
+#11 Duncan Roy	1.2%	1	0	0	-	-	0	0	0	-	-	0%	100%	0%	0%
+#33 Harrison Hallstrom	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#14 Rhett Helt	1.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	3.8%	80	78	0.975	54%	Good	29	33	62	53.2%	56.5%	15%	11.3%	6.3%	47.5%
+#33 Harrison Hallstrom	31.3%	25	28	1.12	70%	Very Good	6	11	17	64.7%	64.7%	16%	20%	8%	60%
+#41 Alex Eberhard	25%	20	15	0.75	21%	Below Average	11	6	17	35.3%	44.1%	10%	5%	0%	30%
+#32 Logan White	13.8%	11	11	1	52%	Good	4	5	9	55.6%	55.6%	18.2%	9.1%	9.1%	45.5%
+#42 Conner Brens	13.8%	11	13	1.182	78%	Very Good	2	6	8	75%	75%	18.2%	18.2%	18.2%	63.6%
+#34 Dalton Vachon	6.3%	5	6	1.2	-	-	1	3	4	75%	75%	20%	0%	0%	60%
+#11 Duncan Roy	5%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#0 Connor Rotterman	3.8%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#31 Max Kurkowski	1.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wabash College Little Giants	7.5%	157	91	0.58	83%	Excellent	9	4	13	30.8%	34.6%	52.2%	40.8%	3.8%	32.5%
+#3 Jack Davidson	23.6%	37	40	1.081	98%	Excellent	3	2	5	40%	50%	35.1%	54.1%	5.4%	54.1%
+#41 Alex Eberhard	15.9%	25	13	0.52	59%	Good	1	0	1	0%	0%	60%	36%	0%	28%
+#0 Connor Rotterman	15.3%	24	10	0.417	44%	Average	1	1	2	50%	50%	58.3%	33.3%	4.2%	29.2%
+#33 Harrison Hallstrom	12.1%	19	10	0.526	60%	Good	0	1	1	100%	100%	57.9%	42.1%	10.5%	26.3%
+#32 Logan White	8.3%	13	2	0.154	10%	Poor	0	0	0	-	-	61.5%	38.5%	7.7%	15.4%
+#12 ColtenGarland	8.3%	13	9	0.692	80%	Very Good	2	0	2	0%	0%	30.8%	53.8%	0%	46.2%
+#34 Dalton Vachon	4.5%	7	1	0.143	-	-	0	0	0	-	-	71.4%	28.6%	0%	14.3%
+#20 Parker Manges	3.8%	6	0	0	-	-	1	0	1	0%	0%	83.3%	0%	0%	0%
+#11 Duncan Roy	3.2%	5	2	0.4	-	-	1	0	1	0%	0%	60%	20%	0%	20%
+#13 Ben Stachowski	1.9%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#31 Max Kurkowski	1.3%	2	2	1	-	-	0	0	0	-	-	0%	100%	0%	50%
+#42 Conner Brens	1.3%	2	0	0	-	-	0	0	0	-	-	50%	50%	0%	0%
+#14 Rhett Helt	0.6%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

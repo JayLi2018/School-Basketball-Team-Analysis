@@ -1,0 +1,122 @@
+IllinoisTech
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb_
+Malik_Howze	34	1.49	0.62	13	0.93	8	2	4.00	0	2	0	8	1	7
+Jake_Bruns	26	0.87	-.19	16	1.00	1	6	0.17	1	1	0	3	0	3
+Calvin_Schmitz	28	0.38	0.11	5	2.50	1	0	0.00	0	0	0	1	0	1
+Capriest_Gardner	15	-.05	0.13	0	0.00	0	2	0.00	1	0	0	4	0	4
+Brett_Ott	2	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Jake_Digiorgio	35	0.79	0.26	16	0.80	0	4	0.00	0	3	1	11	4	7
+Max_Hisatake	20	2.04	0.70	16	1.14	0	3	0.00	3	1	2	8	2	6
+Parker_Joncus	36	0.28	0.31	2	0.33	4	0	0.00	0	0	0	2	1	1
+Kohl_Linder	4	-.50	-.50	0	0.00	0	1	0.00	0	0	0	0	0	0
+Team_Totals	40	0.80	0.26	68	0.87	14	18	0.78	5	7	3	37	8	29
+
+IllinoisTech_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Malik_Howze	9	4	5	44.4%	44.4%	8	4	4	50%	1	0	1	0%	7	5	2	71.4%	1	4	0
+Jake_Bruns	9	5	4	55.6%	77.8%	3	1	2	33.3%	6	4	2	66.7%	2	2	0	100%	0	4	4
+Calvin_Schmitz	2	2	0	100%	125%	1	1	0	100%	1	1	0	100%	0	0	0	-	0	0	2
+Capriest_Gardner	3	0	3	0%	0%	3	0	3	0%	0	0	0	-	0	0	0	-	0	3	3
+Brett_Ott	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Jake_Digiorgio	15	8	7	53.3%	53.3%	14	8	6	57.1%	1	0	1	0%	0	0	0	-	0	0	1
+Max_Hisatake	9	7	2	77.8%	77.8%	9	7	2	77.8%	0	0	0	-	5	2	3	40%	2	5	3
+Parker_Joncus	6	1	5	16.7%	16.7%	2	1	1	50%	4	0	4	0%	0	0	0	-	0	0	0
+Kohl_Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	1	1
+Team_Totals	53	27	26	50.9%	55.7%	40	22	18	55%	13	5	8	38.5%	14	9	5	64.3%	3	17	14
+
+
+DominicanIL
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb_
+Jonny_Woolf	35	1.08	0.66	14	0.93	3	1	3.00	3	1	2	7	2	5
+Nick_LaVere	21	0.56	0.10	4	0.67	1	1	1.00	0	1	0	2	0	2
+Dennis_Handy	9	0.69	0.44	2	1.00	1	0	0.00	1	0	0	0	0	0
+Andrew_Wojcik	29	0.29	0.10	4	1.00	1	1	1.00	1	0	0	1	0	1
+Jackson_Smith	14	-.04	-.14	2	0.50	0	1	0.00	0	0	0	0	0	0
+Domenic_Aiello	11	0.22	0.36	0	0.00	1	1	1.00	2	1	0	0	0	0
+Rory_Cunningham	23	0.37	0.09	6	0.60	1	1	1.00	0	0	0	2	0	2
+Isaac_Moore	13	1.03	0.08	9	1.29	0	2	0.00	0	1	1	3	0	3
+Tim_Robertson	36	0.61	0.22	14	0.82	3	1	3.00	0	0	0	4	0	4
+Connor_Dartt	9	0.52	0.00	3	1.00	1	2	0.50	0	1	0	2	0	2
+Team_Totals	40	0.57	0.22	58	0.82	12	11	1.09	7	5	3	21	2	19
+
+DominicanIL_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Jonny_Woolf	14	6	8	42.9%	50%	8	4	4	50%	6	2	4	33.3%	0	0	0	-	0	0	2
+Nick_LaVere	4	1	3	25%	25%	3	1	2	33.3%	1	0	1	0%	2	2	0	100%	0	1	1
+Dennis_Handy	2	1	1	50%	50%	2	1	1	50%	0	0	0	-	0	0	0	-	0	0	4
+Andrew_Wojcik	3	2	1	66.7%	66.7%	2	2	0	100%	1	0	1	0%	0	0	0	-	0	0	2
+Jackson_Smith	3	1	2	33.3%	33.3%	2	1	1	50%	1	0	1	0%	0	0	0	-	0	1	1
+Domenic_Aiello	2	0	2	0%	0%	0	0	0	-	2	0	2	0%	0	0	0	-	0	0	2
+Rory_Cunningham	8	2	6	25%	31.2%	4	1	3	25%	4	1	3	25%	2	1	1	50%	0	1	1
+Isaac_Moore	5	3	2	60%	90%	0	0	0	-	5	3	2	60%	0	0	0	-	0	0	1
+Tim_Robertson	16	7	9	43.8%	43.8%	13	7	6	53.8%	3	0	3	0%	0	0	0	-	0	0	0
+Connor_Dartt	1	1	0	100%	150%	0	0	0	-	1	1	0	100%	0	0	0	-	0	1	3
+Team_Totals	58	24	34	41.4%	47.4%	34	17	17	50%	24	7	17	29.2%	4	3	1	75%	0	4	17
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.100	_	_

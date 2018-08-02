@@ -1,0 +1,62 @@
+
+Stats Grid - General Selections
+All Clips	123	103	226	65	50	115	58	53	111
+   All Possession Clips	90	87	177	47	43	90	43	44	87
+   Non Possessions	33	16	49	18	7	25	15	9	24
+Points	38	32	70	20	12	32	18	20	38
+No Points	52	55	107	27	31	58	25	24	49
+Total Rebounds	42	27	69	22	13	35	18	14	32
+   Offensive Rebounds	12	4	16	6	1	7	4	3	7
+   Defensive Rebounds	30	23	53	16	12	28	14	11	25
+Assists	8	16	24	4	7	11	4	9	13
+Turnovers	15	13	28	8	10	18	10	5	15
+Steals	10	4	14	6	2	8	4	2	6
+Stolen Possessions	4	10	14	2	6	8	2	4	6
+Blocks	6	1	7	4	0	4	2	1	3
+
+Shots
+All Free Throws	22	12	34	14	5	19	8	7	15
+   Live Free Throws	14	7	21	9	3	12	5	4	9
+FG Attempts	61	67	128	32	31	63	29	36	65
+   FG Made	29	27	56	15	10	25	14	17	31
+   FG Missed	32	40	72	17	21	38	15	19	34
+2FG Attempts	44	49	93	22	20	42	22	29	51
+   2FG Made	26	21	47	13	7	20	13	14	27
+   2FG Missed	18	28	46	9	13	22	9	15	24
+3FG Attempts	17	18	35	10	11	21	7	7	14
+   3FG Made	3	6	9	2	3	5	1	3	4
+   3FG Missed	14	12	26	8	8	16	6	4	10
+Unguarded Jump Shots	8	7	15	4	4	8	4	3	7
+Guarded Jump Shots	6	11	17	3	4	7	3	7	10
+Short Jump Shots (<17')	4	7	11	3	1	4	1	6	7
+Medium Jump Shots (17' to <3 point line)	4	5	9	2	2	4	2	3	5
+Long Jump Shots (3 point shots)	17	18	35	10	11	21	7	7	14
+
+Sets
+Half Court Set All	68	65	133	33	32	65	35	33	68
+   Half Court Set All - Pts	29	21	50	13	9	22	16	12	28
+   Half Court Set All - No Pts	39	44	83	20	23	43	19	21	40
+Half Court Set vs. Man	65	65	130	33	32	65	32	33	65
+   Half Court Set vs. Man - Pts	28	21	49	13	9	22	15	12	27
+   Half Court Set vs. Man - No Pts	37	44	81	20	23	43	17	21	38
+Half Court Set vs. Zone	3	0	3	0	0	0	3	0	3
+   Half Court Set vs. Zone - Pts	1	0	1	0	0	0	1	0	1
+   Half Court Set vs. Zone - No Pts	2	0	2	0	0	0	2	0	2
+Last 4 Sec. of Shot Clock	2	8	10	0	5	5	2	3	5
+Out of Bounds	6	6	12	2	2	4	4	4	8
+   Out of Bounds (Side)	1	2	3	0	1	1	1	1	2
+   Out of Bounds (End)	5	4	9	2	1	3	3	3	6
+After Time Outs (ATO)	8	8	16	2	2	4	6	6	12
+
+Transition
+All Push Ball	36	33	69	25	17	42	11	16	27
+   Push Ball to Half Court Off.	14	11	25	11	6	17	3	5	8
+   Push Ball from Turnover	8	4	12	6	2	8	2	2	4
+   Push Ball from Shot Attempt	28	29	57	19	15	34	9	14	23
+Transition Offense	19	19	38	13	8	21	6	11	17
+   Transition Turnover	3	3	6	1	3	4	2	0	2
+Press Offense	13	1	14	4	0	4	9	1	10
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

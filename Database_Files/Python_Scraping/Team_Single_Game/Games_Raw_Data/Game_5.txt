@@ -1,0 +1,130 @@
+WheatonIL
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb 
+Aston Francis	35	1.45	0.60	24	1.04	7	1	7.00	1	0	0	6	1	5
+Kobe Eichelberger	27	1.57	0.56	20	1.54	2	1	2.00	0	0	0	9	4	5
+Trevor Gunter	10	1.02	1.20	0	0.00	1	0	0.00	1	0	2	3	1	2
+Zac Holman	1	3.00	3.00	0	-	0	0	0.00	0	0	1	1	0	1
+Tyrel Derrick	1	3.10	0.00	2	2.00	0	0	0.00	0	0	0	0	0	0
+Zack Kvam	20	0.51	0.40	2	0.40	5	3	1.67	2	2	0	0	0	0
+Cade Alioth	1	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Ricky Samuelson	27	0.47	0.33	5	0.71	1	0	0.00	2	0	1	1	0	1
+Jay Spencer	23	0.70	0.43	5	1.00	0	1	0.00	0	0	5	1	1	0
+Reagan Jones	1	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Mark Champion	1	-.80	0.00	0	0.00	0	0	0.00	0	0	0	0	0	0
+Luke Peters	35	0.66	0.23	11	0.85	2	3	0.67	0	0	1	6	2	4
+Spencer Peterson	18	1.07	0.39	7	1.40	0	0	0.00	1	0	0	4	1	3
+Team Totals	40	0.95	0.46	76	1.03	18	9	2	7	2	10	31	10	21
+
+WheatonIL_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Aston Francis	21	10	11	47.6%	54.8%	15	7	8	46.7%	6	3	3	50%	2	1	1	50%	0	2	2
+Kobe Eichelberger	12	9	3	75%	83.3%	10	7	3	70%	2	2	0	100%	1	0	1	0%	1	1	0
+Trevor Gunter	2	0	2	0%	0%	2	0	2	0%	0	0	0	-	0	0	0	-	0	0	0
+Zac Holman	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Tyrel Derrick	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	0
+Zack Kvam	2	1	1	50%	50%	2	1	1	50%	0	0	0	-	0	0	0	-	0	0	1
+Cade Alioth	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Ricky Samuelson	7	2	5	28.6%	35.7%	2	1	1	50%	5	1	4	20%	0	0	0	-	0	0	1
+Jay Spencer	4	2	2	50%	62.5%	1	1	0	100%	3	1	2	33.3%	0	0	0	-	0	0	2
+Reagan Jones	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Mark Champion	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	0
+Luke Peters	8	5	3	62.5%	62.5%	7	5	2	71.4%	1	0	1	0%	4	1	3	25%	0	2	2
+Spencer Peterson	4	3	1	75%	75%	4	3	1	75%	0	0	0	-	2	1	1	50%	0	1	4
+Team Totals	62	33	29	53.2%	58.9%	44	26	18	59.1%	18	7	11	38.9%	9	3	6	33.3%	1	6	12
+
+
+IllinoisTech
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb
+Anthony Mosley	33	0.83	0.00	21	0.88	1	2	0.50	0	0	1	0	0	0
+Jake Bruns	28	0.37	-.07	9	1.29	1	2	0.50	0	2	0	0	0	0
+Jason Morris	3	-.67	-.67	0	0.00	0	1	0.00	0	1	0	0	0	0
+Calvin Schmitz	5	1.16	1.20	2	0.40	0	0	0.00	0	0	0	4	2	2
+Capriest Gardner	20	0.65	0.25	4	0.50	1	1	1.00	0	1	1	2	1	1
+Brett Ott	2	0.05	0.50	0	0.00	0	0	0.00	0	0	0	1	0	1
+Jake Digiorgio	32	1.35	0.75	10	0.62	1	2	0.50	2	1	1	12	8	4
+Max Hisatake	32	0.64	0.47	8	0.47	0	5	0.00	0	1	2	15	6	9
+Parker Joncus	33	0.16	0.12	1	0.20	2	1	2.00	0	1	0	2	0	2
+Kohl Linder	12	0.08	0.08	0	-	0	0	0.00	0	0	0	1	0	1
+Team Totals	40	0.62	0.26	55	0.65	6	14	0.43	2	7	5	37	17	20
+
+IllinoisTech_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Anthony Mosley	20	8	12	40%	47.5%	15	5	10	33.3%	5	3	2	60%	3	2	1	66.7%	1	3	1
+Jake Bruns	5	3	2	60%	90%	1	0	1	0%	4	3	1	75%	0	0	0	-	0	0	1
+Jason Morris	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Calvin Schmitz	5	1	4	20%	20%	2	1	1	50%	3	0	3	0%	0	0	0	-	0	0	0
+Capriest Gardner	6	1	5	16.7%	16.7%	5	1	4	20%	1	0	1	0%	2	2	0	100%	0	1	0
+Brett Ott	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	0	0	0	-	0	0	0
+Jake Digiorgio	13	3	10	23.1%	23.1%	11	3	8	27.3%	2	0	2	0%	4	4	0	100%	0	3	1
+Max Hisatake	10	4	6	40%	40%	10	4	6	40%	0	0	0	-	2	0	2	0%	0	1	3
+Parker Joncus	3	0	3	0%	0%	2	0	2	0%	1	0	1	0%	2	1	1	50%	0	1	2
+Kohl Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	2
+Team Totals	63	20	43	31.8%	36.5%	47	14	33	29.8%	16	6	10	37.5%	13	9	4	69.2%	1	9	10
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

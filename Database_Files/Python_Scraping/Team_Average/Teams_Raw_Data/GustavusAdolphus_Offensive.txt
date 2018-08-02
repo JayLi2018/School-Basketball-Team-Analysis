@@ -1,0 +1,601 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Gustavus Adolphus	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Gustavus Adolphus	Date Range: 11/17/2017 to 02/14/2018	Number of Games: 24
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	100%	1834	1606	0.876	48%	Average	749	614	1363	45%	50.3%	17.6%	10.2%	7%	40.4%
+ Transition	15%	275	277	1.007	64%	Good	88	102	190	53.7%	60.3%	19.6%	14.5%	12.7%	46.9%
+ Overall Half Court	85%	1559	1329	0.852	47%	Average	661	512	1173	43.6%	48.7%	17.2%	9.4%	6%	39.3%
+                    Short Shot Clock <4 Seconds	6.3%	116	80	0.69	50%	Average	68	33	101	32.7%	36.1%	7.8%	6.9%	6%	31.9%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.3%	130	122	0.938	81%	Very Good	53	51	104	49%	53.8%	15.4%	5.4%	4.6%	43.1%
+         Out of Bounds (Side)	4.8%	75	51	0.68	19%	Below Average	40	21	61	34.4%	37.7%	14.7%	4%	2.7%	32%
+         After Time Outs	11.6%	181	135	0.746	19%	Below Average	93	54	147	36.7%	40.5%	12.7%	7.2%	5%	34.8%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	94.1%	1467	1235	0.842	44%	Average	618	476	1094	43.5%	48.3%	17.7%	9.6%	6.1%	39%
+    Against Zone	5.9%	92	94	1.022	84%	Excellent	43	36	79	45.6%	54.4%	9.8%	6.5%	4.3%	43.5%
+Breakdown of Full Court Press Situations:
+  Press Offense	7.4%	116	107	0.922	76%	Very Good	35	35	70	50%	54.3%	21.6%	21.6%	7.8%	44.8%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	26.1%	479	429	0.896	42%	Average	255	160	415	38.6%	49.3%	11.1%	3.8%	3.5%	35.3%
+ Transition	15%	275	277	1.007	64%	Good	88	102	190	53.7%	60.3%	19.6%	14.5%	12.7%	46.9%
+ Cut	12.2%	223	243	1.09	56%	Good	76	109	185	58.9%	58.9%	10.3%	10.8%	10.3%	54.3%
+ Post-Up	11.3%	208	179	0.861	57%	Good	76	79	155	51%	51%	18.8%	7.7%	6.7%	44.7%
+ Off Screen	9.9%	181	151	0.834	38%	Average	99	64	163	39.3%	42.9%	7.2%	4.4%	4.4%	38.1%
+ Isolation	7.9%	145	107	0.738	36%	Average	71	42	113	37.2%	39.4%	15.9%	9%	8.3%	34.5%
+ Offensive Rebounds (put backs)	4.6%	84	74	0.881	10%	Poor	31	29	60	48.3%	48.3%	14.3%	19%	13.1%	45.2%
+ P&R Ball Handler	2.9%	54	42	0.778	57%	Good	27	15	42	35.7%	45.2%	18.5%	3.7%	3.7%	31.5%
+ Hand Off	1.4%	26	21	0.808	50%	Average	13	6	19	31.6%	39.5%	11.5%	15.4%	15.4%	38.5%
+ P&R Roll Man	0.4%	7	10	1.429	-	-	2	3	5	60%	70%	14.3%	14.3%	14.3%	57.1%
+ Miscellaneous	8.3%	152	73	0.48	54%	Good	11	5	16	31.3%	31.3%	59.9%	29.6%	1.3%	27%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	9.7%	178	138	0.775	32%	Average	85	56	141	39.7%	42.2%	15.7%	7.9%	7.3%	36%
+  Pick and Rolls Including Passes	4.3%	79	69	0.873	63%	Good	37	25	62	40.3%	50%	17.7%	3.8%	3.8%	35.4%
+  Post-Ups Including Passes	16%	293	260	0.887	54%	Good	119	111	230	48.3%	51.1%	15.7%	7.5%	6.8%	43.3%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.8%	33	31	0.939	45%	Average	14	14	28	50%	53.6%	15.2%	3%	3%	42.4%
+  P&R BH - Defense Commits	1.8%	33	27	0.818	55%	Good	10	10	20	50%	60%	36.4%	3%	3%	33.3%
+  Post-Up - Defense Commits	4.6%	85	81	0.953	38%	Average	43	32	75	42.7%	51.3%	8.2%	7.1%	7.1%	40%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Post-Up - Hard Double	2.1%	38	32	0.842	58%	Good	16	12	28	42.9%	55.4%	23.7%	5.3%	5.3%	34.2%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	53.5%	627	563	0.898	34%	Average	406	221	627	35.2%	44.7%	0%	0.8%	0.8%	35.2%
+          Short Shot Clock <4 Seconds	5.1%	60	44	0.733	69%	Very Good	42	18	60	30%	35.8%	0%	1.7%	1.7%	30%
+Runner	3.9%	46	37	0.804	73%	Very Good	28	18	46	39.1%	39.1%	0%	2.2%	2.2%	39.1%
+          Short Shot Clock <4 Seconds	0.5%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+Around Basket (not Post-Ups)	29.4%	345	402	1.165	75%	Very Good	151	194	345	56.2%	56.2%	0%	6.1%	6.1%	56.2%
+Post-Ups	13.2%	155	158	1.019	66%	Very Good	76	79	155	51%	51%	0%	1.3%	1.3%	51%
+          Short Shot Clock <4 Seconds	1.2%	14	4	0.286	0%	Poor	12	2	14	14.3%	14.3%	0%	0%	0%	14.3%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	34.7%	407	387	0.951	25%	Below Average	264	143	407	35.1%	47.4%	0%	0.7%	0.7%	35.1%
+  Guarded	67.6%	275	266	0.967	47%	Average	176	99	275	36%	48.2%	0%	1.1%	1.1%	36%
+  Unguarded	32.4%	132	121	0.917	11%	Poor	88	44	132	33.3%	45.8%	0%	0%	0%	33.3%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	15.2%	178	138	0.775	52%	Good	114	64	178	36%	38.2%	0%	1.1%	1.1%	36%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	20.4%	128	104	0.812	71%	Very Good	77	51	128	39.8%	39.8%	0%	1.6%	1.6%	39.8%
+Medium (17' to <3 point line)	18.5%	116	104	0.897	92%	Excellent	64	52	116	44.8%	44.8%	0%	0%	0%	44.8%
+Long (3 point jump shots)	61.1%	383	355	0.927	20%	Below Average	265	118	383	30.8%	46.2%	0%	0.8%	0.8%	30.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	100%	1834	1606	0.876	48%	Average	749	614	1363	45%	50.3%	17.6%	10.2%	7%	40.4%
+#21 Riley Sharbono	18.1%	332	336	1.012	85%	Excellent	133	111	244	45.5%	52.7%	13.9%	16.9%	11.4%	44.9%
+#4 Kelsey Thomas	14.4%	265	260	0.981	81%	Very Good	83	102	185	55.1%	60.5%	22.3%	9.8%	6.8%	45.3%
+#23 Vannis Smith	14.1%	259	203	0.784	40%	Average	127	82	209	39.2%	44.3%	15.4%	4.2%	2.7%	35.1%
+#32 Jason Faul	12.8%	234	243	1.038	89%	Excellent	82	108	190	56.8%	57.4%	12.8%	7.7%	4.7%	51.3%
+#3 Zach Bloemker	8.6%	157	122	0.777	38%	Average	71	41	112	36.6%	47.3%	22.3%	8.3%	6.4%	31.8%
+#20 Spencer Tollefson	7.3%	133	98	0.737	31%	Average	54	33	87	37.9%	44.8%	21.8%	13.5%	10.5%	34.6%
+#5 Austin Goetz	5.5%	101	60	0.594	13%	Poor	46	22	68	32.4%	36%	23.8%	8.9%	3%	28.7%
+#33 Brandon Snoberger	5.2%	96	92	0.958	77%	Very Good	33	39	72	54.2%	56.3%	15.6%	13.5%	11.5%	49%
+#11 CJ Woda	4.2%	77	52	0.675	22%	Below Average	39	21	60	35%	36.7%	13%	14.3%	10.4%	35.1%
+#30 Schuyler Thompson	3.2%	59	37	0.627	16%	Below Average	27	17	44	38.6%	39.8%	22%	5.1%	5.1%	30.5%
+#12 Charlie Krambeer	2.7%	49	43	0.878	59%	Good	22	15	37	40.5%	56.8%	22.4%	2%	2%	32.7%
+#42 Peter Lundquist	1.9%	34	39	1.147	97%	Excellent	15	14	29	48.3%	55.2%	2.9%	14.7%	11.8%	52.9%
+#2 Sam DuBois	1.6%	29	21	0.724	29%	Below Average	10	9	19	47.4%	52.6%	24.1%	10.3%	3.4%	34.5%
+#22 Coleman Sweeney	0.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#10 Isaac Douglas	0.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#30 Rezac Logan	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#34 Bobby Brooks	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Leif Engen	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Josh Kirk	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	26.1%	479	429	0.896	42%	Average	255	160	415	38.6%	49.3%	11.1%	3.8%	3.5%	35.3%
+#21 Riley Sharbono	20%	96	96	1	69%	Very Good	48	34	82	41.5%	52.4%	8.3%	10.4%	9.4%	39.6%
+#3 Zach Bloemker	16.7%	80	76	0.95	60%	Good	40	27	67	40.3%	54.5%	13.8%	3.8%	3.8%	36.3%
+#23 Vannis Smith	16.1%	77	65	0.844	43%	Average	45	25	70	35.7%	45%	7.8%	1.3%	1.3%	33.8%
+#4 Kelsey Thomas	9.2%	44	48	1.091	80%	Very Good	22	19	41	46.3%	57.3%	4.5%	2.3%	2.3%	45.5%
+#20 Spencer Tollefson	9.2%	44	37	0.841	42%	Average	21	13	34	38.2%	50%	20.5%	4.5%	4.5%	31.8%
+#5 Austin Goetz	6.7%	32	20	0.625	16%	Below Average	21	8	29	27.6%	34.5%	9.4%	0%	0%	25%
+#12 Charlie Krambeer	5.4%	26	29	1.115	83%	Excellent	12	10	22	45.5%	65.9%	15.4%	0%	0%	38.5%
+#32 Jason Faul	5%	24	20	0.833	41%	Average	12	9	21	42.9%	47.6%	12.5%	0%	0%	37.5%
+#11 CJ Woda	3.3%	16	7	0.438	5%	Poor	12	3	15	20%	23.3%	6.3%	0%	0%	18.8%
+#33 Brandon Snoberger	2.9%	14	8	0.571	12%	Poor	11	3	14	21.4%	28.6%	0%	0%	0%	21.4%
+#30 Schuyler Thompson	2.1%	10	0	0	0%	Poor	6	0	6	0%	0%	40%	0%	0%	0%
+#42 Peter Lundquist	1.7%	8	18	2.25	-	-	1	7	8	87.5%	106.3%	0%	12.5%	12.5%	87.5%
+#2 Sam DuBois	1.3%	6	5	0.833	-	-	3	2	5	40%	50%	16.7%	0%	0%	33.3%
+#22 Coleman Sweeney	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#34 Bobby Brooks	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	15%	275	277	1.007	64%	Good	88	102	190	53.7%	60.3%	19.6%	14.5%	12.7%	46.9%
+#4 Kelsey Thomas	20.7%	57	60	1.053	63%	Good	16	22	38	57.9%	65.8%	22.8%	12.3%	12.3%	47.4%
+#23 Vannis Smith	20%	55	37	0.673	13%	Poor	28	15	43	34.9%	40.7%	20%	3.6%	1.8%	29.1%
+#21 Riley Sharbono	17.5%	48	48	1	55%	Good	22	14	36	38.9%	48.6%	12.5%	18.8%	16.7%	41.7%
+#32 Jason Faul	6.2%	17	27	1.588	99%	Excellent	3	11	14	78.6%	78.6%	0%	17.6%	11.8%	82.4%
+#5 Austin Goetz	6.2%	17	21	1.235	86%	Excellent	3	8	11	72.7%	77.3%	23.5%	11.8%	5.9%	58.8%
+#3 Zach Bloemker	6.2%	17	11	0.647	11%	Poor	4	5	9	55.6%	61.1%	41.2%	5.9%	5.9%	29.4%
+#20 Spencer Tollefson	5.5%	15	12	0.8	24%	Below Average	3	4	7	57.1%	64.3%	26.7%	26.7%	26.7%	40%
+#11 CJ Woda	5.1%	14	16	1.143	77%	Very Good	2	7	9	77.8%	77.8%	21.4%	35.7%	35.7%	64.3%
+#30 Schuyler Thompson	3.3%	9	10	1.111	-	-	3	4	7	57.1%	57.1%	11.1%	22.2%	22.2%	55.6%
+#2 Sam DuBois	2.9%	8	11	1.375	-	-	1	5	6	83.3%	91.7%	25%	0%	0%	62.5%
+#12 Charlie Krambeer	2.5%	7	9	1.286	-	-	1	3	4	75%	100%	28.6%	14.3%	14.3%	57.1%
+#33 Brandon Snoberger	2.5%	7	11	1.571	-	-	0	3	3	100%	100%	14.3%	42.9%	28.6%	85.7%
+#42 Peter Lundquist	0.7%	2	4	2	-	-	0	1	1	100%	150%	0%	50%	50%	100%
+#10 Isaac Douglas	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Leif Engen	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	12.2%	223	243	1.09	56%	Good	76	109	185	58.9%	58.9%	10.3%	10.8%	10.3%	54.3%
+#32 Jason Faul	19.7%	44	57	1.295	79%	Very Good	11	26	37	70.3%	70.3%	9.1%	11.4%	9.1%	63.6%
+#21 Riley Sharbono	13.9%	31	45	1.452	93%	Excellent	8	18	26	69.2%	69.2%	6.5%	22.6%	22.6%	67.7%
+#4 Kelsey Thomas	13.9%	31	40	1.29	78%	Very Good	7	18	25	72%	72%	12.9%	6.5%	6.5%	64.5%
+#33 Brandon Snoberger	10.8%	24	29	1.208	67%	Very Good	6	14	20	70%	70%	12.5%	12.5%	12.5%	62.5%
+#23 Vannis Smith	9.4%	21	24	1.143	57%	Good	9	12	21	57.1%	57.1%	0%	0%	0%	57.1%
+#20 Spencer Tollefson	7.2%	16	10	0.625	4%	Poor	7	4	11	36.4%	36.4%	12.5%	18.8%	18.8%	37.5%
+#11 CJ Woda	7.2%	16	15	0.938	28%	Below Average	7	6	13	46.2%	46.2%	12.5%	12.5%	12.5%	43.8%
+#30 Schuyler Thompson	6.3%	14	12	0.857	18%	Below Average	5	6	11	54.5%	54.5%	21.4%	0%	0%	42.9%
+#5 Austin Goetz	6.3%	14	6	0.429	1%	Poor	8	3	11	27.3%	27.3%	14.3%	7.1%	7.1%	21.4%
+#2 Sam DuBois	2.2%	5	3	0.6	-	-	3	1	4	25%	25%	0%	20%	20%	40%
+#12 Charlie Krambeer	1.3%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#42 Peter Lundquist	1.3%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#30 Rezac Logan	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	11.3%	208	179	0.861	57%	Good	76	79	155	51%	51%	18.8%	7.7%	6.7%	44.7%
+#32 Jason Faul	41.3%	86	80	0.93	68%	Very Good	34	37	71	52.1%	52.1%	14%	3.5%	2.3%	46.5%
+#4 Kelsey Thomas	20.2%	42	45	1.071	89%	Excellent	8	19	27	70.4%	70.4%	26.2%	11.9%	9.5%	54.8%
+#33 Brandon Snoberger	9.1%	19	16	0.842	52%	Good	8	7	15	46.7%	46.7%	10.5%	15.8%	15.8%	47.4%
+#21 Riley Sharbono	6.7%	14	10	0.714	30%	Below Average	3	3	6	50%	50%	35.7%	21.4%	21.4%	42.9%
+#42 Peter Lundquist	6.7%	14	9	0.643	21%	Below Average	8	4	12	33.3%	33.3%	7.1%	7.1%	7.1%	35.7%
+#30 Schuyler Thompson	5.3%	11	6	0.545	11%	Poor	5	3	8	37.5%	37.5%	27.3%	0%	0%	27.3%
+#11 CJ Woda	3.4%	7	4	0.571	-	-	4	2	6	33.3%	33.3%	14.3%	0%	0%	28.6%
+#23 Vannis Smith	2.9%	6	4	0.667	-	-	2	2	4	50%	50%	33.3%	0%	0%	33.3%
+#20 Spencer Tollefson	2.4%	5	3	0.6	-	-	2	1	3	33.3%	33.3%	20%	20%	20%	40%
+#5 Austin Goetz	1%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#2 Sam DuBois	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#30 Rezac Logan	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	9.9%	181	151	0.834	38%	Average	99	64	163	39.3%	42.9%	7.2%	4.4%	4.4%	38.1%
+#21 Riley Sharbono	27.6%	50	53	1.06	68%	Very Good	23	21	44	47.7%	51.1%	4%	10%	10%	50%
+#23 Vannis Smith	13.8%	25	20	0.8	34%	Average	15	9	24	37.5%	41.7%	4%	0%	0%	36%
+#4 Kelsey Thomas	8.8%	16	17	1.063	68%	Very Good	7	7	14	50%	57.1%	12.5%	6.3%	6.3%	43.8%
+#20 Spencer Tollefson	8.8%	16	13	0.813	37%	Average	9	5	14	35.7%	39.3%	6.3%	6.3%	6.3%	37.5%
+#3 Zach Bloemker	8.8%	16	10	0.625	17%	Below Average	8	4	12	33.3%	41.7%	25%	6.3%	6.3%	25%
+#32 Jason Faul	8.3%	15	12	0.8	34%	Average	8	6	14	42.9%	42.9%	6.7%	0%	0%	40%
+#11 CJ Woda	5%	9	4	0.444	-	-	7	2	9	22.2%	22.2%	0%	0%	0%	22.2%
+#30 Schuyler Thompson	4.4%	8	5	0.625	-	-	5	2	7	28.6%	35.7%	12.5%	0%	0%	25%
+#12 Charlie Krambeer	4.4%	8	3	0.375	-	-	7	1	8	12.5%	18.8%	0%	0%	0%	12.5%
+#33 Brandon Snoberger	4.4%	8	8	1	-	-	3	4	7	57.1%	57.1%	12.5%	0%	0%	50%
+#5 Austin Goetz	3.9%	7	2	0.286	-	-	6	1	7	14.3%	14.3%	0%	0%	0%	14.3%
+#42 Peter Lundquist	1.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#2 Sam DuBois	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	7.9%	145	107	0.738	36%	Average	71	42	113	37.2%	39.4%	15.9%	9%	8.3%	34.5%
+#4 Kelsey Thomas	17.9%	26	20	0.769	45%	Average	11	8	19	42.1%	47.4%	23.1%	11.5%	11.5%	30.8%
+#23 Vannis Smith	17.9%	26	24	0.923	71%	Very Good	12	10	22	45.5%	45.5%	7.7%	7.7%	3.8%	46.2%
+#3 Zach Bloemker	16.6%	24	11	0.458	8%	Poor	12	3	15	20%	20%	29.2%	12.5%	12.5%	20.8%
+#21 Riley Sharbono	15.2%	22	14	0.636	26%	Below Average	15	5	20	25%	30%	4.5%	4.5%	4.5%	27.3%
+#32 Jason Faul	14.5%	21	18	0.857	60%	Good	10	8	18	44.4%	44.4%	9.5%	4.8%	4.8%	42.9%
+#20 Spencer Tollefson	9.7%	14	12	0.857	60%	Good	6	5	11	45.5%	50%	14.3%	7.1%	7.1%	42.9%
+#33 Brandon Snoberger	2.8%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	25%	25%	50%
+#30 Schuyler Thompson	2.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#5 Austin Goetz	1.4%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Charlie Krambeer	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Peter Lundquist	0.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#11 CJ Woda	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	4.6%	84	74	0.881	10%	Poor	31	29	60	48.3%	48.3%	14.3%	19%	13.1%	45.2%
+#32 Jason Faul	17.9%	15	20	1.333	85%	Excellent	4	8	12	66.7%	66.7%	13.3%	20%	13.3%	60%
+#4 Kelsey Thomas	17.9%	15	14	0.933	30%	Below Average	5	7	12	58.3%	58.3%	20%	0%	0%	46.7%
+#21 Riley Sharbono	15.5%	13	16	1.231	74%	Very Good	3	5	8	62.5%	62.5%	15.4%	38.5%	30.8%	61.5%
+#33 Brandon Snoberger	11.9%	10	9	0.9	25%	Below Average	2	4	6	66.7%	66.7%	20%	20%	20%	50%
+#11 CJ Woda	10.7%	9	2	0.222	-	-	6	0	6	0%	0%	0%	33.3%	11.1%	22.2%
+#23 Vannis Smith	9.5%	8	6	0.75	-	-	3	2	5	40%	40%	25%	12.5%	12.5%	37.5%
+#5 Austin Goetz	6%	5	3	0.6	-	-	3	1	4	25%	25%	0%	20%	0%	40%
+#20 Spencer Tollefson	4.8%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#30 Schuyler Thompson	2.4%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#42 Peter Lundquist	2.4%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#22 Coleman Sweeney	1.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	2.9%	54	42	0.778	57%	Good	27	15	42	35.7%	45.2%	18.5%	3.7%	3.7%	31.5%
+#21 Riley Sharbono	35.2%	19	18	0.947	81%	Very Good	8	7	15	46.7%	60%	21.1%	0%	0%	36.8%
+#23 Vannis Smith	31.5%	17	13	0.765	51%	Good	9	4	13	30.8%	34.6%	11.8%	11.8%	11.8%	35.3%
+#4 Kelsey Thomas	14.8%	8	5	0.625	-	-	4	2	6	33.3%	41.7%	25%	0%	0%	25%
+#3 Zach Bloemker	7.4%	4	3	0.75	-	-	1	1	2	50%	75%	50%	0%	0%	25%
+#20 Spencer Tollefson	3.7%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#12 Charlie Krambeer	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Austin Goetz	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Brandon Snoberger	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Josh Kirk	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	1.4%	26	21	0.808	50%	Average	13	6	19	31.6%	39.5%	11.5%	15.4%	15.4%	38.5%
+#21 Riley Sharbono	26.9%	7	9	1.286	-	-	3	3	6	50%	58.3%	0%	14.3%	14.3%	57.1%
+#3 Zach Bloemker	23.1%	6	4	0.667	-	-	4	1	5	20%	30%	0%	16.7%	16.7%	33.3%
+#20 Spencer Tollefson	15.4%	4	3	0.75	-	-	1	0	1	0%	0%	25%	50%	50%	50%
+#33 Brandon Snoberger	7.7%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#32 Jason Faul	3.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#4 Kelsey Thomas	3.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Austin Goetz	3.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Vannis Smith	3.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Isaac Douglas	3.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Sam DuBois	3.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#42 Peter Lundquist	3.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	0.4%	7	10	1.429	-	-	2	3	5	60%	70%	14.3%	14.3%	14.3%	57.1%
+#23 Vannis Smith	42.9%	3	5	1.667	-	-	1	1	2	50%	50%	0%	33.3%	33.3%	66.7%
+#30 Schuyler Thompson	14.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#4 Kelsey Thomas	14.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Brandon Snoberger	14.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#11 CJ Woda	14.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Gustavus Adolphus	8.3%	152	73	0.48	54%	Good	11	5	16	31.3%	31.3%	59.9%	29.6%	1.3%	27%
+#21 Riley Sharbono	21.1%	32	27	0.844	91%	Excellent	0	1	1	100%	100%	50%	46.9%	0%	43.8%
+#4 Kelsey Thomas	15.8%	24	11	0.458	49%	Average	2	0	2	0%	0%	62.5%	29.2%	0%	25%
+#5 Austin Goetz	13.2%	20	6	0.3	27%	Below Average	2	0	2	0%	0%	65%	25%	5%	20%
+#23 Vannis Smith	13.2%	20	5	0.25	20%	Below Average	3	2	5	40%	40%	65%	10%	0%	15%
+#20 Spencer Tollefson	8.6%	13	5	0.385	39%	Average	1	0	1	0%	0%	61.5%	30.8%	0%	23.1%
+#32 Jason Faul	7.2%	11	7	0.636	75%	Very Good	0	2	2	100%	100%	54.5%	27.3%	0%	36.4%
+#3 Zach Bloemker	6.6%	10	7	0.7	81%	Very Good	2	0	2	0%	0%	40%	40%	10%	40%
+#2 Sam DuBois	4.6%	7	0	0	-	-	1	0	1	0%	0%	57.1%	28.6%	0%	0%
+#33 Brandon Snoberger	3.9%	6	2	0.333	-	-	0	0	0	-	-	83.3%	16.7%	0%	16.7%
+#11 CJ Woda	2.6%	4	1	0.25	-	-	0	0	0	-	-	75%	25%	0%	25%
+#12 Charlie Krambeer	2%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#30 Schuyler Thompson	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Peter Lundquist	0.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

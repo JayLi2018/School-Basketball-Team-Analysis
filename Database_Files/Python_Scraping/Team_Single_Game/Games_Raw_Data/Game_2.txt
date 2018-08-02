@@ -1,0 +1,124 @@
+MSOE
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb_
+Jason_Palesse	31	1.17	0.35	13	0.93	4	3	1.33	2	3	1	2	1	1
+Luke_Nelson	6	1.52	1.00	2	2.00	1	0	0.00	0	0	0	2	2	0
+Bailey_Mcdaniel	9	0.86	0.11	2	0.50	0	0	0.00	0	0	0	1	0	1
+Brian_Dorn	8	1.38	0.12	4	1.00	0	0	0.00	0	0	0	1	0	1
+Matthew_Kirmse	29	1.07	0.17	13	1.30	0	1	0.00	0	0	0	4	3	1
+Nolan_Henton	24	-.02	-.08	2	0.40	0	2	0.00	0	1	0	2	0	2
+Gabe_Wear	22	0.66	0.14	5	0.83	1	1	1.00	0	0	0	2	1	1
+Sammy_Linn	16	0.79	0.50	4	0.57	2	3	0.67	4	2	0	2	0	2
+Jake_Gebert	13	1.79	0.62	7	1.40	3	0	0.00	0	0	0	2	0	2
+Travis_Ballard	14	0.71	0.00	7	1.40	0	1	0.00	1	1	0	0	0	0
+Tegan_Miles	28	0.82	0.39	6	0.67	2	2	1.00	2	1	0	5	2	3
+Team_Totals	40	0.89	0.26	65	0.93	13	13	1	9	8	1	23	9	14
+
+MSOE_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Jason_Palesse	8	5	3	62.5%	62.5%	7	5	2	71.4%	1	0	1	0%	5	3	2	60%	0	3	2
+Luke_Nelson	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	2
+Bailey_Mcdaniel	3	0	3	0%	0%	2	0	2	0%	1	0	1	0%	2	2	0	100%	0	1	0
+Brian_Dorn	2	1	1	50%	50%	1	1	0	100%	1	0	1	0%	4	2	2	50%	0	2	1
+Matthew_Kirmse	8	4	4	50%	62.5%	5	2	3	40%	3	2	1	66.7%	3	3	0	100%	0	2	0
+Nolan_Henton	3	1	2	33.3%	33.3%	1	1	0	100%	2	0	2	0%	0	0	0	-	0	0	0
+Gabe_Wear	4	1	3	25%	37.5%	1	0	1	0%	3	1	2	33.3%	2	2	0	100%	0	1	1
+Sammy_Linn	4	2	2	50%	50%	2	2	0	100%	2	0	2	0%	0	0	0	-	0	0	2
+Jake_Gebert	4	2	2	50%	62.5%	3	1	2	33.3%	1	1	0	100%	2	2	0	100%	0	1	0
+Travis_Ballard	4	3	1	75%	87.5%	3	2	1	66.7%	1	1	0	100%	0	0	0	-	0	1	2
+Tegan_Miles	5	2	3	40%	40%	5	2	3	40%	0	0	0	-	3	2	1	66.7%	0	2	0
+Team_Totals	46	22	24	47.8%	53.3%	31	17	14	54.8%	15	5	10	33.3%	21	16	5	76.2%	0	13	10
+
+
+IllinoisTech
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb
+Anthony_Mosley	30	0.43	-.07	11	0.65	3	5	0.60	1	3	0	0	0	0
+Malik_Howze	25	-.13	-.12	5	0.33	1	3	0.33	0	3	0	1	0	1
+Jake_Bruns	32	0.81	0.06	18	1.38	0	2	0.00	3	0	0	0	0	0
+Calvin_Schmitz	10	0.82	0.20	4	2.00	0	0	0.00	0	0	0	2	0	2
+Capriest_Gardner	13	0.79	0.38	4	1.00	1	1	1.00	1	1	0	3	0	3
+Jake_Digiorgio	30	0.24	0.13	2	0.50	1	3	0.33	0	1	0	5	3	2
+Max_Hisatake	33	1.15	0.73	12	0.92	2	2	1.00	2	1	1	13	5	8
+Parker_Joncus	25	0.31	0.12	3	3.00	0	0	0.00	1	0	0	1	0	1
+Kohl_Linder	2	0.00	0.00	0	-	0	0	0.00	0	0	0	0	0	0
+Team_Totals	40	0.53	0.18	59	0.86	8	16	0.50	8	9	1	25	8	17
+
+IllinoisTech_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Anthony_Mosley	11	5	6	45.4%	45.4%	10	5	5	50%	1	0	1	0%	1	1	0	100%	1	2	3
+Malik_Howze	11	2	9	18.2%	22.7%	9	1	8	11.1%	2	1	1	50%	0	0	0	-	0	1	3
+Jake_Bruns	11	6	5	54.6%	81.8%	0	0	0	-	11	6	5	54.6%	0	0	0	-	0	0	1
+Calvin_Schmitz	2	2	0	100%	100%	2	2	0	100%	0	0	0	-	0	0	0	-	0	0	1
+Capriest_Gardner	3	2	1	66.7%	66.7%	3	2	1	66.7%	0	0	0	-	0	0	0	-	0	0	2
+Jake_Digiorgio	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	2
+Max_Hisatake	11	6	5	54.6%	54.6%	11	6	5	54.6%	0	0	0	-	0	0	0	-	0	0	4
+Parker_Joncus	1	1	0	100%	150%	0	0	0	-	1	1	0	100%	0	0	0	-	0	0	2
+Kohl_Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	2
+Team_Totals	51	25	26	49%	56.9%	36	17	19	47.2%	15	8	7	53.3%	1	1	0	100%	1	3	20
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.100	_	_

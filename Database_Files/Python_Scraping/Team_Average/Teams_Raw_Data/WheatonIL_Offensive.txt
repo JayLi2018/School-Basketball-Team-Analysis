@@ -1,0 +1,578 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Wheaton (IL)	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Wheaton (IL)	Date Range: 11/17/2017 to 02/23/2018	Number of Games: 26
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	100%	2108	2085	0.989	95%	Excellent	800	715	1515	47.2%	55.3%	14.9%	15.2%	8.9%	45.4%
+ Transition	14.8%	312	364	1.167	97%	Excellent	97	130	227	57.3%	66.1%	13.5%	16%	12.8%	53.8%
+ Overall Half Court	85.2%	1796	1721	0.958	92%	Excellent	703	585	1288	45.4%	53.5%	15.2%	15%	8.2%	43.9%
+                    Short Shot Clock <4 Seconds	3.1%	66	45	0.682	48%	Average	38	14	52	26.9%	31.7%	10.6%	10.6%	4.5%	31.8%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8%	144	120	0.833	50%	Average	64	44	108	40.7%	48.6%	18.1%	8.3%	7.6%	36.1%
+         Out of Bounds (Side)	4.3%	78	78	1	92%	Excellent	31	24	55	43.6%	55.5%	17.9%	14.1%	7.7%	42.3%
+         After Time Outs	12%	216	218	1.009	93%	Excellent	86	72	158	45.6%	54.4%	13.4%	16.2%	11.1%	44.9%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	90.3%	1621	1542	0.951	92%	Excellent	624	526	1150	45.7%	53.3%	15.5%	15.5%	8.1%	44.1%
+    Against Zone	9.7%	175	179	1.023	84%	Excellent	79	59	138	42.8%	54.7%	12.6%	10.9%	9.1%	41.7%
+Breakdown of Full Court Press Situations:
+  Press Offense	6.3%	113	111	0.982	88%	Excellent	32	24	56	42.9%	52.7%	20.4%	31.9%	6.2%	49.6%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	23.1%	487	447	0.918	53%	Good	256	160	416	38.5%	50.1%	9.4%	6.8%	5.5%	36.6%
+ Transition	14.8%	312	364	1.167	97%	Excellent	97	130	227	57.3%	66.1%	13.5%	16%	12.8%	53.8%
+ Off Screen	13.3%	280	295	1.054	85%	Excellent	134	97	231	42%	55.4%	9.6%	9.3%	6.8%	42.1%
+ Cut	9.8%	206	272	1.32	99%	Excellent	53	113	166	68.1%	68.1%	7.8%	15.5%	15.5%	66.5%
+ Isolation	8.7%	184	161	0.875	75%	Very Good	78	56	134	41.8%	47.4%	15.8%	14.1%	9.8%	40.8%
+ Offensive Rebounds (put backs)	6.2%	130	154	1.185	87%	Excellent	35	59	94	62.8%	62.8%	6.9%	24.6%	16.2%	62.3%
+ Hand Off	4.7%	99	100	1.01	90%	Excellent	48	33	81	40.7%	56.8%	12.1%	6.1%	4%	39.4%
+ Post-Up	4.3%	90	80	0.889	64%	Good	33	34	67	50.7%	50.7%	14.4%	13.3%	6.7%	45.6%
+ P&R Ball Handler	4.2%	89	60	0.674	25%	Below Average	40	15	55	27.3%	30%	18%	22.5%	15.7%	36%
+ P&R Roll Man	1%	22	16	0.727	13%	Poor	13	7	20	35%	40%	0%	9.1%	9.1%	31.8%
+ Miscellaneous	9.9%	209	136	0.651	93%	Excellent	13	11	24	45.8%	50%	50.2%	38.8%	2.4%	38.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	11.5%	243	232	0.955	86%	Excellent	103	81	184	44%	51.9%	14.4%	12.3%	9.1%	42.4%
+  Pick and Rolls Including Passes	8%	169	133	0.787	30%	Below Average	80	42	122	34.4%	41%	13.6%	15.4%	11.2%	37.3%
+  Post-Ups Including Passes	5.8%	122	104	0.852	42%	Average	54	43	97	44.3%	45.9%	10.7%	11.5%	6.6%	42.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.8%	59	71	1.203	88%	Excellent	25	25	50	50%	64%	10.2%	6.8%	6.8%	47.5%
+  P&R BH - Defense Commits	4.5%	95	76	0.8	49%	Average	40	27	67	40.3%	50%	20%	9.5%	5.3%	34.7%
+  Post-Up - Defense Commits	1.5%	32	24	0.75	10%	Poor	21	9	30	30%	35%	0%	6.3%	6.3%	34.4%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.5%	10	4	0.4	18%	Below Average	5	1	6	16.7%	25%	20%	20%	10%	20%
+  Post-Up - Hard Double	0.8%	16	8	0.5	9%	Poor	11	3	14	21.4%	28.6%	12.5%	0%	0%	18.8%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	56.1%	723	737	1.019	79%	Very Good	460	263	723	36.4%	50.7%	0%	0.7%	0.7%	36.4%
+          Short Shot Clock <4 Seconds	2.8%	36	21	0.583	40%	Average	28	8	36	22.2%	29.2%	0%	0%	0%	22.2%
+Runner	4.7%	61	45	0.738	55%	Good	39	22	61	36.1%	36.1%	0%	4.9%	4.9%	36.1%
+          Short Shot Clock <4 Seconds	0.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+Around Basket (not Post-Ups)	33.9%	437	542	1.24	95%	Excellent	171	266	437	60.9%	60.9%	0%	5.7%	5.7%	60.9%
+Post-Ups	5.2%	67	70	1.045	72%	Very Good	33	34	67	50.7%	50.7%	0%	3%	3%	50.7%
+          Short Shot Clock <4 Seconds	0.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	38.9%	501	547	1.092	74%	Very Good	316	185	501	36.9%	54.5%	0%	0.4%	0.4%	36.9%
+  Guarded	56.5%	283	323	1.141	93%	Excellent	174	109	283	38.5%	56.9%	0%	0.7%	0.7%	38.5%
+  Unguarded	43.5%	218	224	1.028	32%	Average	142	76	218	34.9%	51.4%	0%	0%	0%	34.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	13.8%	178	146	0.82	69%	Very Good	117	61	178	34.3%	40.4%	0%	1.1%	1.1%	34.3%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	12.2%	88	81	0.92	92%	Excellent	49	39	88	44.3%	44.3%	0%	3.4%	3.4%	44.3%
+Medium (17' to <3 point line)	5.7%	41	34	0.829	81%	Very Good	24	17	41	41.5%	41.5%	0%	0%	0%	41.5%
+Long (3 point jump shots)	82.2%	594	622	1.047	60%	Good	387	207	594	34.8%	52.3%	0%	0.3%	0.3%	34.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	100%	2108	2085	0.989	95%	Excellent	800	715	1515	47.2%	55.3%	14.9%	15.2%	8.9%	45.4%
+#1 AstonFrancis	33.3%	702	694	0.989	82%	Very Good	311	220	531	41.4%	52.8%	13.7%	11.8%	6.7%	41.9%
+#22 Ricky Samuelson	15.2%	321	401	1.249	99%	Excellent	122	140	262	53.4%	64.5%	7.8%	11.8%	4.4%	53.6%
+#3 Kobe Eichelberger	13.6%	286	298	1.042	89%	Excellent	93	106	199	53.3%	58%	12.6%	22.4%	17.1%	51.4%
+#34 Luke Peters	10.7%	226	163	0.721	28%	Below Average	66	61	127	48%	49.2%	24.8%	20.4%	12.8%	40.7%
+#25 JaySpencer	7.3%	153	146	0.954	76%	Very Good	66	49	115	42.6%	49.1%	10.5%	16.3%	6.5%	45.1%
+#35 SpencerPeterson	6.1%	129	117	0.907	66%	Very Good	50	41	91	45.1%	51.1%	16.3%	15.5%	8.5%	42.6%
+#5 Trevor Gunter	4.7%	100	104	1.04	89%	Excellent	27	41	68	60.3%	60.3%	18%	18%	16%	53%
+#12 Zack Kvam	4.3%	91	67	0.736	31%	Average	26	22	48	45.8%	57.3%	35.2%	12.1%	4.4%	31.9%
+#20 Cade Alioth	1.2%	25	33	1.32	99%	Excellent	5	14	19	73.7%	73.7%	8%	28%	16%	68%
+#33 Mark Champion	1%	22	14	0.636	17%	Below Average	14	6	20	30%	35%	9.1%	0%	0%	27.3%
+#10 Zac Holman	0.8%	17	13	0.765	36%	Average	8	3	11	27.3%	40.9%	23.5%	11.8%	11.8%	29.4%
+#11 Tyrel Derrick	0.8%	16	17	1.063	92%	Excellent	2	4	6	66.7%	83.3%	31.3%	31.3%	6.3%	56.3%
+#32 Reagan Jones	0.5%	11	9	0.818	47%	Average	6	4	10	40%	45%	9.1%	9.1%	9.1%	36.4%
+#42 Gavin Hawkins	0.2%	5	5	1	-	-	3	2	5	40%	50%	0%	0%	0%	40%
+#31 Jack Bennett	0.2%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	23.1%	487	447	0.918	53%	Good	256	160	416	38.5%	50.1%	9.4%	6.8%	5.5%	36.6%
+#3 Kobe Eichelberger	22.8%	111	96	0.865	46%	Average	51	37	88	42%	47.2%	9.9%	16.2%	14.4%	41.4%
+#1 AstonFrancis	18.7%	91	82	0.901	52%	Good	50	24	74	32.4%	46.6%	11%	7.7%	6.6%	34.1%
+#22 Ricky Samuelson	16.6%	81	102	1.259	94%	Excellent	41	37	78	47.4%	65.4%	2.5%	1.2%	0%	45.7%
+#25 JaySpencer	9.4%	46	47	1.022	72%	Very Good	29	17	46	37%	51.1%	0%	0%	0%	37%
+#35 SpencerPeterson	9%	44	29	0.659	19%	Below Average	27	11	38	28.9%	38.2%	13.6%	0%	0%	25%
+#34 Luke Peters	7.2%	35	23	0.657	19%	Below Average	18	10	28	35.7%	39.3%	11.4%	11.4%	8.6%	31.4%
+#12 Zack Kvam	6.6%	32	30	0.938	58%	Good	17	10	27	37%	55.6%	12.5%	3.1%	0%	31.3%
+#33 Mark Champion	2.3%	11	5	0.455	6%	Poor	8	2	10	20%	25%	9.1%	0%	0%	18.2%
+#5 Trevor Gunter	2.1%	10	4	0.4	4%	Poor	4	2	6	33.3%	33.3%	40%	0%	0%	20%
+#10 Zac Holman	1.8%	9	11	1.222	-	-	3	3	6	50%	75%	22.2%	11.1%	11.1%	44.4%
+#32 Reagan Jones	1.4%	7	3	0.429	-	-	5	1	6	16.7%	25%	14.3%	0%	0%	14.3%
+#11 Tyrel Derrick	1%	5	8	1.6	-	-	1	3	4	75%	100%	20%	0%	0%	60%
+#20 Cade Alioth	0.6%	3	5	1.667	-	-	1	2	3	66.7%	66.7%	0%	33.3%	33.3%	66.7%
+#42 Gavin Hawkins	0.4%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	14.8%	312	364	1.167	97%	Excellent	97	130	227	57.3%	66.1%	13.5%	16%	12.8%	53.8%
+#1 AstonFrancis	28.2%	88	112	1.273	88%	Excellent	29	40	69	58%	68.1%	10.2%	13.6%	9.1%	56.8%
+#22 Ricky Samuelson	18.6%	58	71	1.224	85%	Excellent	25	24	49	49%	62.2%	6.9%	10.3%	6.9%	50%
+#34 Luke Peters	16%	50	31	0.62	10%	Poor	11	12	23	52.2%	54.3%	36%	20%	20%	36%
+#3 Kobe Eichelberger	13.1%	41	56	1.366	94%	Excellent	12	21	33	63.6%	72.7%	7.3%	17.1%	14.6%	61%
+#12 Zack Kvam	5.4%	17	24	1.412	96%	Excellent	3	9	12	75%	79.2%	11.8%	17.6%	11.8%	70.6%
+#25 JaySpencer	5.1%	16	17	1.063	65%	Very Good	6	5	11	45.5%	45.5%	0%	31.3%	18.8%	62.5%
+#35 SpencerPeterson	4.8%	15	21	1.4	95%	Excellent	4	7	11	63.6%	77.3%	13.3%	13.3%	13.3%	60%
+#5 Trevor Gunter	4.2%	13	13	1	55%	Good	3	5	8	62.5%	62.5%	15.4%	23.1%	23.1%	53.8%
+#20 Cade Alioth	1.3%	4	7	1.75	-	-	1	3	4	75%	75%	0%	25%	25%	75%
+#11 Tyrel Derrick	1%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+#31 Jack Bennett	1%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#33 Mark Champion	0.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#32 Reagan Jones	0.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#10 Zac Holman	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#42 Gavin Hawkins	0.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	13.3%	280	295	1.054	85%	Excellent	134	97	231	42%	55.4%	9.6%	9.3%	6.8%	42.1%
+#1 AstonFrancis	61.8%	173	182	1.052	66%	Very Good	88	58	146	39.7%	54.8%	9.8%	7.5%	5.2%	39.3%
+#22 Ricky Samuelson	18.6%	52	73	1.404	94%	Excellent	19	27	46	58.7%	72.8%	3.8%	9.6%	5.8%	57.7%
+#3 Kobe Eichelberger	7.1%	20	28	1.4	94%	Excellent	4	9	13	69.2%	80.8%	10%	25%	25%	70%
+#25 JaySpencer	4.3%	12	7	0.583	13%	Poor	8	2	10	20%	25%	8.3%	8.3%	0%	25%
+#35 SpencerPeterson	2.9%	8	3	0.375	-	-	5	1	6	16.7%	25%	25%	0%	0%	12.5%
+#33 Mark Champion	2.5%	7	0	0	-	-	6	0	6	0%	0%	14.3%	0%	0%	0%
+#34 Luke Peters	1.4%	4	2	0.5	-	-	0	0	0	-	-	50%	50%	50%	50%
+#10 Zac Holman	1.1%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#42 Gavin Hawkins	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	9.8%	206	272	1.32	99%	Excellent	53	113	166	68.1%	68.1%	7.8%	15.5%	15.5%	66.5%
+#22 Ricky Samuelson	22.8%	47	70	1.489	95%	Excellent	10	31	41	75.6%	75.6%	4.3%	10.6%	10.6%	74.5%
+#5 Trevor Gunter	22.3%	46	66	1.435	91%	Excellent	9	27	36	75%	75%	8.7%	19.6%	19.6%	71.7%
+#1 AstonFrancis	11.2%	23	20	0.87	20%	Below Average	12	7	19	36.8%	36.8%	4.3%	13%	13%	43.5%
+#25 JaySpencer	11.2%	23	30	1.304	80%	Very Good	5	13	18	72.2%	72.2%	13%	17.4%	17.4%	65.2%
+#34 Luke Peters	9.2%	19	18	0.947	30%	Below Average	7	8	15	53.3%	53.3%	10.5%	10.5%	10.5%	52.6%
+#3 Kobe Eichelberger	8.7%	18	29	1.611	98%	Excellent	3	11	14	78.6%	78.6%	5.6%	22.2%	22.2%	77.8%
+#35 SpencerPeterson	7.3%	15	20	1.333	84%	Excellent	3	7	10	70%	70%	13.3%	26.7%	26.7%	66.7%
+#12 Zack Kvam	3.4%	7	5	0.714	-	-	3	2	5	40%	40%	14.3%	14.3%	14.3%	42.9%
+#20 Cade Alioth	2.4%	5	10	2	-	-	0	5	5	100%	100%	0%	0%	0%	100%
+#33 Mark Champion	1%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#42 Gavin Hawkins	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	8.7%	184	161	0.875	75%	Very Good	78	56	134	41.8%	47.4%	15.8%	14.1%	9.8%	40.8%
+#1 AstonFrancis	59.2%	109	105	0.963	76%	Very Good	51	37	88	42%	50.6%	11.9%	9.2%	5.5%	41.3%
+#3 Kobe Eichelberger	17.4%	32	27	0.844	58%	Good	11	8	19	42.1%	42.1%	21.9%	28.1%	28.1%	43.8%
+#34 Luke Peters	13%	24	20	0.833	56%	Good	7	8	15	53.3%	53.3%	20.8%	16.7%	12.5%	45.8%
+#22 Ricky Samuelson	4.3%	8	7	0.875	-	-	3	2	5	40%	40%	12.5%	25%	0%	50%
+#12 Zack Kvam	2.7%	5	0	0	-	-	2	0	2	0%	0%	40%	20%	0%	0%
+#25 JaySpencer	2.2%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#11 Tyrel Derrick	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#10 Zac Holman	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	6.2%	130	154	1.185	87%	Excellent	35	59	94	62.8%	62.8%	6.9%	24.6%	16.2%	62.3%
+#3 Kobe Eichelberger	23.8%	31	38	1.226	73%	Very Good	5	16	21	76.2%	76.2%	9.7%	25.8%	19.4%	64.5%
+#34 Luke Peters	13.8%	18	20	1.111	56%	Good	5	8	13	61.5%	61.5%	5.6%	22.2%	16.7%	61.1%
+#35 SpencerPeterson	13.8%	18	23	1.278	78%	Very Good	4	10	14	71.4%	71.4%	5.6%	27.8%	16.7%	66.7%
+#25 JaySpencer	11.5%	15	18	1.2	69%	Very Good	4	5	9	55.6%	55.6%	6.7%	33.3%	13.3%	66.7%
+#22 Ricky Samuelson	9.2%	12	16	1.333	85%	Excellent	4	6	10	60%	60%	0%	16.7%	8.3%	66.7%
+#5 Trevor Gunter	8.5%	11	8	0.727	10%	Poor	7	1	8	12.5%	12.5%	0%	27.3%	18.2%	36.4%
+#1 AstonFrancis	8.5%	11	11	1	39%	Average	3	5	8	62.5%	62.5%	18.2%	9.1%	9.1%	54.5%
+#20 Cade Alioth	4.6%	6	8	1.333	-	-	2	4	6	66.7%	66.7%	0%	16.7%	16.7%	66.7%
+#32 Reagan Jones	2.3%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	33.3%	33.3%	66.7%
+#12 Zack Kvam	0.8%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+#33 Mark Champion	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#11 Tyrel Derrick	0.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Zac Holman	0.8%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#31 Jack Bennett	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	4.7%	99	100	1.01	90%	Excellent	48	33	81	40.7%	56.8%	12.1%	6.1%	4%	39.4%
+#1 AstonFrancis	78.8%	78	83	1.064	77%	Very Good	37	26	63	41.3%	59.5%	11.5%	7.7%	5.1%	41%
+#22 Ricky Samuelson	8.1%	8	6	0.75	-	-	6	2	8	25%	37.5%	0%	0%	0%	25%
+#3 Kobe Eichelberger	6.1%	6	7	1.167	-	-	1	3	4	75%	87.5%	33.3%	0%	0%	50%
+#34 Luke Peters	4%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#12 Zack Kvam	1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#35 SpencerPeterson	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#25 JaySpencer	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	4.3%	90	80	0.889	64%	Good	33	34	67	50.7%	50.7%	14.4%	13.3%	6.7%	45.6%
+#34 Luke Peters	25.6%	23	21	0.913	65%	Very Good	8	10	18	55.6%	55.6%	17.4%	4.3%	4.3%	47.8%
+#1 AstonFrancis	21.1%	19	17	0.895	61%	Good	10	7	17	41.2%	41.2%	0%	10.5%	5.3%	47.4%
+#22 Ricky Samuelson	15.6%	14	15	1.071	89%	Excellent	5	5	10	50%	50%	14.3%	21.4%	7.1%	50%
+#35 SpencerPeterson	15.6%	14	9	0.643	21%	Below Average	5	4	9	44.4%	44.4%	28.6%	7.1%	7.1%	35.7%
+#25 JaySpencer	11.1%	10	9	0.9	62%	Good	3	4	7	57.1%	57.1%	20%	20%	10%	40%
+#5 Trevor Gunter	5.6%	5	7	1.4	-	-	1	3	4	75%	75%	0%	20%	0%	80%
+#3 Kobe Eichelberger	4.4%	4	2	0.5	-	-	1	1	2	50%	50%	25%	25%	0%	25%
+#20 Cade Alioth	1.1%	1	0	0	-	-	0	0	0	-	-	0%	100%	100%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	4.2%	89	60	0.674	25%	Below Average	40	15	55	27.3%	30%	18%	22.5%	15.7%	36%
+#1 AstonFrancis	60.7%	54	47	0.87	70%	Very Good	24	12	36	33.3%	37.5%	11.1%	24.1%	16.7%	44.4%
+#22 Ricky Samuelson	13.5%	12	4	0.333	5%	Poor	7	1	8	12.5%	12.5%	25%	8.3%	0%	16.7%
+#34 Luke Peters	13.5%	12	5	0.417	8%	Poor	6	2	8	25%	25%	25%	16.7%	16.7%	25%
+#12 Zack Kvam	5.6%	5	0	0	-	-	1	0	1	0%	0%	60%	20%	0%	0%
+#3 Kobe Eichelberger	5.6%	5	4	0.8	-	-	2	0	2	0%	0%	0%	60%	60%	60%
+#11 Tyrel Derrick	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	1%	22	16	0.727	13%	Poor	13	7	20	35%	40%	0%	9.1%	9.1%	31.8%
+#25 JaySpencer	36.4%	8	5	0.625	-	-	6	2	8	25%	31.3%	0%	0%	0%	25%
+#5 Trevor Gunter	22.7%	5	2	0.4	-	-	3	1	4	25%	25%	0%	20%	20%	20%
+#22 Ricky Samuelson	13.6%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#1 AstonFrancis	9.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#35 SpencerPeterson	9.1%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#34 Luke Peters	4.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Cade Alioth	4.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Wheaton (IL)	9.9%	209	136	0.651	93%	Excellent	13	11	24	45.8%	50%	50.2%	38.8%	2.4%	38.3%
+#1 AstonFrancis	25.8%	54	33	0.611	72%	Very Good	6	3	9	33.3%	38.9%	53.7%	29.6%	0%	33.3%
+#34 Luke Peters	17.2%	36	21	0.583	68%	Very Good	1	2	3	66.7%	66.7%	44.4%	47.2%	8.3%	38.9%
+#22 Ricky Samuelson	12.4%	26	32	1.231	99%	Excellent	1	3	4	75%	87.5%	34.6%	50%	0%	61.5%
+#12 Zack Kvam	11%	23	4	0.174	12%	Poor	0	0	0	-	-	87%	13%	4.3%	8.7%
+#3 Kobe Eichelberger	8.6%	18	11	0.611	72%	Very Good	3	0	3	0%	0%	33.3%	50%	0%	38.9%
+#25 JaySpencer	8.6%	18	13	0.722	83%	Excellent	1	1	2	50%	50%	44.4%	44.4%	0%	44.4%
+#35 SpencerPeterson	5.7%	12	10	0.833	91%	Excellent	1	0	1	0%	0%	33.3%	58.3%	0%	50%
+#5 Trevor Gunter	4.8%	10	4	0.4	42%	Average	0	2	2	100%	100%	80%	10%	10%	20%
+#11 Tyrel Derrick	2.4%	5	5	1	-	-	0	0	0	-	-	20%	80%	0%	80%
+#20 Cade Alioth	2.4%	5	3	0.6	-	-	0	0	0	-	-	40%	60%	0%	60%
+#10 Zac Holman	1%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

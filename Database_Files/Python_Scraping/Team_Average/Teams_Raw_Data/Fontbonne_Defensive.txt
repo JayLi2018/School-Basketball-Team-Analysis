@@ -1,0 +1,485 @@
+
+
+
+
+
+nopix  	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Fontbonne Griffins	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Fontbonne Griffins	Date Range: 11/15/2017 to 02/17/2018	Number of Games: 16
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	100%	1540	1483	0.963	10%	Poor	624	541	1165	46.4%	53.6%	13.6%	12.3%	9%	44.4%
+ Transition	24.2%	372	392	1.054	20%	Below Average	138	140	278	50.4%	58.5%	14%	13.2%	10.5%	47.8%
+ Overall Half Court	75.8%	1168	1091	0.934	11%	Poor	486	401	887	45.2%	52.1%	13.4%	12.1%	8.5%	43.2%
+                    Short Shot Clock <4 Seconds	2.8%	43	42	0.977	3%	Poor	23	14	37	37.8%	45.9%	2.3%	14%	9.3%	44.2%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.1%	95	92	0.968	14%	Poor	43	35	78	44.9%	53.2%	10.5%	8.4%	6.3%	43.2%
+         Out of Bounds (Side)	3.8%	44	41	0.932	23%	Below Average	23	16	39	41%	51.3%	9.1%	2.3%	2.3%	38.6%
+         After Time Outs	8.8%	103	82	0.796	74%	Very Good	46	34	80	42.5%	46.3%	18.4%	5.8%	4.9%	36.9%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	85.3%	996	944	0.948	7%	Poor	403	345	748	46.1%	52.8%	13.9%	12.8%	9.2%	44.3%
+    Zone Defense	14.7%	172	147	0.855	69%	Very Good	83	56	139	40.3%	48.6%	11%	8.1%	4.1%	37.2%
+Breakdown of Full Court Press Situations:
+  Press Defense	9.8%	115	84	0.73	85%	Excellent	43	26	69	37.7%	42%	22.6%	18.3%	8.7%	37.4%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Transition	24.2%	372	392	1.054	20%	Below Average	138	140	278	50.4%	58.5%	14%	13.2%	10.5%	47.8%
+ Spot Up	23.3%	359	353	0.983	23%	Below Average	204	122	326	37.4%	50.3%	5.6%	4.5%	3.6%	37.6%
+ P&R Ball Handler	8.9%	137	107	0.781	47%	Average	67	40	107	37.4%	40.2%	13.1%	11.7%	10.2%	37.2%
+ Cut	8.5%	131	140	1.069	57%	Good	45	62	107	57.9%	57.9%	6.9%	12.2%	9.2%	57.3%
+ Offensive Rebounds (put backs)	7.9%	121	132	1.091	37%	Average	39	53	92	57.6%	57.6%	5%	22.3%	18.2%	57.9%
+ Post-Up	6.3%	97	75	0.773	80%	Very Good	41	30	71	42.3%	42.3%	13.4%	13.4%	11.3%	41.2%
+ Off Screen	4.4%	67	82	1.224	2%	Poor	29	29	58	50%	63.8%	9%	9%	9%	47.8%
+ Isolation	3.6%	56	47	0.839	39%	Average	22	17	39	43.6%	44.9%	12.5%	19.6%	17.9%	46.4%
+ P&R Roll Man	2.7%	42	57	1.357	3%	Poor	13	22	35	62.9%	72.9%	4.8%	11.9%	11.9%	64.3%
+ Hand Off	2.1%	33	30	0.909	30%	Below Average	18	10	28	35.7%	48.2%	9.1%	6.1%	6.1%	36.4%
+ Miscellaneous	8.1%	125	68	0.544	26%	Below Average	8	16	24	66.7%	70.8%	58.4%	23.2%	3.2%	29.6%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	5.8%	89	72	0.809	63%	Good	43	26	69	37.7%	41.3%	9%	14.6%	12.4%	41.6%
+  Pick and Rolls Including Passes	16.9%	260	254	0.977	7%	Poor	123	95	218	43.6%	51.1%	8.5%	9.2%	8.5%	43.8%
+  Post-Ups Including Passes	7.5%	115	95	0.826	77%	Very Good	52	37	89	41.6%	44.9%	11.3%	11.3%	9.6%	40.9%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.1%	33	25	0.758	86%	Excellent	21	9	30	30%	36.7%	3%	6.1%	3%	33.3%
+  P&R BH - Defense Commits	9.2%	141	149	1.057	3%	Poor	56	55	111	49.5%	61.7%	14.2%	7.1%	5.7%	45.4%
+  Post-Up - Defense Commits	1.2%	18	20	1.111	32%	Average	11	7	18	38.9%	55.6%	0%	0%	0%	38.9%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.3%	5	5	1	-	-	2	2	4	50%	50%	0%	20%	20%	60%
+  Post-Up - Hard Double	0.9%	14	9	0.643	78%	Very Good	4	3	7	42.9%	50%	35.7%	14.3%	7.1%	28.6%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	51.9%	460	467	1.015	21%	Below Average	289	171	460	37.2%	50.5%	0%	0.4%	0.4%	37.2%
+          Short Shot Clock <4 Seconds	2%	18	18	1	4%	Poor	12	6	18	33.3%	50%	0%	0%	0%	33.3%
+Runner	4.6%	41	38	0.927	8%	Poor	23	18	41	43.9%	43.9%	0%	4.9%	4.9%	43.9%
+          Short Shot Clock <4 Seconds	0.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+Around Basket (not Post-Ups)	35.5%	315	372	1.181	25%	Below Average	133	182	315	57.8%	57.8%	0%	4.1%	4.1%	57.8%
+Post-Ups	8%	71	60	0.845	87%	Excellent	41	30	71	42.3%	42.3%	0%	0%	0%	42.3%
+          Short Shot Clock <4 Seconds	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	36%	319	356	1.116	20%	Below Average	198	121	319	37.9%	55.5%	0%	0.6%	0.6%	37.9%
+  Guarded	57.1%	182	194	1.066	22%	Below Average	117	65	182	35.7%	52.7%	0%	1.1%	1.1%	35.7%
+  Unguarded	42.9%	137	162	1.182	28%	Below Average	81	56	137	40.9%	59.1%	0%	0%	0%	40.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	13.6%	121	99	0.818	38%	Average	77	44	121	36.4%	40.9%	0%	0%	0%	36.4%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	14.6%	67	57	0.851	21%	Below Average	39	28	67	41.8%	41.8%	0%	1.5%	1.5%	41.8%
+Medium (17' to <3 point line)	8.7%	40	40	1	1%	Poor	20	20	40	50%	50%	0%	0%	0%	50%
+Long (3 point jump shots)	76.7%	353	370	1.048	39%	Average	230	123	353	34.8%	52.3%	0%	0.3%	0.3%	34.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	100%	1540	1483	0.963	10%	Poor	624	541	1165	46.4%	53.6%	13.6%	12.3%	9%	44.4%
+#43 Kris Mccann	8%	123	127	1.033	16%	Below Average	55	47	102	46.1%	56.9%	10.6%	6.5%	6.5%	44.7%
+#23 James Wiggins	7.3%	113	84	0.743	80%	Very Good	66	26	92	28.3%	37%	8.8%	11.5%	8%	31%
+#5 Jared Woodcock	5.9%	91	97	1.066	13%	Poor	45	35	80	43.8%	55%	6.6%	7.7%	5.5%	44%
+#15 Luke Deline	5.5%	84	84	1	20%	Below Average	46	31	77	40.3%	51.3%	3.6%	4.8%	4.8%	40.5%
+#21 Erich Schark	4.9%	76	66	0.868	52%	Good	37	25	62	40.3%	45.2%	9.2%	11.8%	11.8%	42.1%
+#11 Tristan Baker	4.4%	68	76	1.118	9%	Poor	29	28	57	49.1%	59.6%	10.3%	8.8%	8.8%	45.6%
+#12 Noah Coddington	4.1%	63	61	0.968	27%	Below Average	33	23	56	41.1%	50%	7.9%	4.8%	4.8%	39.7%
+#33 Thomas Ritter	3.4%	52	44	0.846	58%	Good	30	17	47	36.2%	44.7%	5.8%	3.8%	1.9%	36.5%
+#35 Jahmad Wilburn	1.6%	25	22	0.88	49%	Average	10	7	17	41.2%	50%	20%	12%	8%	40%
+#25 JackLake	1.2%	19	20	1.053	14%	Poor	8	6	14	42.9%	46.4%	5.3%	21.1%	21.1%	52.6%
+#3 Maguire Scheer	1.2%	19	16	0.842	59%	Good	11	6	17	35.3%	38.2%	5.3%	10.5%	10.5%	36.8%
+#0 Garrett Goodnight	1.2%	18	14	0.778	74%	Very Good	8	3	11	27.3%	36.4%	16.7%	22.2%	22.2%	38.9%
+#41 Logan KelleyWolff	0.6%	9	9	1	-	-	4	3	7	42.9%	64.3%	22.2%	0%	0%	33.3%
+#4 Kalin Mitchell	0.6%	9	10	1.111	-	-	4	4	8	50%	56.3%	0%	22.2%	22.2%	44.4%
+#24 Anthony Loper	0.5%	7	5	0.714	-	-	4	2	6	33.3%	41.7%	14.3%	0%	0%	28.6%
+#14 Jacob Mueller	0.2%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#20 Brian Wacha	0.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Luke Darst	0.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	23.3%	359	353	0.983	23%	Below Average	204	122	326	37.4%	50.3%	5.6%	4.5%	3.6%	37.6%
+#15 Luke Deline	14.2%	51	45	0.882	58%	Good	32	17	49	34.7%	45.9%	3.9%	0%	0%	33.3%
+#23 James Wiggins	13.9%	50	42	0.84	66%	Very Good	32	14	46	30.4%	43.5%	6%	2%	0%	30%
+#43 Kris Mccann	13.1%	47	61	1.298	6%	Poor	22	22	44	50%	68.2%	4.3%	2.1%	2.1%	48.9%
+#5 Jared Woodcock	13.1%	47	51	1.085	22%	Below Average	25	17	42	40.5%	53.6%	4.3%	6.4%	2.1%	42.6%
+#12 Noah Coddington	10.9%	39	31	0.795	73%	Very Good	25	10	35	28.6%	37.1%	5.1%	7.7%	7.7%	30.8%
+#11 Tristan Baker	8.1%	29	40	1.379	4%	Poor	13	14	27	51.9%	70.4%	3.4%	3.4%	3.4%	51.7%
+#21 Erich Schark	7.2%	26	22	0.846	65%	Very Good	15	8	23	34.8%	45.7%	7.7%	7.7%	7.7%	34.6%
+#33 Thomas Ritter	6.7%	24	22	0.917	51%	Good	16	8	24	33.3%	45.8%	0%	0%	0%	33.3%
+#0 Garrett Goodnight	3.1%	11	8	0.727	82%	Very Good	4	2	6	33.3%	41.7%	27.3%	18.2%	18.2%	36.4%
+#35 Jahmad Wilburn	2.5%	9	2	0.222	-	-	7	1	8	12.5%	12.5%	11.1%	0%	0%	11.1%
+#3 Maguire Scheer	2.2%	8	8	1	-	-	4	3	7	42.9%	50%	12.5%	12.5%	12.5%	37.5%
+#41 Logan KelleyWolff	1.9%	7	6	0.857	-	-	4	2	6	33.3%	50%	14.3%	0%	0%	28.6%
+#25 JackLake	1.1%	4	9	2.25	-	-	0	2	2	100%	125%	0%	50%	50%	100%
+#4 Kalin Mitchell	0.8%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#24 Anthony Loper	0.6%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#14 Jacob Mueller	0.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	8.9%	137	107	0.781	47%	Average	67	40	107	37.4%	40.2%	13.1%	11.7%	10.2%	37.2%
+#43 Kris Mccann	34.3%	47	33	0.702	61%	Good	22	13	35	37.1%	38.6%	19.1%	6.4%	6.4%	34%
+#23 James Wiggins	19%	26	14	0.538	85%	Excellent	16	4	20	20%	22.5%	11.5%	15.4%	7.7%	23.1%
+#15 Luke Deline	8.8%	12	12	1	15%	Below Average	5	5	10	50%	55%	8.3%	8.3%	8.3%	50%
+#33 Thomas Ritter	8%	11	8	0.727	56%	Good	6	4	10	40%	40%	9.1%	0%	0%	36.4%
+#11 Tristan Baker	7.3%	10	11	1.1	8%	Poor	4	4	8	50%	50%	10%	20%	20%	50%
+#21 Erich Schark	5.8%	8	4	0.5	-	-	5	1	6	16.7%	16.7%	0%	25%	25%	37.5%
+#5 Jared Woodcock	5.1%	7	7	1	-	-	3	3	6	50%	58.3%	14.3%	14.3%	14.3%	42.9%
+#12 Noah Coddington	2.9%	4	5	1.25	-	-	1	2	3	66.7%	83.3%	25%	0%	0%	50%
+#3 Maguire Scheer	2.9%	4	6	1.5	-	-	1	2	3	66.7%	66.7%	0%	25%	25%	75%
+#4 Kalin Mitchell	2.2%	3	3	1	-	-	2	1	3	33.3%	33.3%	0%	33.3%	33.3%	33.3%
+#24 Anthony Loper	1.5%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#0 Garrett Goodnight	1.5%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#35 Jahmad Wilburn	0.7%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	6.3%	97	75	0.773	80%	Very Good	41	30	71	42.3%	42.3%	13.4%	13.4%	11.3%	41.2%
+#21 Erich Schark	27.8%	27	23	0.852	49%	Average	11	11	22	50%	50%	14.8%	3.7%	3.7%	44.4%
+#23 James Wiggins	13.4%	13	4	0.308	98%	Excellent	8	0	8	0%	0%	7.7%	30.8%	23.1%	23.1%
+#25 JackLake	10.3%	10	6	0.6	88%	Excellent	6	2	8	25%	25%	10%	10%	10%	30%
+#5 Jared Woodcock	10.3%	10	8	0.8	59%	Good	5	4	9	44.4%	44.4%	10%	0%	0%	40%
+#35 Jahmad Wilburn	10.3%	10	11	1.1	14%	Poor	2	3	5	60%	60%	20%	30%	20%	60%
+#12 Noah Coddington	7.2%	7	8	1.143	-	-	2	4	6	66.7%	66.7%	14.3%	0%	0%	57.1%
+#11 Tristan Baker	6.2%	6	6	1	-	-	1	3	4	75%	75%	16.7%	16.7%	16.7%	50%
+#43 Kris Mccann	5.2%	5	1	0.2	-	-	3	0	3	0%	0%	20%	20%	20%	20%
+#15 Luke Deline	4.1%	4	4	1	-	-	1	1	2	50%	50%	0%	50%	50%	50%
+#33 Thomas Ritter	2.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#24 Anthony Loper	2.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#41 Logan KelleyWolff	1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	4.4%	67	82	1.224	2%	Poor	29	29	58	50%	63.8%	9%	9%	9%	47.8%
+#5 Jared Woodcock	25.4%	17	19	1.118	23%	Below Average	8	6	14	42.9%	60.7%	11.8%	11.8%	11.8%	41.2%
+#23 James Wiggins	13.4%	9	12	1.333	-	-	3	5	8	62.5%	68.8%	11.1%	11.1%	11.1%	55.6%
+#43 Kris Mccann	11.9%	8	15	1.875	-	-	2	6	8	75%	93.8%	0%	0%	0%	75%
+#33 Thomas Ritter	9%	6	3	0.5	-	-	4	1	5	20%	30%	16.7%	0%	0%	16.7%
+#15 Luke Deline	9%	6	12	2	-	-	1	4	5	80%	100%	0%	16.7%	16.7%	83.3%
+#21 Erich Schark	7.5%	5	8	1.6	-	-	2	2	4	50%	62.5%	0%	40%	40%	60%
+#11 Tristan Baker	7.5%	5	3	0.6	-	-	4	1	5	20%	30%	0%	0%	0%	20%
+#3 Maguire Scheer	6%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#12 Noah Coddington	3%	2	6	3	-	-	0	2	2	100%	150%	0%	0%	0%	100%
+#35 Jahmad Wilburn	3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#25 JackLake	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#4 Kalin Mitchell	1.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#20 Brian Wacha	1.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	3.6%	56	47	0.839	39%	Average	22	17	39	43.6%	44.9%	12.5%	19.6%	17.9%	46.4%
+#43 Kris Mccann	21.4%	12	9	0.75	54%	Good	5	3	8	37.5%	37.5%	8.3%	25%	25%	50%
+#23 James Wiggins	17.9%	10	2	0.2	99%	Excellent	6	0	6	0%	0%	20%	20%	20%	20%
+#11 Tristan Baker	17.9%	10	9	0.9	35%	Average	4	4	8	50%	50%	20%	10%	10%	40%
+#21 Erich Schark	8.9%	5	8	1.6	-	-	1	3	4	75%	75%	0%	20%	20%	80%
+#33 Thomas Ritter	7.1%	4	6	1.5	-	-	0	2	2	100%	100%	0%	50%	25%	100%
+#12 Noah Coddington	5.4%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#0 Garrett Goodnight	5.4%	3	5	1.667	-	-	1	1	2	50%	75%	0%	33.3%	33.3%	66.7%
+#25 JackLake	3.6%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#4 Kalin Mitchell	3.6%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#15 Luke Deline	3.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#14 Jacob Mueller	1.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Jared Woodcock	1.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#32 Luke Darst	1.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	2.7%	42	57	1.357	3%	Poor	13	22	35	62.9%	72.9%	4.8%	11.9%	11.9%	64.3%
+#5 Jared Woodcock	14.3%	6	8	1.333	-	-	2	3	5	60%	70%	0%	16.7%	16.7%	66.7%
+#21 Erich Schark	9.5%	4	1	0.25	-	-	2	0	2	0%	0%	25%	25%	25%	25%
+#11 Tristan Baker	9.5%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#12 Noah Coddington	9.5%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#23 James Wiggins	7.1%	3	5	1.667	-	-	1	1	2	50%	75%	0%	33.3%	33.3%	66.7%
+#35 Jahmad Wilburn	7.1%	3	6	2	-	-	0	2	2	100%	150%	33.3%	0%	0%	66.7%
+#15 Luke Deline	7.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#25 JackLake	2.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#43 Kris Mccann	2.4%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#24 Anthony Loper	2.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#41 Logan KelleyWolff	2.4%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#0 Garrett Goodnight	2.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Fontbonne Griffins	2.1%	33	30	0.909	30%	Below Average	18	10	28	35.7%	48.2%	9.1%	6.1%	6.1%	36.4%
+#15 Luke Deline	18.2%	6	9	1.5	-	-	3	3	6	50%	75%	0%	0%	0%	50%
+#33 Thomas Ritter	15.2%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#11 Tristan Baker	12.1%	4	2	0.5	-	-	1	0	1	0%	0%	50%	25%	25%	25%
+#12 Noah Coddington	12.1%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#43 Kris Mccann	9.1%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#5 Jared Woodcock	9.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#3 Maguire Scheer	9.1%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#23 James Wiggins	6.1%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#25 JackLake	3%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+#21 Erich Schark	3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#0 Garrett Goodnight	3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

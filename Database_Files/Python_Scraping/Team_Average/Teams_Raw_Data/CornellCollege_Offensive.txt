@@ -1,0 +1,593 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Cornell College Rams	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Cornell College Rams	Date Range: 11/18/2017 to 02/17/2018	Number of Games: 14
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	100%	1130	926	0.819	21%	Below Average	450	329	779	42.2%	47.4%	18.5%	14.9%	9.6%	39.3%
+ Transition	17.6%	199	167	0.839	8%	Poor	69	61	130	46.9%	50%	19.1%	18.6%	15.6%	42.7%
+ Overall Half Court	82.4%	931	759	0.815	29%	Below Average	381	268	649	41.3%	46.9%	18.4%	14.1%	8.4%	38.6%
+                    Short Shot Clock <4 Seconds	4.2%	47	44	0.936	96%	Excellent	25	14	39	35.9%	48.7%	8.5%	8.5%	0%	36.2%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.3%	68	74	1.088	99%	Excellent	24	29	53	54.7%	64.2%	16.2%	10.3%	10.3%	47.1%
+         Out of Bounds (Side)	4.2%	39	17	0.436	2%	Poor	15	6	21	28.6%	33.3%	38.5%	7.7%	2.6%	20.5%
+         After Time Outs	11.2%	104	73	0.702	11%	Poor	45	26	71	36.6%	41.5%	23.1%	10.6%	5.8%	32.7%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	93.1%	867	695	0.802	27%	Below Average	356	246	602	40.9%	45.8%	18.3%	14.4%	8.7%	38.4%
+    Against Zone	6.9%	64	64	1	79%	Very Good	25	22	47	46.8%	60.6%	18.8%	9.4%	4.7%	40.6%
+Breakdown of Full Court Press Situations:
+  Press Offense	8.6%	80	59	0.738	24%	Below Average	24	13	37	35.1%	41.9%	26.3%	27.5%	7.5%	40%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	23.7%	268	221	0.825	19%	Below Average	159	76	235	32.3%	44.9%	9%	3.7%	3.4%	31%
+ Transition	17.6%	199	167	0.839	8%	Poor	69	61	130	46.9%	50%	19.1%	18.6%	15.6%	42.7%
+ P&R Ball Handler	12.7%	144	89	0.618	10%	Poor	65	35	100	35%	37%	24.3%	10.4%	8.3%	29.9%
+ Post-Up	10.5%	119	112	0.941	80%	Very Good	42	43	85	50.6%	50.6%	13.4%	17.6%	10.9%	49.6%
+ Cut	7.3%	83	103	1.241	94%	Excellent	20	42	62	67.7%	67.7%	9.6%	18.1%	18.1%	62.7%
+ Offensive Rebounds (put backs)	6.4%	72	83	1.153	81%	Very Good	24	34	58	58.6%	59.5%	6.9%	18.1%	18.1%	58.3%
+ P&R Roll Man	4.4%	50	38	0.76	18%	Below Average	22	13	35	37.1%	40%	18%	12%	10%	38%
+ Isolation	3%	34	26	0.765	44%	Average	15	7	22	31.8%	34.1%	20.6%	17.6%	14.7%	35.3%
+ Off Screen	2.8%	32	24	0.75	23%	Below Average	17	10	27	37%	40.7%	12.5%	6.3%	6.3%	34.4%
+ Hand Off	1.8%	20	17	0.85	63%	Good	12	5	17	29.4%	38.2%	0%	15%	5%	40%
+ Miscellaneous	9.6%	109	46	0.422	34%	Average	5	3	8	37.5%	43.8%	57.8%	36.7%	2.8%	27.5%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	3.8%	43	36	0.837	51%	Good	20	11	31	35.5%	40.3%	16.3%	14%	11.6%	37.2%
+  Pick and Rolls Including Passes	25.8%	292	215	0.736	14%	Poor	141	77	218	35.3%	41.7%	18.2%	9.2%	7.9%	32.5%
+  Post-Ups Including Passes	14.1%	159	148	0.931	70%	Very Good	64	56	120	46.7%	49.6%	11.9%	15.1%	10.1%	45.9%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	0.8%	9	10	1.111	-	-	5	4	9	44.4%	55.6%	0%	0%	0%	44.4%
+  P&R BH - Defense Commits	15.4%	174	126	0.724	26%	Below Average	76	42	118	35.6%	45.8%	25.3%	6.9%	6.3%	29.9%
+  Post-Up - Defense Commits	3.5%	40	36	0.9	27%	Below Average	22	13	35	37.1%	47.1%	7.5%	7.5%	7.5%	35%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+  Post-Up - Hard Double	2.7%	30	32	1.067	88%	Excellent	13	11	24	45.8%	54.2%	3.3%	16.7%	10%	50%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	43.9%	285	245	0.86	19%	Below Average	199	86	285	30.2%	43%	0%	0%	0%	30.2%
+          Short Shot Clock <4 Seconds	3.7%	24	30	1.25	100%	Excellent	14	10	24	41.7%	62.5%	0%	0%	0%	41.7%
+Runner	4.3%	28	14	0.5	7%	Poor	21	7	28	25%	25%	0%	3.6%	3.6%	25%
+          Short Shot Clock <4 Seconds	0.3%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	38.7%	251	271	1.08	42%	Average	119	132	251	52.6%	52.6%	0%	6.4%	6.4%	52.6%
+Post-Ups	13.1%	85	87	1.024	66%	Very Good	42	43	85	50.6%	50.6%	0%	3.5%	3.5%	50.6%
+          Short Shot Clock <4 Seconds	0.6%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	33.6%	218	193	0.885	11%	Poor	153	65	218	29.8%	44.3%	0%	0%	0%	29.8%
+  Guarded	55%	120	98	0.817	10%	Poor	87	33	120	27.5%	40.8%	0%	0%	0%	27.5%
+  Unguarded	45%	98	95	0.969	19%	Below Average	66	32	98	32.7%	48.5%	0%	0%	0%	32.7%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	8.6%	56	42	0.75	41%	Average	39	17	56	30.4%	37.5%	0%	0%	0%	30.4%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	6.7%	19	10	0.526	5%	Poor	14	5	19	26.3%	26.3%	0%	0%	0%	26.3%
+Medium (17' to <3 point line)	10.5%	30	16	0.533	11%	Poor	22	8	30	26.7%	26.7%	0%	0%	0%	26.7%
+Long (3 point jump shots)	82.8%	236	219	0.928	20%	Below Average	163	73	236	30.9%	46.4%	0%	0%	0%	30.9%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	100%	1130	926	0.819	21%	Below Average	450	329	779	42.2%	47.4%	18.5%	14.9%	9.6%	39.3%
+#20 Corey Davis	21.4%	242	191	0.789	41%	Average	81	68	149	45.6%	46.6%	22.3%	19.8%	11.6%	40.9%
+#40 JonAnderson	15%	170	179	1.053	90%	Excellent	50	65	115	56.5%	56.5%	12.4%	25.3%	15.3%	55.3%
+#43 Brad Hund	12.4%	140	127	0.907	66%	Very Good	47	54	101	53.5%	56.4%	17.1%	12.9%	10%	46.4%
+#2 Michael Fiorito	8.5%	96	74	0.771	37%	Average	42	22	64	34.4%	47.7%	21.9%	13.5%	6.3%	32.3%
+#10 Michael Drew	8.4%	95	74	0.779	39%	Average	39	25	64	39.1%	42.2%	18.9%	14.7%	10.5%	37.9%
+#3 Craig Engle	7.2%	81	63	0.778	38%	Average	41	19	60	31.7%	42.5%	18.5%	7.4%	1.2%	30.9%
+#24 KeeganVan Kooten	6.5%	73	32	0.438	5%	Poor	41	11	52	21.2%	25%	21.9%	8.2%	8.2%	19.2%
+#32 Jan Siegien	5.8%	66	51	0.773	37%	Average	36	18	54	33.3%	43.5%	12.1%	6.1%	6.1%	30.3%
+#12 Cody Carter	5.3%	60	44	0.733	30%	Below Average	27	15	42	35.7%	47.6%	25%	5%	5%	28.3%
+#33 Cooper Kabela	4.1%	46	43	0.935	72%	Very Good	16	15	31	48.4%	51.6%	15.2%	17.4%	15.2%	50%
+#11 ScottGasik	1.6%	18	21	1.167	98%	Excellent	8	7	15	46.7%	66.7%	5.6%	11.1%	11.1%	44.4%
+#23 Jordan Venters	1.3%	15	15	1	84%	Excellent	7	5	12	41.7%	58.3%	13.3%	6.7%	6.7%	40%
+#30 Austin Dyer	1.1%	12	4	0.333	2%	Poor	6	2	8	25%	25%	33.3%	0%	0%	16.7%
+#13 Kameron Williams	0.8%	9	5	0.556	-	-	7	2	9	22.2%	27.8%	0%	11.1%	11.1%	22.2%
+#4 Dylan Murdock	0.3%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#42 Carron Watt	0.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Eric Medenblik	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Jordan Heien	0.1%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	23.7%	268	221	0.825	19%	Below Average	159	76	235	32.3%	44.9%	9%	3.7%	3.4%	31%
+#2 Michael Fiorito	15.7%	42	41	0.976	64%	Good	23	14	37	37.8%	54.1%	9.5%	2.4%	2.4%	35.7%
+#3 Craig Engle	14.2%	38	38	1	69%	Very Good	24	12	36	33.3%	48.6%	2.6%	2.6%	2.6%	34.2%
+#43 Brad Hund	11.2%	30	24	0.8	36%	Average	17	8	25	32%	42%	3.3%	16.7%	13.3%	36.7%
+#10 Michael Drew	10.4%	28	18	0.643	18%	Below Average	17	7	24	29.2%	37.5%	10.7%	3.6%	3.6%	25%
+#20 Corey Davis	9.7%	26	19	0.731	28%	Below Average	13	7	20	35%	42.5%	19.2%	3.8%	3.8%	30.8%
+#12 Cody Carter	9.3%	25	21	0.84	42%	Average	15	7	22	31.8%	47.7%	12%	0%	0%	28%
+#32 Jan Siegien	8.6%	23	18	0.783	34%	Average	15	6	21	28.6%	42.9%	8.7%	0%	0%	26.1%
+#24 KeeganVan Kooten	8.6%	23	11	0.478	7%	Poor	17	4	21	19%	26.2%	8.7%	0%	0%	17.4%
+#40 JonAnderson	3.7%	10	5	0.5	7%	Poor	6	2	8	25%	25%	10%	10%	10%	30%
+#33 Cooper Kabela	3.7%	10	8	0.8	36%	Average	6	3	9	33.3%	44.4%	10%	0%	0%	30%
+#23 Jordan Venters	1.5%	4	9	2.25	-	-	1	3	4	75%	112.5%	0%	0%	0%	75%
+#11 ScottGasik	1.5%	4	6	1.5	-	-	2	2	4	50%	75%	0%	0%	0%	50%
+#13 Kameron Williams	0.7%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#4 Dylan Murdock	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#42 Carron Watt	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Eric Medenblik	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	17.6%	199	167	0.839	8%	Poor	69	61	130	46.9%	50%	19.1%	18.6%	15.6%	42.7%
+#20 Corey Davis	40.7%	81	78	0.963	49%	Average	20	28	48	58.3%	58.3%	19.8%	24.7%	19.8%	50.6%
+#24 KeeganVan Kooten	8%	16	4	0.25	0%	Poor	10	2	12	16.7%	16.7%	18.8%	6.3%	6.3%	12.5%
+#10 Michael Drew	8%	16	16	1	55%	Good	5	7	12	58.3%	58.3%	18.8%	6.3%	6.3%	50%
+#40 JonAnderson	7%	14	15	1.071	66%	Very Good	2	6	8	75%	75%	21.4%	35.7%	35.7%	64.3%
+#33 Cooper Kabela	7%	14	9	0.643	11%	Poor	5	3	8	37.5%	37.5%	21.4%	21.4%	21.4%	42.9%
+#3 Craig Engle	6.5%	13	9	0.692	14%	Poor	7	3	10	30%	35%	15.4%	7.7%	0%	30.8%
+#32 Jan Siegien	5%	10	9	0.9	39%	Average	5	3	8	37.5%	56.3%	20%	0%	0%	30%
+#2 Michael Fiorito	5%	10	5	0.5	4%	Poor	5	1	6	16.7%	16.7%	20%	30%	20%	30%
+#12 Cody Carter	4.5%	9	9	1	-	-	3	3	6	50%	58.3%	11.1%	22.2%	22.2%	44.4%
+#43 Brad Hund	3.5%	7	7	1	-	-	2	3	5	60%	70%	28.6%	0%	0%	42.9%
+#13 Kameron Williams	2%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#11 ScottGasik	1.5%	3	3	1	-	-	0	1	1	100%	150%	33.3%	33.3%	33.3%	33.3%
+#23 Jordan Venters	1%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	12.7%	144	89	0.618	10%	Poor	65	35	100	35%	37%	24.3%	10.4%	8.3%	29.9%
+#20 Corey Davis	50%	72	57	0.792	56%	Good	32	24	56	42.9%	42.9%	16.7%	12.5%	8.3%	38.9%
+#2 Michael Fiorito	16%	23	10	0.435	10%	Poor	12	3	15	20%	26.7%	30.4%	4.3%	4.3%	17.4%
+#3 Craig Engle	9%	13	5	0.385	6%	Poor	5	2	7	28.6%	35.7%	46.2%	0%	0%	15.4%
+#10 Michael Drew	7.6%	11	4	0.364	5%	Poor	5	2	7	28.6%	28.6%	36.4%	0%	0%	18.2%
+#24 KeeganVan Kooten	6.9%	10	3	0.3	4%	Poor	5	0	5	0%	0%	20%	30%	30%	20%
+#43 Brad Hund	2.8%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	25%	25%	25%
+#32 Jan Siegien	2.8%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#23 Jordan Venters	2.1%	3	3	1	-	-	0	1	1	100%	100%	33.3%	33.3%	33.3%	66.7%
+#12 Cody Carter	1.4%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 ScottGasik	1.4%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	10.5%	119	112	0.941	80%	Very Good	42	43	85	50.6%	50.6%	13.4%	17.6%	10.9%	49.6%
+#40 JonAnderson	61.3%	73	75	1.027	84%	Excellent	25	26	51	51%	51%	9.6%	24.7%	13.7%	54.8%
+#43 Brad Hund	28.6%	34	25	0.735	34%	Average	14	12	26	46.2%	46.2%	17.6%	5.9%	5.9%	38.2%
+#33 Cooper Kabela	4.2%	5	8	1.6	-	-	0	3	3	100%	100%	20%	20%	20%	80%
+#30 Austin Dyer	1.7%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Cody Carter	1.7%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#20 Corey Davis	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#13 Kameron Williams	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#10 Michael Drew	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	7.3%	83	103	1.241	94%	Excellent	20	42	62	67.7%	67.7%	9.6%	18.1%	18.1%	62.7%
+#40 JonAnderson	30.1%	25	35	1.4	90%	Excellent	5	14	19	73.7%	73.7%	12%	20%	20%	68%
+#43 Brad Hund	21.7%	18	22	1.222	69%	Very Good	5	10	15	66.7%	66.7%	0%	16.7%	16.7%	66.7%
+#10 Michael Drew	15.7%	13	18	1.385	88%	Excellent	2	6	8	75%	75%	15.4%	23.1%	23.1%	69.2%
+#32 Jan Siegien	13.3%	11	14	1.273	76%	Very Good	2	5	7	71.4%	71.4%	0%	36.4%	36.4%	63.6%
+#24 KeeganVan Kooten	7.2%	6	2	0.333	-	-	4	1	5	20%	20%	16.7%	0%	0%	16.7%
+#33 Cooper Kabela	6%	5	6	1.2	-	-	2	3	5	60%	60%	0%	0%	0%	60%
+#20 Corey Davis	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#4 Dylan Murdock	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#12 Cody Carter	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#42 Carron Watt	1.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Michael Fiorito	1.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	6.4%	72	83	1.153	81%	Very Good	24	34	58	58.6%	59.5%	6.9%	18.1%	18.1%	58.3%
+#43 Brad Hund	29.2%	21	33	1.571	98%	Excellent	3	15	18	83.3%	83.3%	4.8%	14.3%	14.3%	81%
+#40 JonAnderson	26.4%	19	20	1.053	46%	Average	8	9	17	52.9%	52.9%	10.5%	10.5%	10.5%	47.4%
+#20 Corey Davis	12.5%	9	4	0.444	-	-	4	2	6	33.3%	33.3%	22.2%	11.1%	11.1%	22.2%
+#10 Michael Drew	9.7%	7	7	1	-	-	3	1	4	25%	25%	0%	42.9%	42.9%	57.1%
+#24 KeeganVan Kooten	5.6%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#33 Cooper Kabela	5.6%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#30 Austin Dyer	2.8%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#12 Cody Carter	2.8%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#11 ScottGasik	2.8%	2	3	1.5	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#13 Kameron Williams	1.4%	1	2	2	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+#2 Michael Fiorito	1.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	4.4%	50	38	0.76	18%	Below Average	22	13	35	37.1%	40%	18%	12%	10%	38%
+#40 JonAnderson	30%	15	16	1.067	61%	Good	3	5	8	62.5%	62.5%	20%	26.7%	20%	60%
+#12 Cody Carter	20%	10	5	0.5	5%	Poor	7	2	9	22.2%	27.8%	10%	0%	0%	20%
+#43 Brad Hund	14%	7	6	0.857	-	-	1	3	4	75%	75%	42.9%	0%	0%	42.9%
+#33 Cooper Kabela	12%	6	8	1.333	-	-	1	2	3	66.7%	66.7%	16.7%	33.3%	33.3%	66.7%
+#30 Austin Dyer	10%	5	0	0	-	-	4	0	4	0%	0%	20%	0%	0%	0%
+#32 Jan Siegien	8%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#11 ScottGasik	6%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	3%	34	26	0.765	44%	Average	15	7	22	31.8%	34.1%	20.6%	17.6%	14.7%	35.3%
+#20 Corey Davis	50%	17	14	0.824	55%	Good	7	4	11	36.4%	36.4%	17.6%	17.6%	11.8%	41.2%
+#24 KeeganVan Kooten	11.8%	4	5	1.25	-	-	2	1	3	33.3%	33.3%	0%	50%	50%	50%
+#30 Austin Dyer	5.9%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#11 ScottGasik	5.9%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#10 Michael Drew	5.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#2 Michael Fiorito	5.9%	2	2	1	-	-	0	0	0	-	-	50%	50%	50%	50%
+#3 Craig Engle	2.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Jan Siegien	2.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Jordan Venters	2.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 JonAnderson	2.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Cooper Kabela	2.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	2.8%	32	24	0.75	23%	Below Average	17	10	27	37%	40.7%	12.5%	6.3%	6.3%	34.4%
+#3 Craig Engle	18.8%	6	2	0.333	-	-	4	1	5	20%	20%	16.7%	0%	0%	16.7%
+#32 Jan Siegien	18.8%	6	3	0.5	-	-	5	1	6	16.7%	25%	0%	0%	0%	16.7%
+#43 Brad Hund	15.6%	5	6	1.2	-	-	2	2	4	50%	50%	0%	20%	20%	60%
+#10 Michael Drew	12.5%	4	2	0.5	-	-	3	1	4	25%	25%	0%	25%	25%	25%
+#40 JonAnderson	9.4%	3	6	2	-	-	0	3	3	100%	100%	0%	0%	0%	100%
+#20 Corey Davis	6.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#24 KeeganVan Kooten	6.3%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#2 Michael Fiorito	6.3%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#23 Jordan Venters	3.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 ScottGasik	3.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	1.8%	20	17	0.85	63%	Good	12	5	17	29.4%	38.2%	0%	15%	5%	40%
+#20 Corey Davis	20%	4	3	0.75	-	-	2	0	2	0%	0%	0%	50%	0%	50%
+#32 Jan Siegien	15%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#10 Michael Drew	15%	3	1	0.333	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#3 Craig Engle	10%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#23 Jordan Venters	10%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#2 Michael Fiorito	10%	2	6	3	-	-	0	2	2	100%	150%	0%	0%	0%	100%
+#43 Brad Hund	5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Cody Carter	5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#24 KeeganVan Kooten	5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 ScottGasik	5%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Cornell College Rams	9.6%	109	46	0.422	34%	Average	5	3	8	37.5%	43.8%	57.8%	36.7%	2.8%	27.5%
+#20 Corey Davis	26.6%	29	12	0.414	43%	Average	3	1	4	25%	25%	48.3%	41.4%	6.9%	31%
+#43 Brad Hund	11.9%	13	2	0.154	10%	Poor	0	0	0	-	-	76.9%	23.1%	0%	15.4%
+#2 Michael Fiorito	11.9%	13	7	0.538	62%	Good	0	1	1	100%	100%	46.2%	53.8%	7.7%	38.5%
+#40 JonAnderson	9.2%	10	7	0.7	81%	Very Good	0	0	0	-	-	20%	80%	0%	40%
+#10 Michael Drew	9.2%	10	6	0.6	71%	Very Good	0	0	0	-	-	60%	40%	0%	30%
+#3 Craig Engle	7.3%	8	7	0.875	-	-	0	0	0	-	-	50%	50%	0%	50%
+#12 Cody Carter	7.3%	8	3	0.375	-	-	0	1	1	100%	150%	87.5%	0%	0%	12.5%
+#24 KeeganVan Kooten	6.4%	7	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Jan Siegien	3.7%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#23 Jordan Venters	1.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#4 Dylan Murdock	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#30 Austin Dyer	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Cooper Kabela	0.9%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#44 Jordan Heien	0.9%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#13 Kameron Williams	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

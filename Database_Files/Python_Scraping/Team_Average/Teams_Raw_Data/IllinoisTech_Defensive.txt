@@ -1,0 +1,461 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Illinois Tech Scarlet Hawks	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Illinois Tech Scarlet Hawks	Date Range: 11/17/2017 to 02/20/2018	Number of Games: 19
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	100%	1494	1252	0.838	87%	Excellent	631	466	1097	42.5%	48.5%	16.8%	10.9%	7.2%	38.6%
+ Transition	15.1%	226	221	0.978	50%	Average	88	85	173	49.1%	54.9%	12.8%	12.8%	11.1%	44.7%
+ Overall Half Court	84.9%	1268	1031	0.813	86%	Excellent	543	381	924	41.2%	47.3%	17.5%	10.6%	6.5%	37.5%
+                    Short Shot Clock <4 Seconds	4.2%	63	33	0.524	88%	Excellent	38	10	48	20.8%	22.9%	9.5%	14.3%	6.3%	25.4%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8%	101	84	0.832	55%	Good	44	30	74	40.5%	48.6%	20.8%	7.9%	6.9%	35.6%
+         Out of Bounds (Side)	4.7%	59	46	0.78	59%	Good	28	17	45	37.8%	44.4%	13.6%	11.9%	6.8%	37.3%
+         After Time Outs	12.1%	154	102	0.662	97%	Excellent	77	36	113	31.9%	36.3%	16.9%	10.4%	6.5%	31.2%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	99.5%	1262	1023	0.811	83%	Excellent	542	379	921	41.2%	47.2%	17.6%	10.4%	6.5%	37.4%
+    Zone Defense	0.5%	6	8	1.333	-	-	1	2	3	66.7%	83.3%	0%	50%	0%	66.7%
+Breakdown of Full Court Press Situations:
+  Press Defense	0.6%	8	9	1.125	-	-	2	2	4	50%	75%	12.5%	37.5%	0%	50%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	20.9%	312	288	0.923	51%	Good	172	100	272	36.8%	49.1%	8.7%	5.1%	4.2%	35.9%
+ Transition	15.1%	226	221	0.978	50%	Average	88	85	173	49.1%	54.9%	12.8%	12.8%	11.1%	44.7%
+ Post-Up	11.8%	176	150	0.852	52%	Good	63	66	129	51.2%	51.2%	17.6%	10.2%	5.7%	44.3%
+ P&R Ball Handler	9.8%	146	102	0.699	76%	Very Good	65	34	99	34.3%	37.4%	21.2%	13%	9.6%	32.9%
+ Off Screen	8.5%	127	123	0.969	33%	Average	60	45	105	42.9%	53.3%	11%	6.3%	3.9%	40.9%
+ Isolation	6.6%	99	75	0.758	66%	Very Good	50	25	75	33.3%	38.7%	9.1%	16.2%	11.1%	36.4%
+ Cut	6.5%	97	91	0.938	91%	Excellent	41	41	82	50%	50%	8.2%	9.3%	7.2%	48.5%
+ Offensive Rebounds (put backs)	5.7%	85	84	0.988	72%	Very Good	32	35	67	52.2%	52.2%	4.7%	17.6%	15.3%	52.9%
+ Hand Off	3.4%	51	47	0.922	27%	Below Average	25	17	42	40.5%	46.4%	7.8%	9.8%	7.8%	43.1%
+ P&R Roll Man	3.2%	48	33	0.688	96%	Excellent	26	13	39	33.3%	39.7%	12.5%	6.3%	6.3%	31.3%
+ Miscellaneous	8.5%	127	38	0.299	97%	Excellent	9	5	14	35.7%	35.7%	69.3%	19.7%	1.6%	16.5%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	8.4%	125	97	0.776	74%	Very Good	65	33	98	33.7%	39.3%	8%	14.4%	10.4%	36.8%
+  Pick and Rolls Including Passes	18.7%	280	215	0.768	87%	Excellent	142	77	219	35.2%	41.8%	14.6%	8.2%	6.4%	33.6%
+  Post-Ups Including Passes	15.9%	238	214	0.899	47%	Average	95	88	183	48.1%	50.8%	14.3%	10.5%	7.1%	44.1%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.7%	26	22	0.846	72%	Very Good	15	8	23	34.8%	41.3%	3.8%	7.7%	7.7%	38.5%
+  P&R BH - Defense Commits	10.8%	162	114	0.704	87%	Excellent	77	43	120	35.8%	45.4%	22.2%	3.7%	2.5%	29%
+  Post-Up - Defense Commits	4.1%	62	64	1.032	49%	Average	32	22	54	40.7%	50%	4.8%	11.3%	11.3%	43.5%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.3%	5	5	1	-	-	1	2	3	66.7%	83.3%	40%	0%	0%	40%
+  Post-Up - Hard Double	2.3%	34	16	0.471	93%	Excellent	15	6	21	28.6%	31%	29.4%	8.8%	8.8%	23.5%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	48.2%	445	413	0.928	66%	Very Good	295	150	445	33.7%	46.4%	0%	0%	0%	33.7%
+          Short Shot Clock <4 Seconds	2.9%	27	6	0.222	97%	Excellent	25	2	27	7.4%	11.1%	0%	0%	0%	7.4%
+Runner	4.3%	40	30	0.75	47%	Average	25	15	40	37.5%	37.5%	0%	0%	0%	37.5%
+          Short Shot Clock <4 Seconds	0.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+Around Basket (not Post-Ups)	33.5%	310	305	0.984	93%	Excellent	160	150	310	48.4%	48.4%	0%	3.2%	3.2%	48.4%
+Post-Ups	14%	129	133	1.031	34%	Average	63	66	129	51.2%	51.2%	0%	1.6%	1.6%	51.2%
+          Short Shot Clock <4 Seconds	0.4%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	29.9%	276	304	1.101	24%	Below Average	171	105	276	38%	55.1%	0%	0%	0%	38%
+  Guarded	59.8%	165	187	1.133	9%	Poor	99	66	165	40%	56.7%	0%	0%	0%	40%
+  Unguarded	40.2%	111	117	1.054	65%	Very Good	72	39	111	35.1%	52.7%	0%	0%	0%	35.1%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	14.4%	133	76	0.571	98%	Excellent	100	33	133	24.8%	28.6%	0%	0%	0%	24.8%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	16.4%	73	48	0.658	84%	Excellent	49	24	73	32.9%	32.9%	0%	0%	0%	32.9%
+Medium (17' to <3 point line)	11.5%	51	26	0.51	97%	Excellent	38	13	51	25.5%	25.5%	0%	0%	0%	25.5%
+Long (3 point jump shots)	72.1%	321	339	1.056	35%	Average	208	113	321	35.2%	52.8%	0%	0%	0%	35.2%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	100%	1494	1252	0.838	87%	Excellent	631	466	1097	42.5%	48.5%	16.8%	10.9%	7.2%	38.6%
+#21 Jake Digiorgio	11.1%	166	135	0.813	66%	Very Good	94	53	147	36.1%	40.8%	6%	6.6%	5.4%	37.3%
+#32 Parker Joncus	10.5%	157	159	1.013	19%	Below Average	75	62	137	45.3%	54%	8.3%	4.5%	3.8%	43.9%
+#3 Malik Howze	8.8%	131	107	0.817	65%	Very Good	63	36	99	36.4%	44.4%	15.3%	9.2%	3.8%	35.9%
+#2 Anthony Mosley	7.8%	116	95	0.819	64%	Good	55	28	83	33.7%	42.2%	13.8%	16.4%	13.8%	37.1%
+#22 Max Hisatake	7.4%	111	67	0.604	93%	Excellent	58	27	85	31.8%	35.9%	16.2%	7.2%	3.6%	27.9%
+#15 Capriest Gardner	4.8%	71	69	0.972	26%	Below Average	30	24	54	44.4%	53.7%	12.7%	15.5%	11.3%	42.3%
+#10 Jake Bruns	4.6%	68	56	0.824	63%	Good	31	22	53	41.5%	50%	19.1%	4.4%	1.5%	33.8%
+#35 Kohl Linder	2.7%	41	37	0.902	43%	Average	15	14	29	48.3%	55.2%	17.1%	12.2%	7.3%	43.9%
+#13 Calvin Schmitz	2.7%	41	36	0.878	49%	Average	20	13	33	39.4%	50%	14.6%	4.9%	4.9%	36.6%
+#4 Quentin Forberg	1.6%	24	32	1.333	2%	Poor	7	11	18	61.1%	75%	16.7%	12.5%	12.5%	54.2%
+#20 Brett Ott	0.5%	8	6	0.75	-	-	4	2	6	33.3%	50%	12.5%	12.5%	0%	25%
+#11 Jason Morris	0.2%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#13 Vignesh Rajagopal	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#100 Unidentifiable Player	0.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	20.9%	312	288	0.923	51%	Good	172	100	272	36.8%	49.1%	8.7%	5.1%	4.2%	35.9%
+#21 Jake Digiorgio	23.1%	72	56	0.778	76%	Very Good	44	19	63	30.2%	37.3%	5.6%	8.3%	6.9%	33.3%
+#32 Parker Joncus	12.8%	40	37	0.925	49%	Average	22	14	36	38.9%	50%	7.5%	2.5%	2.5%	37.5%
+#22 Max Hisatake	12.5%	39	27	0.692	86%	Excellent	25	9	34	26.5%	36.8%	10.3%	2.6%	2.6%	25.6%
+#15 Capriest Gardner	10.9%	34	35	1.029	30%	Below Average	16	13	29	44.8%	56.9%	11.8%	8.8%	5.9%	41.2%
+#3 Malik Howze	10.3%	32	33	1.031	30%	Below Average	17	11	28	39.3%	58.9%	12.5%	0%	0%	34.4%
+#2 Anthony Mosley	9.3%	29	30	1.034	29%	Below Average	16	9	25	36%	48%	3.4%	10.3%	10.3%	41.4%
+#10 Jake Bruns	7.1%	22	19	0.864	62%	Good	13	7	20	35%	47.5%	9.1%	0%	0%	31.8%
+#35 Kohl Linder	5.1%	16	17	1.063	25%	Below Average	5	6	11	54.5%	72.7%	18.8%	12.5%	6.3%	43.8%
+#13 Calvin Schmitz	4.8%	15	17	1.133	17%	Below Average	7	6	13	46.2%	65.4%	13.3%	0%	0%	40%
+#4 Quentin Forberg	3.2%	10	17	1.7	0%	Poor	4	6	10	60%	85%	0%	0%	0%	60%
+#20 Brett Ott	0.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#13 Vignesh Rajagopal	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	11.8%	176	150	0.852	52%	Good	63	66	129	51.2%	51.2%	17.6%	10.2%	5.7%	44.3%
+#22 Max Hisatake	29.5%	52	34	0.654	81%	Very Good	19	15	34	44.1%	44.1%	23.1%	11.5%	5.8%	34.6%
+#21 Jake Digiorgio	24.4%	43	40	0.93	37%	Average	18	19	37	51.4%	51.4%	9.3%	7%	4.7%	48.8%
+#35 Kohl Linder	12.5%	22	20	0.909	40%	Average	8	8	16	50%	50%	13.6%	13.6%	9.1%	50%
+#32 Parker Joncus	10.8%	19	15	0.789	61%	Good	8	7	15	46.7%	46.7%	15.8%	5.3%	5.3%	42.1%
+#3 Malik Howze	5.1%	9	12	1.333	-	-	1	5	6	83.3%	83.3%	22.2%	11.1%	0%	66.7%
+#15 Capriest Gardner	5.1%	9	12	1.333	-	-	1	4	5	80%	80%	11.1%	33.3%	11.1%	66.7%
+#10 Jake Bruns	4%	7	5	0.714	-	-	4	2	6	33.3%	33.3%	14.3%	14.3%	14.3%	28.6%
+#13 Calvin Schmitz	4%	7	6	0.857	-	-	3	3	6	50%	50%	14.3%	0%	0%	42.9%
+#2 Anthony Mosley	3.4%	6	4	0.667	-	-	1	2	3	66.7%	66.7%	50%	0%	0%	33.3%
+#4 Quentin Forberg	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#100 Unidentifiable Player	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	9.8%	146	102	0.699	76%	Very Good	65	34	99	34.3%	37.4%	21.2%	13%	9.6%	32.9%
+#3 Malik Howze	30.1%	44	33	0.75	52%	Good	16	9	25	36%	38%	22.7%	20.5%	9.1%	38.6%
+#2 Anthony Mosley	25.3%	37	20	0.541	84%	Excellent	21	5	26	19.2%	23.1%	16.2%	16.2%	16.2%	24.3%
+#32 Parker Joncus	13.7%	20	17	0.85	34%	Average	10	7	17	41.2%	44.1%	10%	5%	5%	40%
+#10 Jake Bruns	10.3%	15	9	0.6	78%	Very Good	6	4	10	40%	45%	33.3%	0%	0%	26.7%
+#15 Capriest Gardner	7.5%	11	7	0.636	72%	Very Good	5	2	7	28.6%	28.6%	27.3%	18.2%	18.2%	27.3%
+#4 Quentin Forberg	5.5%	8	9	1.125	-	-	1	4	5	80%	80%	37.5%	12.5%	12.5%	50%
+#21 Jake Digiorgio	2.7%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#13 Calvin Schmitz	2.7%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#20 Brett Ott	2.1%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	8.5%	127	123	0.969	33%	Average	60	45	105	42.9%	53.3%	11%	6.3%	3.9%	40.9%
+#32 Parker Joncus	26%	33	45	1.364	7%	Poor	13	18	31	58.1%	72.6%	6.1%	0%	0%	54.5%
+#2 Anthony Mosley	20.5%	26	30	1.154	20%	Below Average	8	8	16	50%	65.6%	11.5%	26.9%	15.4%	53.8%
+#3 Malik Howze	20.5%	26	13	0.5	89%	Excellent	18	5	23	21.7%	28.3%	11.5%	0%	0%	19.2%
+#21 Jake Digiorgio	10.2%	13	8	0.615	81%	Very Good	7	3	10	30%	30%	15.4%	7.7%	7.7%	30.8%
+#10 Jake Bruns	7.1%	9	16	1.778	-	-	1	7	8	87.5%	100%	11.1%	0%	0%	77.8%
+#15 Capriest Gardner	5.5%	7	3	0.429	-	-	6	1	7	14.3%	21.4%	0%	0%	0%	14.3%
+#22 Max Hisatake	4.7%	6	2	0.333	-	-	3	1	4	25%	25%	33.3%	0%	0%	16.7%
+#13 Calvin Schmitz	3.1%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#20 Brett Ott	1.6%	2	6	3	-	-	0	2	2	100%	150%	0%	0%	0%	100%
+#4 Quentin Forberg	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	6.6%	99	75	0.758	66%	Very Good	50	25	75	33.3%	38.7%	9.1%	16.2%	11.1%	36.4%
+#32 Parker Joncus	25.3%	25	21	0.84	41%	Average	14	8	22	36.4%	43.2%	8%	4%	4%	36%
+#21 Jake Digiorgio	17.2%	17	21	1.235	6%	Poor	8	8	16	50%	59.4%	0%	5.9%	5.9%	52.9%
+#3 Malik Howze	10.1%	10	7	0.7	62%	Good	5	2	7	28.6%	28.6%	10%	20%	10%	40%
+#10 Jake Bruns	9.1%	9	4	0.444	-	-	4	1	5	20%	20%	22.2%	22.2%	0%	22.2%
+#22 Max Hisatake	9.1%	9	2	0.222	-	-	7	1	8	12.5%	12.5%	0%	11.1%	0%	11.1%
+#2 Anthony Mosley	7.1%	7	6	0.857	-	-	3	2	5	40%	50%	14.3%	28.6%	28.6%	42.9%
+#13 Calvin Schmitz	6.1%	6	6	1	-	-	3	2	5	40%	50%	0%	16.7%	16.7%	50%
+#15 Capriest Gardner	6.1%	6	2	0.333	-	-	2	0	2	0%	0%	16.7%	50%	50%	33.3%
+#4 Quentin Forberg	4%	4	4	1	-	-	1	0	1	0%	0%	25%	50%	50%	50%
+#35 Kohl Linder	3%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#11 Jason Morris	2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#20 Brett Ott	1%	1	0	0	-	-	0	0	0	-	-	0%	100%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	3.4%	51	47	0.922	27%	Below Average	25	17	42	40.5%	46.4%	7.8%	9.8%	7.8%	43.1%
+#32 Parker Joncus	31.4%	16	21	1.313	8%	Poor	5	7	12	58.3%	66.7%	6.3%	18.8%	12.5%	62.5%
+#2 Anthony Mosley	19.6%	10	5	0.5	84%	Excellent	6	2	8	25%	25%	10%	10%	10%	30%
+#3 Malik Howze	15.7%	8	9	1.125	-	-	4	4	8	50%	56.3%	0%	0%	0%	50%
+#21 Jake Digiorgio	11.8%	6	0	0	-	-	6	0	6	0%	0%	0%	0%	0%	0%
+#13 Calvin Schmitz	9.8%	5	5	1	-	-	2	1	3	33.3%	50%	20%	20%	20%	40%
+#10 Jake Bruns	5.9%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#15 Capriest Gardner	3.9%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#22 Max Hisatake	2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Illinois Tech Scarlet Hawks	3.2%	48	33	0.688	96%	Excellent	26	13	39	33.3%	39.7%	12.5%	6.3%	6.3%	31.3%
+#21 Jake Digiorgio	22.9%	11	5	0.455	89%	Excellent	9	2	11	18.2%	22.7%	0%	0%	0%	18.2%
+#32 Parker Joncus	8.3%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#22 Max Hisatake	8.3%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#10 Jake Bruns	6.3%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#3 Malik Howze	4.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#15 Capriest Gardner	4.2%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#2 Anthony Mosley	2.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Jason Morris	2.1%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

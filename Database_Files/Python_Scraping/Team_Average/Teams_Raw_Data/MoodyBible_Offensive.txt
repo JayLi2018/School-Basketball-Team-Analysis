@@ -1,0 +1,548 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Moody Bible Institute	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Moody Bible Institute	Date Range: 11/11/2017 to 01/27/2018	Number of Games: 5
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	100%	414	304	0.734	48%	Average	186	108	294	36.7%	45.4%	21.3%	8.2%	6%	31.4%
+ Transition	12.8%	53	30	0.566	13%	Poor	27	11	38	28.9%	32.9%	18.9%	7.5%	7.5%	26.4%
+ Overall Half Court	87.2%	361	274	0.759	70%	Very Good	159	97	256	37.9%	47.3%	21.6%	8.3%	5.8%	32.1%
+                    Short Shot Clock <4 Seconds	3.1%	13	11	0.846	95%	Excellent	7	4	11	36.4%	45.5%	7.7%	7.7%	7.7%	38.5%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.6%	31	16	0.516	18%	Below Average	18	6	24	25%	29.2%	19.4%	3.2%	0%	22.6%
+         Out of Bounds (Side)	5.3%	19	22	1.158	100%	Excellent	7	7	14	50%	64.3%	15.8%	10.5%	0%	47.4%
+         After Time Outs	12.2%	44	41	0.932	100%	Excellent	15	15	30	50%	63.3%	27.3%	6.8%	4.5%	38.6%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	96.7%	349	268	0.768	74%	Very Good	151	95	246	38.6%	48%	21.8%	8.6%	6%	32.7%
+    Against Zone	3.3%	12	6	0.5	9%	Poor	8	2	10	20%	30%	16.7%	0%	0%	16.7%
+Breakdown of Full Court Press Situations:
+  Press Offense	2.2%	8	9	1.125	-	-	3	3	6	50%	75%	12.5%	12.5%	0%	37.5%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	26.3%	109	97	0.89	74%	Very Good	54	33	87	37.9%	51.7%	13.8%	6.4%	6.4%	35.8%
+ Transition	12.8%	53	30	0.566	13%	Poor	27	11	38	28.9%	32.9%	18.9%	7.5%	7.5%	26.4%
+ Isolation	10.1%	42	22	0.524	23%	Below Average	21	9	30	30%	31.7%	11.9%	19%	9.5%	26.2%
+ Hand Off	9.4%	39	36	0.923	83%	Excellent	21	11	32	34.4%	46.9%	7.7%	10.3%	5.1%	35.9%
+ Off Screen	8.7%	36	40	1.111	95%	Excellent	14	14	28	50%	69.6%	19.4%	5.6%	5.6%	41.7%
+ Cut	7.2%	30	20	0.667	4%	Poor	19	9	28	32.1%	32.1%	3.3%	3.3%	3.3%	33.3%
+ P&R Ball Handler	6.8%	28	17	0.607	41%	Average	14	6	20	30%	37.5%	25%	3.6%	3.6%	25%
+ Post-Up	4.6%	19	14	0.737	68%	Very Good	7	6	13	46.2%	46.2%	26.3%	5.3%	0%	36.8%
+ Offensive Rebounds (put backs)	3.6%	15	15	1	52%	Good	5	5	10	50%	50%	13.3%	26.7%	26.7%	46.7%
+ P&R Roll Man	1%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+ Miscellaneous	9.4%	39	10	0.256	35%	Average	1	3	4	75%	75%	84.6%	5.1%	0%	12.8%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	12.8%	53	40	0.755	74%	Very Good	25	15	40	37.5%	43.8%	9.4%	17%	9.4%	34%
+  Pick and Rolls Including Passes	11.4%	47	35	0.745	70%	Very Good	23	12	35	34.3%	42.9%	17%	8.5%	8.5%	31.9%
+  Post-Ups Including Passes	6.3%	26	18	0.692	43%	Average	11	7	18	38.9%	41.7%	23.1%	7.7%	3.8%	34.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.7%	11	18	1.636	100%	Excellent	4	6	10	60%	80%	0%	9.1%	9.1%	63.6%
+  P&R BH - Defense Commits	5.8%	24	18	0.75	90%	Excellent	9	6	15	40%	50%	25%	12.5%	12.5%	33.3%
+  Post-Up - Defense Commits	1.7%	7	4	0.571	-	-	4	1	5	20%	30%	14.3%	14.3%	14.3%	28.6%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.5%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+  Post-Up - Hard Double	1%	4	1	0.25	-	-	2	0	2	0%	0%	25%	25%	25%	25%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	57.8%	148	158	1.068	100%	Excellent	93	55	148	37.2%	53.4%	0%	0%	0%	37.2%
+          Short Shot Clock <4 Seconds	2.3%	6	10	1.667	-	-	2	4	6	66.7%	83.3%	0%	0%	0%	66.7%
+Runner	4.7%	12	4	0.333	5%	Poor	10	2	12	16.7%	16.7%	0%	0%	0%	16.7%
+          Short Shot Clock <4 Seconds	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	32.4%	83	70	0.843	9%	Poor	49	34	83	41%	41%	0%	3.6%	3.6%	41%
+Post-Ups	5.1%	13	12	0.923	82%	Very Good	7	6	13	46.2%	46.2%	0%	0%	0%	46.2%
+          Short Shot Clock <4 Seconds	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	37.5%	96	132	1.375	100%	Excellent	51	45	96	46.9%	68.8%	0%	0%	0%	46.9%
+  Guarded	54.2%	52	70	1.346	100%	Excellent	28	24	52	46.2%	67.3%	0%	0%	0%	46.2%
+  Unguarded	45.8%	44	62	1.409	91%	Excellent	23	21	44	47.7%	70.5%	0%	0%	0%	47.7%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	19.1%	49	26	0.531	14%	Poor	39	10	49	20.4%	26.5%	0%	0%	0%	20.4%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	15.5%	23	8	0.348	0%	Poor	19	4	23	17.4%	17.4%	0%	0%	0%	17.4%
+Medium (17' to <3 point line)	12.2%	18	6	0.333	0%	Poor	15	3	18	16.7%	16.7%	0%	0%	0%	16.7%
+Long (3 point jump shots)	72.3%	107	144	1.346	100%	Excellent	59	48	107	44.9%	67.3%	0%	0%	0%	44.9%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	100%	414	304	0.734	48%	Average	186	108	294	36.7%	45.4%	21.3%	8.2%	6%	31.4%
+#33 Joshua Wedeven	25.1%	104	89	0.856	76%	Very Good	46	29	75	38.7%	47.3%	18.3%	9.6%	7.7%	37.5%
+#22 David Arabis	17.4%	72	49	0.681	46%	Average	30	18	48	37.5%	51%	29.2%	4.2%	0%	25%
+#5 Levi Miller	17.4%	72	60	0.833	73%	Very Good	39	22	61	36.1%	47.5%	13.9%	2.8%	2.8%	31.9%
+#2 Keynan Carter	10.6%	44	27	0.614	32%	Average	14	9	23	39.1%	39.1%	22.7%	25%	25%	36.4%
+#34 Jonathan Raub	7%	29	19	0.655	41%	Average	13	7	20	35%	37.5%	24.1%	10.3%	6.9%	31%
+#12 Joseph Shidler	6.3%	26	11	0.423	13%	Poor	17	4	21	19%	26.2%	19.2%	0%	0%	15.4%
+#11 JonahWilson	5.6%	23	17	0.739	56%	Good	11	7	18	38.9%	47.2%	17.4%	4.3%	0%	30.4%
+#23 Jacob Kim	5.3%	22	18	0.818	71%	Very Good	8	7	15	46.7%	60%	22.7%	9.1%	9.1%	31.8%
+#4 Kent Hinrichsen	3.4%	14	12	0.857	77%	Very Good	5	4	9	44.4%	44.4%	21.4%	14.3%	0%	42.9%
+#3 Aaron Brown	1.2%	5	2	0.4	-	-	3	1	4	25%	25%	20%	0%	0%	20%
+#21 Jeremiah Ransom	0.5%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#20 Zachary Daniels	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	26.3%	109	97	0.89	74%	Very Good	54	33	87	37.9%	51.7%	13.8%	6.4%	6.4%	35.8%
+#33 Joshua Wedeven	22%	24	27	1.125	91%	Excellent	11	9	20	45%	60%	8.3%	8.3%	8.3%	45.8%
+#5 Levi Miller	19.3%	21	23	1.095	88%	Excellent	11	8	19	42.1%	60.5%	9.5%	0%	0%	38.1%
+#22 David Arabis	13.8%	15	20	1.333	96%	Excellent	7	7	14	50%	71.4%	6.7%	0%	0%	46.7%
+#12 Joseph Shidler	10.1%	11	6	0.545	22%	Below Average	9	2	11	18.2%	27.3%	0%	0%	0%	18.2%
+#2 Keynan Carter	9.2%	10	4	0.4	7%	Poor	3	0	3	0%	0%	30%	40%	40%	40%
+#11 JonahWilson	8.3%	9	8	0.889	-	-	6	3	9	33.3%	44.4%	0%	0%	0%	33.3%
+#23 Jacob Kim	6.4%	7	0	0	-	-	3	0	3	0%	0%	42.9%	14.3%	14.3%	0%
+#34 Jonathan Raub	5.5%	6	7	1.167	-	-	1	3	4	75%	87.5%	33.3%	0%	0%	50%
+#3 Aaron Brown	3.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#4 Kent Hinrichsen	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#21 Jeremiah Ransom	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	12.8%	53	30	0.566	13%	Poor	27	11	38	28.9%	32.9%	18.9%	7.5%	7.5%	26.4%
+#5 Levi Miller	22.6%	12	7	0.583	19%	Below Average	8	3	11	27.3%	31.8%	8.3%	0%	0%	25%
+#33 Joshua Wedeven	20.8%	11	6	0.545	15%	Below Average	7	2	9	22.2%	22.2%	9.1%	9.1%	9.1%	27.3%
+#2 Keynan Carter	18.9%	10	6	0.6	22%	Below Average	2	2	4	50%	50%	30%	20%	30%	30%
+#22 David Arabis	11.3%	6	5	0.833	-	-	2	2	4	50%	62.5%	33.3%	0%	0%	33.3%
+#23 Jacob Kim	9.4%	5	0	0	-	-	4	0	4	0%	0%	20%	0%	0%	0%
+#12 Joseph Shidler	7.5%	4	3	0.75	-	-	2	1	3	33.3%	50%	25%	0%	0%	25%
+#11 JonahWilson	7.5%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#34 Jonathan Raub	1.9%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	10.1%	42	22	0.524	23%	Below Average	21	9	30	30%	31.7%	11.9%	19%	9.5%	26.2%
+#33 Joshua Wedeven	35.7%	15	8	0.533	34%	Average	7	3	10	30%	35%	26.7%	6.7%	6.7%	26.7%
+#2 Keynan Carter	26.2%	11	6	0.545	38%	Average	6	2	8	25%	25%	0%	36.4%	27.3%	27.3%
+#22 David Arabis	23.8%	10	4	0.4	21%	Below Average	5	2	7	28.6%	28.6%	10%	20%	0%	20%
+#5 Levi Miller	4.8%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#11 JonahWilson	4.8%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	0%	50%
+#12 Joseph Shidler	2.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#34 Jonathan Raub	2.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	9.4%	39	36	0.923	83%	Excellent	21	11	32	34.4%	46.9%	7.7%	10.3%	5.1%	35.9%
+#22 David Arabis	35.9%	14	15	1.071	100%	Excellent	7	5	12	41.7%	62.5%	7.1%	7.1%	0%	35.7%
+#5 Levi Miller	33.3%	13	7	0.538	27%	Below Average	9	2	11	18.2%	22.7%	7.7%	7.7%	7.7%	23.1%
+#33 Joshua Wedeven	23.1%	9	12	1.333	-	-	3	3	6	50%	66.7%	11.1%	22.2%	11.1%	55.6%
+#12 Joseph Shidler	2.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#34 Jonathan Raub	2.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#2 Keynan Carter	2.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	8.7%	36	40	1.111	95%	Excellent	14	14	28	50%	69.6%	19.4%	5.6%	5.6%	41.7%
+#33 Joshua Wedeven	25%	9	6	0.667	-	-	5	2	7	28.6%	42.9%	22.2%	0%	0%	22.2%
+#5 Levi Miller	25%	9	11	1.222	-	-	4	4	8	50%	68.8%	11.1%	11.1%	11.1%	44.4%
+#22 David Arabis	13.9%	5	3	0.6	-	-	4	1	5	20%	30%	0%	0%	0%	20%
+#2 Keynan Carter	13.9%	5	5	1	-	-	0	2	2	100%	100%	40%	20%	20%	60%
+#23 Jacob Kim	11.1%	4	12	3	-	-	0	4	4	100%	150%	0%	0%	0%	100%
+#11 JonahWilson	5.6%	2	3	1.5	-	-	0	1	1	100%	150%	50%	0%	0%	50%
+#4 Kent Hinrichsen	2.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#34 Jonathan Raub	2.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	7.2%	30	20	0.667	4%	Poor	19	9	28	32.1%	32.1%	3.3%	3.3%	3.3%	33.3%
+#34 Jonathan Raub	33.3%	10	6	0.6	6%	Poor	6	3	9	33.3%	33.3%	10%	0%	0%	30%
+#33 Joshua Wedeven	20%	6	6	1	-	-	3	2	5	40%	40%	0%	16.7%	16.7%	50%
+#4 Kent Hinrichsen	10%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#5 Levi Miller	10%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#11 JonahWilson	10%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#12 Joseph Shidler	6.7%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#2 Keynan Carter	6.7%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#23 Jacob Kim	3.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	6.8%	28	17	0.607	41%	Average	14	6	20	30%	37.5%	25%	3.6%	3.6%	25%
+#33 Joshua Wedeven	42.9%	12	12	1	93%	Excellent	5	4	9	44.4%	55.6%	16.7%	8.3%	8.3%	41.7%
+#5 Levi Miller	21.4%	6	3	0.5	-	-	3	1	4	25%	37.5%	33.3%	0%	0%	16.7%
+#22 David Arabis	17.9%	5	0	0	-	-	3	0	3	0%	0%	40%	0%	0%	0%
+#12 Joseph Shidler	7.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#23 Jacob Kim	3.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#2 Keynan Carter	3.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#21 Jeremiah Ransom	3.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	4.6%	19	14	0.737	68%	Very Good	7	6	13	46.2%	46.2%	26.3%	5.3%	0%	36.8%
+#33 Joshua Wedeven	47.4%	9	6	0.667	-	-	3	3	6	50%	50%	33.3%	0%	0%	33.3%
+#4 Kent Hinrichsen	15.8%	3	6	2	-	-	0	2	2	100%	100%	0%	33.3%	0%	100%
+#34 Jonathan Raub	15.8%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#2 Keynan Carter	15.8%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#5 Levi Miller	5.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	3.6%	15	15	1	52%	Good	5	5	10	50%	50%	13.3%	26.7%	26.7%	46.7%
+#22 David Arabis	20%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#4 Kent Hinrichsen	20%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#34 Jonathan Raub	20%	3	5	1.667	-	-	1	1	2	50%	50%	0%	66.7%	66.7%	66.7%
+#23 Jacob Kim	13.3%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#33 Joshua Wedeven	6.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#5 Levi Miller	6.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#12 Joseph Shidler	6.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 JonahWilson	6.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	1%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#33 Joshua Wedeven	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Levi Miller	25%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#23 Jacob Kim	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 JonahWilson	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Moody Bible Institute	9.4%	39	10	0.256	35%	Average	1	3	4	75%	75%	84.6%	5.1%	0%	12.8%
+#22 David Arabis	35.9%	14	0	0	0%	Poor	0	0	0	-	-	100%	0%	0%	0%
+#33 Joshua Wedeven	17.9%	7	4	0.571	-	-	1	1	2	50%	50%	57.1%	14.3%	0%	28.6%
+#12 Joseph Shidler	10.3%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#4 Kent Hinrichsen	7.7%	3	2	0.667	-	-	0	0	0	-	-	66.7%	33.3%	0%	33.3%
+#5 Levi Miller	7.7%	3	2	0.667	-	-	0	1	1	100%	100%	66.7%	0%	0%	33.3%
+#34 Jonathan Raub	7.7%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#23 Jacob Kim	2.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 JonahWilson	2.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Keynan Carter	2.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#3 Aaron Brown	2.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#20 Zachary Daniels	2.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

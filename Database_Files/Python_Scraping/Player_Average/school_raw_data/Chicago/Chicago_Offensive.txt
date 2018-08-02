@@ -1,0 +1,587 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Chicago Maroons	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Chicago Maroons	Date Range: 11/18/2017 to 02/24/2018	Number of Games: 25
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	100%	2060	1837	0.892	59%	Good	884	636	1520	41.8%	49.8%	15.3%	12.9%	9.2%	39.5%
+ Transition	12.4%	256	237	0.926	30%	Below Average	99	85	184	46.2%	54.3%	18%	13.7%	11.7%	41%
+ Overall Half Court	87.6%	1804	1600	0.887	64%	Good	785	551	1336	41.2%	49.2%	15%	12.8%	8.8%	39.2%
+                    Short Shot Clock <4 Seconds	4.7%	96	66	0.688	49%	Average	56	21	77	27.3%	33.8%	10.4%	9.4%	8.3%	29.2%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.2%	129	113	0.876	65%	Very Good	60	40	100	40%	49.5%	15.5%	7.8%	7%	36.4%
+         Out of Bounds (Side)	4.2%	76	39	0.513	4%	Poor	45	16	61	26.2%	28.7%	17.1%	3.9%	2.6%	23.7%
+         After Time Outs	10%	180	161	0.894	70%	Very Good	79	54	133	40.6%	48.5%	14.4%	13.9%	9.4%	39.4%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	97.4%	1757	1545	0.879	63%	Good	766	530	1296	40.9%	48.6%	15%	13%	8.9%	39.1%
+    Against Zone	2.6%	47	55	1.17	97%	Excellent	19	21	40	52.5%	67.5%	12.8%	4.3%	4.3%	44.7%
+Breakdown of Full Court Press Situations:
+  Press Offense	6.3%	114	101	0.886	68%	Very Good	41	33	74	44.6%	52.7%	20.2%	16.7%	3.5%	40.4%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	21.7%	447	408	0.913	50%	Average	255	135	390	34.6%	45.8%	5.8%	8.5%	7.4%	36%
+ Off Screen	13.7%	282	289	1.025	81%	Very Good	150	99	249	39.8%	53.6%	7.8%	5%	4.6%	39%
+ Transition	12.4%	256	237	0.926	30%	Below Average	99	85	184	46.2%	54.3%	18%	13.7%	11.7%	41%
+ Cut	8.5%	175	191	1.091	57%	Good	64	77	141	54.6%	54.6%	6.3%	19.4%	18.3%	55.4%
+ Post-Up	8.3%	172	144	0.837	49%	Average	65	58	123	47.2%	47.2%	15.1%	16.3%	14.5%	42.4%
+ Offensive Rebounds (put backs)	7.1%	147	153	1.041	46%	Average	45	55	100	55%	55%	8.2%	25.9%	19%	55.1%
+ Hand Off	7.1%	146	119	0.815	52%	Good	93	40	133	30.1%	40.6%	4.8%	4.1%	2.7%	30.8%
+ P&R Ball Handler	6.7%	138	117	0.848	79%	Very Good	56	45	101	44.6%	53.5%	23.2%	5.8%	5.1%	36.2%
+ P&R Roll Man	2.9%	60	61	1.017	63%	Good	22	24	46	52.2%	56.5%	10%	13.3%	11.7%	50%
+ Isolation	2.6%	54	37	0.685	22%	Below Average	29	11	40	27.5%	30%	11.1%	16.7%	14.8%	33.3%
+ Miscellaneous	8.9%	183	81	0.443	41%	Average	6	7	13	53.8%	69.2%	66.7%	26.2%	1.1%	23.5%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	2.9%	60	49	0.817	45%	Average	30	15	45	33.3%	40%	11.7%	15%	13.3%	36.7%
+  Pick and Rolls Including Passes	14.8%	305	249	0.816	43%	Average	144	96	240	40%	46.7%	15.7%	6.9%	6.2%	36.1%
+  Post-Ups Including Passes	9.9%	204	196	0.961	78%	Very Good	75	77	152	50.7%	54.3%	13.2%	15.2%	13.7%	46.1%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	0.3%	6	12	2	-	-	1	4	5	80%	120%	16.7%	0%	0%	66.7%
+  P&R BH - Defense Commits	9.6%	197	132	0.67	12%	Poor	88	51	139	36.7%	41.7%	23.4%	6.6%	6.1%	30.5%
+  Post-Up - Defense Commits	1.6%	32	52	1.625	99%	Excellent	10	19	29	65.5%	84.5%	3.1%	9.4%	9.4%	65.6%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.1%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+  Post-Up - Hard Double	1.4%	28	24	0.857	60%	Good	12	9	21	42.9%	52.4%	17.9%	7.1%	3.6%	35.7%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	57.4%	767	731	0.953	54%	Good	509	258	767	33.6%	47.5%	0%	0.4%	0.4%	33.6%
+          Short Shot Clock <4 Seconds	3.4%	46	26	0.565	35%	Average	37	9	46	19.6%	28.3%	0%	0%	0%	19.6%
+Runner	2.5%	34	20	0.588	19%	Below Average	24	10	34	29.4%	29.4%	0%	0%	0%	29.4%
+          Short Shot Clock <4 Seconds	0.2%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	30.8%	412	465	1.129	61%	Good	187	225	412	54.6%	54.6%	0%	6.1%	6.1%	54.6%
+Post-Ups	9.2%	123	118	0.959	51%	Good	65	58	123	47.2%	47.2%	0%	4.1%	4.1%	47.2%
+          Short Shot Clock <4 Seconds	0.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	40.4%	540	550	1.019	50%	Average	354	186	540	34.4%	50.8%	0%	0.2%	0.2%	34.4%
+  Guarded	65.4%	353	311	0.881	20%	Below Average	248	105	353	29.7%	43.9%	0%	0.3%	0.3%	29.7%
+  Unguarded	34.6%	187	239	1.278	92%	Excellent	106	81	187	43.3%	63.9%	0%	0%	0%	43.3%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	15.4%	206	165	0.801	62%	Good	140	66	206	32%	39.6%	0%	1%	1%	32%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	10.7%	82	46	0.561	8%	Poor	59	23	82	28%	28%	0%	0%	0%	28%
+Medium (17' to <3 point line)	7.3%	56	47	0.839	82%	Very Good	33	23	56	41.1%	41.1%	0%	1.8%	1.8%	41.1%
+Long (3 point jump shots)	82%	629	638	1.014	48%	Average	417	212	629	33.7%	50.6%	0%	0.3%	0.3%	33.7%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	100%	2060	1837	0.892	59%	Good	884	636	1520	41.8%	49.8%	15.3%	12.9%	9.2%	39.5%
+#14 Jake Fenlon	20.3%	418	428	1.024	87%	Excellent	209	138	347	39.8%	54%	10.5%	7.7%	5.3%	39%
+#2 Collin Barthel	16.4%	338	308	0.911	67%	Very Good	138	103	241	42.7%	46.9%	14.2%	18.3%	13.9%	42.6%
+#5 Noah Karras	12.8%	263	222	0.844	52%	Good	145	81	226	35.8%	45.1%	9.9%	4.2%	1.9%	34.6%
+#24 Jordan Baum	10.7%	220	185	0.841	51%	Good	95	61	156	39.1%	54.8%	25.5%	4.1%	0.5%	30.9%
+#42 Justin Jackson	8.4%	174	152	0.874	58%	Good	63	50	113	44.2%	45.6%	13.8%	27%	23%	44.8%
+#45 Ryan Jacobsen	8.3%	172	156	0.907	66%	Very Good	49	58	107	54.2%	55.6%	18%	24.4%	18%	46.5%
+#33 Sam Sustacek	5%	104	100	0.962	77%	Very Good	28	39	67	58.2%	58.2%	14.4%	22.1%	13.5%	51%
+#21 Max Jacobs	4.9%	100	92	0.92	69%	Very Good	28	32	60	53.3%	55.8%	21%	19%	14%	48%
+#23 Jake Berhorst	4.4%	91	64	0.703	26%	Below Average	37	22	59	37.3%	48.3%	30.8%	6.6%	4.4%	28.6%
+#15 Dominic Laravie	3.9%	80	64	0.8	43%	Average	37	24	61	39.3%	41.8%	8.8%	16.3%	11.3%	41.3%
+#3 Cole Schmitz	2.5%	52	40	0.769	37%	Average	28	19	47	40.4%	40.4%	7.7%	1.9%	1.9%	38.5%
+#32 Mattia Colangelo	2%	42	23	0.548	10%	Poor	24	8	32	25%	35.9%	23.8%	0%	0%	19%
+#30 Ryan Shearmire	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#10 Ezra Swell	0.1%	2	3	1.5	-	-	1	1	2	50%	50%	0%	50%	50%	50%
+#35 Brennan Mcdaniel	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#4 Louis Mehaffey	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	21.7%	447	408	0.913	50%	Average	255	135	390	34.6%	45.8%	5.8%	8.5%	7.4%	36%
+#2 Collin Barthel	20.6%	92	79	0.859	45%	Average	55	25	80	31.3%	39.4%	3.3%	13%	10.9%	34.8%
+#14 Jake Fenlon	16.1%	72	84	1.167	88%	Excellent	40	27	67	40.3%	56.7%	2.8%	5.6%	4.2%	41.7%
+#24 Jordan Baum	14.8%	66	65	0.985	65%	Very Good	42	22	64	34.4%	50.8%	3%	0%	0%	33.3%
+#42 Justin Jackson	11.2%	50	39	0.78	33%	Average	25	12	37	32.4%	36.5%	6%	22%	20%	40%
+#5 Noah Karras	9.8%	44	29	0.659	19%	Below Average	30	11	41	26.8%	34.1%	4.5%	2.3%	0%	27.3%
+#45 Ryan Jacobsen	5.8%	26	17	0.654	19%	Below Average	12	5	17	29.4%	38.2%	26.9%	7.7%	7.7%	26.9%
+#23 Jake Berhorst	5.4%	24	32	1.333	96%	Excellent	13	11	24	45.8%	66.7%	0%	0%	0%	45.8%
+#21 Max Jacobs	4.9%	22	20	0.909	53%	Good	6	5	11	45.5%	59.1%	27.3%	22.7%	22.7%	40.9%
+#32 Mattia Colangelo	3.6%	16	9	0.563	11%	Poor	12	3	15	20%	30%	6.3%	0%	0%	18.8%
+#15 Dominic Laravie	3.1%	14	13	0.929	57%	Good	9	4	13	30.8%	42.3%	0%	14.3%	14.3%	35.7%
+#3 Cole Schmitz	2.2%	10	8	0.8	36%	Average	6	4	10	40%	40%	0%	0%	0%	40%
+#33 Sam Sustacek	2%	9	10	1.111	-	-	4	5	9	55.6%	55.6%	0%	0%	0%	55.6%
+#30 Ryan Shearmire	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#10 Ezra Swell	0.2%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	13.7%	282	289	1.025	81%	Very Good	150	99	249	39.8%	53.6%	7.8%	5%	4.6%	39%
+#14 Jake Fenlon	51.1%	144	176	1.222	85%	Excellent	69	58	127	45.7%	64.6%	8.3%	5.6%	4.9%	43.8%
+#5 Noah Karras	25.5%	72	64	0.889	46%	Average	44	24	68	35.3%	44.1%	2.8%	2.8%	2.8%	36.1%
+#24 Jordan Baum	5%	14	15	1.071	69%	Very Good	8	5	13	38.5%	57.7%	7.1%	0%	0%	35.7%
+#21 Max Jacobs	4.6%	13	12	0.923	52%	Good	4	4	8	50%	50%	15.4%	23.1%	23.1%	53.8%
+#32 Mattia Colangelo	3.2%	9	3	0.333	-	-	7	1	8	12.5%	18.8%	11.1%	0%	0%	11.1%
+#3 Cole Schmitz	2.8%	8	4	0.5	-	-	6	1	7	14.3%	14.3%	0%	12.5%	12.5%	25%
+#23 Jake Berhorst	2.8%	8	5	0.625	-	-	4	2	6	33.3%	41.7%	25%	0%	0%	25%
+#2 Collin Barthel	1.8%	5	6	1.2	-	-	3	2	5	40%	60%	0%	0%	0%	40%
+#42 Justin Jackson	1.8%	5	2	0.4	-	-	2	1	3	33.3%	33.3%	40%	0%	0%	20%
+#30 Ryan Shearmire	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#45 Ryan Jacobsen	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Sam Sustacek	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#15 Dominic Laravie	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	12.4%	256	237	0.926	30%	Below Average	99	85	184	46.2%	54.3%	18%	13.7%	11.7%	41%
+#5 Noah Karras	19.9%	51	51	1	55%	Good	27	18	45	40%	53.3%	7.8%	3.9%	3.9%	39.2%
+#14 Jake Fenlon	18%	46	42	0.913	41%	Average	22	15	37	40.5%	51.4%	15.2%	6.5%	6.5%	37%
+#24 Jordan Baum	15.6%	40	33	0.825	28%	Below Average	14	11	25	44%	60%	35%	5%	2.5%	30%
+#45 Ryan Jacobsen	9.4%	24	24	1	55%	Good	8	11	19	57.9%	57.9%	0%	33.3%	33.3%	54.2%
+#2 Collin Barthel	9%	23	26	1.13	75%	Very Good	5	6	11	54.5%	59.1%	26.1%	34.8%	30.4%	52.2%
+#21 Max Jacobs	7.4%	19	15	0.789	23%	Below Average	8	7	15	46.7%	46.7%	10.5%	10.5%	5.3%	42.1%
+#42 Justin Jackson	5.9%	15	20	1.333	92%	Excellent	3	7	10	70%	70%	13.3%	33.3%	26.7%	60%
+#15 Dominic Laravie	4.3%	11	9	0.818	27%	Below Average	4	3	7	42.9%	42.9%	9.1%	27.3%	18.2%	54.5%
+#23 Jake Berhorst	3.5%	9	0	0	-	-	3	0	3	0%	0%	66.7%	0%	0%	0%
+#33 Sam Sustacek	3.5%	9	10	1.111	-	-	1	4	5	80%	80%	22.2%	22.2%	22.2%	55.6%
+#3 Cole Schmitz	2%	5	4	0.8	-	-	2	2	4	50%	50%	20%	0%	0%	40%
+#32 Mattia Colangelo	1.6%	4	3	0.75	-	-	2	1	3	33.3%	50%	25%	0%	0%	25%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	8.5%	175	191	1.091	57%	Good	64	77	141	54.6%	54.6%	6.3%	19.4%	18.3%	55.4%
+#42 Justin Jackson	20.6%	36	39	1.083	49%	Average	12	14	26	53.8%	53.8%	8.3%	33.3%	33.3%	55.6%
+#45 Ryan Jacobsen	17.1%	30	47	1.567	97%	Excellent	4	19	23	82.6%	82.6%	6.7%	30%	26.7%	80%
+#14 Jake Fenlon	12%	21	23	1.095	50%	Average	8	9	17	52.9%	52.9%	4.8%	14.3%	14.3%	57.1%
+#2 Collin Barthel	12%	21	21	1	35%	Average	11	7	18	38.9%	38.9%	0%	23.8%	19%	47.6%
+#15 Dominic Laravie	12%	21	19	0.905	23%	Below Average	8	8	16	50%	50%	9.5%	14.3%	14.3%	47.6%
+#33 Sam Sustacek	10.9%	19	16	0.842	17%	Below Average	9	8	17	47.1%	47.1%	5.3%	5.3%	5.3%	42.1%
+#5 Noah Karras	5.1%	9	12	1.333	-	-	3	5	8	62.5%	62.5%	0%	11.1%	11.1%	66.7%
+#3 Cole Schmitz	4%	7	8	1.143	-	-	2	4	6	66.7%	66.7%	14.3%	0%	0%	57.1%
+#21 Max Jacobs	2.3%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#24 Jordan Baum	2.3%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#23 Jake Berhorst	1.7%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	8.3%	172	144	0.837	49%	Average	65	58	123	47.2%	47.2%	15.1%	16.3%	14.5%	42.4%
+#2 Collin Barthel	49.4%	85	71	0.835	50%	Average	39	28	67	41.8%	41.8%	10.6%	12.9%	12.9%	41.2%
+#45 Ryan Jacobsen	20.9%	36	34	0.944	71%	Very Good	10	13	23	56.5%	56.5%	19.4%	19.4%	19.4%	47.2%
+#33 Sam Sustacek	15.7%	27	20	0.741	35%	Average	8	9	17	52.9%	52.9%	18.5%	22.2%	18.5%	40.7%
+#42 Justin Jackson	8.1%	14	13	0.929	68%	Very Good	2	5	7	71.4%	71.4%	28.6%	28.6%	14.3%	50%
+#15 Dominic Laravie	4.1%	7	4	0.571	-	-	5	2	7	28.6%	28.6%	0%	0%	0%	28.6%
+#3 Cole Schmitz	1.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#4 Louis Mehaffey	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	7.1%	147	153	1.041	46%	Average	45	55	100	55%	55%	8.2%	25.9%	19%	55.1%
+#2 Collin Barthel	26.5%	39	46	1.179	65%	Very Good	8	15	23	65.2%	65.2%	12.8%	33.3%	23.1%	61.5%
+#45 Ryan Jacobsen	15%	22	15	0.682	7%	Poor	9	5	14	35.7%	35.7%	13.6%	22.7%	13.6%	36.4%
+#42 Justin Jackson	15%	22	18	0.818	17%	Below Average	9	5	14	35.7%	35.7%	0%	40.9%	36.4%	45.5%
+#33 Sam Sustacek	11.6%	17	23	1.353	87%	Excellent	3	7	10	70%	70%	0%	41.2%	35.3%	76.5%
+#3 Cole Schmitz	8.8%	13	14	1.077	50%	Average	6	7	13	53.8%	53.8%	0%	0%	0%	53.8%
+#15 Dominic Laravie	8.2%	12	11	0.917	28%	Below Average	4	4	8	50%	50%	8.3%	25%	8.3%	50%
+#21 Max Jacobs	7.5%	11	18	1.636	99%	Excellent	2	8	10	80%	80%	0%	9.1%	9.1%	81.8%
+#14 Jake Fenlon	2.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#5 Noah Karras	2%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#32 Mattia Colangelo	2%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#24 Jordan Baum	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	7.1%	146	119	0.815	52%	Good	93	40	133	30.1%	40.6%	4.8%	4.1%	2.7%	30.8%
+#14 Jake Fenlon	47.3%	69	66	0.957	66%	Very Good	41	20	61	32.8%	45.1%	4.3%	7.2%	5.8%	36.2%
+#5 Noah Karras	24%	35	25	0.714	34%	Average	25	9	34	26.5%	36.8%	2.9%	0%	0%	25.7%
+#24 Jordan Baum	9.6%	14	11	0.786	42%	Average	9	4	13	30.8%	42.3%	7.1%	0%	0%	28.6%
+#32 Mattia Colangelo	4.1%	6	8	1.333	-	-	3	3	6	50%	66.7%	0%	0%	0%	50%
+#23 Jake Berhorst	4.1%	6	3	0.5	-	-	4	1	5	20%	30%	16.7%	0%	0%	16.7%
+#42 Justin Jackson	2.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#3 Cole Schmitz	2.7%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#21 Max Jacobs	2.1%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#2 Collin Barthel	1.4%	2	0	0	-	-	1	0	1	0%	0%	0%	50%	0%	0%
+#45 Ryan Jacobsen	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Sam Sustacek	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#15 Dominic Laravie	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	6.7%	138	117	0.848	79%	Very Good	56	45	101	44.6%	53.5%	23.2%	5.8%	5.1%	36.2%
+#24 Jordan Baum	32.6%	45	38	0.844	66%	Very Good	18	14	32	43.8%	59.4%	28.9%	0%	0%	31.1%
+#5 Noah Karras	20.3%	28	24	0.857	68%	Very Good	12	10	22	45.5%	54.5%	21.4%	0%	0%	35.7%
+#14 Jake Fenlon	16.7%	23	13	0.565	21%	Below Average	14	5	19	26.3%	34.2%	17.4%	0%	0%	21.7%
+#23 Jake Berhorst	15.9%	22	23	1.045	91%	Excellent	9	8	17	47.1%	50%	9.1%	22.7%	18.2%	50%
+#21 Max Jacobs	10.1%	14	11	0.786	55%	Good	3	4	7	57.1%	57.1%	35.7%	14.3%	14.3%	42.9%
+#2 Collin Barthel	2.2%	3	4	1.333	-	-	0	2	2	100%	100%	33.3%	33.3%	33.3%	66.7%
+#42 Justin Jackson	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#3 Cole Schmitz	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Dominic Laravie	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	2.9%	60	61	1.017	63%	Good	22	24	46	52.2%	56.5%	10%	13.3%	11.7%	50%
+#2 Collin Barthel	38.3%	23	29	1.261	84%	Excellent	6	12	18	66.7%	77.8%	17.4%	4.3%	4.3%	56.5%
+#45 Ryan Jacobsen	18.3%	11	10	0.909	39%	Average	4	3	7	42.9%	42.9%	0%	36.4%	27.3%	54.5%
+#42 Justin Jackson	15%	9	10	1.111	-	-	4	3	7	42.9%	42.9%	0%	22.2%	22.2%	55.6%
+#15 Dominic Laravie	13.3%	8	4	0.5	-	-	5	2	7	28.6%	28.6%	0%	12.5%	12.5%	25%
+#33 Sam Sustacek	11.7%	7	8	1.143	-	-	2	4	6	66.7%	66.7%	14.3%	0%	0%	57.1%
+#5 Noah Karras	1.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#35 Brennan Mcdaniel	1.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	2.6%	54	37	0.685	22%	Below Average	29	11	40	27.5%	30%	11.1%	16.7%	14.8%	33.3%
+#2 Collin Barthel	37%	20	18	0.9	67%	Very Good	10	6	16	37.5%	37.5%	5%	20%	20%	45%
+#14 Jake Fenlon	31.5%	17	7	0.412	6%	Poor	12	1	13	7.7%	11.5%	5.9%	17.6%	11.8%	17.6%
+#42 Justin Jackson	7.4%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#21 Max Jacobs	7.4%	4	3	0.75	-	-	1	0	1	0%	0%	25%	50%	50%	50%
+#5 Noah Karras	5.6%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#24 Jordan Baum	3.7%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#3 Cole Schmitz	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Jake Berhorst	1.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Sam Sustacek	1.9%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#10 Ezra Swell	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Chicago Maroons	8.9%	183	81	0.443	41%	Average	6	7	13	53.8%	69.2%	66.7%	26.2%	1.1%	23.5%
+#24 Jordan Baum	18.6%	34	17	0.5	56%	Good	1	2	3	66.7%	100%	70.6%	20.6%	0%	23.5%
+#2 Collin Barthel	13.7%	25	8	0.32	30%	Below Average	0	0	0	-	-	76%	24%	0%	20%
+#14 Jake Fenlon	12%	22	15	0.682	79%	Very Good	0	2	2	100%	150%	63.6%	27.3%	0%	31.8%
+#45 Ryan Jacobsen	11.5%	21	9	0.429	45%	Average	1	2	3	66.7%	66.7%	52.4%	33.3%	0%	23.8%
+#23 Jake Berhorst	9.8%	18	1	0.056	4%	Poor	2	0	2	0%	0%	83.3%	5.6%	0%	5.6%
+#5 Noah Karras	9.3%	17	8	0.471	51%	Good	1	0	1	0%	0%	64.7%	29.4%	0%	23.5%
+#42 Justin Jackson	7.7%	14	5	0.357	35%	Average	1	0	1	0%	0%	64.3%	28.6%	14.3%	21.4%
+#33 Sam Sustacek	7.1%	13	9	0.692	80%	Very Good	0	0	0	-	-	46.2%	53.8%	0%	38.5%
+#21 Max Jacobs	5.5%	10	7	0.7	81%	Very Good	0	1	1	100%	100%	50%	40%	0%	40%
+#32 Mattia Colangelo	2.2%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Dominic Laravie	2.2%	4	2	0.5	-	-	0	0	0	-	-	75%	25%	0%	25%
+#3 Cole Schmitz	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

@@ -1,0 +1,120 @@
+IllinoisTech
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb
+Anthony_Mosley	42	1.18	0.55	20	0.87	8	1	8.00	1	1	1	4	1	3
+Malik_Howze	38	0.78	0.21	15	0.83	3	3	1.00	1	1	1	4	0	4
+Jake_Bruns	21	0.34	0.19	3	1.00	1	0	0.00	0	0	0	2	0	2
+Calvin_Schmitz	8	-.11	0.00	0	0.00	0	1	0.00	1	1	0	0	0	0
+Capriest_Gardner	18	0.34	0.44	0	0.00	0	0	0.00	2	0	0	2	2	0
+Jake_Digiorgio	36	2.72	0.92	28	1.17	1	2	0.50	0	2	1	21	12	9
+Max_Hisatake	20	1.62	0.55	12	0.92	0	4	0.00	0	0	4	7	4	3
+Parker_Joncus	37	0.71	0.32	8	1.00	2	0	0.00	0	0	2	4	0	4
+Kohl_Linder	5	1.00	1.00	0	-	1	0	0.00	0	0	0	2	1	1
+Team_Totals	40	1.13	0.46	86	0.92	16	11	1.45	5	5	9	46	20	26
+
+IllinoisTech_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Anthony_Mosley	21	9	12	42.9%	42.9%	20	9	11	45%	1	0	1	0%	2	2	0	100%	0	1	4
+Malik_Howze	14	5	9	35.7%	46.4%	7	2	5	28.6%	7	3	4	42.9%	2	2	0	100%	0	1	1
+Jake_Bruns	3	1	2	33.3%	50%	0	0	0	-	3	1	2	33.3%	0	0	0	-	0	0	2
+Calvin_Schmitz	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	0	0	0	-	0	0	1
+Capriest_Gardner	2	0	2	0%	0%	2	0	2	0%	0	0	0	-	0	0	0	-	0	0	1
+Jake_Digiorgio	16	9	7	56.2%	56.2%	16	9	7	56.2%	0	0	0	-	14	10	4	71.4%	2	8	3
+Max_Hisatake	7	5	2	71.4%	71.4%	7	5	2	71.4%	0	0	0	-	4	2	2	50%	0	3	5
+Parker_Joncus	7	2	5	28.6%	42.9%	3	0	3	0%	4	2	2	50%	2	2	0	100%	0	1	2
+Kohl_Linder	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	2
+Team_Totals	71	31	40	43.7%	47.9%	56	25	31	44.6%	15	6	9	40%	24	18	6	75%	2	14	21
+
+
+Carthage
+Min
+SST
+SSTexPts
+Pts
+PPP
+Ast
+T/O
+Ast/TO
+Stl
+StlPos
+Blk
+TtlReb
+OffReb
+DefReb
+Jordan_Thomas	44	1.75	0.34	26	0.90	3	0	0.00	0	0	0	8	1	7
+Derek_Mason_II	28	0.81	0.29	10	0.83	2	1	2.00	2	0	0	1	1	0
+Tj_Best	23	0.19	0.09	2	1.00	1	0	0.00	0	0	0	0	0	0
+Mike_Canady	7	-.09	0.29	0	0.00	1	0	0.00	0	0	0	0	0	0
+Kamal_Shasi	21	0.17	0.33	0	0.00	1	1	1.00	0	1	0	6	1	5
+Brad_Kruse	38	2.05	0.95	22	1.16	4	1	4.00	1	1	3	12	10	2
+Steve_Leazer	21	0.23	0.05	3	1.50	0	0	0.00	0	0	0	1	0	1
+Sean_Johnson	16	0.89	0.38	5	0.71	1	2	0.50	0	2	0	5	3	2
+Brad_Perry	27	0.94	0.26	12	0.80	0	2	0.00	2	1	1	4	1	3
+Team_Totals	40	1.02	0.37	80	0.85	13	7	1.86	5	5	4	37	17	20
+
+Carthage_1
+FGA
+FGM
+FGm
+FG%
+aFG%
+2FGA
+2FGM
+2FGm
+2FG%
+3FGA
+3FGM
+3FGm
+3FG%
+FTA
+FTM
+FTm
+FT%
++1
+PFTkn
+PFCom
+Jordan_Thomas	22	6	16	27.3%	31.8%	14	4	10	28.6%	8	2	6	25%	14	12	2	85.7%	0	7	4
+Derek_Mason_II	10	3	7	30%	40%	6	1	5	16.7%	4	2	2	50%	3	2	1	66.7%	1	2	5
+Tj_Best	2	1	1	50%	50%	1	1	0	100%	1	0	1	0%	0	0	0	-	0	0	0
+Mike_Canady	3	0	3	0%	0%	2	0	2	0%	1	0	1	0%	0	0	0	-	0	0	0
+Kamal_Shasi	4	0	4	0%	0%	3	0	3	0%	1	0	1	0%	0	0	0	-	0	1	1
+Brad_Kruse	14	8	6	57.1%	60.7%	12	7	5	58.3%	2	1	1	50%	8	5	3	62.5%	0	4	4
+Steve_Leazer	2	1	1	50%	75%	0	0	0	-	2	1	1	50%	0	0	0	-	0	0	1
+Sean_Johnson	4	2	2	50%	50%	4	2	2	50%	0	0	0	-	2	1	1	50%	0	1	4
+Brad_Perry	12	5	7	41.7%	41.7%	12	5	7	41.7%	0	0	0	-	2	2	0	100%	0	1	1
+Team_Totals	73	26	47	35.6%	39.7%	54	20	34	37%	19	6	13	31.6%	29	22	7	75.9%	1	16	20
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.100	_	_

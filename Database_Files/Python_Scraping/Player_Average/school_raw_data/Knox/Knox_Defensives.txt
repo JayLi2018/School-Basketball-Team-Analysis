@@ -1,0 +1,489 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Knox	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Knox	Date Range: 11/25/2017 to 02/17/2018	Number of Games: 17
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	100%	1388	1319	0.95	13%	Poor	533	482	1015	47.5%	53.9%	16.6%	12.8%	8.4%	43.3%
+ Transition	16.9%	235	280	1.191	2%	Poor	57	100	157	63.7%	70.4%	20%	17.4%	14.9%	55.3%
+ Overall Half Court	83.1%	1153	1039	0.901	26%	Below Average	476	382	858	44.5%	50.9%	15.9%	11.8%	7%	40.9%
+                    Short Shot Clock <4 Seconds	4.2%	58	52	0.897	9%	Poor	33	19	52	36.5%	42.3%	3.4%	12.1%	12.1%	39.7%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.4%	97	77	0.794	68%	Very Good	51	30	81	37%	38.9%	8.2%	10.3%	7.2%	38.1%
+         Out of Bounds (Side)	5.3%	61	40	0.656	88%	Excellent	34	14	48	29.2%	33.3%	14.8%	9.8%	6.6%	29.5%
+         After Time Outs	10.8%	124	99	0.798	72%	Very Good	53	38	91	41.8%	47.3%	20.2%	9.7%	6.5%	35.5%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	97.6%	1125	1012	0.9	25%	Below Average	463	372	835	44.6%	50.8%	15.9%	12%	7.2%	40.9%
+    Zone Defense	2.4%	28	27	0.964	29%	Below Average	13	10	23	43.5%	54.3%	14.3%	3.6%	0%	39.3%
+Breakdown of Full Court Press Situations:
+  Press Defense	4.2%	49	55	1.122	7%	Poor	14	18	32	56.3%	65.6%	20.4%	16.3%	4.1%	49%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	26.3%	365	351	0.962	30%	Below Average	205	127	332	38.3%	49.7%	6%	4.9%	4.4%	37.5%
+ Transition	16.9%	235	280	1.191	2%	Poor	57	100	157	63.7%	70.4%	20%	17.4%	14.9%	55.3%
+ P&R Ball Handler	8.9%	124	102	0.823	30%	Below Average	51	40	91	44%	49.5%	21%	8.9%	6.5%	37.9%
+ Cut	8.2%	114	132	1.158	28%	Below Average	36	57	93	61.3%	61.3%	9.6%	10.5%	8.8%	57.9%
+ Post-Up	7.7%	107	103	0.963	15%	Below Average	28	41	69	59.4%	59.4%	17.8%	21.5%	15.9%	51.4%
+ Off Screen	7.2%	100	59	0.59	99%	Excellent	64	19	83	22.9%	28.9%	10%	8%	5%	24%
+ Offensive Rebounds (put backs)	6.6%	91	95	1.044	55%	Good	34	38	72	52.8%	52.8%	8.8%	15.4%	9.9%	52.7%
+ Isolation	3.6%	50	55	1.1	1%	Poor	16	21	37	56.8%	62.2%	18%	10%	6%	50%
+ P&R Roll Man	3.6%	50	52	1.04	32%	Average	21	19	40	47.5%	51.3%	10%	12%	10%	48%
+ Hand Off	2.9%	40	42	1.05	8%	Poor	10	14	24	58.3%	70.8%	30%	12.5%	10%	45%
+ Miscellaneous	8.1%	112	48	0.429	69%	Very Good	11	6	17	35.3%	38.2%	54.5%	30.4%	3.6%	24.1%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	5.2%	72	76	1.056	4%	Poor	27	28	55	50.9%	57.3%	15.3%	11.1%	8.3%	47.2%
+  Pick and Rolls Including Passes	20.5%	285	275	0.965	8%	Poor	126	107	233	45.9%	53.4%	13.7%	7.4%	6%	42.1%
+  Post-Ups Including Passes	10.6%	147	129	0.878	58%	Good	54	51	105	48.6%	50%	13.6%	17.7%	12.9%	45.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.6%	22	21	0.955	49%	Average	11	7	18	38.9%	47.2%	9.1%	13.6%	13.6%	40.9%
+  P&R BH - Defense Commits	13.3%	184	174	0.946	12%	Poor	75	67	142	47.2%	56%	19%	6%	4.9%	40.2%
+  Post-Up - Defense Commits	2.9%	40	26	0.65	97%	Excellent	26	10	36	27.8%	31.9%	2.5%	7.5%	5%	30%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+  Post-Up - Hard Double	1.4%	19	11	0.579	85%	Excellent	7	4	11	36.4%	36.4%	26.3%	15.8%	5.3%	31.6%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	55.7%	478	424	0.887	84%	Excellent	321	157	478	32.8%	44.4%	0%	0.2%	0.2%	32.8%
+          Short Shot Clock <4 Seconds	4.2%	36	28	0.778	24%	Below Average	25	11	36	30.6%	38.9%	0%	2.8%	2.8%	30.6%
+Runner	3.3%	28	35	1.25	0%	Poor	11	17	28	60.7%	60.7%	0%	7.1%	7.1%	60.7%
+          Short Shot Clock <4 Seconds	0.5%	4	4	1	-	-	2	2	4	50%	50%	0%	25%	25%	50%
+Around Basket (not Post-Ups)	33%	283	348	1.23	10%	Poor	116	167	283	59%	59%	0%	6%	6%	59%
+Post-Ups	8%	69	84	1.217	3%	Poor	28	41	69	59.4%	59.4%	0%	5.8%	5.8%	59.4%
+          Short Shot Clock <4 Seconds	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	38.6%	331	277	0.837	98%	Excellent	237	94	331	28.4%	41.8%	0%	0%	0%	28.4%
+  Guarded	48%	159	135	0.849	92%	Excellent	113	46	159	28.9%	42.5%	0%	0%	0%	28.9%
+  Unguarded	52%	172	142	0.826	98%	Excellent	124	48	172	27.9%	41.3%	0%	0%	0%	27.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	14.6%	125	128	1.024	1%	Poor	70	55	125	44%	51.2%	0%	0.8%	0.8%	44%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	13.2%	63	58	0.921	11%	Poor	34	29	63	46%	46%	0%	0%	0%	46%
+Medium (17' to <3 point line)	12.3%	59	36	0.61	83%	Excellent	41	18	59	30.5%	30.5%	0%	0%	0%	30.5%
+Long (3 point jump shots)	74.5%	356	330	0.927	89%	Excellent	246	110	356	30.9%	46.3%	0%	0.3%	0.3%	30.9%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	100%	1388	1319	0.95	13%	Poor	533	482	1015	47.5%	53.9%	16.6%	12.8%	8.4%	43.3%
+#32 Jonathan Damota	8.6%	119	94	0.79	71%	Very Good	65	36	101	35.6%	45%	13.4%	2.5%	1.7%	31.1%
+#0 Blake Godbold	8.4%	117	122	1.043	15%	Below Average	55	48	103	46.6%	54.4%	7.7%	9.4%	8.5%	44.4%
+#20 Dj Lewis	7.7%	107	90	0.841	59%	Good	52	27	79	34.2%	44.3%	15.9%	12.1%	10.3%	34.6%
+#11 Deryk Ruple	7.7%	107	102	0.953	29%	Below Average	48	37	85	43.5%	53.5%	13.1%	8.4%	5.6%	41.1%
+#52 Marko Protic	5.8%	80	69	0.863	53%	Good	38	25	63	39.7%	44.4%	10%	13.8%	12.5%	41.3%
+#10 Jacob Kampf	3.7%	52	41	0.788	72%	Very Good	25	14	39	35.9%	43.6%	17.3%	7.7%	3.8%	34.6%
+#44 Aaron Crose	3.2%	44	39	0.886	47%	Average	20	16	36	44.4%	48.6%	11.4%	6.8%	6.8%	43.2%
+#24 Bryce Wilkinson	2.7%	38	27	0.711	85%	Excellent	18	12	30	40%	43.3%	18.4%	2.6%	2.6%	34.2%
+#25 Tyre Dukes	2.3%	32	27	0.844	58%	Good	17	10	27	37%	42.6%	9.4%	9.4%	3.1%	37.5%
+#5 Garrett Stone	1.8%	25	22	0.88	49%	Average	14	7	21	33.3%	42.9%	8%	12%	4%	36%
+#4 Ikenna Ozor	1.7%	24	20	0.833	61%	Good	12	7	19	36.8%	42.1%	16.7%	12.5%	12.5%	33.3%
+#50 Eric Pillath	1.4%	20	26	1.3	2%	Poor	8	8	16	50%	65.6%	5%	15%	5%	55%
+#23 Eric Thompson	1.2%	17	21	1.235	4%	Poor	5	8	13	61.5%	80.8%	11.8%	11.8%	5.9%	47.1%
+#33 Jeremiah Horton	0.6%	8	10	1.25	-	-	3	4	7	57.1%	71.4%	12.5%	0%	0%	50%
+#2 Alik Airapetyan	0.6%	8	9	1.125	-	-	3	4	7	57.1%	64.3%	12.5%	12.5%	12.5%	50%
+#45 John Tsahageas	0.6%	8	7	0.875	-	-	2	3	5	60%	70%	25%	25%	25%	37.5%
+#42 Sean Pollock	0.5%	7	5	0.714	-	-	5	2	7	28.6%	35.7%	0%	0%	0%	28.6%
+#3 Danny Serrano	0.4%	5	0	0	-	-	4	0	4	0%	0%	20%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	26.3%	365	351	0.962	30%	Below Average	205	127	332	38.3%	49.7%	6%	4.9%	4.4%	37.5%
+#32 Jonathan Damota	20.5%	75	60	0.8	72%	Very Good	48	22	70	31.4%	42.1%	5.3%	2.7%	2.7%	29.3%
+#0 Blake Godbold	15.9%	58	67	1.155	14%	Poor	28	27	55	49.1%	59.1%	5.2%	5.2%	5.2%	46.6%
+#20 Dj Lewis	12.9%	47	55	1.17	13%	Poor	22	18	40	45%	60%	4.3%	10.6%	8.5%	48.9%
+#11 Deryk Ruple	12.1%	44	42	0.955	43%	Average	25	16	41	39%	51.2%	6.8%	2.3%	2.3%	36.4%
+#52 Marko Protic	6.6%	24	20	0.833	67%	Very Good	16	7	23	30.4%	41.3%	4.2%	4.2%	4.2%	29.2%
+#10 Jacob Kampf	5.2%	19	19	1	34%	Average	10	6	16	37.5%	46.9%	5.3%	10.5%	5.3%	42.1%
+#24 Bryce Wilkinson	4.4%	16	11	0.688	87%	Excellent	8	4	12	33.3%	41.7%	18.8%	6.3%	6.3%	31.3%
+#44 Aaron Crose	4.4%	16	14	0.875	60%	Good	9	5	14	35.7%	42.9%	6.3%	6.3%	6.3%	37.5%
+#5 Garrett Stone	3.6%	13	12	0.923	50%	Average	8	4	12	33.3%	45.8%	7.7%	7.7%	7.7%	30.8%
+#4 Ikenna Ozor	3.3%	12	14	1.167	14%	Poor	6	5	11	45.5%	54.5%	0%	8.3%	8.3%	50%
+#25 Tyre Dukes	2.7%	10	3	0.3	99%	Excellent	8	1	9	11.1%	16.7%	10%	0%	0%	10%
+#50 Eric Pillath	2.5%	9	14	1.556	-	-	4	5	9	55.6%	77.8%	0%	0%	0%	55.6%
+#33 Jeremiah Horton	1.4%	5	6	1.2	-	-	2	2	4	50%	75%	20%	0%	0%	40%
+#23 Eric Thompson	1.4%	5	6	1.2	-	-	3	2	5	40%	60%	0%	0%	0%	40%
+#2 Alik Airapetyan	1.1%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#42 Sean Pollock	1.1%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#45 John Tsahageas	0.5%	2	3	1.5	-	-	0	1	1	100%	150%	50%	0%	0%	50%
+#3 Danny Serrano	0.5%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	8.9%	124	102	0.823	30%	Below Average	51	40	91	44%	49.5%	21%	8.9%	6.5%	37.9%
+#11 Deryk Ruple	26.6%	33	36	1.091	9%	Poor	10	14	24	58.3%	64.6%	18.2%	9.1%	9.1%	51.5%
+#20 Dj Lewis	25%	31	15	0.484	90%	Excellent	16	6	22	27.3%	31.8%	29%	6.5%	6.5%	19.4%
+#10 Jacob Kampf	10.5%	13	10	0.769	49%	Average	6	3	9	33.3%	38.9%	15.4%	15.4%	7.7%	38.5%
+#32 Jonathan Damota	8.9%	11	6	0.545	84%	Excellent	4	3	7	42.9%	42.9%	36.4%	0%	0%	27.3%
+#0 Blake Godbold	8.1%	10	14	1.4	1%	Poor	4	5	9	55.6%	72.2%	10%	10%	10%	50%
+#25 Tyre Dukes	5.6%	7	9	1.286	-	-	1	4	5	80%	80%	14.3%	14.3%	0%	71.4%
+#5 Garrett Stone	4%	5	1	0.2	-	-	3	0	3	0%	0%	20%	20%	0%	20%
+#2 Alik Airapetyan	2.4%	3	7	2.333	-	-	0	3	3	100%	116.7%	0%	33.3%	33.3%	100%
+#24 Bryce Wilkinson	2.4%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#4 Ikenna Ozor	2.4%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#52 Marko Protic	1.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#44 Aaron Crose	1.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#42 Sean Pollock	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	7.7%	107	103	0.963	15%	Below Average	28	41	69	59.4%	59.4%	17.8%	21.5%	15.9%	51.4%
+#52 Marko Protic	35.5%	38	36	0.947	34%	Average	11	15	26	57.7%	57.7%	15.8%	18.4%	15.8%	52.6%
+#0 Blake Godbold	15%	16	19	1.188	9%	Poor	5	8	13	61.5%	61.5%	6.3%	18.8%	12.5%	62.5%
+#44 Aaron Crose	14%	15	18	1.2	8%	Poor	2	8	10	80%	80%	20%	13.3%	13.3%	66.7%
+#23 Eric Thompson	7.5%	8	6	0.75	-	-	1	3	4	75%	75%	25%	25%	12.5%	37.5%
+#32 Jonathan Damota	6.5%	7	4	0.571	-	-	2	2	4	50%	50%	42.9%	0%	0%	28.6%
+#50 Eric Pillath	6.5%	7	7	1	-	-	2	1	3	33.3%	33.3%	14.3%	42.9%	14.3%	57.1%
+#4 Ikenna Ozor	3.7%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	25%	25%	25%	25%
+#24 Bryce Wilkinson	2.8%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#20 Dj Lewis	1.9%	2	4	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#10 Jacob Kampf	1.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#45 John Tsahageas	1.9%	2	2	1	-	-	0	1	1	100%	100%	0%	100%	100%	50%
+#2 Alik Airapetyan	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Deryk Ruple	0.9%	1	0	0	-	-	0	0	0	-	-	0%	100%	0%	0%
+#42 Sean Pollock	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	7.2%	100	59	0.59	99%	Excellent	64	19	83	22.9%	28.9%	10%	8%	5%	24%
+#0 Blake Godbold	17%	17	3	0.176	99%	Excellent	13	1	14	7.1%	7.1%	5.9%	11.8%	11.8%	11.8%
+#20 Dj Lewis	16%	16	11	0.688	75%	Very Good	9	3	12	25%	33.3%	12.5%	12.5%	6.3%	25%
+#11 Deryk Ruple	15%	15	10	0.667	78%	Very Good	8	4	12	33.3%	41.7%	20%	0%	0%	26.7%
+#32 Jonathan Damota	11%	11	13	1.182	17%	Below Average	5	4	9	44.4%	61.1%	9.1%	9.1%	0%	45.5%
+#25 Tyre Dukes	10%	10	5	0.5	89%	Excellent	7	1	8	12.5%	18.8%	10%	10%	0%	20%
+#10 Jacob Kampf	8%	8	2	0.25	-	-	5	1	6	16.7%	16.7%	25%	0%	0%	12.5%
+#24 Bryce Wilkinson	5%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#52 Marko Protic	4%	4	2	0.5	-	-	3	0	3	0%	0%	0%	25%	25%	25%
+#5 Garrett Stone	3%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#44 Aaron Crose	3%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#50 Eric Pillath	2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#23 Eric Thompson	2%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#3 Danny Serrano	2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#4 Ikenna Ozor	1%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+#42 Sean Pollock	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	3.6%	50	55	1.1	1%	Poor	16	21	37	56.8%	62.2%	18%	10%	6%	50%
+#24 Bryce Wilkinson	16%	8	8	1	-	-	3	4	7	57.1%	57.1%	12.5%	0%	0%	50%
+#32 Jonathan Damota	14%	7	6	0.857	-	-	3	3	6	50%	50%	14.3%	0%	0%	42.9%
+#11 Deryk Ruple	12%	6	4	0.667	-	-	3	0	3	0%	0%	16.7%	33.3%	16.7%	33.3%
+#20 Dj Lewis	10%	5	2	0.4	-	-	3	0	3	0%	0%	20%	20%	20%	20%
+#0 Blake Godbold	10%	5	10	2	-	-	0	4	4	100%	112.5%	20%	20%	20%	80%
+#5 Garrett Stone	8%	4	4	1	-	-	2	1	3	33.3%	33.3%	0%	25%	0%	50%
+#10 Jacob Kampf	8%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#52 Marko Protic	4%	2	3	1.5	-	-	0	1	1	100%	150%	50%	0%	0%	50%
+#25 Tyre Dukes	4%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#33 Jeremiah Horton	4%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#23 Eric Thompson	4%	2	6	3	-	-	0	2	2	100%	150%	0%	0%	0%	100%
+#45 John Tsahageas	4%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#3 Danny Serrano	2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	3.6%	50	52	1.04	32%	Average	21	19	40	47.5%	51.3%	10%	12%	10%	48%
+#52 Marko Protic	18%	9	8	0.889	-	-	5	2	7	28.6%	28.6%	0%	22.2%	22.2%	44.4%
+#0 Blake Godbold	16%	8	3	0.375	-	-	5	1	6	16.7%	25%	25%	0%	0%	12.5%
+#44 Aaron Crose	10%	5	3	0.6	-	-	3	1	4	25%	37.5%	20%	0%	0%	20%
+#32 Jonathan Damota	6%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#4 Ikenna Ozor	6%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#50 Eric Pillath	2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#33 Jeremiah Horton	2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Deryk Ruple	2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#45 John Tsahageas	2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Knox	2.9%	40	42	1.05	8%	Poor	10	14	24	58.3%	70.8%	30%	12.5%	10%	45%
+#11 Deryk Ruple	17.5%	7	10	1.429	-	-	2	3	5	60%	80%	0%	28.6%	14.3%	71.4%
+#20 Dj Lewis	15%	6	3	0.5	-	-	2	0	2	0%	0%	50%	16.7%	16.7%	16.7%
+#10 Jacob Kampf	15%	6	6	1	-	-	1	2	3	66.7%	100%	50%	0%	0%	33.3%
+#32 Jonathan Damota	12.5%	5	2	0.4	-	-	1	1	2	50%	50%	60%	0%	0%	20%
+#25 Tyre Dukes	7.5%	3	6	2	-	-	1	2	3	66.7%	83.3%	0%	33.3%	33.3%	66.7%
+#24 Bryce Wilkinson	7.5%	3	2	0.667	-	-	0	1	1	100%	100%	66.7%	0%	0%	33.3%
+#0 Blake Godbold	7.5%	3	6	2	-	-	0	2	2	100%	100%	0%	33.3%	33.3%	100%
+#44 Aaron Crose	7.5%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#52 Marko Protic	2.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#50 Eric Pillath	2.5%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#4 Ikenna Ozor	2.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#45 John Tsahageas	2.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

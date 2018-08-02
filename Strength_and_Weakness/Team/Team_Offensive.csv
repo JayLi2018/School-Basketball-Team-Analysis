@@ -1,0 +1,221 @@
+Type,Format,team_name,element_name,percentage_of_time,ppp,overall_average_ppp,field_goal_percentage
+Strength,Offensive,WheatonIL,Cut,0.098,1.32,0.989,0.681
+Strength,Offensive,WheatonIL,Offensive Rebounds (put backs),0.062,1.185,0.989,0.628
+Strength,Offensive,WheatonIL,Hand Off,0.047,1.01,0.989,0.407
+Strength,Offensive,WheatonIL,Transition,0.148,1.167,0.989,0.573
+Strength,Offensive,WheatonIL,Off Screen,0.133,1.054,0.989,0.42
+Strength,Offensive,Wabash,Transition,0.106,0.909,0.885,0.423
+Strength,Offensive,Wabash,Post-Up,0.108,0.964,0.885,0.503
+Strength,Offensive,Wabash,Spot Up,0.238,0.956,0.885,0.364
+Strength,Offensive,Wabash,P&R Roll Man,0.038,0.975,0.885,0.532
+Strength,Offensive,Wabash,Hand Off,0.04,0.952,0.885,0.412
+Strength,Offensive,Wabash,Cut,0.05,1.124,0.885,0.6
+Strength,Offensive,Wabash,Offensive Rebounds (put backs),0.06,1,0.885,0.529
+Strength,Offensive,UWPlatteville,Offensive Rebounds (put backs),0.065,1.16,1,0.596
+Strength,Offensive,UWPlatteville,Cut,0.081,1.244,1,0.645
+Strength,Offensive,UWPlatteville,Transition,0.143,1.187,1,0.583
+Strength,Offensive,UWPlatteville,Spot Up,0.249,1.1,1,0.425
+Strength,Offensive,UWPlatteville,Hand Off,0.022,1.25,1,0.5
+Strength,Offensive,Rose-Hulman,Cut,0.09,1.144,0.964,0.637
+Strength,Offensive,Rose-Hulman,Spot Up,0.222,1.065,0.964,0.418
+Strength,Offensive,Rose-Hulman,P&R Roll Man,0.045,1.245,0.964,0.568
+Strength,Offensive,Rose-Hulman,Offensive Rebounds (put backs),0.056,1.085,0.964,0.571
+Strength,Offensive,Rose-Hulman,Transition,0.078,1.092,0.964,0.562
+Strength,Offensive,Rose-Hulman,Off Screen,0.094,1.01,0.964,0.398
+Strength,Offensive,Roosevelt,Transition,0.147,1.14,0.945,0.551
+Strength,Offensive,Roosevelt,Off Screen,0.082,1.039,0.945,0.419
+Strength,Offensive,Roosevelt,Offensive Rebounds (put backs),0.043,1.093,0.945,0.584
+Strength,Offensive,Roosevelt,Spot Up,0.223,1.047,0.945,0.406
+Strength,Offensive,Roosevelt,P&R Roll Man,0.035,1.195,0.945,0.548
+Strength,Offensive,Roosevelt,Cut,0.085,1.147,0.945,0.631
+Strength,Offensive,OlivetCollege,Post-Up,0.034,0.944,0.879,0.521
+Strength,Offensive,OlivetCollege,Cut,0.073,1.016,0.879,0.53
+Strength,Offensive,OlivetCollege,Offensive Rebounds (put backs),0.073,1.036,0.879,0.521
+Strength,Offensive,OlivetCollege,Transition,0.251,1.044,0.879,0.537
+Strength,Offensive,NorthPark,Off Screen,0.088,0.936,0.831,0.379
+Strength,Offensive,NorthPark,Cut,0.08,1.076,0.831,0.555
+Strength,Offensive,NorthPark,Transition,0.147,1.014,0.831,0.471
+Strength,Offensive,NorthPark,Spot Up,0.28,0.898,0.831,0.346
+Strength,Offensive,MSOE,P&R Roll Man,0.04,1,0.903,0.493
+Strength,Offensive,MSOE,Transition,0.107,0.924,0.903,0.507
+Strength,Offensive,MSOE,Off Screen,0.079,0.91,0.903,0.403
+Strength,Offensive,MSOE,Hand Off,0.009,0.947,0.903,0.5
+Strength,Offensive,MSOE,Offensive Rebounds (put backs),0.035,1.284,0.903,0.739
+Strength,Offensive,MSOE,Spot Up,0.28,0.92,0.903,0.391
+Strength,Offensive,MSOE,Cut,0.114,1.097,0.903,0.597
+Strength,Offensive,MoodyBible,Post-Up,0.046,0.737,0.734,0.462
+Strength,Offensive,MoodyBible,Offensive Rebounds (put backs),0.036,1,0.734,0.5
+Strength,Offensive,MoodyBible,P&R Roll Man,0.01,0.75,0.734,0.25
+Strength,Offensive,MoodyBible,Spot Up,0.263,0.89,0.734,0.379
+Strength,Offensive,MoodyBible,Hand Off,0.094,0.923,0.734,0.344
+Strength,Offensive,MoodyBible,Off Screen,0.087,1.111,0.734,0.5
+Strength,Offensive,Knox,Post-Up,0.112,0.813,0.792,0.443
+Strength,Offensive,Knox,Cut,0.077,1.107,0.792,0.573
+Strength,Offensive,Knox,Offensive Rebounds (put backs),0.051,1.074,0.792,0.6
+Strength,Offensive,Knox,Spot Up,0.189,0.898,0.792,0.362
+Strength,Offensive,Knox,Transition,0.148,0.94,0.792,0.464
+Strength,Offensive,Knox,Off Screen,0.09,0.81,0.792,0.34
+Strength,Offensive,Kalamazoo,Hand Off,0.012,0.958,0.805,0.5
+Strength,Offensive,Kalamazoo,Spot Up,0.29,0.821,0.805,0.348
+Strength,Offensive,Kalamazoo,Transition,0.157,0.975,0.805,0.521
+Strength,Offensive,Kalamazoo,Post-Up,0.105,0.957,0.805,0.606
+Strength,Offensive,Kalamazoo,Cut,0.077,0.961,0.805,0.549
+Strength,Offensive,Kalamazoo,Offensive Rebounds (put backs),0.053,0.943,0.805,0.474
+Strength,Offensive,Kalamazoo,P&R Roll Man,0.019,1.077,0.805,0.538
+Strength,Offensive,IllinoisTech,Offensive Rebounds (put backs),0.099,0.942,0.822,0.5
+Strength,Offensive,IllinoisTech,Cut,0.078,1.131,0.822,0.624
+Strength,Offensive,IllinoisTech,P&R Ball Handler,0.163,0.855,0.822,0.418
+Strength,Offensive,IllinoisTech,Transition,0.142,0.946,0.822,0.487
+Strength,Offensive,GustavusAdolphus,Offensive Rebounds (put backs),0.046,0.881,0.876,0.483
+Strength,Offensive,GustavusAdolphus,P&R Roll Man,0.004,1.429,0.876,0.6
+Strength,Offensive,GustavusAdolphus,Spot Up,0.261,0.896,0.876,0.386
+Strength,Offensive,GustavusAdolphus,Cut,0.122,1.09,0.876,0.589
+Strength,Offensive,GustavusAdolphus,Transition,0.15,1.007,0.876,0.537
+Strength,Offensive,Fontbonne,Cut,0.105,0.987,0.882,0.521
+Strength,Offensive,Fontbonne,Offensive Rebounds (put backs),0.065,1.041,0.882,0.507
+Strength,Offensive,Fontbonne,Off Screen,0.064,1.156,0.882,0.512
+Strength,Offensive,Fontbonne,Hand Off,0.011,1.235,0.882,0.533
+Strength,Offensive,Fontbonne,Transition,0.273,1.017,0.882,0.566
+Strength,Offensive,Fontbonne,Spot Up,0.207,0.926,0.882,0.367
+Strength,Offensive,EastWest,Hand Off,0.01,0.867,0.735,0.364
+Strength,Offensive,EastWest,P&R Roll Man,0.018,0.759,0.735,0.3
+Strength,Offensive,EastWest,Off Screen,0.027,0.907,0.735,0.441
+Strength,Offensive,EastWest,Cut,0.071,0.955,0.735,0.511
+Strength,Offensive,EastWest,Offensive Rebounds (put backs),0.082,0.769,0.735,0.406
+Strength,Offensive,EastWest,Transition,0.206,0.911,0.735,0.443
+Strength,Offensive,EastWest,Spot Up,0.214,0.78,0.735,0.316
+Strength,Offensive,DominicanIL,Cut,0.059,0.89,0.816,0.448
+Strength,Offensive,DominicanIL,P&R Ball Handler,0.126,0.886,0.816,0.466
+Strength,Offensive,DominicanIL,Transition,0.194,0.87,0.816,0.446
+Strength,Offensive,DominicanIL,Spot Up,0.245,0.859,0.816,0.354
+Strength,Offensive,DominicanIL,Hand Off,0.031,1,0.816,0.447
+Strength,Offensive,DominicanIL,Offensive Rebounds (put backs),0.04,1.025,0.816,0.523
+Strength,Offensive,CornellCollege,Cut,0.073,1.241,0.819,0.677
+Strength,Offensive,CornellCollege,Post-Up,0.105,0.941,0.819,0.506
+Strength,Offensive,CornellCollege,Transition,0.176,0.839,0.819,0.469
+Strength,Offensive,CornellCollege,Spot Up,0.237,0.825,0.819,0.323
+Strength,Offensive,CornellCollege,Offensive Rebounds (put backs),0.064,1.153,0.819,0.586
+Strength,Offensive,CornellCollege,Hand Off,0.018,0.85,0.819,0.294
+Strength,Offensive,Chicago,Off Screen,0.137,1.025,0.892,0.398
+Strength,Offensive,Chicago,Spot Up,0.217,0.913,0.892,0.346
+Strength,Offensive,Chicago,Offensive Rebounds (put backs),0.071,1.041,0.892,0.55
+Strength,Offensive,Chicago,P&R Roll Man,0.029,1.017,0.892,0.522
+Strength,Offensive,Chicago,Cut,0.085,1.091,0.892,0.546
+Strength,Offensive,Chicago,Transition,0.124,0.926,0.892,0.462
+Strength,Offensive,Carthage,Cut,0.069,1.072,0.926,0.58
+Strength,Offensive,Carthage,Transition,0.103,1.168,0.926,0.539
+Strength,Offensive,Carthage,Post-Up,0.133,0.948,0.926,0.522
+Strength,Offensive,Carthage,Spot Up,0.245,0.988,0.926,0.374
+Strength,Offensive,Carthage,Offensive Rebounds (put backs),0.062,1.136,0.926,0.578
+Strength,Offensive,Carthage,P&R Ball Handler,0.094,0.942,0.926,0.489
+Strength,Offensive,Albion,Offensive Rebounds (put backs),0.075,1.213,0.87,0.628
+Strength,Offensive,Albion,Cut,0.066,1.087,0.87,0.566
+Strength,Offensive,Albion,Spot Up,0.315,0.914,0.87,0.36
+Strength,Offensive,Albion,Transition,0.136,1.028,0.87,0.456
+Weakness,Offensive,WheatonIL,P&R Roll Man,0.01,0.727,0.989,0.35
+Weakness,Offensive,WheatonIL,Miscellaneous,0.099,0.651,0.989,0.458
+Weakness,Offensive,WheatonIL,P&R Ball Handler,0.042,0.674,0.989,0.273
+Weakness,Offensive,WheatonIL,Post-Up,0.043,0.889,0.989,0.507
+Weakness,Offensive,WheatonIL,Isolation,0.087,0.875,0.989,0.418
+Weakness,Offensive,WheatonIL,Spot Up,0.231,0.918,0.989,0.385
+Weakness,Offensive,Wabash,Off Screen,0.048,0.87,0.885,0.33
+Weakness,Offensive,Wabash,Miscellaneous,0.075,0.58,0.885,0.308
+Weakness,Offensive,Wabash,P&R Ball Handler,0.184,0.76,0.885,0.304
+Weakness,Offensive,Wabash,Isolation,0.052,0.759,0.885,0.333
+Weakness,Offensive,UWPlatteville,Isolation,0.075,0.88,1,0.403
+Weakness,Offensive,UWPlatteville,Post-Up,0.1,0.86,1,0.486
+Weakness,Offensive,UWPlatteville,P&R Ball Handler,0.091,0.905,1,0.507
+Weakness,Offensive,UWPlatteville,Miscellaneous,0.098,0.571,1,0.5
+Weakness,Offensive,UWPlatteville,P&R Roll Man,0.017,0.737,1,0.382
+Weakness,Offensive,UWPlatteville,Off Screen,0.058,0.844,1,0.38
+Weakness,Offensive,Rose-Hulman,P&R Ball Handler,0.14,0.917,0.964,0.489
+Weakness,Offensive,Rose-Hulman,Post-Up,0.114,0.861,0.964,0.465
+Weakness,Offensive,Rose-Hulman,Isolation,0.044,0.923,0.964,0.478
+Weakness,Offensive,Rose-Hulman,Hand Off,0.012,0.76,0.964,0.389
+Weakness,Offensive,Rose-Hulman,Miscellaneous,0.104,0.486,0.964,0.4
+Weakness,Offensive,Roosevelt,Isolation,0.053,0.742,0.945,0.364
+Weakness,Offensive,Roosevelt,Miscellaneous,0.104,0.585,0.945,0.222
+Weakness,Offensive,Roosevelt,P&R Ball Handler,0.097,0.763,0.945,0.365
+Weakness,Offensive,Roosevelt,Hand Off,0.033,0.671,0.945,0.297
+Weakness,Offensive,Roosevelt,Post-Up,0.097,0.772,0.945,0.457
+Weakness,Offensive,OlivetCollege,Spot Up,0.192,0.859,0.879,0.339
+Weakness,Offensive,OlivetCollege,Miscellaneous,0.068,0.642,0.879,0.588
+Weakness,Offensive,OlivetCollege,P&R Roll Man,0.021,0.732,0.879,0.421
+Weakness,Offensive,OlivetCollege,Off Screen,0.036,0.691,0.879,0.287
+Weakness,Offensive,OlivetCollege,Hand Off,0.049,0.713,0.879,0.299
+Weakness,Offensive,OlivetCollege,P&R Ball Handler,0.099,0.69,0.879,0.373
+Weakness,Offensive,OlivetCollege,Isolation,0.103,0.801,0.879,0.397
+Weakness,Offensive,NorthPark,P&R Ball Handler,0.097,0.686,0.831,0.35
+Weakness,Offensive,NorthPark,Isolation,0.112,0.801,0.831,0.339
+Weakness,Offensive,NorthPark,Offensive Rebounds (put backs),0.033,0.646,0.831,0.354
+Weakness,Offensive,NorthPark,P&R Roll Man,0.03,0.724,0.831,0.308
+Weakness,Offensive,NorthPark,Post-Up,0.028,0.745,0.831,0.455
+Weakness,Offensive,NorthPark,Hand Off,0.024,0.667,0.831,0.286
+Weakness,Offensive,NorthPark,Miscellaneous,0.08,0.312,0.831,0.31
+Weakness,Offensive,MSOE,Isolation,0.043,0.697,0.903,0.394
+Weakness,Offensive,MSOE,Miscellaneous,0.085,0.567,0.903,0.238
+Weakness,Offensive,MSOE,P&R Ball Handler,0.114,0.828,0.903,0.421
+Weakness,Offensive,MSOE,Post-Up,0.093,0.892,0.903,0.518
+Weakness,Offensive,MoodyBible,P&R Ball Handler,0.068,0.607,0.734,0.3
+Weakness,Offensive,MoodyBible,Miscellaneous,0.094,0.256,0.734,0.75
+Weakness,Offensive,MoodyBible,Transition,0.128,0.566,0.734,0.289
+Weakness,Offensive,MoodyBible,Isolation,0.101,0.524,0.734,0.3
+Weakness,Offensive,MoodyBible,Cut,0.072,0.667,0.734,0.321
+Weakness,Offensive,Knox,Miscellaneous,0.089,0.202,0.792,0.385
+Weakness,Offensive,Knox,P&R Ball Handler,0.127,0.612,0.792,0.336
+Weakness,Offensive,Knox,Hand Off,0.045,0.65,0.792,0.356
+Weakness,Offensive,Knox,Isolation,0.041,0.782,0.792,0.4
+Weakness,Offensive,Knox,P&R Roll Man,0.033,0.705,0.792,0.324
+Weakness,Offensive,Kalamazoo,P&R Ball Handler,0.112,0.778,0.805,0.389
+Weakness,Offensive,Kalamazoo,Off Screen,0.041,0.711,0.805,0.294
+Weakness,Offensive,Kalamazoo,Isolation,0.032,0.578,0.805,0.432
+Weakness,Offensive,Kalamazoo,Miscellaneous,0.101,0.218,0.805,0.294
+Weakness,Offensive,IllinoisTech,Spot Up,0.172,0.817,0.822,0.313
+Weakness,Offensive,IllinoisTech,Post-Up,0.105,0.756,0.822,0.46
+Weakness,Offensive,IllinoisTech,Miscellaneous,0.087,0.456,0.822,0.316
+Weakness,Offensive,IllinoisTech,Isolation,0.058,0.733,0.822,0.383
+Weakness,Offensive,IllinoisTech,Off Screen,0.053,0.793,0.822,0.277
+Weakness,Offensive,IllinoisTech,P&R Roll Man,0.035,0.564,0.822,0.268
+Weakness,Offensive,IllinoisTech,Hand Off,0.008,0.417,0.822,0.167
+Weakness,Offensive,GustavusAdolphus,Hand Off,0.014,0.808,0.876,0.316
+Weakness,Offensive,GustavusAdolphus,Isolation,0.079,0.738,0.876,0.372
+Weakness,Offensive,GustavusAdolphus,Off Screen,0.099,0.834,0.876,0.393
+Weakness,Offensive,GustavusAdolphus,Post-Up,0.113,0.861,0.876,0.51
+Weakness,Offensive,GustavusAdolphus,Miscellaneous,0.083,0.48,0.876,0.313
+Weakness,Offensive,GustavusAdolphus,P&R Ball Handler,0.029,0.778,0.876,0.357
+Weakness,Offensive,Fontbonne,Miscellaneous,0.133,0.34,0.882,0.455
+Weakness,Offensive,Fontbonne,Post-Up,0.065,0.857,0.882,0.478
+Weakness,Offensive,Fontbonne,Isolation,0.056,0.619,0.882,0.281
+Weakness,Offensive,Fontbonne,P&R Ball Handler,0.015,0.87,0.882,0.4
+Weakness,Offensive,Fontbonne,P&R Roll Man,0.004,0.833,0.882,0.333
+Weakness,Offensive,EastWest,Miscellaneous,0.101,0.377,0.735,0.273
+Weakness,Offensive,EastWest,P&R Ball Handler,0.072,0.482,0.735,0.264
+Weakness,Offensive,EastWest,Post-Up,0.091,0.708,0.735,0.41
+Weakness,Offensive,EastWest,Isolation,0.107,0.607,0.735,0.279
+Weakness,Offensive,DominicanIL,Miscellaneous,0.066,0.346,0.816,0.467
+Weakness,Offensive,DominicanIL,Post-Up,0.091,0.781,0.816,0.387
+Weakness,Offensive,DominicanIL,Isolation,0.055,0.764,0.816,0.376
+Weakness,Offensive,DominicanIL,Off Screen,0.052,0.673,0.816,0.281
+Weakness,Offensive,DominicanIL,P&R Roll Man,0.042,0.714,0.816,0.314
+Weakness,Offensive,CornellCollege,Miscellaneous,0.096,0.422,0.819,0.375
+Weakness,Offensive,CornellCollege,P&R Ball Handler,0.127,0.618,0.819,0.35
+Weakness,Offensive,CornellCollege,P&R Roll Man,0.044,0.76,0.819,0.371
+Weakness,Offensive,CornellCollege,Isolation,0.03,0.765,0.819,0.318
+Weakness,Offensive,CornellCollege,Off Screen,0.028,0.75,0.819,0.37
+Weakness,Offensive,Chicago,Post-Up,0.083,0.837,0.892,0.472
+Weakness,Offensive,Chicago,Isolation,0.026,0.685,0.892,0.275
+Weakness,Offensive,Chicago,Miscellaneous,0.089,0.443,0.892,0.538
+Weakness,Offensive,Chicago,P&R Ball Handler,0.067,0.848,0.892,0.446
+Weakness,Offensive,Chicago,Hand Off,0.071,0.815,0.892,0.301
+Weakness,Offensive,Carthage,Off Screen,0.095,0.838,0.926,0.368
+Weakness,Offensive,Carthage,Hand Off,0.01,0.7,0.926,0.294
+Weakness,Offensive,Carthage,P&R Roll Man,0.028,0.772,0.926,0.37
+Weakness,Offensive,Carthage,Isolation,0.079,0.804,0.926,0.36
+Weakness,Offensive,Carthage,Miscellaneous,0.081,0.399,0.926,0.3
+Weakness,Offensive,Albion,Post-Up,0.154,0.834,0.87,0.491
+Weakness,Offensive,Albion,Miscellaneous,0.082,0.404,0.87,0.28
+Weakness,Offensive,Albion,P&R Roll Man,0.014,0.379,0.87,0.154
+Weakness,Offensive,Albion,Hand Off,0.017,0.833,0.87,0.393
+Weakness,Offensive,Albion,Isolation,0.043,0.596,0.87,0.328
+Weakness,Offensive,Albion,Off Screen,0.043,0.711,0.87,0.321
+Weakness,Offensive,Albion,P&R Ball Handler,0.054,0.768,0.87,0.352

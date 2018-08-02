@@ -1,0 +1,599 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Rose-Hulman	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Rose-Hulman	Date Range: 11/17/2017 to 02/24/2018	Number of Games: 27
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	100%	2077	2003	0.964	89%	Excellent	751	699	1450	48.2%	55%	17.9%	15%	9.7%	44.3%
+ Transition	7.8%	163	178	1.092	90%	Excellent	46	59	105	56.2%	63.3%	19.6%	19.6%	14.7%	50.9%
+ Overall Half Court	92.2%	1914	1825	0.954	91%	Excellent	705	640	1345	47.6%	54.3%	17.8%	14.6%	9.2%	43.7%
+                    Short Shot Clock <4 Seconds	4.4%	92	69	0.75	65%	Very Good	49	24	73	32.9%	37.7%	10.9%	9.8%	4.3%	34.8%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	6.9%	133	116	0.872	64%	Good	51	42	93	45.2%	52.7%	21.8%	10.5%	9%	39.1%
+         Out of Bounds (Side)	4.2%	80	69	0.863	63%	Good	36	24	60	40%	48.3%	15%	11.3%	11.3%	37.5%
+         After Time Outs	11.4%	219	215	0.982	90%	Excellent	81	74	155	47.7%	55.2%	14.6%	17.4%	11.4%	45.7%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	91.7%	1756	1681	0.957	93%	Excellent	637	590	1227	48.1%	54.5%	17.7%	15%	9.4%	44.4%
+    Against Zone	8.3%	158	144	0.911	52%	Good	68	50	118	42.4%	53%	19%	10.8%	7.6%	36.1%
+Breakdown of Full Court Press Situations:
+  Press Offense	5.5%	105	108	1.029	93%	Excellent	26	29	55	52.7%	60%	22.9%	26.7%	4.8%	49.5%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	22.2%	461	491	1.065	95%	Excellent	231	166	397	41.8%	54.8%	7.6%	8%	6.7%	42.3%
+ P&R Ball Handler	14%	290	266	0.917	92%	Excellent	95	91	186	48.9%	53.2%	21.7%	17.9%	13.4%	44.1%
+ Post-Up	11.4%	237	204	0.861	57%	Good	99	86	185	46.5%	46.5%	11.8%	13.9%	11%	44.3%
+ Off Screen	9.4%	196	198	1.01	79%	Very Good	103	68	171	39.8%	52%	7.1%	6.1%	6.1%	40.3%
+ Cut	9%	187	214	1.144	73%	Very Good	53	93	146	63.7%	63.7%	12.8%	13.4%	13.4%	58.3%
+ Transition	7.8%	163	178	1.092	90%	Excellent	46	59	105	56.2%	63.3%	19.6%	19.6%	14.7%	50.9%
+ Offensive Rebounds (put backs)	5.6%	117	127	1.085	63%	Good	36	48	84	57.1%	57.1%	12%	21.4%	14.5%	54.7%
+ P&R Roll Man	4.5%	94	117	1.245	95%	Excellent	32	42	74	56.8%	66.2%	10.6%	14.9%	12.8%	53.2%
+ Isolation	4.4%	91	84	0.923	86%	Excellent	36	33	69	47.8%	50%	15.4%	12.1%	9.9%	44%
+ Hand Off	1.2%	25	19	0.76	39%	Average	11	7	18	38.9%	47.2%	20%	8%	8%	32%
+ Miscellaneous	10.4%	216	105	0.486	57%	Good	9	6	15	40%	43.3%	61.6%	31.9%	1.9%	27.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	5.6%	116	107	0.922	78%	Very Good	49	39	88	44.3%	48.9%	14.7%	12.9%	11.2%	42.2%
+  Pick and Rolls Including Passes	26.1%	543	550	1.013	97%	Excellent	204	196	400	49%	55.8%	15.3%	14.4%	11.4%	46%
+  Post-Ups Including Passes	13.3%	276	250	0.906	61%	Good	118	103	221	46.6%	48.9%	10.9%	12.3%	9.8%	44.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.2%	25	23	0.92	41%	Average	13	6	19	31.6%	44.7%	12%	16%	16%	36%
+  P&R BH - Defense Commits	14.6%	303	294	0.97	93%	Excellent	109	105	214	49.1%	57.9%	20.8%	10.9%	7.6%	42.2%
+  Post-Up - Defense Commits	1.9%	39	46	1.179	80%	Very Good	19	17	36	47.2%	61.1%	5.1%	2.6%	2.6%	46.2%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.7%	15	15	1	80%	Very Good	4	5	9	55.6%	77.8%	33.3%	6.7%	6.7%	40%
+  Post-Up - Hard Double	2%	42	56	1.333	100%	Excellent	13	22	35	62.9%	72.9%	2.4%	19%	14.3%	59.5%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	45.4%	610	662	1.085	94%	Excellent	371	239	610	39.2%	54.1%	0%	0.3%	0.3%	39.2%
+          Short Shot Clock <4 Seconds	2.7%	36	23	0.639	51%	Good	28	8	36	22.2%	31.9%	0%	0%	0%	22.2%
+Runner	6.7%	90	81	0.9	88%	Excellent	51	39	90	43.3%	43.3%	0%	4.4%	4.4%	43.3%
+          Short Shot Clock <4 Seconds	0.4%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+Around Basket (not Post-Ups)	34.2%	460	579	1.259	98%	Excellent	184	276	460	60%	60%	0%	7.8%	7.8%	60%
+Post-Ups	13.8%	185	177	0.957	50%	Average	99	86	185	46.5%	46.5%	0%	4.9%	4.9%	46.5%
+          Short Shot Clock <4 Seconds	0.4%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	32.4%	436	512	1.174	93%	Excellent	261	175	436	40.1%	58.7%	0%	0%	0%	40.1%
+  Guarded	53.7%	234	247	1.056	74%	Very Good	150	84	234	35.9%	52.8%	0%	0%	0%	35.9%
+  Unguarded	46.3%	202	265	1.312	95%	Excellent	111	91	202	45%	65.6%	0%	0%	0%	45%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	11.3%	152	137	0.901	89%	Excellent	93	59	152	38.8%	44.7%	0%	0.7%	0.7%	38.8%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	13.9%	85	62	0.729	43%	Average	55	30	85	35.3%	35.3%	0%	2.4%	2.4%	35.3%
+Medium (17' to <3 point line)	8.5%	52	54	1.038	98%	Excellent	25	27	52	51.9%	51.9%	0%	0%	0%	51.9%
+Long (3 point jump shots)	77.5%	473	546	1.154	92%	Excellent	291	182	473	38.5%	57.7%	0%	0%	0%	38.5%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	100%	2077	2003	0.964	89%	Excellent	751	699	1450	48.2%	55%	17.9%	15%	9.7%	44.3%
+#15 Craig McGee Jr.	19.7%	410	376	0.917	68%	Very Good	113	129	242	53.3%	57%	25.9%	18.5%	11.2%	45.1%
+#21 Charlie Aimone	15.2%	316	332	1.051	90%	Excellent	136	117	253	46.2%	55.5%	11.1%	11.4%	9.8%	45.3%
+#31 Ryuji Aoki	12.7%	264	265	1.004	84%	Excellent	120	83	203	40.9%	52.7%	14%	10.2%	6.4%	40.5%
+#50 John Czarnecki	12.2%	253	281	1.111	95%	Excellent	71	107	178	60.1%	61.8%	14.2%	18.2%	11.1%	55.7%
+#10 Stephen Schueth	8.5%	177	154	0.87	58%	Good	85	46	131	35.1%	45.8%	14.1%	13%	4.5%	36.7%
+#30 Nick McGrail	8.1%	168	170	1.012	85%	Excellent	71	62	133	46.6%	56.8%	13.1%	9.5%	4.2%	43.5%
+#40 Eli Combs	6.1%	127	113	0.89	62%	Good	42	47	89	52.8%	56.2%	21.3%	12.6%	9.4%	44.1%
+#33 Luke Callahan	4.3%	89	93	1.045	90%	Excellent	25	36	61	59%	59.8%	18%	21.3%	18%	51.7%
+#11 Michael Lake	3.9%	82	83	1.012	85%	Excellent	25	24	49	49%	59.2%	23.2%	19.5%	11%	45.1%
+#5 Jacob Back	2.6%	53	20	0.377	3%	Poor	19	8	27	29.6%	29.6%	34%	18.9%	11.3%	20.8%
+#23 Kyle Steckel	2.4%	50	39	0.78	39%	Average	14	12	26	46.2%	57.7%	38%	10%	8%	34%
+#45 JT Whitaker	1.7%	35	37	1.057	91%	Excellent	7	15	22	68.2%	68.2%	17.1%	25.7%	22.9%	51.4%
+#3 Trey Sykes	1.6%	34	31	0.912	67%	Very Good	11	10	21	47.6%	47.6%	11.8%	32.4%	23.5%	47.1%
+#4 David Saadatnezhadi	0.3%	6	2	0.333	-	-	5	1	6	16.7%	16.7%	0%	0%	0%	16.7%
+#63 Taylor Heil	0.2%	5	4	0.8	-	-	2	1	3	33.3%	33.3%	20%	20%	0%	40%
+#25 Joshua Richey	0.2%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#45 Zach Callahan	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#54 Trey Wurtz	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	22.2%	461	491	1.065	95%	Excellent	231	166	397	41.8%	54.8%	7.6%	8%	6.7%	42.3%
+#31 Ryuji Aoki	19.7%	91	104	1.143	86%	Excellent	44	33	77	42.9%	57.1%	6.6%	8.8%	5.5%	45.1%
+#21 Charlie Aimone	16.9%	78	90	1.154	87%	Excellent	41	31	72	43.1%	54.2%	1.3%	11.5%	11.5%	46.2%
+#10 Stephen Schueth	16.5%	76	72	0.947	60%	Good	44	23	67	34.3%	49.3%	6.6%	5.3%	3.9%	35.5%
+#15 Craig McGee Jr.	12.4%	57	62	1.088	80%	Very Good	25	22	47	46.8%	59.6%	12.3%	7%	5.3%	43.9%
+#30 Nick McGrail	8.5%	39	46	1.179	89%	Excellent	21	17	38	44.7%	60.5%	2.6%	0%	0%	43.6%
+#11 Michael Lake	6.7%	31	36	1.161	88%	Excellent	12	13	25	52%	66%	16.1%	6.5%	6.5%	45.2%
+#23 Kyle Steckel	4.6%	21	20	0.952	61%	Good	10	7	17	41.2%	55.9%	14.3%	4.8%	4.8%	38.1%
+#50 John Czarnecki	4.3%	20	19	0.95	60%	Good	11	6	17	35.3%	50%	10%	5%	0%	35%
+#33 Luke Callahan	3.3%	15	11	0.733	28%	Below Average	7	3	10	30%	35%	20%	20%	20%	33.3%
+#3 Trey Sykes	3%	14	11	0.786	34%	Average	8	3	11	27.3%	27.3%	0%	28.6%	28.6%	42.9%
+#40 Eli Combs	2.6%	12	16	1.333	96%	Excellent	3	6	9	66.7%	83.3%	16.7%	8.3%	8.3%	58.3%
+#4 David Saadatnezhadi	0.7%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#25 Joshua Richey	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#45 JT Whitaker	0.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#5 Jacob Back	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#63 Taylor Heil	0.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	14%	290	266	0.917	92%	Excellent	95	91	186	48.9%	53.2%	21.7%	17.9%	13.4%	44.1%
+#15 Craig McGee Jr.	57.9%	168	165	0.982	84%	Excellent	46	56	102	54.9%	55.9%	21.4%	22%	17.3%	50%
+#31 Ryuji Aoki	14.8%	43	40	0.93	79%	Very Good	18	15	33	45.5%	54.5%	20.9%	7%	7%	37.2%
+#21 Charlie Aimone	13.8%	40	34	0.85	67%	Very Good	18	11	29	37.9%	50%	17.5%	10%	7.5%	35%
+#10 Stephen Schueth	5.9%	17	10	0.588	24%	Below Average	8	3	11	27.3%	31.8%	17.6%	23.5%	11.8%	29.4%
+#3 Trey Sykes	3.1%	9	12	1.333	-	-	1	4	5	80%	80%	22.2%	33.3%	22.2%	66.7%
+#11 Michael Lake	2.8%	8	3	0.375	-	-	4	1	5	20%	20%	25%	12.5%	0%	25%
+#23 Kyle Steckel	1.7%	5	2	0.4	-	-	0	1	1	100%	100%	80%	0%	0%	20%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	11.4%	237	204	0.861	57%	Good	99	86	185	46.5%	46.5%	11.8%	13.9%	11%	44.3%
+#50 John Czarnecki	34.2%	81	76	0.938	70%	Very Good	30	32	62	51.6%	51.6%	12.3%	14.8%	11.1%	48.1%
+#40 Eli Combs	18.1%	43	29	0.674	25%	Below Average	21	14	35	40%	40%	16.3%	4.7%	4.7%	34.9%
+#21 Charlie Aimone	11.8%	28	27	0.964	74%	Very Good	15	12	27	44.4%	44.4%	0%	7.1%	7.1%	46.4%
+#30 Nick McGrail	11.4%	27	16	0.593	15%	Below Average	13	7	20	35%	35%	18.5%	7.4%	3.7%	33.3%
+#33 Luke Callahan	8.9%	21	26	1.238	97%	Excellent	8	11	19	57.9%	57.9%	0%	23.8%	19%	61.9%
+#5 Jacob Back	5.5%	13	7	0.538	10%	Poor	4	3	7	42.9%	42.9%	23.1%	23.1%	15.4%	30.8%
+#10 Stephen Schueth	5.1%	12	12	1	82%	Very Good	5	4	9	44.4%	44.4%	8.3%	16.7%	8.3%	50%
+#45 JT Whitaker	4.2%	10	10	1	82%	Very Good	2	3	5	60%	60%	20%	40%	40%	50%
+#63 Taylor Heil	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	9.4%	196	198	1.01	79%	Very Good	103	68	171	39.8%	52%	7.1%	6.1%	6.1%	40.3%
+#21 Charlie Aimone	33.2%	65	76	1.169	80%	Very Good	30	27	57	47.4%	62.3%	6.2%	6.2%	6.2%	47.7%
+#31 Ryuji Aoki	25.5%	50	51	1.02	64%	Good	27	16	43	37.2%	51.2%	8%	6%	6%	38%
+#10 Stephen Schueth	10.2%	20	15	0.75	29%	Below Average	13	6	19	31.6%	39.5%	5%	0%	0%	30%
+#15 Craig McGee Jr.	9.2%	18	20	1.111	74%	Very Good	9	8	17	47.1%	58.8%	5.6%	0%	0%	44.4%
+#30 Nick McGrail	6.1%	12	5	0.417	5%	Poor	9	2	11	18.2%	22.7%	8.3%	0%	0%	16.7%
+#11 Michael Lake	5.1%	10	11	1.1	73%	Very Good	4	4	8	50%	62.5%	20%	10%	10%	40%
+#40 Eli Combs	4.1%	8	9	1.125	-	-	4	2	6	33.3%	50%	0%	25%	25%	50%
+#23 Kyle Steckel	3.6%	7	9	1.286	-	-	3	2	5	40%	50%	0%	28.6%	28.6%	57.1%
+#33 Luke Callahan	1.5%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#5 Jacob Back	1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#50 John Czarnecki	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	9%	187	214	1.144	73%	Very Good	53	93	146	63.7%	63.7%	12.8%	13.4%	13.4%	58.3%
+#50 John Czarnecki	29.4%	55	71	1.291	78%	Very Good	14	33	47	70.2%	70.2%	9.1%	9.1%	9.1%	65.5%
+#21 Charlie Aimone	13.4%	25	26	1.04	42%	Average	9	11	20	55%	55%	8%	12%	12%	56%
+#40 Eli Combs	10.2%	19	17	0.895	22%	Below Average	7	8	15	53.3%	53.3%	15.8%	10.5%	10.5%	47.4%
+#33 Luke Callahan	9.6%	18	29	1.611	98%	Excellent	2	12	14	85.7%	85.7%	11.1%	22.2%	22.2%	77.8%
+#30 Nick McGrail	9.1%	17	18	1.059	45%	Average	7	8	15	53.3%	53.3%	5.9%	11.8%	11.8%	52.9%
+#15 Craig McGee Jr.	5.9%	11	12	1.091	50%	Average	3	5	8	62.5%	62.5%	9.1%	18.2%	18.2%	63.6%
+#10 Stephen Schueth	4.8%	9	2	0.222	-	-	4	1	5	20%	20%	44.4%	0%	0%	11.1%
+#5 Jacob Back	4.8%	9	6	0.667	-	-	4	3	7	42.9%	42.9%	22.2%	11.1%	11.1%	33.3%
+#45 JT Whitaker	4.3%	8	13	1.625	-	-	0	6	6	100%	100%	12.5%	25%	25%	75%
+#31 Ryuji Aoki	3.2%	6	6	1	-	-	2	2	4	50%	50%	16.7%	16.7%	16.7%	50%
+#11 Michael Lake	2.1%	4	6	1.5	-	-	0	1	1	100%	100%	25%	50%	50%	75%
+#23 Kyle Steckel	1.6%	3	6	2	-	-	0	2	2	100%	100%	0%	33.3%	33.3%	100%
+#3 Trey Sykes	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#45 Zach Callahan	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#63 Taylor Heil	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	7.8%	163	178	1.092	90%	Excellent	46	59	105	56.2%	63.3%	19.6%	19.6%	14.7%	50.9%
+#15 Craig McGee Jr.	30.1%	49	39	0.796	24%	Below Average	14	14	28	50%	50%	28.6%	20.4%	12.2%	40.8%
+#21 Charlie Aimone	20.2%	33	45	1.364	94%	Excellent	6	15	21	71.4%	81%	21.2%	21.2%	21.2%	60.6%
+#31 Ryuji Aoki	14.7%	24	28	1.167	79%	Very Good	9	8	17	47.1%	64.7%	16.7%	12.5%	8.3%	45.8%
+#10 Stephen Schueth	8%	13	12	0.923	43%	Average	6	3	9	33.3%	50%	15.4%	15.4%	7.7%	38.5%
+#50 John Czarnecki	6.7%	11	17	1.545	99%	Excellent	1	6	7	85.7%	85.7%	9.1%	27.3%	27.3%	81.8%
+#11 Michael Lake	6.7%	11	14	1.273	88%	Excellent	1	3	4	75%	87.5%	27.3%	36.4%	18.2%	63.6%
+#40 Eli Combs	3.7%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+#30 Nick McGrail	2.5%	4	8	2	-	-	0	3	3	100%	116.7%	0%	25%	25%	100%
+#5 Jacob Back	1.8%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#45 JT Whitaker	1.2%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#33 Luke Callahan	1.2%	2	5	2.5	-	-	0	2	2	100%	100%	0%	50%	50%	100%
+#3 Trey Sykes	1.2%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#25 Joshua Richey	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Kyle Steckel	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#4 David Saadatnezhadi	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	5.6%	117	127	1.085	63%	Good	36	48	84	57.1%	57.1%	12%	21.4%	14.5%	54.7%
+#50 John Czarnecki	18.8%	22	29	1.318	84%	Excellent	6	11	17	64.7%	64.7%	4.5%	18.2%	18.2%	68.2%
+#30 Nick McGrail	17.9%	21	25	1.19	67%	Very Good	5	8	13	61.5%	61.5%	19%	28.6%	14.3%	57.1%
+#40 Eli Combs	14.5%	17	24	1.412	91%	Excellent	1	11	12	91.7%	91.7%	23.5%	17.6%	17.6%	70.6%
+#33 Luke Callahan	10.3%	12	8	0.667	6%	Poor	4	3	7	42.9%	42.9%	16.7%	25%	25%	41.7%
+#5 Jacob Back	7.7%	9	3	0.333	-	-	3	1	4	25%	25%	22.2%	33.3%	11.1%	22.2%
+#21 Charlie Aimone	6%	7	2	0.286	-	-	5	1	6	16.7%	16.7%	14.3%	0%	0%	14.3%
+#15 Craig McGee Jr.	6%	7	9	1.286	-	-	3	3	6	50%	50%	0%	28.6%	14.3%	57.1%
+#10 Stephen Schueth	5.1%	6	11	1.833	-	-	1	5	6	83.3%	83.3%	0%	16.7%	16.7%	83.3%
+#45 JT Whitaker	2.6%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#11 Michael Lake	2.6%	3	4	1.333	-	-	1	1	2	50%	50%	0%	33.3%	0%	66.7%
+#25 Joshua Richey	1.7%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#31 Ryuji Aoki	1.7%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#3 Trey Sykes	1.7%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#4 David Saadatnezhadi	0.9%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#63 Taylor Heil	0.9%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+#54 Trey Wurtz	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	4.5%	94	117	1.245	95%	Excellent	32	42	74	56.8%	66.2%	10.6%	14.9%	12.8%	53.2%
+#30 Nick McGrail	34%	32	45	1.406	92%	Excellent	14	16	30	53.3%	75%	6.3%	0%	0%	50%
+#50 John Czarnecki	33%	31	42	1.355	90%	Excellent	8	16	24	66.7%	66.7%	6.5%	22.6%	19.4%	64.5%
+#40 Eli Combs	10.6%	10	9	0.9	37%	Average	3	3	6	50%	58.3%	30%	20%	20%	40%
+#33 Luke Callahan	9.6%	9	12	1.333	-	-	0	5	5	100%	100%	33.3%	11.1%	11.1%	66.7%
+#45 JT Whitaker	5.3%	5	4	0.8	-	-	2	1	3	33.3%	33.3%	0%	40%	40%	40%
+#5 Jacob Back	4.3%	4	3	0.75	-	-	3	1	4	25%	25%	0%	25%	25%	25%
+#10 Stephen Schueth	2.1%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	0%	50%
+#31 Ryuji Aoki	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	4.4%	91	84	0.923	86%	Excellent	36	33	69	47.8%	50%	15.4%	12.1%	9.9%	44%
+#15 Craig McGee Jr.	45.1%	41	43	1.049	84%	Excellent	12	19	31	61.3%	61.3%	14.6%	12.2%	7.3%	53.7%
+#31 Ryuji Aoki	26.4%	24	21	0.875	63%	Good	14	8	22	36.4%	40.9%	4.2%	8.3%	8.3%	37.5%
+#21 Charlie Aimone	11%	10	7	0.7	35%	Average	5	3	8	37.5%	37.5%	20%	10%	10%	30%
+#11 Michael Lake	5.5%	5	6	1.2	-	-	2	1	3	33.3%	33.3%	0%	40%	40%	60%
+#10 Stephen Schueth	3.3%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#50 John Czarnecki	3.3%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#3 Trey Sykes	2.2%	2	4	2	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#30 Nick McGrail	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Eli Combs	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#5 Jacob Back	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	1.2%	25	19	0.76	39%	Average	11	7	18	38.9%	47.2%	20%	8%	8%	32%
+#21 Charlie Aimone	52%	13	15	1.154	84%	Excellent	6	5	11	45.5%	59.1%	7.7%	7.7%	7.7%	46.2%
+#31 Ryuji Aoki	16%	4	2	0.5	-	-	1	1	2	50%	50%	50%	0%	0%	25%
+#15 Craig McGee Jr.	16%	4	2	0.5	-	-	1	1	2	50%	50%	50%	0%	0%	25%
+#23 Kyle Steckel	4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#4 David Saadatnezhadi	4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Michael Lake	4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Jacob Back	4%	1	0	0	-	-	0	0	0	-	-	0%	100%	100%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rose-Hulman	10.4%	216	105	0.486	57%	Good	9	6	15	40%	43.3%	61.6%	31.9%	1.9%	27.3%
+#15 Craig McGee Jr.	25.5%	55	24	0.436	46%	Average	0	1	1	100%	100%	70.9%	29.1%	3.6%	25.5%
+#50 John Czarnecki	13.4%	29	25	0.862	92%	Excellent	0	2	2	100%	125%	44.8%	48.3%	3.4%	48.3%
+#10 Stephen Schueth	8.8%	19	15	0.789	88%	Excellent	2	0	2	0%	0%	42.1%	47.4%	0%	42.1%
+#31 Ryuji Aoki	8.8%	19	11	0.579	67%	Very Good	3	0	3	0%	0%	52.6%	31.6%	0%	31.6%
+#21 Charlie Aimone	7.9%	17	10	0.588	69%	Very Good	1	1	2	50%	50%	58.8%	29.4%	5.9%	29.4%
+#30 Nick McGrail	6.9%	15	7	0.467	50%	Average	1	1	2	50%	50%	53.3%	33.3%	0%	26.7%
+#23 Kyle Steckel	5.6%	12	2	0.167	11%	Poor	0	0	0	-	-	91.7%	8.3%	0%	8.3%
+#40 Eli Combs	5.1%	11	3	0.273	23%	Below Average	0	0	0	-	-	63.6%	36.4%	0%	18.2%
+#5 Jacob Back	4.6%	10	1	0.1	6%	Poor	0	0	0	-	-	90%	10%	0%	10%
+#33 Luke Callahan	4.2%	9	2	0.222	-	-	1	0	1	0%	0%	66.7%	22.2%	0%	11.1%
+#11 Michael Lake	4.2%	9	3	0.333	-	-	0	0	0	-	-	66.7%	33.3%	0%	22.2%
+#45 JT Whitaker	2.8%	6	2	0.333	-	-	1	1	2	50%	50%	50%	16.7%	0%	16.7%
+#3 Trey Sykes	1.9%	4	0	0	-	-	0	0	0	-	-	50%	50%	0%	0%
+#63 Taylor Heil	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

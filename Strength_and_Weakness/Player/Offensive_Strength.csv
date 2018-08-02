@@ -1,0 +1,1084 @@
+Format,Type,team_name,player_id,player_name,average_pts,average_minutes,overall_average_ppp,element_name,percentage_of_time,type_ppp,field_goal_percentage
+Offensive,Strength,WheatonIL,211,Zack_Kvam,2.576923077,16.92307692,0.736,Transition,0.187,1.412,0.75
+Offensive,Strength,WheatonIL,211,Zack_Kvam,2.576923077,16.92307692,0.736,Spot Up,0.352,0.938,0.37
+Offensive,Strength,WheatonIL,211,Zack_Kvam,2.576923077,16.92307692,0.736,Hand Off,0.011,2,1
+Offensive,Strength,WheatonIL,211,Zack_Kvam,2.576923077,16.92307692,0.736,Offensive Rebounds (put backs),0.011,2,
+Offensive,Strength,GustavusAdolphus,312,Zach_Bloemker,6.047619048,15.80952381,0.777,Spot Up,0.51,0.95,0.403
+Offensive,Strength,WheatonIL,212,Zac_Holman,1.090909091,5.363636364,0.765,Offensive Rebounds (put backs),0.059,2,
+Offensive,Strength,WheatonIL,212,Zac_Holman,1.090909091,5.363636364,0.765,Spot Up,0.529,1.222,0.5
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Transition,0.069,1.143,0.5
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Off Screen,0.03,1,0.333
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Post-Up,0.059,1,0.5
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Spot Up,0.376,1.053,0.429
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Hand Off,0.02,2.5,1
+Offensive,Strength,NorthPark,250,Vegard_Tangen,3.695652174,15.91304348,0.842,Offensive Rebounds (put backs),0.04,1,0.667
+Offensive,Strength,GustavusAdolphus,311,Vannis_Smith,8.416666667,21.45833333,0.784,P&R Roll Man,0.012,1.667,0.5
+Offensive,Strength,GustavusAdolphus,311,Vannis_Smith,8.416666667,21.45833333,0.784,Off Screen,0.097,0.8,0.375
+Offensive,Strength,GustavusAdolphus,311,Vannis_Smith,8.416666667,21.45833333,0.784,Isolation,0.1,0.923,0.455
+Offensive,Strength,GustavusAdolphus,311,Vannis_Smith,8.416666667,21.45833333,0.784,Cut,0.081,1.143,0.571
+Offensive,Strength,GustavusAdolphus,311,Vannis_Smith,8.416666667,21.45833333,0.784,Spot Up,0.297,0.844,0.357
+Offensive,Strength,WheatonIL,210,Tyrel_Derrick,1.285714286,4.5,1.062,Spot Up,0.313,1.6,0.75
+Offensive,Strength,WheatonIL,210,Tyrel_Derrick,1.285714286,4.5,1.062,Isolation,0.063,2,1
+Offensive,Strength,Knox,136,Tyre_Dukes,1.4,10.2,0.568,Off Screen,0.081,0.667,0.5
+Offensive,Strength,Knox,136,Tyre_Dukes,1.4,10.2,0.568,Offensive Rebounds (put backs),0.027,1,
+Offensive,Strength,Knox,136,Tyre_Dukes,1.4,10.2,0.568,Isolation,0.081,0.667,0.333
+Offensive,Strength,Knox,136,Tyre_Dukes,1.4,10.2,0.568,Transition,0.243,1.111,0.8
+Offensive,Strength,Knox,136,Tyre_Dukes,1.4,10.2,0.568,Spot Up,0.162,1,0.4
+Offensive,Strength,Fontbonne,118,Tristan_Baker,9.1875,18.0625,1.144,P&R Ball Handler,0.016,2,1
+Offensive,Strength,Fontbonne,118,Tristan_Baker,9.1875,18.0625,1.144,Offensive Rebounds (put backs),0.088,1.545,0.667
+Offensive,Strength,Fontbonne,118,Tristan_Baker,9.1875,18.0625,1.144,Isolation,0.04,1.2,0.333
+Offensive,Strength,Fontbonne,118,Tristan_Baker,9.1875,18.0625,1.144,Transition,0.288,1.528,0.792
+Offensive,Strength,Fontbonne,118,Tristan_Baker,9.1875,18.0625,1.144,Cut,0.096,1.417,0.667
+Offensive,Strength,Rose-Hulman,298,Trey_Sykes,1.65,3.9,0.912,P&R Ball Handler,0.265,1.333,0.8
+Offensive,Strength,Rose-Hulman,298,Trey_Sykes,1.65,3.9,0.912,Isolation,0.059,2,1
+Offensive,Strength,Rose-Hulman,298,Trey_Sykes,1.65,3.9,0.912,Cut,0.029,2,1
+Offensive,Strength,Rose-Hulman,298,Trey_Sykes,1.65,3.9,0.912,Transition,0.059,1,1
+Offensive,Strength,WheatonIL,209,Trevor_Gunter,4.666666667,17.79166667,1.04,Post-Up,0.05,1.4,0.75
+Offensive,Strength,WheatonIL,209,Trevor_Gunter,4.666666667,17.79166667,1.04,Cut,0.46,1.435,0.75
+Offensive,Strength,MSOE,166,Travis_Ballard,5.653846154,11.34615385,0.961,Transition,0.046,1.429,0.714
+Offensive,Strength,MSOE,166,Travis_Ballard,5.653846154,11.34615385,0.961,Spot Up,0.17,1.115,0.52
+Offensive,Strength,MSOE,166,Travis_Ballard,5.653846154,11.34615385,0.961,Offensive Rebounds (put backs),0.033,1.2,0.667
+Offensive,Strength,MSOE,166,Travis_Ballard,5.653846154,11.34615385,0.961,Off Screen,0.078,1,0.5
+Offensive,Strength,Roosevelt,179,Tomas_Cutts,1.5,4,0.75,Cut,0.25,1.333,0.667
+Offensive,Strength,Roosevelt,179,Tomas_Cutts,1.5,4,0.75,Off Screen,0.083,3,1
+Offensive,Strength,Roosevelt,179,Tomas_Cutts,1.5,4,0.75,Offensive Rebounds (put backs),0.083,2,1
+Offensive,Strength,NorthPark,249,Toby_Marek,2.75,11.75,0.712,Transition,0.186,1,0.444
+Offensive,Strength,NorthPark,249,Toby_Marek,2.75,11.75,0.712,Cut,0.085,1.4,0.6
+Offensive,Strength,NorthPark,249,Toby_Marek,2.75,11.75,0.712,Off Screen,0.119,0.857,0.333
+Offensive,Strength,NorthPark,249,Toby_Marek,2.75,11.75,0.712,Isolation,0.017,3,1
+Offensive,Strength,Carthage,32,Tj_Best,1.25,7.6875,0.667,Transition,0.167,1.2,1
+Offensive,Strength,Carthage,32,Tj_Best,1.25,7.6875,0.667,Miscellaneous,0.1,1,
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,Cut,0.097,1.024,0.5
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,Offensive Rebounds (put backs),0.03,1.308,0.636
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,Isolation,0.081,0.914,0.448
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,P&R Roll Man,0.078,0.971,0.414
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,Transition,0.143,0.952,0.46
+Offensive,Strength,DominicanIL,81,Tim_Robertson,14.79166667,25.625,0.843,P&R Ball Handler,0.021,0.889,0.4
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Post-Up,0.009,2,1
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Hand Off,0.061,1,0.333
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Cut,0.114,1.154,0.636
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Off Screen,0.14,1.25,0.583
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Transition,0.228,1.115,0.611
+Offensive,Strength,Fontbonne,117,Thomas_Ritter,7.1875,16.875,0.974,Offensive Rebounds (put backs),0.044,1.2,0.5
+Offensive,Strength,Kalamazoo,229,Thomas_Cook,1.1875,5.5625,0.528,Hand Off,0.028,2,1
+Offensive,Strength,Kalamazoo,229,Thomas_Cook,1.1875,5.5625,0.528,Spot Up,0.389,0.714,0.308
+Offensive,Strength,Kalamazoo,229,Thomas_Cook,1.1875,5.5625,0.528,Transition,0.083,0.667,1
+Offensive,Strength,Kalamazoo,229,Thomas_Cook,1.1875,5.5625,0.528,Offensive Rebounds (put backs),0.139,0.6,0.333
+Offensive,Strength,MSOE,165,Tegan_Miles,10.38461538,27.38461538,0.989,Isolation,0.015,1,0.667
+Offensive,Strength,MSOE,165,Tegan_Miles,10.38461538,27.38461538,0.989,Cut,0.198,1.333,0.762
+Offensive,Strength,MSOE,165,Tegan_Miles,10.38461538,27.38461538,0.989,Offensive Rebounds (put backs),0.077,1.286,0.733
+Offensive,Strength,Rose-Hulman,297,Taylor_Heil,1,3.5,0.8,Offensive Rebounds (put backs),0.2,2,
+Offensive,Strength,Rose-Hulman,297,Taylor_Heil,1,3.5,0.8,Spot Up,0.2,2,1
+Offensive,Strength,Roosevelt,178,Tariq_Archibald,2,3,1,Transition,0.5,2,1
+Offensive,Strength,UWPlatteville,268,Tanner_Hudziak,2.071428571,2.285714286,1.45,Spot Up,0.25,2.2,0.8
+Offensive,Strength,UWPlatteville,268,Tanner_Hudziak,2.071428571,2.285714286,1.45,Cut,0.2,1.5,0.75
+Offensive,Strength,UWPlatteville,268,Tanner_Hudziak,2.071428571,2.285714286,1.45,P&R Ball Handler,0.1,2.5,1
+Offensive,Strength,UWPlatteville,268,Tanner_Hudziak,2.071428571,2.285714286,1.45,Off Screen,0.05,2,1
+Offensive,Strength,UWPlatteville,268,Tanner_Hudziak,2.071428571,2.285714286,1.45,Isolation,0.05,3,1
+Offensive,Strength,Kalamazoo,228,Tanner_Blyly,9.52,30.2,0.764,P&R Ball Handler,0.242,0.803,0.4
+Offensive,Strength,Kalamazoo,228,Tanner_Blyly,9.52,30.2,0.764,Transition,0.159,1.06,0.605
+Offensive,Strength,Carthage,31,Steve_Leazer,3.04,16.48,0.685,Transition,0.099,0.909,0.375
+Offensive,Strength,Carthage,31,Steve_Leazer,3.04,16.48,0.685,P&R Roll Man,0.099,0.909,0.4
+Offensive,Strength,Carthage,31,Steve_Leazer,3.04,16.48,0.685,Miscellaneous,0.099,0.727,
+Offensive,Strength,Carthage,31,Steve_Leazer,3.04,16.48,0.685,Cut,0.09,1.2,0.667
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,Transition,0.073,0.923,0.333
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,Offensive Rebounds (put backs),0.034,1.833,0.833
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,P&R Roll Man,0.011,1,0
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,Post-Up,0.068,1,0.444
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,Spot Up,0.429,0.947,0.343
+Offensive,Strength,Rose-Hulman,296,Stephen_Schueth,5.666666667,24.44444444,0.87,Isolation,0.017,1,0.5
+Offensive,Strength,EastWest,100,Stanley_Thomas,3,14,0.545,P&R Roll Man,0.182,1,0
+Offensive,Strength,EastWest,100,Stanley_Thomas,3,14,0.545,Transition,0.182,2,
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,Hand Off,0.03,0.75,0
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,Off Screen,0.12,0.812,0.357
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,Transition,0.113,0.8,0.571
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,P&R Ball Handler,0.015,1.5,0.5
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,Spot Up,0.331,0.841,0.382
+Offensive,Strength,GustavusAdolphus,310,Spencer_Tollefson,4.125,16.625,0.737,Isolation,0.105,0.857,0.455
+Offensive,Strength,WheatonIL,208,Spencer_Peterson,4.958333333,14.45833333,0.907,Offensive Rebounds (put backs),0.14,1.278,0.714
+Offensive,Strength,WheatonIL,208,Spencer_Peterson,4.958333333,14.45833333,0.907,P&R Roll Man,0.016,1,1
+Offensive,Strength,WheatonIL,208,Spencer_Peterson,4.958333333,14.45833333,0.907,Transition,0.116,1.4,0.636
+Offensive,Strength,WheatonIL,208,Spencer_Peterson,4.958333333,14.45833333,0.907,Cut,0.116,1.333,0.7
+Offensive,Strength,OlivetCollege,283,Sirafino_Davis,2.173913043,13.95652174,0.75,Cut,0.25,0.778,0.4
+Offensive,Strength,OlivetCollege,283,Sirafino_Davis,2.173913043,13.95652174,0.75,Spot Up,0.056,1,0.5
+Offensive,Strength,OlivetCollege,283,Sirafino_Davis,2.173913043,13.95652174,0.75,Hand Off,0.014,1,
+Offensive,Strength,OlivetCollege,283,Sirafino_Davis,2.173913043,13.95652174,0.75,Transition,0.125,1.444,0.833
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Post-Up,0.024,0.857,0.6
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Offensive Rebounds (put backs),0.045,0.846,0.444
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Cut,0.01,1,0.333
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Transition,0.197,0.895,0.368
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Hand Off,0.017,1.2,0.333
+Offensive,Strength,EastWest,99,Sherman_Carter,15.92857143,22.71428571,0.752,Spot Up,0.334,0.835,0.342
+Offensive,Strength,EastWest,98,Sherman_Brown,2.454545455,6.090909091,0.683,Cut,0.171,1.857,1
+Offensive,Strength,EastWest,98,Sherman_Brown,2.454545455,6.090909091,0.683,P&R Roll Man,0.049,1,0.5
+Offensive,Strength,Knox,135,Sean_Pollock,0.4,2.1,0.667,Cut,0.167,2,1
+Offensive,Strength,Knox,135,Sean_Pollock,0.4,2.1,0.667,Transition,0.333,1,1
+Offensive,Strength,Carthage,30,Sean_Johnson,3.826086957,15.7826087,0.906,Transition,0.073,1.143,0.8
+Offensive,Strength,Carthage,30,Sean_Johnson,3.826086957,15.7826087,0.906,Cut,0.271,1.038,0.563
+Offensive,Strength,Carthage,30,Sean_Johnson,3.826086957,15.7826087,0.906,Spot Up,0.021,1,1
+Offensive,Strength,Carthage,30,Sean_Johnson,3.826086957,15.7826087,0.906,Offensive Rebounds (put backs),0.219,1.286,0.647
+Offensive,Strength,DominicanIL,80,Sean_Ek,2.411764706,13.11764706,0.726,Hand Off,0.048,1.667,0.5
+Offensive,Strength,DominicanIL,80,Sean_Ek,2.411764706,13.11764706,0.726,Off Screen,0.016,3,1
+Offensive,Strength,DominicanIL,80,Sean_Ek,2.411764706,13.11764706,0.726,P&R Ball Handler,0.274,0.824,0.4
+Offensive,Strength,DominicanIL,80,Sean_Ek,2.411764706,13.11764706,0.726,Transition,0.258,0.938,0.667
+Offensive,Strength,NorthPark,248,Scott_Olsen,1.590909091,9.590909091,0.7,Transition,0.18,0.778,0.333
+Offensive,Strength,NorthPark,248,Scott_Olsen,1.590909091,9.590909091,0.7,Spot Up,0.48,1,0.333
+Offensive,Strength,NorthPark,248,Scott_Olsen,1.590909091,9.590909091,0.7,Offensive Rebounds (put backs),0.04,1,0.5
+Offensive,Strength,CornellCollege,67,Scott_Gasik,3.5,7,1.167,Offensive Rebounds (put backs),0.111,1.5,1
+Offensive,Strength,CornellCollege,67,Scott_Gasik,3.5,7,1.167,Hand Off,0.056,3,1
+Offensive,Strength,CornellCollege,67,Scott_Gasik,3.5,7,1.167,Spot Up,0.222,1.5,0.5
+Offensive,Strength,CornellCollege,67,Scott_Gasik,3.5,7,1.167,Isolation,0.111,1.5,0.5
+Offensive,Strength,GustavusAdolphus,309,Schuyler_Thompson,2.3125,9.3125,0.627,Cut,0.237,0.857,0.545
+Offensive,Strength,GustavusAdolphus,309,Schuyler_Thompson,2.3125,9.3125,0.627,Isolation,0.051,0.667,0.333
+Offensive,Strength,GustavusAdolphus,309,Schuyler_Thompson,2.3125,9.3125,0.627,Offensive Rebounds (put backs),0.034,1,1
+Offensive,Strength,GustavusAdolphus,309,Schuyler_Thompson,2.3125,9.3125,0.627,Transition,0.153,1.111,0.571
+Offensive,Strength,EastWest,97,Scherone_Clarke,0.444444444,1.777777778,0.5,Transition,0.227,1,0.5
+Offensive,Strength,EastWest,97,Scherone_Clarke,0.444444444,1.777777778,0.5,Post-Up,0.136,0.667,0.5
+Offensive,Strength,EastWest,97,Scherone_Clarke,0.444444444,1.777777778,0.5,Cut,0.182,1,0.5
+Offensive,Strength,MSOE,164,Sammy_Linn,5.125,12.58333333,0.687,P&R Roll Man,0.056,1.8,0.875
+Offensive,Strength,MSOE,164,Sammy_Linn,5.125,12.58333333,0.687,Hand Off,0.006,2,1
+Offensive,Strength,MSOE,164,Sammy_Linn,5.125,12.58333333,0.687,Off Screen,0.045,0.75,0.429
+Offensive,Strength,MSOE,164,Sammy_Linn,5.125,12.58333333,0.687,Isolation,0.089,1.062,0.667
+Offensive,Strength,MSOE,164,Sammy_Linn,5.125,12.58333333,0.687,Offensive Rebounds (put backs),0.061,1,0.571
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,Offensive Rebounds (put backs),0.163,1.353,0.7
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,Spot Up,0.087,1.111,0.556
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,Off Screen,0.01,2,1
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,Transition,0.087,1.111,0.8
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,P&R Roll Man,0.067,1.143,0.667
+Offensive,Strength,Chicago,49,Sam_Sustacek,4,10.44,0.962,Isolation,0.01,2,1
+Offensive,Strength,GustavusAdolphus,308,Sam_DuBois,1.235294118,8.529411765,0.724,Off Screen,0.034,2,1
+Offensive,Strength,GustavusAdolphus,308,Sam_DuBois,1.235294118,8.529411765,0.724,Transition,0.276,1.375,0.833
+Offensive,Strength,GustavusAdolphus,308,Sam_DuBois,1.235294118,8.529411765,0.724,Spot Up,0.207,0.833,0.4
+Offensive,Strength,Rose-Hulman,295,Ryuji_Aoki,9.740740741,15.2962963,1.004,Off Screen,0.189,1.02,0.372
+Offensive,Strength,Rose-Hulman,295,Ryuji_Aoki,9.740740741,15.2962963,1.004,Spot Up,0.345,1.143,0.429
+Offensive,Strength,Rose-Hulman,295,Ryuji_Aoki,9.740740741,15.2962963,1.004,Transition,0.091,1.167,0.471
+Offensive,Strength,Albion,16,Ryan_Lowe,7.173913043,14.39130435,1.078,Transition,0.033,1.4,0.75
+Offensive,Strength,Albion,16,Ryan_Lowe,7.173913043,14.39130435,1.078,Offensive Rebounds (put backs),0.248,1.342,0.742
+Offensive,Strength,Albion,16,Ryan_Lowe,7.173913043,14.39130435,1.078,Cut,0.098,1.4,0.75
+Offensive,Strength,Chicago,47,Ryan_Jacobsen,7.272727273,20.86363636,0.907,Transition,0.14,1,0.579
+Offensive,Strength,Chicago,47,Ryan_Jacobsen,7.272727273,20.86363636,0.907,P&R Roll Man,0.064,0.909,0.429
+Offensive,Strength,Chicago,47,Ryan_Jacobsen,7.272727273,20.86363636,0.907,Cut,0.174,1.567,0.826
+Offensive,Strength,Chicago,47,Ryan_Jacobsen,7.272727273,20.86363636,0.907,Post-Up,0.209,0.944,0.565
+Offensive,Strength,DominicanIL,79,Rory_Cunningham,1.833333333,7.25,0.629,P&R Roll Man,0.143,1,0.5
+Offensive,Strength,DominicanIL,79,Rory_Cunningham,1.833333333,7.25,0.629,Transition,0.057,1.5,0.5
+Offensive,Strength,DominicanIL,79,Rory_Cunningham,1.833333333,7.25,0.629,Offensive Rebounds (put backs),0.086,0.667,0.5
+Offensive,Strength,Wabash,196,Ronald_Ryan,0.5,4.333333333,0.429,Spot Up,0.286,1,0
+Offensive,Strength,Wabash,196,Ronald_Ryan,0.5,4.333333333,0.429,Hand Off,0.286,0.5,
+Offensive,Strength,EastWest,96,Roland_Watkins,1.25,4.916666667,0.591,Offensive Rebounds (put backs),0.091,1.5,1
+Offensive,Strength,EastWest,96,Roland_Watkins,1.25,4.916666667,0.591,Miscellaneous,0.318,1.143,1
+Offensive,Strength,Kalamazoo,227,Roger_Hood,7.6,20.92,0.789,Spot Up,0.393,0.832,0.368
+Offensive,Strength,Kalamazoo,227,Roger_Hood,7.6,20.92,0.789,Off Screen,0.041,0.8,0.333
+Offensive,Strength,Kalamazoo,227,Roger_Hood,7.6,20.92,0.789,Cut,0.091,0.909,0.5
+Offensive,Strength,Kalamazoo,227,Roger_Hood,7.6,20.92,0.789,Offensive Rebounds (put backs),0.062,0.8,0.385
+Offensive,Strength,Kalamazoo,227,Roger_Hood,7.6,20.92,0.789,Transition,0.24,1.034,0.588
+Offensive,Strength,Albion,15,Robert_Ryan,3.56,18.04,0.659,Spot Up,0.523,0.812,0.352
+Offensive,Strength,Albion,15,Robert_Ryan,3.56,18.04,0.659,Transition,0.114,1.133,0.375
+Offensive,Strength,Albion,15,Robert_Ryan,3.56,18.04,0.659,Off Screen,0.023,0.667,0.333
+Offensive,Strength,Albion,15,Robert_Ryan,3.56,18.04,0.659,Cut,0.023,1.667,1
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,Transition,0.158,1.149,0.625
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,Cut,0.076,1.344,0.655
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,Spot Up,0.286,1.116,0.443
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,Hand Off,0.031,1.308,0.545
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,Offensive Rebounds (put backs),0.035,1.6,0.818
+Offensive,Strength,UWPlatteville,267,Robert_Duax,15.79310345,27,1.061,P&R Ball Handler,0.059,1.12,0.571
+Offensive,Strength,GustavusAdolphus,307,Riley_Sharbono,14.20833333,30.04166667,1.012,Cut,0.093,1.452,0.692
+Offensive,Strength,GustavusAdolphus,307,Riley_Sharbono,14.20833333,30.04166667,1.012,Hand Off,0.021,1.286,0.5
+Offensive,Strength,GustavusAdolphus,307,Riley_Sharbono,14.20833333,30.04166667,1.012,Offensive Rebounds (put backs),0.039,1.231,0.625
+Offensive,Strength,GustavusAdolphus,307,Riley_Sharbono,14.20833333,30.04166667,1.012,Off Screen,0.151,1.06,0.477
+Offensive,Strength,WheatonIL,207,Ricky_Samuelson,15.65384615,32.23076923,1.249,P&R Roll Man,0.009,1.667,0.667
+Offensive,Strength,WheatonIL,207,Ricky_Samuelson,15.65384615,32.23076923,1.249,Off Screen,0.162,1.404,0.587
+Offensive,Strength,WheatonIL,207,Ricky_Samuelson,15.65384615,32.23076923,1.249,Cut,0.146,1.489,0.756
+Offensive,Strength,WheatonIL,207,Ricky_Samuelson,15.65384615,32.23076923,1.249,Offensive Rebounds (put backs),0.037,1.333,0.6
+Offensive,Strength,WheatonIL,207,Ricky_Samuelson,15.65384615,32.23076923,1.249,Spot Up,0.252,1.259,0.474
+Offensive,Strength,Wabash,195,Rhett_Helt,2,9.615384615,1,P&R Ball Handler,0.038,2,1
+Offensive,Strength,Wabash,195,Rhett_Helt,2,9.615384615,1,Offensive Rebounds (put backs),0.038,2,1
+Offensive,Strength,Wabash,195,Rhett_Helt,2,9.615384615,1,Miscellaneous,0.038,2,
+Offensive,Strength,WheatonIL,206,Reagan_Jones,1.125,3.75,0.818,Offensive Rebounds (put backs),0.273,1.333,0.667
+Offensive,Strength,WheatonIL,206,Reagan_Jones,1.125,3.75,0.818,Transition,0.091,2,1
+Offensive,Strength,NorthPark,247,Raysean_Jones,0.5,4,0.2,Cut,0.2,1,
+Offensive,Strength,Albion,14,Quinton_Armstrong,8.434782609,16.91304348,0.961,Transition,0.054,1.727,0.9
+Offensive,Strength,Albion,14,Quinton_Armstrong,8.434782609,16.91304348,0.961,Cut,0.123,1,0.571
+Offensive,Strength,Albion,14,Quinton_Armstrong,8.434782609,16.91304348,0.961,Offensive Rebounds (put backs),0.137,1.214,0.636
+Offensive,Strength,Albion,14,Quinton_Armstrong,8.434782609,16.91304348,0.961,P&R Roll Man,0.015,1,0.333
+Offensive,Strength,OlivetCollege,282,Quintin_Way,0.611111111,4.277777778,0.579,Transition,0.211,0.75,0.333
+Offensive,Strength,OlivetCollege,282,Quintin_Way,0.611111111,4.277777778,0.579,Spot Up,0.105,1,0.5
+Offensive,Strength,OlivetCollege,282,Quintin_Way,0.611111111,4.277777778,0.579,Isolation,0.158,1,0.333
+Offensive,Strength,OlivetCollege,282,Quintin_Way,0.611111111,4.277777778,0.579,Cut,0.053,2,1
+Offensive,Strength,NorthPark,246,Quinn_Williams,1.4,6.5,0.412,P&R Ball Handler,0.324,0.727,0.429
+Offensive,Strength,UWPlatteville,266,Quentin_Shields,10.17241379,20.55172414,1.018,Hand Off,0.018,1.4,0.5
+Offensive,Strength,UWPlatteville,266,Quentin_Shields,10.17241379,20.55172414,1.018,Spot Up,0.232,1.288,0.5
+Offensive,Strength,UWPlatteville,266,Quentin_Shields,10.17241379,20.55172414,1.018,Transition,0.162,1.152,0.643
+Offensive,Strength,UWPlatteville,266,Quentin_Shields,10.17241379,20.55172414,1.018,Cut,0.028,1.375,0.667
+Offensive,Strength,UWPlatteville,266,Quentin_Shields,10.17241379,20.55172414,1.018,Off Screen,0.056,1.125,0.455
+Offensive,Strength,IllinoisTech,325,Quentin_Forberg,0.833333333,5.5,0.714,Offensive Rebounds (put backs),0.071,2,1
+Offensive,Strength,IllinoisTech,325,Quentin_Forberg,0.833333333,5.5,0.714,Off Screen,0.143,1.5,1
+Offensive,Strength,IllinoisTech,325,Quentin_Forberg,0.833333333,5.5,0.714,Isolation,0.143,1,0
+Offensive,Strength,GustavusAdolphus,306,Peter_Lundquist,3,6.153846154,1.147,Transition,0.059,2,1
+Offensive,Strength,GustavusAdolphus,306,Peter_Lundquist,3,6.153846154,1.147,Spot Up,0.235,2.25,0.875
+Offensive,Strength,GustavusAdolphus,306,Peter_Lundquist,3,6.153846154,1.147,Isolation,0.029,2,
+Offensive,Strength,GustavusAdolphus,306,Peter_Lundquist,3,6.153846154,1.147,Miscellaneous,0.029,2,
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Hand Off,0.019,1.25,0.5
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Off Screen,0.014,1.667,0.667
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Offensive Rebounds (put backs),0.029,1,0.5
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Spot Up,0.252,1.075,0.404
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Transition,0.329,1.101,0.54
+Offensive,Strength,EastWest,95,Patrick_Rucker,12.0625,21.375,0.919,Cut,0.019,1.25,0.5
+Offensive,Strength,Wabash,194,Parker_Manges,5.578947368,23.68421053,0.795,Hand Off,0.045,1.167,0.5
+Offensive,Strength,Wabash,194,Parker_Manges,5.578947368,23.68421053,0.795,Cut,0.03,1.5,0.75
+Offensive,Strength,Wabash,194,Parker_Manges,5.578947368,23.68421053,0.795,Offensive Rebounds (put backs),0.061,1.25,0.833
+Offensive,Strength,Wabash,194,Parker_Manges,5.578947368,23.68421053,0.795,Transition,0.136,0.944,0.4
+Offensive,Strength,Wabash,194,Parker_Manges,5.578947368,23.68421053,0.795,Spot Up,0.47,0.806,0.333
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,Transition,0.179,0.952,0.368
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,Hand Off,0.026,1,0.333
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,P&R Roll Man,0.009,3,1
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,Spot Up,0.376,1.068,0.372
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,Isolation,0.017,1,1
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,Off Screen,0.128,1.133,0.4
+Offensive,Strength,IllinoisTech,324,Parker_Joncus,5.947368421,28.42105263,0.949,P&R Ball Handler,0.077,1.111,0.5
+Offensive,Strength,Kalamazoo,226,Owen_Jozefowicz,0.666666667,2.166666667,0.8,Offensive Rebounds (put backs),0.2,1,
+Offensive,Strength,Kalamazoo,226,Owen_Jozefowicz,0.666666667,2.166666667,0.8,Post-Up,0.6,1,1
+Offensive,Strength,Albion,13,Ojani_Echevarria,1.5,8.166666667,0.5,Spot Up,0.389,0.857,0.286
+Offensive,Strength,Albion,13,Ojani_Echevarria,1.5,8.166666667,0.5,Transition,0.167,1,0.5
+Offensive,Strength,MSOE,163,Nolan_Henton,4.653846154,23.73076923,0.833,Offensive Rebounds (put backs),0.014,2,1
+Offensive,Strength,MSOE,163,Nolan_Henton,4.653846154,23.73076923,0.833,Spot Up,0.41,0.932,0.353
+Offensive,Strength,MSOE,163,Nolan_Henton,4.653846154,23.73076923,0.833,Transition,0.118,1,0.714
+Offensive,Strength,MSOE,163,Nolan_Henton,4.653846154,23.73076923,0.833,Off Screen,0.076,0.909,0.5
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,Transition,0.194,1,0.4
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,P&R Ball Handler,0.106,0.857,0.455
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,Offensive Rebounds (put backs),0.011,1.333,0.667
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,Off Screen,0.274,0.889,0.353
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,Isolation,0.011,1.667,0.667
+Offensive,Strength,Chicago,45,Noah_Karras,9.36,23.84,0.844,Cut,0.034,1.333,0.625
+Offensive,Strength,Fontbonne,116,Noah_Coddington,7,17.42857143,0.879,Post-Up,0.019,2,1
+Offensive,Strength,Fontbonne,116,Noah_Coddington,7,17.42857143,0.879,Cut,0.112,0.917,0.444
+Offensive,Strength,Fontbonne,116,Noah_Coddington,7,17.42857143,0.879,Off Screen,0.065,1.857,0.833
+Offensive,Strength,Fontbonne,116,Noah_Coddington,7,17.42857143,0.879,Hand Off,0.019,2,1
+Offensive,Strength,Fontbonne,116,Noah_Coddington,7,17.42857143,0.879,Transition,0.318,0.941,0.583
+Offensive,Strength,Rose-Hulman,294,Nick_McGrail,6.111111111,20.18518519,1.012,Offensive Rebounds (put backs),0.125,1.19,0.615
+Offensive,Strength,Rose-Hulman,294,Nick_McGrail,6.111111111,20.18518519,1.012,Transition,0.024,2,1
+Offensive,Strength,Rose-Hulman,294,Nick_McGrail,6.111111111,20.18518519,1.012,P&R Roll Man,0.19,1.406,0.533
+Offensive,Strength,Rose-Hulman,294,Nick_McGrail,6.111111111,20.18518519,1.012,Spot Up,0.232,1.179,0.447
+Offensive,Strength,Rose-Hulman,294,Nick_McGrail,6.111111111,20.18518519,1.012,Cut,0.101,1.059,0.533
+Offensive,Strength,DominicanIL,78,Nick_LaVere,4.916666667,18.16666667,0.819,Cut,0.056,1,0.6
+Offensive,Strength,DominicanIL,78,Nick_LaVere,4.916666667,18.16666667,0.819,Transition,0.347,1.08,0.548
+Offensive,Strength,Albion,11,Nathaniel_Collins,8.5,19.2,0.941,Hand Off,0.054,1.5,0.667
+Offensive,Strength,Albion,11,Nathaniel_Collins,8.5,19.2,0.941,Transition,0.227,1.119,0.485
+Offensive,Strength,Albion,11,Nathaniel_Collins,8.5,19.2,0.941,Cut,0.016,1,0.5
+Offensive,Strength,Albion,11,Nathaniel_Collins,8.5,19.2,0.941,Isolation,0.032,1.167,0.667
+Offensive,Strength,Albion,12,Nathan_Kellum,1.588235294,6.764705882,0.711,Cut,0.237,0.889,0.429
+Offensive,Strength,Albion,12,Nathan_Kellum,1.588235294,6.764705882,0.711,Spot Up,0.053,1,0.5
+Offensive,Strength,Albion,12,Nathan_Kellum,1.588235294,6.764705882,0.711,Transition,0.132,1.2,0.6
+Offensive,Strength,Albion,12,Nathan_Kellum,1.588235294,6.764705882,0.711,Offensive Rebounds (put backs),0.105,1,0.5
+Offensive,Strength,UWPlatteville,265,Nathan_Cokenour,0.545454545,2.545454545,0.857,Offensive Rebounds (put backs),0.429,1.333,0.667
+Offensive,Strength,UWPlatteville,265,Nathan_Cokenour,0.545454545,2.545454545,0.857,Post-Up,0.143,2,1
+Offensive,Strength,OlivetCollege,281,Mike_Williams,0.75,7.625,0.324,Offensive Rebounds (put backs),0.147,0.4,0.25
+Offensive,Strength,OlivetCollege,281,Mike_Williams,0.75,7.625,0.324,Spot Up,0.265,0.444,0.143
+Offensive,Strength,OlivetCollege,281,Mike_Williams,0.75,7.625,0.324,Hand Off,0.147,0.6,0.25
+Offensive,Strength,OlivetCollege,281,Mike_Williams,0.75,7.625,0.324,Transition,0.176,0.333,0.333
+Offensive,Strength,Carthage,29,Mike_Canady,1.789473684,8.421052632,0.791,Spot Up,0.442,0.947,0.375
+Offensive,Strength,Carthage,29,Mike_Canady,1.789473684,8.421052632,0.791,Transition,0.116,1.4,0.75
+Offensive,Strength,Carthage,29,Mike_Canady,1.789473684,8.421052632,0.791,Offensive Rebounds (put backs),0.023,2,1
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Spot Up,0.378,1.161,0.52
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Cut,0.049,1.5,1
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Offensive Rebounds (put backs),0.037,1.333,0.5
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Off Screen,0.122,1.1,0.5
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Isolation,0.061,1.2,0.333
+Offensive,Strength,Rose-Hulman,293,Michael_Lake,2.923076923,12.61538462,1.012,Transition,0.134,1.273,0.75
+Offensive,Strength,CornellCollege,66,Michael_Fiorito,5.071428571,15.5,0.771,Off Screen,0.021,1.5,0.5
+Offensive,Strength,CornellCollege,66,Michael_Fiorito,5.071428571,15.5,0.771,Spot Up,0.438,0.976,0.378
+Offensive,Strength,CornellCollege,66,Michael_Fiorito,5.071428571,15.5,0.771,Isolation,0.021,1,
+Offensive,Strength,CornellCollege,66,Michael_Fiorito,5.071428571,15.5,0.771,Hand Off,0.021,3,1
+Offensive,Strength,CornellCollege,65,Michael_Drew,5.285714286,19.28571429,0.779,Transition,0.168,1,0.583
+Offensive,Strength,CornellCollege,65,Michael_Drew,5.285714286,19.28571429,0.779,Isolation,0.021,1,0.5
+Offensive,Strength,CornellCollege,65,Michael_Drew,5.285714286,19.28571429,0.779,Offensive Rebounds (put backs),0.074,1,0.25
+Offensive,Strength,CornellCollege,65,Michael_Drew,5.285714286,19.28571429,0.779,Cut,0.137,1.385,0.75
+Offensive,Strength,Kalamazoo,225,Merritt_Hamann,2.695652174,10.43478261,0.765,Offensive Rebounds (put backs),0.136,1.091,0.556
+Offensive,Strength,Kalamazoo,225,Merritt_Hamann,2.695652174,10.43478261,0.765,Spot Up,0.086,1,0.5
+Offensive,Strength,Kalamazoo,225,Merritt_Hamann,2.695652174,10.43478261,0.765,P&R Roll Man,0.148,0.833,0.4
+Offensive,Strength,Kalamazoo,225,Merritt_Hamann,2.695652174,10.43478261,0.765,Transition,0.037,2,1
+Offensive,Strength,Kalamazoo,225,Merritt_Hamann,2.695652174,10.43478261,0.765,Cut,0.21,1.059,0.6
+Offensive,Strength,Wabash,193,Max_Kurkowski,0.857142857,4,0.667,Cut,0.222,1,0.5
+Offensive,Strength,Wabash,193,Max_Kurkowski,0.857142857,4,0.667,Miscellaneous,0.222,1,
+Offensive,Strength,Wabash,193,Max_Kurkowski,0.857142857,4,0.667,Offensive Rebounds (put backs),0.111,2,1
+Offensive,Strength,Chicago,44,Max_Jacobs,3.68,13.6,0.92,Off Screen,0.13,0.923,0.5
+Offensive,Strength,Chicago,44,Max_Jacobs,3.68,13.6,0.92,Offensive Rebounds (put backs),0.11,1.636,0.8
+Offensive,Strength,Chicago,44,Max_Jacobs,3.68,13.6,0.92,Hand Off,0.03,1.333,0.667
+Offensive,Strength,IllinoisTech,323,Max_Hisatake,11.47368421,26.89473684,0.835,Cut,0.195,1.212,0.641
+Offensive,Strength,IllinoisTech,323,Max_Hisatake,11.47368421,26.89473684,0.835,Offensive Rebounds (put backs),0.147,1.128,0.593
+Offensive,Strength,IllinoisTech,323,Max_Hisatake,11.47368421,26.89473684,0.835,Spot Up,0.03,1,0.667
+Offensive,Strength,IllinoisTech,323,Max_Hisatake,11.47368421,26.89473684,0.835,Off Screen,0.008,1,
+Offensive,Strength,Chicago,43,Mattia_Colangelo,0.958333333,6.291666667,0.548,Transition,0.095,0.75,0.333
+Offensive,Strength,Chicago,43,Mattia_Colangelo,0.958333333,6.291666667,0.548,Spot Up,0.381,0.562,0.2
+Offensive,Strength,Chicago,43,Mattia_Colangelo,0.958333333,6.291666667,0.548,Hand Off,0.143,1.333,0.5
+Offensive,Strength,MSOE,161,Matthew_Kirmse,16.07692308,28.46153846,1.083,Transition,0.114,1.318,0.526
+Offensive,Strength,MSOE,161,Matthew_Kirmse,16.07692308,28.46153846,1.083,Cut,0.06,1.348,0.632
+Offensive,Strength,MSOE,161,Matthew_Kirmse,16.07692308,28.46153846,1.083,Spot Up,0.403,1.155,0.42
+Offensive,Strength,NorthPark,245,Matt_Szuba,7.96,26.24,0.908,Spot Up,0.382,1.072,0.395
+Offensive,Strength,NorthPark,245,Matt_Szuba,7.96,26.24,0.908,Cut,0.028,1,0.75
+Offensive,Strength,NorthPark,245,Matt_Szuba,7.96,26.24,0.908,Isolation,0.065,1.071,0.429
+Offensive,Strength,NorthPark,245,Matt_Szuba,7.96,26.24,0.908,Transition,0.101,1.545,0.571
+Offensive,Strength,NorthPark,244,Matt_Mohr,3.230769231,19.38461538,0.636,P&R Roll Man,0.076,1.4,0.75
+Offensive,Strength,NorthPark,244,Matt_Mohr,3.230769231,19.38461538,0.636,Isolation,0.03,1,0.5
+Offensive,Strength,NorthPark,244,Matt_Mohr,3.230769231,19.38461538,0.636,Transition,0.106,0.857,0.4
+Offensive,Strength,NorthPark,244,Matt_Mohr,3.230769231,19.38461538,0.636,Off Screen,0.076,1.4,0.6
+Offensive,Strength,NorthPark,244,Matt_Mohr,3.230769231,19.38461538,0.636,Cut,0.106,1.571,0.833
+Offensive,Strength,EastWest,94,Markus_Johnson,9.466666667,20,0.924,Cut,0.297,0.936,0.474
+Offensive,Strength,EastWest,94,Markus_Johnson,9.466666667,20,0.924,P&R Roll Man,0.051,1.125,0.4
+Offensive,Strength,EastWest,94,Markus_Johnson,9.466666667,20,0.924,Offensive Rebounds (put backs),0.253,1.175,0.594
+Offensive,Strength,Knox,134,Marko_Protic,5.411764706,22.64705882,0.71,Cut,0.122,1.062,0.778
+Offensive,Strength,Knox,134,Marko_Protic,5.411764706,22.64705882,0.71,Spot Up,0.092,0.75,0.3
+Offensive,Strength,Knox,134,Marko_Protic,5.411764706,22.64705882,0.71,Transition,0.038,1.2,0.667
+Offensive,Strength,Knox,134,Marko_Protic,5.411764706,22.64705882,0.71,Offensive Rebounds (put backs),0.198,1,0.579
+Offensive,Strength,WheatonIL,205,Mark_Champion,1.555555556,2.444444444,0.636,Transition,0.045,3,1
+Offensive,Strength,WheatonIL,205,Mark_Champion,1.555555556,2.444444444,0.636,Offensive Rebounds (put backs),0.045,2,1
+Offensive,Strength,WheatonIL,205,Mark_Champion,1.555555556,2.444444444,0.636,Cut,0.091,2,1
+Offensive,Strength,DominicanIL,77,Marin_Bandalo,2,3,1.333,Post-Up,0.333,2,1
+Offensive,Strength,DominicanIL,77,Marin_Bandalo,2,3,1.333,Transition,0.333,2,1
+Offensive,Strength,EastWest,93,Manny_Coleman,1.75,9,0.455,P&R Ball Handler,0.136,0.667,0.333
+Offensive,Strength,EastWest,93,Manny_Coleman,1.75,9,0.455,Transition,0.318,0.571,0
+Offensive,Strength,EastWest,93,Manny_Coleman,1.75,9,0.455,Offensive Rebounds (put backs),0.136,1.333,0.667
+Offensive,Strength,IllinoisTech,322,Malik_Howze,14.6875,33.25,0.821,Transition,0.164,1.022,0.438
+Offensive,Strength,IllinoisTech,322,Malik_Howze,14.6875,33.25,0.821,Isolation,0.1,1,0.409
+Offensive,Strength,IllinoisTech,322,Malik_Howze,14.6875,33.25,0.821,Cut,0.025,1.143,0.75
+Offensive,Strength,IllinoisTech,322,Malik_Howze,14.6875,33.25,0.821,Spot Up,0.229,0.891,0.322
+Offensive,Strength,Fontbonne,115,Maguire_Scheer,2.125,7.875,0.773,Off Screen,0.182,2.25,0.75
+Offensive,Strength,Fontbonne,115,Maguire_Scheer,2.125,7.875,0.773,Spot Up,0.273,1,0.333
+Offensive,Strength,WheatonIL,204,Luke_Peters,6.307692308,31.57692308,0.721,Isolation,0.106,0.833,0.533
+Offensive,Strength,WheatonIL,204,Luke_Peters,6.307692308,31.57692308,0.721,Offensive Rebounds (put backs),0.08,1.111,0.615
+Offensive,Strength,WheatonIL,204,Luke_Peters,6.307692308,31.57692308,0.721,Cut,0.084,0.947,0.533
+Offensive,Strength,WheatonIL,204,Luke_Peters,6.307692308,31.57692308,0.721,Post-Up,0.102,0.913,0.556
+Offensive,Strength,MSOE,160,Luke_Nelson,0.684210526,5.631578947,0.406,Cut,0.094,0.667,0.333
+Offensive,Strength,MSOE,160,Luke_Nelson,0.684210526,5.631578947,0.406,Transition,0.156,0.6,0.25
+Offensive,Strength,MSOE,160,Luke_Nelson,0.684210526,5.631578947,0.406,P&R Ball Handler,0.156,0.8,0.5
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,Cut,0.077,1.267,0.571
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,P&R Roll Man,0.005,3,1
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,P&R Ball Handler,0.031,1.5,0.75
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,Post-Up,0.021,1.5,1
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,Off Screen,0.103,1.55,0.611
+Offensive,Strength,Fontbonne,114,Luke_Deline,16.33333333,27.75,0.995,Spot Up,0.236,1.283,0.5
+Offensive,Strength,Fontbonne,113,Luke_Darst,2,4,0.5,Transition,0.25,1,
+Offensive,Strength,Rose-Hulman,292,Luke_Callahan,8.636363636,15.72727273,1.045,P&R Roll Man,0.101,1.333,1
+Offensive,Strength,Rose-Hulman,292,Luke_Callahan,8.636363636,15.72727273,1.045,Cut,0.202,1.611,0.857
+Offensive,Strength,Rose-Hulman,292,Luke_Callahan,8.636363636,15.72727273,1.045,Post-Up,0.236,1.238,0.579
+Offensive,Strength,Rose-Hulman,292,Luke_Callahan,8.636363636,15.72727273,1.045,Transition,0.022,2.5,1
+Offensive,Strength,Wabash,190,Logan_White,3.791666667,18.20833333,0.754,Transition,0.042,1,0.4
+Offensive,Strength,Wabash,190,Logan_White,3.791666667,18.20833333,0.754,P&R Roll Man,0.093,1,0.556
+Offensive,Strength,Wabash,190,Logan_White,3.791666667,18.20833333,0.754,Cut,0.093,1,0.5
+Offensive,Strength,Wabash,190,Logan_White,3.791666667,18.20833333,0.754,Post-Up,0.458,0.944,0.522
+Offensive,Strength,Fontbonne,112,Logan_KelleyWolff,1.25,6.625,0.625,Offensive Rebounds (put backs),0.125,1,0.5
+Offensive,Strength,Fontbonne,112,Logan_KelleyWolff,1.25,6.625,0.625,Transition,0.125,1,0.5
+Offensive,Strength,Fontbonne,112,Logan_KelleyWolff,1.25,6.625,0.625,Cut,0.188,0.667,0.5
+Offensive,Strength,MoodyBible,147,Levi_Miller,12.4,21,0.833,Spot Up,0.292,1.095,0.421
+Offensive,Strength,MoodyBible,147,Levi_Miller,12.4,21,0.833,P&R Roll Man,0.014,3,1
+Offensive,Strength,MoodyBible,147,Levi_Miller,12.4,21,0.833,Isolation,0.028,1,0.5
+Offensive,Strength,MoodyBible,147,Levi_Miller,12.4,21,0.833,Off Screen,0.125,1.222,0.5
+Offensive,Strength,MoodyBible,147,Levi_Miller,12.4,21,0.833,Post-Up,0.014,2,1
+Offensive,Strength,Rose-Hulman,291,Kyle_Steckel,1.56,9.64,0.78,Spot Up,0.42,0.952,0.412
+Offensive,Strength,Rose-Hulman,291,Kyle_Steckel,1.56,9.64,0.78,Off Screen,0.14,1.286,0.4
+Offensive,Strength,Rose-Hulman,291,Kyle_Steckel,1.56,9.64,0.78,Cut,0.06,2,1
+Offensive,Strength,Roosevelt,177,Kyle_Bumbalough,5.333333333,23.36363636,0.888,Transition,0.158,1.065,0.526
+Offensive,Strength,Roosevelt,177,Kyle_Bumbalough,5.333333333,23.36363636,0.888,Offensive Rebounds (put backs),0.031,1.5,1
+Offensive,Strength,Roosevelt,177,Kyle_Bumbalough,5.333333333,23.36363636,0.888,Spot Up,0.276,1.13,0.413
+Offensive,Strength,Roosevelt,177,Kyle_Bumbalough,5.333333333,23.36363636,0.888,Off Screen,0.041,1.375,0.5
+Offensive,Strength,Roosevelt,177,Kyle_Bumbalough,5.333333333,23.36363636,0.888,Cut,0.005,2,1
+Offensive,Strength,Fontbonne,111,Kris_Mccann,18,31,0.859,Spot Up,0.219,0.918,0.407
+Offensive,Strength,Fontbonne,111,Kris_Mccann,18,31,0.859,Transition,0.375,1.064,0.566
+Offensive,Strength,Fontbonne,111,Kris_Mccann,18,31,0.859,Off Screen,0.066,0.955,0.45
+Offensive,Strength,Fontbonne,111,Kris_Mccann,18,31,0.859,Hand Off,0.012,1.25,0.667
+Offensive,Strength,Fontbonne,111,Kris_Mccann,18,31,0.859,Offensive Rebounds (put backs),0.03,1.2,0.556
+Offensive,Strength,IllinoisTech,321,Kohl_Linder,1,9.105263158,0.613,Transition,0.065,1.5,1
+Offensive,Strength,IllinoisTech,321,Kohl_Linder,1,9.105263158,0.613,Offensive Rebounds (put backs),0.258,1,0.429
+Offensive,Strength,IllinoisTech,321,Kohl_Linder,1,9.105263158,0.613,Cut,0.194,1.333,0.6
+Offensive,Strength,WheatonIL,203,Kobe_Eichelberger,12.30769231,23.84615385,1.042,Cut,0.063,1.611,0.786
+Offensive,Strength,WheatonIL,203,Kobe_Eichelberger,12.30769231,23.84615385,1.042,Offensive Rebounds (put backs),0.108,1.226,0.762
+Offensive,Strength,WheatonIL,203,Kobe_Eichelberger,12.30769231,23.84615385,1.042,Transition,0.143,1.366,0.636
+Offensive,Strength,WheatonIL,203,Kobe_Eichelberger,12.30769231,23.84615385,1.042,Off Screen,0.07,1.4,0.692
+Offensive,Strength,WheatonIL,203,Kobe_Eichelberger,12.30769231,23.84615385,1.042,Hand Off,0.021,1.167,0.75
+Offensive,Strength,EastWest,92,Kinsley_Shaw,6.75,8.25,0.806,Post-Up,0.387,0.833,0.364
+Offensive,Strength,EastWest,92,Kinsley_Shaw,6.75,8.25,0.806,Cut,0.226,1.286,0.8
+Offensive,Strength,EastWest,92,Kinsley_Shaw,6.75,8.25,0.806,Offensive Rebounds (put backs),0.129,1,0.5
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,Transition,0.11,1.125,0.556
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,Post-Up,0.251,1,0.5
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,Cut,0.087,1,0.5
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,Offensive Rebounds (put backs),0.041,1.444,0.4
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,P&R Roll Man,0.05,1.091,0.4
+Offensive,Strength,Carthage,28,Kienan_Baltimore,16.69230769,27.46153846,0.959,Spot Up,0.224,1.122,0.429
+Offensive,Strength,NorthPark,243,Khalen_Davis,2.333333333,4,0.7,Isolation,0.3,1.333,0.5
+Offensive,Strength,MoodyBible,146,Keynan_Carter,5.4,9.4,0.614,Miscellaneous,0.023,2,1
+Offensive,Strength,MoodyBible,146,Keynan_Carter,5.4,9.4,0.614,Cut,0.045,1,0.5
+Offensive,Strength,MoodyBible,146,Keynan_Carter,5.4,9.4,0.614,Hand Off,0.023,2,1
+Offensive,Strength,MoodyBible,146,Keynan_Carter,5.4,9.4,0.614,Off Screen,0.114,1,1
+Offensive,Strength,Roosevelt,176,Kevin_Day,5.363636364,13.72727273,0.874,P&R Roll Man,0.068,1.429,0.583
+Offensive,Strength,Roosevelt,176,Kevin_Day,5.363636364,13.72727273,0.874,Hand Off,0.01,1.5,0.5
+Offensive,Strength,Roosevelt,176,Kevin_Day,5.363636364,13.72727273,0.874,Cut,0.121,1.08,0.647
+Offensive,Strength,Roosevelt,176,Kevin_Day,5.363636364,13.72727273,0.874,Transition,0.121,1.24,0.571
+Offensive,Strength,MoodyBible,145,Kent_Hinrichsen,4,7.666666667,0.857,Post-Up,0.214,2,1
+Offensive,Strength,MoodyBible,145,Kent_Hinrichsen,4,7.666666667,0.857,Offensive Rebounds (put backs),0.214,1.333,0.667
+Offensive,Strength,GustavusAdolphus,304,Kelsey_Thomas,11.39130435,23.08695652,0.981,Post-Up,0.158,1.071,0.704
+Offensive,Strength,GustavusAdolphus,304,Kelsey_Thomas,11.39130435,23.08695652,0.981,Off Screen,0.06,1.062,0.5
+Offensive,Strength,GustavusAdolphus,304,Kelsey_Thomas,11.39130435,23.08695652,0.981,Spot Up,0.166,1.091,0.463
+Offensive,Strength,GustavusAdolphus,304,Kelsey_Thomas,11.39130435,23.08695652,0.981,Cut,0.117,1.29,0.72
+Offensive,Strength,GustavusAdolphus,304,Kelsey_Thomas,11.39130435,23.08695652,0.981,Transition,0.215,1.053,0.579
+Offensive,Strength,CornellCollege,64,Keegan_Van_Kooten,1.928571429,11.14285714,0.438,Offensive Rebounds (put backs),0.055,1.25,0.5
+Offensive,Strength,CornellCollege,64,Keegan_Van_Kooten,1.928571429,11.14285714,0.438,Off Screen,0.027,1,1
+Offensive,Strength,CornellCollege,64,Keegan_Van_Kooten,1.928571429,11.14285714,0.438,Spot Up,0.315,0.478,0.19
+Offensive,Strength,CornellCollege,64,Keegan_Van_Kooten,1.928571429,11.14285714,0.438,Isolation,0.055,1.25,0.333
+Offensive,Strength,CornellCollege,63,Kameron_Williams,1.666666667,8.333333333,0.556,Offensive Rebounds (put backs),0.111,2,1
+Offensive,Strength,CornellCollege,63,Kameron_Williams,1.666666667,8.333333333,0.556,Spot Up,0.222,1.5,0.5
+Offensive,Strength,Carthage,27,Kamal_Shasi,5,26.38888889,0.776,P&R Ball Handler,0.172,0.85,0.438
+Offensive,Strength,Carthage,27,Kamal_Shasi,5,26.38888889,0.776,Offensive Rebounds (put backs),0.043,0.8,0.25
+Offensive,Strength,Carthage,27,Kamal_Shasi,5,26.38888889,0.776,Spot Up,0.353,1.098,0.417
+Offensive,Strength,Carthage,27,Kamal_Shasi,5,26.38888889,0.776,Post-Up,0.009,2,
+Offensive,Strength,Fontbonne,110,Kalin_Mitchell,0.333333333,5.666666667,0.143,Miscellaneous,0.286,0.5,
+Offensive,Strength,Kalamazoo,224,KaLeif_Gaines,3.166666667,10.33333333,0.571,P&R Ball Handler,0.333,0.714,0.364
+Offensive,Strength,Kalamazoo,224,KaLeif_Gaines,3.166666667,10.33333333,0.571,Isolation,0.032,1,0.5
+Offensive,Strength,Kalamazoo,224,KaLeif_Gaines,3.166666667,10.33333333,0.571,Off Screen,0.095,0.833,0.5
+Offensive,Strength,Albion,10,Juwan_Perry,5,11.92857143,0.972,Offensive Rebounds (put backs),0.069,1.4,1
+Offensive,Strength,Albion,10,Juwan_Perry,5,11.92857143,0.972,P&R Ball Handler,0.028,1.5,1
+Offensive,Strength,Albion,10,Juwan_Perry,5,11.92857143,0.972,Transition,0.208,1.133,0.545
+Offensive,Strength,Albion,10,Juwan_Perry,5,11.92857143,0.972,Cut,0.028,1,1
+Offensive,Strength,UWPlatteville,263,Justin_Stovall,3.157894737,8.315789474,0.919,Offensive Rebounds (put backs),0.081,1.2,0.667
+Offensive,Strength,UWPlatteville,263,Justin_Stovall,3.157894737,8.315789474,0.919,Isolation,0.016,2,
+Offensive,Strength,UWPlatteville,263,Justin_Stovall,3.157894737,8.315789474,0.919,Spot Up,0.274,1.235,0.438
+Offensive,Strength,UWPlatteville,263,Justin_Stovall,3.157894737,8.315789474,0.919,Cut,0.065,1,0.667
+Offensive,Strength,UWPlatteville,262,Justin_Jarvensivu,0.272727273,2.727272727,0.5,Post-Up,0.167,2,1
+Offensive,Strength,Chicago,41,Justin_Jackson,6.08,15.08,0.874,Post-Up,0.08,0.929,0.714
+Offensive,Strength,Chicago,41,Justin_Jackson,6.08,15.08,0.874,Transition,0.086,1.333,0.7
+Offensive,Strength,Chicago,41,Justin_Jackson,6.08,15.08,0.874,P&R Ball Handler,0.006,2,1
+Offensive,Strength,Chicago,41,Justin_Jackson,6.08,15.08,0.874,P&R Roll Man,0.052,1.111,0.429
+Offensive,Strength,Chicago,41,Justin_Jackson,6.08,15.08,0.874,Cut,0.207,1.083,0.538
+Offensive,Strength,Rose-Hulman,290,JT_Whitaker,1.318181818,4.909090909,1.057,Cut,0.229,1.625,1
+Offensive,Strength,Rose-Hulman,290,JT_Whitaker,1.318181818,4.909090909,1.057,Spot Up,0.029,2,1
+Offensive,Strength,Rose-Hulman,290,JT_Whitaker,1.318181818,4.909090909,1.057,Offensive Rebounds (put backs),0.086,1.333,0.667
+Offensive,Strength,MoodyBible,144,Joshua_Wedeven,17.6,20.4,0.856,Spot Up,0.231,1.125,0.45
+Offensive,Strength,MoodyBible,144,Joshua_Wedeven,17.6,20.4,0.856,Cut,0.058,1,0.4
+Offensive,Strength,MoodyBible,144,Joshua_Wedeven,17.6,20.4,0.856,P&R Ball Handler,0.115,1,0.444
+Offensive,Strength,MoodyBible,144,Joshua_Wedeven,17.6,20.4,0.856,Hand Off,0.087,1.333,0.5
+Offensive,Strength,MoodyBible,144,Joshua_Wedeven,17.6,20.4,0.856,Offensive Rebounds (put backs),0.01,2,
+Offensive,Strength,Rose-Hulman,289,Joshua_Richey,0.333333333,2.333333333,0.5,Offensive Rebounds (put backs),0.5,1,0.5
+Offensive,Strength,Roosevelt,175,Joshua_Dillingham,8.714285714,19.85714286,0.914,Spot Up,0.02,1,0.333
+Offensive,Strength,Roosevelt,175,Joshua_Dillingham,8.714285714,19.85714286,0.914,Cut,0.223,1.136,0.667
+Offensive,Strength,Roosevelt,175,Joshua_Dillingham,8.714285714,19.85714286,0.914,Offensive Rebounds (put backs),0.147,1.172,0.7
+Offensive,Strength,NorthPark,242,Josh_Washburn,3.75,14,0.769,Transition,0.128,1.6,0.75
+Offensive,Strength,NorthPark,242,Josh_Washburn,3.75,14,0.769,Off Screen,0.077,1,0.5
+Offensive,Strength,NorthPark,242,Josh_Washburn,3.75,14,0.769,Cut,0.103,1,0.5
+Offensive,Strength,NorthPark,242,Josh_Washburn,3.75,14,0.769,Miscellaneous,0.154,0.833,1
+Offensive,Strength,MSOE,158,Josh_Herzog,1.4,5.2,0.542,Transition,0.208,0.6,0.333
+Offensive,Strength,MSOE,158,Josh_Herzog,1.4,5.2,0.542,Cut,0.042,2,1
+Offensive,Strength,MSOE,158,Josh_Herzog,1.4,5.2,0.542,P&R Ball Handler,0.208,1,0.667
+Offensive,Strength,MSOE,158,Josh_Herzog,1.4,5.2,0.542,Hand Off,0.042,1,
+Offensive,Strength,MoodyBible,143,Joseph_Shidler,2.75,7.5,0.423,Cut,0.077,1,0.5
+Offensive,Strength,MoodyBible,143,Joseph_Shidler,2.75,7.5,0.423,Spot Up,0.423,0.545,0.182
+Offensive,Strength,MoodyBible,143,Joseph_Shidler,2.75,7.5,0.423,Transition,0.154,0.75,0.333
+Offensive,Strength,CornellCollege,62,Jordan_Venters,3,3.2,1,Transition,0.133,1.5,0.5
+Offensive,Strength,CornellCollege,62,Jordan_Venters,3,3.2,1,Spot Up,0.267,2.25,0.75
+Offensive,Strength,Carthage,26,Jordan_Vedder,2.583333333,8.583333333,0.721,Off Screen,0.093,1.5,0.5
+Offensive,Strength,Carthage,26,Jordan_Vedder,2.583333333,8.583333333,0.721,Transition,0.047,1,0.5
+Offensive,Strength,Carthage,26,Jordan_Vedder,2.583333333,8.583333333,0.721,Post-Up,0.047,1,0.5
+Offensive,Strength,Carthage,26,Jordan_Vedder,2.583333333,8.583333333,0.721,Spot Up,0.419,1,0.333
+Offensive,Strength,Carthage,26,Jordan_Vedder,2.583333333,8.583333333,0.721,Isolation,0.023,3,1
+Offensive,Strength,Carthage,25,Jordan_Thomas,17.75,33.91666667,1.076,Spot Up,0.277,1.138,0.412
+Offensive,Strength,Carthage,25,Jordan_Thomas,17.75,33.91666667,1.076,Off Screen,0.224,1.136,0.481
+Offensive,Strength,Carthage,25,Jordan_Thomas,17.75,33.91666667,1.076,Transition,0.127,1.36,0.5
+Offensive,Strength,Carthage,25,Jordan_Thomas,17.75,33.91666667,1.076,P&R Ball Handler,0.183,1.097,0.491
+Offensive,Strength,Carthage,25,Jordan_Thomas,17.75,33.91666667,1.076,Post-Up,0.003,2,1
+Offensive,Strength,Roosevelt,174,Jordan_Radcliff,2.5,7.75,0.732,Hand Off,0.049,1,0.5
+Offensive,Strength,Roosevelt,174,Jordan_Radcliff,2.5,7.75,0.732,Spot Up,0.268,1,0.4
+Offensive,Strength,Roosevelt,174,Jordan_Radcliff,2.5,7.75,0.732,Transition,0.317,1,0.5
+Offensive,Strength,Roosevelt,174,Jordan_Radcliff,2.5,7.75,0.732,Cut,0.024,2,1
+Offensive,Strength,Kalamazoo,223,Jordan_Currie,1.875,13.625,0.667,P&R Ball Handler,0.044,1,0.5
+Offensive,Strength,Kalamazoo,223,Jordan_Currie,1.875,13.625,0.667,Transition,0.111,1.8,0.75
+Offensive,Strength,Kalamazoo,223,Jordan_Currie,1.875,13.625,0.667,Cut,0.044,1,0.5
+Offensive,Strength,Chicago,40,Jordan_Baum,7.4,30.08,0.841,Offensive Rebounds (put backs),0.005,2,1
+Offensive,Strength,Chicago,40,Jordan_Baum,7.4,30.08,0.841,Cut,0.018,1,0.5
+Offensive,Strength,Chicago,40,Jordan_Baum,7.4,30.08,0.841,P&R Ball Handler,0.205,0.844,0.438
+Offensive,Strength,Chicago,40,Jordan_Baum,7.4,30.08,0.841,Spot Up,0.3,0.985,0.344
+Offensive,Strength,Chicago,40,Jordan_Baum,7.4,30.08,0.841,Off Screen,0.064,1.071,0.385
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Hand Off,0.041,1.071,0.545
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Post-Up,0.038,1.231,0.7
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Isolation,0.059,1.05,0.467
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Spot Up,0.142,1.208,0.5
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Transition,0.169,1.105,0.5
+Offensive,Strength,DominicanIL,76,Jonny_Woolf,14.69565217,28.43478261,0.982,Offensive Rebounds (put backs),0.036,1.5,0.8
+Offensive,Strength,MoodyBible,142,Jonathan_Raub,4.75,13.75,0.655,Transition,0.034,1,
+Offensive,Strength,MoodyBible,142,Jonathan_Raub,4.75,13.75,0.655,Offensive Rebounds (put backs),0.103,1.667,0.5
+Offensive,Strength,MoodyBible,142,Jonathan_Raub,4.75,13.75,0.655,Spot Up,0.207,1.167,0.75
+Offensive,Strength,Knox,133,Jonathan_Damota,12.05882353,27.76470588,0.825,Post-Up,0.179,1.044,0.563
+Offensive,Strength,Knox,133,Jonathan_Damota,12.05882353,27.76470588,0.825,Offensive Rebounds (put backs),0.012,1.333,0.667
+Offensive,Strength,Knox,133,Jonathan_Damota,12.05882353,27.76470588,0.825,Transition,0.116,1.103,0.636
+Offensive,Strength,Knox,133,Jonathan_Damota,12.05882353,27.76470588,0.825,Hand Off,0.048,1.167,0.667
+Offensive,Strength,Knox,133,Jonathan_Damota,12.05882353,27.76470588,0.825,Cut,0.04,1.4,0.75
+Offensive,Strength,MoodyBible,141,Jonah_Wilson,3.4,9.8,0.739,Off Screen,0.087,1.5,1
+Offensive,Strength,MoodyBible,141,Jonah_Wilson,3.4,9.8,0.739,Spot Up,0.391,0.889,0.333
+Offensive,Strength,MoodyBible,141,Jonah_Wilson,3.4,9.8,0.739,Isolation,0.087,1,1
+Offensive,Strength,CornellCollege,60,Jon_Anderson,12.78571429,20.78571429,1.053,Transition,0.082,1.071,0.75
+Offensive,Strength,CornellCollege,60,Jon_Anderson,12.78571429,20.78571429,1.053,P&R Roll Man,0.088,1.067,0.625
+Offensive,Strength,CornellCollege,60,Jon_Anderson,12.78571429,20.78571429,1.053,Cut,0.147,1.4,0.737
+Offensive,Strength,CornellCollege,60,Jon_Anderson,12.78571429,20.78571429,1.053,Off Screen,0.018,2,1
+Offensive,Strength,Knox,132,John_Tsahageas,0.4,2.1,1,Isolation,0.25,2,1
+Offensive,Strength,OlivetCollege,279,John_Mcadoo,3.740740741,24.11111111,0.75,P&R Ball Handler,0.045,1,0.25
+Offensive,Strength,OlivetCollege,279,John_Mcadoo,3.740740741,24.11111111,0.75,Offensive Rebounds (put backs),0.121,0.875,0.286
+Offensive,Strength,OlivetCollege,279,John_Mcadoo,3.740740741,24.11111111,0.75,Isolation,0.023,1.667,0.667
+Offensive,Strength,OlivetCollege,279,John_Mcadoo,3.740740741,24.11111111,0.75,Transition,0.189,0.76,0.368
+Offensive,Strength,OlivetCollege,279,John_Mcadoo,3.740740741,24.11111111,0.75,Off Screen,0.008,1,
+Offensive,Strength,Rose-Hulman,288,John_Czarnecki,10.33333333,24.62962963,1.111,Offensive Rebounds (put backs),0.087,1.318,0.647
+Offensive,Strength,Rose-Hulman,288,John_Czarnecki,10.33333333,24.62962963,1.111,P&R Roll Man,0.123,1.355,0.667
+Offensive,Strength,Rose-Hulman,288,John_Czarnecki,10.33333333,24.62962963,1.111,Transition,0.043,1.545,0.857
+Offensive,Strength,Rose-Hulman,288,John_Czarnecki,10.33333333,24.62962963,1.111,Off Screen,0.004,2,1
+Offensive,Strength,Rose-Hulman,288,John_Czarnecki,10.33333333,24.62962963,1.111,Cut,0.217,1.291,0.702
+Offensive,Strength,Kalamazoo,222,Jimmy_Paprocki,12.64,27.52,1.016,Transition,0.048,1.467,0.889
+Offensive,Strength,Kalamazoo,222,Jimmy_Paprocki,12.64,27.52,1.016,P&R Roll Man,0.061,1.211,0.636
+Offensive,Strength,Kalamazoo,222,Jimmy_Paprocki,12.64,27.52,1.016,Offensive Rebounds (put backs),0.084,1.192,0.75
+Offensive,Strength,Kalamazoo,222,Jimmy_Paprocki,12.64,27.52,1.016,Post-Up,0.581,1.05,0.65
+Offensive,Strength,Kalamazoo,222,Jimmy_Paprocki,12.64,27.52,1.016,Cut,0.139,1.047,0.607
+Offensive,Strength,EastWest,91,Jeremy_Hargrove,3.461538462,9.846153846,0.634,Transition,0.211,1,0.5
+Offensive,Strength,EastWest,91,Jeremy_Hargrove,3.461538462,9.846153846,0.634,Spot Up,0.324,0.913,0.318
+Offensive,Strength,EastWest,91,Jeremy_Hargrove,3.461538462,9.846153846,0.634,Isolation,0.169,0.75,0.429
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,Cut,0.076,1.364,0.7
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,Hand Off,0.014,1,0.5
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,Offensive Rebounds (put backs),0.049,1.571,0.667
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,Transition,0.222,0.844,0.48
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,Isolation,0.069,1,0.625
+Offensive,Strength,Kalamazoo,221,Jeremiah_Vincent,9.076923077,26.07692308,0.812,P&R Ball Handler,0.104,1,0.5
+Offensive,Strength,Knox,131,Jeremiah_Horton,1.9,3.9,1.214,Transition,0.286,1.25,0.5
+Offensive,Strength,Knox,131,Jeremiah_Horton,1.9,3.9,1.214,P&R Ball Handler,0.143,1.5,1
+Offensive,Strength,Knox,131,Jeremiah_Horton,1.9,3.9,1.214,Spot Up,0.357,1.4,0.75
+Offensive,Strength,NorthPark,240,Jelani_Sankey,1,6.5,0.5,Off Screen,0.5,1,1
+Offensive,Strength,Albion,9,Jaylen_Fordham,6.52,18.48,0.792,Off Screen,0.088,0.895,0.438
+Offensive,Strength,Albion,9,Jaylen_Fordham,6.52,18.48,0.792,Spot Up,0.389,1.119,0.437
+Offensive,Strength,Albion,9,Jaylen_Fordham,6.52,18.48,0.792,Offensive Rebounds (put backs),0.046,0.8,0.429
+Offensive,Strength,WheatonIL,202,Jay_Spencer,5.615384615,19.53846154,0.954,Spot Up,0.301,1.022,0.37
+Offensive,Strength,WheatonIL,202,Jay_Spencer,5.615384615,19.53846154,0.954,Offensive Rebounds (put backs),0.098,1.2,0.556
+Offensive,Strength,WheatonIL,202,Jay_Spencer,5.615384615,19.53846154,0.954,Transition,0.105,1.062,0.455
+Offensive,Strength,WheatonIL,202,Jay_Spencer,5.615384615,19.53846154,0.954,Cut,0.15,1.304,0.722
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,Spot Up,0.236,0.901,0.403
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,Cut,0.065,1.24,0.619
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,Hand Off,0.021,1.375,0.667
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,Offensive Rebounds (put backs),0.01,1,1
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,P&R Ball Handler,0.296,0.851,0.431
+Offensive,Strength,MSOE,157,Jason_Palesse,12.46153846,28.42307692,0.834,P&R Roll Man,0.008,1.667,0.667
+Offensive,Strength,NorthPark,239,Jason_Hines,3.652173913,10.34782609,0.809,P&R Roll Man,0.128,0.917,0.364
+Offensive,Strength,NorthPark,239,Jason_Hines,3.652173913,10.34782609,0.809,Spot Up,0.277,1.077,0.429
+Offensive,Strength,NorthPark,239,Jason_Hines,3.652173913,10.34782609,0.809,Cut,0.096,0.889,0.5
+Offensive,Strength,NorthPark,239,Jason_Hines,3.652173913,10.34782609,0.809,Transition,0.117,1.182,0.5
+Offensive,Strength,GustavusAdolphus,303,Jason_Faul,10.125,26.08333333,1.038,Transition,0.073,1.588,0.786
+Offensive,Strength,GustavusAdolphus,303,Jason_Faul,10.125,26.08333333,1.038,Cut,0.188,1.295,0.703
+Offensive,Strength,GustavusAdolphus,303,Jason_Faul,10.125,26.08333333,1.038,Offensive Rebounds (put backs),0.064,1.333,0.667
+Offensive,Strength,GustavusAdolphus,303,Jason_Faul,10.125,26.08333333,1.038,Hand Off,0.004,2,1
+Offensive,Strength,NorthPark,238,Jarrod_Coleman,0.545454545,5.909090909,0.4,Spot Up,0.4,0.5,0.167
+Offensive,Strength,NorthPark,238,Jarrod_Coleman,0.545454545,5.909090909,0.4,Cut,0.067,2,1
+Offensive,Strength,NorthPark,238,Jarrod_Coleman,0.545454545,5.909090909,0.4,Miscellaneous,0.133,0.5,
+Offensive,Strength,Kalamazoo,220,Jarnard_Smith,4.1875,11.0625,0.593,P&R Ball Handler,0.352,0.711,0.357
+Offensive,Strength,Kalamazoo,220,Jarnard_Smith,4.1875,11.0625,0.593,Transition,0.204,0.864,0.429
+Offensive,Strength,Fontbonne,109,Jared_Woodcock,9.9375,23.25,0.908,Offensive Rebounds (put backs),0.092,1.188,0.545
+Offensive,Strength,Fontbonne,109,Jared_Woodcock,9.9375,23.25,0.908,Hand Off,0.006,3,1
+Offensive,Strength,Fontbonne,109,Jared_Woodcock,9.9375,23.25,0.908,Transition,0.195,1.147,0.591
+Offensive,Strength,Fontbonne,109,Jared_Woodcock,9.9375,23.25,0.908,P&R Ball Handler,0.006,3,1
+Offensive,Strength,Fontbonne,109,Jared_Woodcock,9.9375,23.25,0.908,Cut,0.144,1.32,0.722
+Offensive,Strength,CornellCollege,59,Jan_Siegien,4,12.75,0.773,Transition,0.152,0.9,0.375
+Offensive,Strength,CornellCollege,59,Jan_Siegien,4,12.75,0.773,P&R Ball Handler,0.061,1.25,0.5
+Offensive,Strength,CornellCollege,59,Jan_Siegien,4,12.75,0.773,Cut,0.167,1.273,0.714
+Offensive,Strength,CornellCollege,59,Jan_Siegien,4,12.75,0.773,Spot Up,0.348,0.783,0.286
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Transition,0.293,0.814,0.478
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Hand Off,0.007,2,1
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Cut,0.095,0.857,0.5
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Post-Up,0.082,1.167,0.571
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Spot Up,0.136,0.8,0.389
+Offensive,Strength,Fontbonne,108,James_Wiggins,6.8125,23.9375,0.741,Offensive Rebounds (put backs),0.068,1.4,0.833
+Offensive,Strength,OlivetCollege,278,Jalen_Adams,24.93103448,34.20689655,0.984,Post-Up,0.057,1.095,0.541
+Offensive,Strength,OlivetCollege,278,Jalen_Adams,24.93103448,34.20689655,0.984,Miscellaneous,0.035,1,0.667
+Offensive,Strength,OlivetCollege,278,Jalen_Adams,24.93103448,34.20689655,0.984,Transition,0.255,1.214,0.613
+Offensive,Strength,OlivetCollege,278,Jalen_Adams,24.93103448,34.20689655,0.984,Offensive Rebounds (put backs),0.105,1.299,0.617
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Hand Off,0.005,3,1
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Cut,0.112,1.095,0.579
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Offensive Rebounds (put backs),0.085,1,0.5
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,P&R Ball Handler,0.016,1,1
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Post-Up,0.191,1,0.545
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Transition,0.133,1.4,0.571
+Offensive,Strength,UWPlatteville,261,Jake_Showalter,6.642857143,21.46428571,0.979,Spot Up,0.245,1,0.385
+Offensive,Strength,Roosevelt,173,Jake_Ludwig,17.15625,28.3125,1.038,Cut,0.031,1.688,0.769
+Offensive,Strength,Roosevelt,173,Jake_Ludwig,17.15625,28.3125,1.038,Off Screen,0.054,1.143,0.5
+Offensive,Strength,Roosevelt,173,Jake_Ludwig,17.15625,28.3125,1.038,Post-Up,0.006,1.333,1
+Offensive,Strength,Roosevelt,173,Jake_Ludwig,17.15625,28.3125,1.038,Offensive Rebounds (put backs),0.012,1.167,0.5
+Offensive,Strength,Roosevelt,173,Jake_Ludwig,17.15625,28.3125,1.038,Transition,0.182,1.337,0.681
+Offensive,Strength,MSOE,156,Jake_Gebert,7.653846154,20.88461538,1.026,Miscellaneous,0.12,1.087,1
+Offensive,Strength,MSOE,156,Jake_Gebert,7.653846154,20.88461538,1.026,Spot Up,0.25,1.042,0.488
+Offensive,Strength,MSOE,156,Jake_Gebert,7.653846154,20.88461538,1.026,Offensive Rebounds (put backs),0.109,1.476,0.692
+Offensive,Strength,MSOE,156,Jake_Gebert,7.653846154,20.88461538,1.026,Isolation,0.026,1.2,0.75
+Offensive,Strength,Chicago,39,Jake_Fenlon,17.44,31,1.024,Spot Up,0.172,1.167,0.403
+Offensive,Strength,Chicago,39,Jake_Fenlon,17.44,31,1.024,Off Screen,0.344,1.222,0.457
+Offensive,Strength,Chicago,39,Jake_Fenlon,17.44,31,1.024,Cut,0.05,1.095,0.529
+Offensive,Strength,IllinoisTech,318,Jake_Digiorgio,13.10526316,33.84210526,0.824,Post-Up,0.183,0.833,0.512
+Offensive,Strength,IllinoisTech,318,Jake_Digiorgio,13.10526316,33.84210526,0.824,Offensive Rebounds (put backs),0.254,0.973,0.508
+Offensive,Strength,IllinoisTech,318,Jake_Digiorgio,13.10526316,33.84210526,0.824,P&R Ball Handler,0.01,1.333,0.667
+Offensive,Strength,IllinoisTech,318,Jake_Digiorgio,13.10526316,33.84210526,0.824,Cut,0.136,1.175,0.656
+Offensive,Strength,IllinoisTech,319,Jake_Bruns,6.578947368,18.47368421,1.017,Transition,0.193,1.304,0.524
+Offensive,Strength,IllinoisTech,319,Jake_Bruns,6.578947368,18.47368421,1.017,P&R Ball Handler,0.16,1.158,0.615
+Offensive,Strength,IllinoisTech,319,Jake_Bruns,6.578947368,18.47368421,1.017,Spot Up,0.244,1.517,0.517
+Offensive,Strength,Chicago,38,Jake_Berhorst,2.708333333,9.833333333,0.703,P&R Ball Handler,0.242,1.045,0.471
+Offensive,Strength,Chicago,38,Jake_Berhorst,2.708333333,9.833333333,0.703,Spot Up,0.264,1.333,0.458
+Offensive,Strength,Roosevelt,172,Jake_Asquini,6.090909091,18.72727273,0.954,Isolation,0.005,3,1
+Offensive,Strength,Roosevelt,172,Jake_Asquini,6.090909091,18.72727273,0.954,Off Screen,0.195,1.105,0.4
+Offensive,Strength,Roosevelt,172,Jake_Asquini,6.090909091,18.72727273,0.954,Spot Up,0.441,1.151,0.427
+Offensive,Strength,Roosevelt,172,Jake_Asquini,6.090909091,18.72727273,0.954,Cut,0.005,2,1
+Offensive,Strength,Roosevelt,172,Jake_Asquini,6.090909091,18.72727273,0.954,P&R Roll Man,0.015,2,0.667
+Offensive,Strength,Fontbonne,107,Jahmad_Wilburn,2.727272727,10.36363636,0.714,Isolation,0.071,2.333,1
+Offensive,Strength,Fontbonne,107,Jahmad_Wilburn,2.727272727,10.36363636,0.714,Spot Up,0.167,0.857,0.333
+Offensive,Strength,Fontbonne,107,Jahmad_Wilburn,2.727272727,10.36363636,0.714,Offensive Rebounds (put backs),0.143,1.167,0.75
+Offensive,Strength,Carthage,24,Jacob_Polglase,2.230769231,9.307692308,0.806,P&R Ball Handler,0.083,1,0.333
+Offensive,Strength,Carthage,24,Jacob_Polglase,2.230769231,9.307692308,0.806,Spot Up,0.528,0.947,0.316
+Offensive,Strength,Carthage,24,Jacob_Polglase,2.230769231,9.307692308,0.806,Cut,0.083,1.667,1
+Offensive,Strength,Fontbonne,106,Jacob_Mueller,1.5,2.5,1.2,Spot Up,0.4,3,1
+Offensive,Strength,MoodyBible,139,Jacob_Kim,4.5,18.75,0.818,Off Screen,0.182,3,1
+Offensive,Strength,MoodyBible,139,Jacob_Kim,4.5,18.75,0.818,Cut,0.045,2,1
+Offensive,Strength,MoodyBible,139,Jacob_Kim,4.5,18.75,0.818,Offensive Rebounds (put backs),0.091,1,1
+Offensive,Strength,MoodyBible,139,Jacob_Kim,4.5,18.75,0.818,P&R Ball Handler,0.045,2,1
+Offensive,Strength,Knox,130,Jacob_Kampf,7.181818182,19.45454545,0.757,Spot Up,0.272,0.893,0.348
+Offensive,Strength,Knox,130,Jacob_Kampf,7.181818182,19.45454545,0.757,Off Screen,0.146,0.933,0.417
+Offensive,Strength,Knox,130,Jacob_Kampf,7.181818182,19.45454545,0.757,Transition,0.272,0.893,0.333
+Offensive,Strength,Rose-Hulman,287,Jacob_Back,0.708333333,7.166666667,0.377,Post-Up,0.245,0.538,0.429
+Offensive,Strength,Rose-Hulman,287,Jacob_Back,0.708333333,7.166666667,0.377,Cut,0.17,0.667,0.429
+Offensive,Strength,Rose-Hulman,287,Jacob_Back,0.708333333,7.166666667,0.377,P&R Roll Man,0.075,0.75,0.25
+Offensive,Strength,DominicanIL,75,Jackson_Smith,5.56,13.48,0.814,Hand Off,0.03,1.2,0.6
+Offensive,Strength,DominicanIL,75,Jackson_Smith,5.56,13.48,0.814,Offensive Rebounds (put backs),0.054,0.889,0.5
+Offensive,Strength,DominicanIL,75,Jackson_Smith,5.56,13.48,0.814,P&R Ball Handler,0.066,0.909,0.429
+Offensive,Strength,DominicanIL,75,Jackson_Smith,5.56,13.48,0.814,Spot Up,0.389,1.046,0.414
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,Transition,0.151,0.963,0.478
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,Hand Off,0.022,1,0.667
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,Cut,0.028,1.2,1
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,P&R Roll Man,0.017,1,0.5
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,Off Screen,0.073,1.077,0.455
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,Spot Up,0.408,0.836,0.349
+Offensive,Strength,Kalamazoo,219,Jack_Smith,5.96,22,0.832,P&R Ball Handler,0.123,1.182,0.471
+Offensive,Strength,Fontbonne,105,Jack_Lake,4.8,14.6,0.632,Cut,0.211,0.75,0.429
+Offensive,Strength,Fontbonne,105,Jack_Lake,4.8,14.6,0.632,Post-Up,0.316,0.833,0.5
+Offensive,Strength,Fontbonne,105,Jack_Lake,4.8,14.6,0.632,Spot Up,0.211,1,0.333
+Offensive,Strength,NorthPark,237,Jack_Gurvey,3.16,21.24,0.675,Cut,0.044,1.2,0.6
+Offensive,Strength,NorthPark,237,Jack_Gurvey,3.16,21.24,0.675,Spot Up,0.43,0.776,0.279
+Offensive,Strength,NorthPark,237,Jack_Gurvey,3.16,21.24,0.675,Off Screen,0.14,1.125,0.5
+Offensive,Strength,Wabash,189,Jack_Davidson,18.19230769,35.92307692,1.024,Off Screen,0.055,1.16,0.4
+Offensive,Strength,Wabash,189,Jack_Davidson,18.19230769,35.92307692,1.024,Miscellaneous,0.081,1.081,0.4
+Offensive,Strength,Wabash,189,Jack_Davidson,18.19230769,35.92307692,1.024,Spot Up,0.16,1.342,0.509
+Offensive,Strength,Wabash,189,Jack_Davidson,18.19230769,35.92307692,1.024,Cut,0.015,2,1
+Offensive,Strength,Wabash,189,Jack_Davidson,18.19230769,35.92307692,1.024,Transition,0.153,1.086,0.542
+Offensive,Strength,WheatonIL,201,Jack_Bennett,1.333333333,3.666666667,1,Offensive Rebounds (put backs),0.25,2,1
+Offensive,Strength,NorthPark,236,Isaiah_Webster,0.888888889,4,0.8,Spot Up,0.1,2,1
+Offensive,Strength,NorthPark,236,Isaiah_Webster,0.888888889,4,0.8,Transition,0.3,1.333,0.667
+Offensive,Strength,NorthPark,236,Isaiah_Webster,0.888888889,4,0.8,P&R Ball Handler,0.1,2,1
+Offensive,Strength,DominicanIL,74,Isaac_Moore,5.684210526,17.26315789,0.834,Cut,0.041,1,0.4
+Offensive,Strength,DominicanIL,74,Isaac_Moore,5.684210526,17.26315789,0.834,Hand Off,0.034,1.6,0.667
+Offensive,Strength,DominicanIL,74,Isaac_Moore,5.684210526,17.26315789,0.834,Spot Up,0.386,1,0.358
+Offensive,Strength,DominicanIL,74,Isaac_Moore,5.684210526,17.26315789,0.834,Offensive Rebounds (put backs),0.048,0.857,0.333
+Offensive,Strength,DominicanIL,74,Isaac_Moore,5.684210526,17.26315789,0.834,Transition,0.207,0.967,0.462
+Offensive,Strength,Knox,129,Ikenna_Ozor,4.111111111,11.22222222,1.276,P&R Roll Man,0.138,1.75,0.75
+Offensive,Strength,Knox,129,Ikenna_Ozor,4.111111111,11.22222222,1.276,Cut,0.31,1.556,0.857
+Offensive,Strength,Knox,129,Ikenna_Ozor,4.111111111,11.22222222,1.276,Offensive Rebounds (put backs),0.172,1.6,0.75
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,Hand Off,0.004,2,1
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,Transition,0.037,1.5,0.833
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,Spot Up,0.044,1.25,0.667
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,P&R Roll Man,0.092,1.12,0.647
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,Offensive Rebounds (put backs),0.202,1.127,0.571
+Offensive,Strength,Wabash,188,Harrison_Hallstrom,11.07692308,24.34615385,1.059,Post-Up,0.368,1.07,0.548
+Offensive,Strength,UWPlatteville,260,Harold_Fay,1.666666667,3.533333333,0.862,P&R Ball Handler,0.138,1.5,0.667
+Offensive,Strength,UWPlatteville,260,Harold_Fay,1.666666667,3.533333333,0.862,P&R Roll Man,0.034,3,1
+Offensive,Strength,UWPlatteville,260,Harold_Fay,1.666666667,3.533333333,0.862,Cut,0.103,2,1
+Offensive,Strength,UWPlatteville,260,Harold_Fay,1.666666667,3.533333333,0.862,Off Screen,0.034,3,1
+Offensive,Strength,OlivetCollege,277,Griffin_Lewis,0.789473684,6.736842105,0.652,Miscellaneous,0.174,0.75,
+Offensive,Strength,OlivetCollege,277,Griffin_Lewis,0.789473684,6.736842105,0.652,Offensive Rebounds (put backs),0.087,2,1
+Offensive,Strength,OlivetCollege,277,Griffin_Lewis,0.789473684,6.736842105,0.652,Spot Up,0.304,0.714,0.333
+Offensive,Strength,UWPlatteville,259,Grayson_Knowlton,0.636363636,2,0.875,Transition,0.125,2,
+Offensive,Strength,UWPlatteville,259,Grayson_Knowlton,0.636363636,2,0.875,Miscellaneous,0.25,1,1
+Offensive,Strength,UWPlatteville,259,Grayson_Knowlton,0.636363636,2,0.875,Spot Up,0.375,1,0.333
+Offensive,Strength,Roosevelt,171,Grant_Gibson,7.636363636,23.78787879,0.91,Cut,0.123,1.303,0.68
+Offensive,Strength,Roosevelt,171,Grant_Gibson,7.636363636,23.78787879,0.91,Post-Up,0.011,1,0.5
+Offensive,Strength,Roosevelt,171,Grant_Gibson,7.636363636,23.78787879,0.91,Offensive Rebounds (put backs),0.045,1,0.556
+Offensive,Strength,Roosevelt,171,Grant_Gibson,7.636363636,23.78787879,0.91,Off Screen,0.108,1.207,0.481
+Offensive,Strength,Roosevelt,171,Grant_Gibson,7.636363636,23.78787879,0.91,Spot Up,0.347,0.978,0.341
+Offensive,Strength,WheatonIL,200,Gavin_Hawkins,1.666666667,3.333333333,1,Transition,0.2,3,1
+Offensive,Strength,Knox,128,Garrett_Stone,0.571428571,8.5,0.421,Transition,0.368,1,0.333
+Offensive,Strength,Fontbonne,104,Garrett_Goodnight,0.142857143,9.142857143,0.077,Miscellaneous,0.231,0.333,
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Off Screen,0.072,0.9,0.429
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Isolation,0.022,1,0.333
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Post-Up,0.029,1.5,1
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Cut,0.087,1.417,0.8
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Transition,0.08,0.909,0.444
+Offensive,Strength,MSOE,155,Gabe_Wear,4.576923077,16.65384615,0.862,Offensive Rebounds (put backs),0.022,1.333,1
+Offensive,Strength,Chicago,37,Ezra_Swell,3,2,1.5,Spot Up,0.5,3,1
+Offensive,Strength,Fontbonne,103,Erich_Schark,7.8125,21,0.938,Off Screen,0.031,1,0.5
+Offensive,Strength,Fontbonne,103,Erich_Schark,7.8125,21,0.938,Cut,0.18,1.304,0.722
+Offensive,Strength,Fontbonne,103,Erich_Schark,7.8125,21,0.938,P&R Roll Man,0.016,1,0.5
+Offensive,Strength,Fontbonne,103,Erich_Schark,7.8125,21,0.938,Transition,0.211,1.111,0.667
+Offensive,Strength,Fontbonne,103,Erich_Schark,7.8125,21,0.938,Offensive Rebounds (put backs),0.102,1.077,0.556
+Offensive,Strength,Knox,127,Eric_Thompson,4.333333333,11.66666667,0.86,Offensive Rebounds (put backs),0.14,1.667,0.833
+Offensive,Strength,Knox,127,Eric_Thompson,4.333333333,11.66666667,0.86,Spot Up,0.093,1,0.5
+Offensive,Strength,Knox,127,Eric_Thompson,4.333333333,11.66666667,0.86,Isolation,0.047,1,0
+Offensive,Strength,Knox,127,Eric_Thompson,4.333333333,11.66666667,0.86,Cut,0.233,1,0.5
+Offensive,Strength,EastWest,90,Eric_Spencer,4,6.083333333,0.658,Transition,0.137,1.1,0.571
+Offensive,Strength,EastWest,90,Eric_Spencer,4,6.083333333,0.658,Cut,0.096,0.857,0.5
+Offensive,Strength,EastWest,90,Eric_Spencer,4,6.083333333,0.658,P&R Roll Man,0.041,1.333,0.5
+Offensive,Strength,EastWest,90,Eric_Spencer,4,6.083333333,0.658,Offensive Rebounds (put backs),0.082,0.667,0.333
+Offensive,Strength,Knox,126,Eric_Pillath,1.9,7.4,1,P&R Roll Man,0.158,2,0.667
+Offensive,Strength,Knox,126,Eric_Pillath,1.9,7.4,1,Transition,0.105,2,1
+Offensive,Strength,Knox,126,Eric_Pillath,1.9,7.4,1,Post-Up,0.158,2,1
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,Spot Up,0.094,1.333,0.667
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,P&R Roll Man,0.079,0.9,0.5
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,Transition,0.047,1,0.5
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,Cut,0.15,0.895,0.533
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,Offensive Rebounds (put backs),0.134,1.412,0.917
+Offensive,Strength,Rose-Hulman,286,Eli_Combs,4.461538462,13.26923077,0.89,Off Screen,0.063,1.125,0.333
+Offensive,Strength,OlivetCollege,276,Eldridge_Mason,11.28571429,25.60714286,0.943,Transition,0.245,1.134,0.469
+Offensive,Strength,OlivetCollege,276,Eldridge_Mason,11.28571429,25.60714286,0.943,P&R Roll Man,0.033,1,0.556
+Offensive,Strength,OlivetCollege,276,Eldridge_Mason,11.28571429,25.60714286,0.943,Cut,0.033,1.727,0.889
+Offensive,Strength,MSOE,154,Eddie_Harwick,0.6,1.4,0.6,P&R Ball Handler,0.4,1,0.5
+Offensive,Strength,NorthPark,235,Dyron_Woods,3.85,9.55,0.714,Transition,0.114,1,0.5
+Offensive,Strength,NorthPark,235,Dyron_Woods,3.85,9.55,0.714,Offensive Rebounds (put backs),0.086,1,0.5
+Offensive,Strength,NorthPark,235,Dyron_Woods,3.85,9.55,0.714,Post-Up,0.324,0.853,0.519
+Offensive,Strength,NorthPark,235,Dyron_Woods,3.85,9.55,0.714,Cut,0.171,0.944,0.471
+Offensive,Strength,CornellCollege,57,Dylan_Murdock,0.4,3.8,0.667,Cut,0.333,2,1
+Offensive,Strength,Albion,7,Dylan_Bennett,2.947368421,14.84210526,0.908,Hand Off,0.015,2,1
+Offensive,Strength,Albion,7,Dylan_Bennett,2.947368421,14.84210526,0.908,Spot Up,0.662,1.023,0.349
+Offensive,Strength,Wabash,187,Duncan_Roy,1.555555556,5.388888889,1,P&R Roll Man,0.143,1.25,0.5
+Offensive,Strength,Wabash,187,Duncan_Roy,1.555555556,5.388888889,1,Spot Up,0.5,1.214,0.385
+Offensive,Strength,Wabash,187,Duncan_Roy,1.555555556,5.388888889,1,Cut,0.107,1.333,1
+Offensive,Strength,UWPlatteville,258,Drew_Gunnink,0.384615385,3.307692308,0.385,Off Screen,0.154,1.5,0.5
+Offensive,Strength,UWPlatteville,258,Drew_Gunnink,0.384615385,3.307692308,0.385,Post-Up,0.154,1,0
+Offensive,Strength,Chicago,36,Dominic_Laravie,2.56,7.72,0.8,Cut,0.263,0.905,0.5
+Offensive,Strength,Chicago,36,Dominic_Laravie,2.56,7.72,0.8,Transition,0.138,0.818,0.429
+Offensive,Strength,Chicago,36,Dominic_Laravie,2.56,7.72,0.8,Offensive Rebounds (put backs),0.15,0.917,0.5
+Offensive,Strength,Chicago,36,Dominic_Laravie,2.56,7.72,0.8,Spot Up,0.175,0.929,0.308
+Offensive,Strength,Chicago,36,Dominic_Laravie,2.56,7.72,0.8,P&R Ball Handler,0.013,2,1
+Offensive,Strength,DominicanIL,73,Domenic_Aiello,7.4,17.96,0.81,Spot Up,0.243,1.073,0.4
+Offensive,Strength,DominicanIL,73,Domenic_Aiello,7.4,17.96,0.81,Hand Off,0.031,0.857,0.286
+Offensive,Strength,DominicanIL,73,Domenic_Aiello,7.4,17.96,0.81,P&R Ball Handler,0.239,1.037,0.553
+Offensive,Strength,Knox,125,Dj_Lewis,7.352941176,23.82352941,0.75,Cut,0.024,1,0.667
+Offensive,Strength,Knox,125,Dj_Lewis,7.352941176,23.82352941,0.75,Spot Up,0.256,1.024,0.421
+Offensive,Strength,Knox,125,Dj_Lewis,7.352941176,23.82352941,0.75,P&R Ball Handler,0.159,0.885,0.444
+Offensive,Strength,OlivetCollege,275,Diangelo_Carlton,3.083333333,13.625,0.747,P&R Ball Handler,0.02,1.5,
+Offensive,Strength,OlivetCollege,275,Diangelo_Carlton,3.083333333,13.625,0.747,Post-Up,0.01,2,1
+Offensive,Strength,OlivetCollege,275,Diangelo_Carlton,3.083333333,13.625,0.747,Cut,0.061,1,0.6
+Offensive,Strength,OlivetCollege,275,Diangelo_Carlton,3.083333333,13.625,0.747,Transition,0.303,0.9,0.571
+Offensive,Strength,OlivetCollege,275,Diangelo_Carlton,3.083333333,13.625,0.747,Offensive Rebounds (put backs),0.071,1.714,0.833
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Transition,0.199,0.955,0.405
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Hand Off,0.05,0.818,0.364
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Offensive Rebounds (put backs),0.014,1,0.5
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Isolation,0.077,0.882,0.429
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,P&R Roll Man,0.005,3,1
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Spot Up,0.181,0.85,0.316
+Offensive,Strength,Knox,124,Deryk_Ruple,10.05882353,27.41176471,0.783,Cut,0.014,1.333,0.667
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,Hand Off,0.022,0.833,0.25
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,Post-Up,0.004,3,1
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,Offensive Rebounds (put backs),0.03,1,0.6
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,Isolation,0.124,1.061,0.5
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,P&R Ball Handler,0.146,0.872,0.483
+Offensive,Strength,Carthage,22,Derek_Mason_II,8.875,23.58333333,0.775,Spot Up,0.296,0.899,0.368
+Offensive,Strength,DominicanIL,72,Dennis_Handy,2.695652174,13.34782609,0.614,Offensive Rebounds (put backs),0.03,2,1
+Offensive,Strength,DominicanIL,72,Dennis_Handy,2.695652174,13.34782609,0.614,Transition,0.218,0.955,0.6
+Offensive,Strength,DominicanIL,72,Dennis_Handy,2.695652174,13.34782609,0.614,Hand Off,0.079,0.625,0.25
+Offensive,Strength,OlivetCollege,274,Delbert_Redfield,0.705882353,3.294117647,0.364,Spot Up,0.242,0.75,0.25
+Offensive,Strength,OlivetCollege,274,Delbert_Redfield,0.705882353,3.294117647,0.364,Hand Off,0.03,3,1
+Offensive,Strength,Rose-Hulman,285,David_Saadatnezhadi,0.666666667,2.666666667,0.333,Offensive Rebounds (put backs),0.167,2,1
+Offensive,Strength,MSOE,153,David_Llorente,0.454545455,2,0.417,Cut,0.083,2,1
+Offensive,Strength,MSOE,153,David_Llorente,0.454545455,2,0.417,Spot Up,0.333,0.5,0.25
+Offensive,Strength,MoodyBible,138,David_Arabis,9.8,20.8,0.681,Hand Off,0.194,1.071,0.417
+Offensive,Strength,MoodyBible,138,David_Arabis,9.8,20.8,0.681,Spot Up,0.208,1.333,0.5
+Offensive,Strength,MoodyBible,138,David_Arabis,9.8,20.8,0.681,Transition,0.083,0.833,0.5
+Offensive,Strength,Carthage,21,Dan_Messina,0.4,1.8,0.5,Miscellaneous,0.5,1,
+Offensive,Strength,UWPlatteville,257,Dan_Lowe,1.80952381,6.380952381,0.667,Cut,0.14,0.875,0.429
+Offensive,Strength,UWPlatteville,257,Dan_Lowe,1.80952381,6.380952381,0.667,Transition,0.123,1.571,0.833
+Offensive,Strength,UWPlatteville,257,Dan_Lowe,1.80952381,6.380952381,0.667,Offensive Rebounds (put backs),0.105,0.833,0.667
+Offensive,Strength,Kalamazoo,218,Dan_Black,0.153846154,2.769230769,0.222,Spot Up,0.556,0.4,0.25
+Offensive,Strength,Wabash,186,Dalton_Vachon,1.0625,10.75,0.531,Post-Up,0.219,0.714,0.4
+Offensive,Strength,Wabash,186,Dalton_Vachon,1.0625,10.75,0.531,P&R Roll Man,0.156,1.2,0.75
+Offensive,Strength,Wabash,186,Dalton_Vachon,1.0625,10.75,0.531,Offensive Rebounds (put backs),0.219,0.714,0.4
+Offensive,Strength,CornellCollege,56,Craig_Engle,4.333333333,18.5,0.778,Spot Up,0.469,1,0.333
+Offensive,Strength,CornellCollege,56,Craig_Engle,4.333333333,18.5,0.778,Hand Off,0.025,1,0.5
+Offensive,Strength,CornellCollege,56,Craig_Engle,4.333333333,18.5,0.778,Miscellaneous,0.099,0.875,
+Offensive,Strength,EastWest,88,Cortland_Gillespie,7.066666667,11,0.679,Transition,0.246,0.818,0.526
+Offensive,Strength,EastWest,88,Cortland_Gillespie,7.066666667,11,0.679,Offensive Rebounds (put backs),0.037,1.4,1
+Offensive,Strength,EastWest,88,Cortland_Gillespie,7.066666667,11,0.679,Off Screen,0.007,2,1
+Offensive,Strength,EastWest,88,Cortland_Gillespie,7.066666667,11,0.679,Spot Up,0.246,0.788,0.391
+Offensive,Strength,EastWest,88,Cortland_Gillespie,7.066666667,11,0.679,P&R Ball Handler,0.097,0.692,0.25
+Offensive,Strength,Albion,6,Corey_Wheeler,13.13636364,23.63636364,0.964,Cut,0.042,1.462,0.7
+Offensive,Strength,Albion,6,Corey_Wheeler,13.13636364,23.63636364,0.964,P&R Ball Handler,0.091,1.143,0.579
+Offensive,Strength,Albion,6,Corey_Wheeler,13.13636364,23.63636364,0.964,Offensive Rebounds (put backs),0.068,1.429,0.684
+Offensive,Strength,Albion,6,Corey_Wheeler,13.13636364,23.63636364,0.964,Transition,0.182,1.179,0.488
+Offensive,Strength,CornellCollege,55,Corey_Davis,12.71428571,24.14285714,0.789,Transition,0.335,0.963,0.583
+Offensive,Strength,CornellCollege,55,Corey_Davis,12.71428571,24.14285714,0.789,Cut,0.004,2,1
+Offensive,Strength,CornellCollege,55,Corey_Davis,12.71428571,24.14285714,0.789,Isolation,0.07,0.824,0.364
+Offensive,Strength,CornellCollege,55,Corey_Davis,12.71428571,24.14285714,0.789,P&R Ball Handler,0.298,0.792,0.429
+Offensive,Strength,CornellCollege,55,Corey_Davis,12.71428571,24.14285714,0.789,Post-Up,0.004,2,1
+Offensive,Strength,CornellCollege,54,Cooper_Kabela,3,10.85714286,0.935,Cut,0.109,1.2,0.6
+Offensive,Strength,CornellCollege,54,Cooper_Kabela,3,10.85714286,0.935,Miscellaneous,0.022,1,
+Offensive,Strength,CornellCollege,54,Cooper_Kabela,3,10.85714286,0.935,Post-Up,0.109,1.6,1
+Offensive,Strength,CornellCollege,54,Cooper_Kabela,3,10.85714286,0.935,P&R Roll Man,0.13,1.333,0.667
+Offensive,Strength,Wabash,185,Connor_Rotterman,12,30.91666667,0.781,Spot Up,0.284,0.875,0.32
+Offensive,Strength,Wabash,185,Connor_Rotterman,12,30.91666667,0.781,Off Screen,0.068,1.04,0.429
+Offensive,Strength,Wabash,185,Connor_Rotterman,12,30.91666667,0.781,Isolation,0.057,0.81,0.375
+Offensive,Strength,Wabash,185,Connor_Rotterman,12,30.91666667,0.781,Hand Off,0.044,1.062,0.429
+Offensive,Strength,Wabash,185,Connor_Rotterman,12,30.91666667,0.781,Cut,0.019,0.857,0.429
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,Off Screen,0.007,2,
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,P&R Roll Man,0.125,0.706,0.286
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,Offensive Rebounds (put backs),0.147,0.6,0.286
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,Post-Up,0.162,0.545,0.25
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,Isolation,0.022,0.667,1
+Offensive,Strength,DominicanIL,71,Connor_Dartt,2.6,14.32,0.507,Spot Up,0.184,0.68,0.318
+Offensive,Strength,Wabash,184,Conner_Brens,3.333333333,12.06666667,0.962,Cut,0.077,1.25,0.667
+Offensive,Strength,Wabash,184,Conner_Brens,3.333333333,12.06666667,0.962,P&R Roll Man,0.212,1.182,0.75
+Offensive,Strength,Wabash,184,Conner_Brens,3.333333333,12.06666667,0.962,Post-Up,0.462,1.042,0.571
+Offensive,Strength,Wabash,183,Colten_Garland,7.625,25,0.724,Spot Up,0.35,1.023,0.363
+Offensive,Strength,Wabash,183,Colten_Garland,7.625,25,0.724,Cut,0.008,2,1
+Offensive,Strength,Wabash,183,Colten_Garland,7.625,25,0.724,Hand Off,0.093,0.739,0.304
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,Transition,0.068,1.13,0.545
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,P&R Ball Handler,0.009,1.333,1
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,P&R Roll Man,0.068,1.261,0.667
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,Cut,0.062,1,0.389
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,Offensive Rebounds (put backs),0.115,1.179,0.652
+Offensive,Strength,Chicago,35,Collin_Barthel,13.39130435,31.13043478,0.911,Off Screen,0.015,1.2,0.4
+Offensive,Strength,NorthPark,234,Colin_Lake,19.96153846,34.5,0.934,Offensive Rebounds (put backs),0.013,1,0.4
+Offensive,Strength,NorthPark,234,Colin_Lake,19.96153846,34.5,0.934,Spot Up,0.137,1.162,0.417
+Offensive,Strength,NorthPark,234,Colin_Lake,19.96153846,34.5,0.934,Off Screen,0.1,0.981,0.34
+Offensive,Strength,NorthPark,234,Colin_Lake,19.96153846,34.5,0.934,Cut,0.061,1.182,0.577
+Offensive,Strength,NorthPark,234,Colin_Lake,19.96153846,34.5,0.934,Transition,0.161,1.172,0.485
+Offensive,Strength,UWPlatteville,256,Colin_Kramper,0.6,4.333333333,0.6,Off Screen,0.133,1,0.5
+Offensive,Strength,UWPlatteville,256,Colin_Kramper,0.6,4.333333333,0.6,Cut,0.067,2,1
+Offensive,Strength,UWPlatteville,256,Colin_Kramper,0.6,4.333333333,0.6,Spot Up,0.2,1,0.5
+Offensive,Strength,UWPlatteville,255,Colin_Connelly,2.285714286,7.333333333,0.842,Cut,0.07,1.5,0.667
+Offensive,Strength,UWPlatteville,255,Colin_Connelly,2.285714286,7.333333333,0.842,Hand Off,0.053,1,0.5
+Offensive,Strength,UWPlatteville,255,Colin_Connelly,2.285714286,7.333333333,0.842,Transition,0.246,1.286,0.75
+Offensive,Strength,UWPlatteville,255,Colin_Connelly,2.285714286,7.333333333,0.842,Post-Up,0.018,2,
+Offensive,Strength,Chicago,34,Cole_Schmitz,2,7.95,0.769,Spot Up,0.192,0.8,0.4
+Offensive,Strength,Chicago,34,Cole_Schmitz,2,7.95,0.769,Cut,0.135,1.143,0.667
+Offensive,Strength,Chicago,34,Cole_Schmitz,2,7.95,0.769,Transition,0.096,0.8,0.5
+Offensive,Strength,Chicago,34,Cole_Schmitz,2,7.95,0.769,Post-Up,0.038,1,0.5
+Offensive,Strength,Chicago,34,Cole_Schmitz,2,7.95,0.769,Offensive Rebounds (put backs),0.25,1.077,0.538
+Offensive,Strength,UWPlatteville,254,Cole_Hake,0.5,2.2,0.556,Offensive Rebounds (put backs),0.111,2,
+Offensive,Strength,UWPlatteville,254,Cole_Hake,0.5,2.2,0.556,Spot Up,0.222,1.5,0.5
+Offensive,Strength,CornellCollege,53,Cody_Carter,2.615384615,11,0.733,Transition,0.15,1,0.5
+Offensive,Strength,CornellCollege,53,Cody_Carter,2.615384615,11,0.733,Cut,0.017,2,1
+Offensive,Strength,CornellCollege,53,Cody_Carter,2.615384615,11,0.733,Offensive Rebounds (put backs),0.033,1,0
+Offensive,Strength,CornellCollege,53,Cody_Carter,2.615384615,11,0.733,Post-Up,0.033,1,1
+Offensive,Strength,CornellCollege,53,Cody_Carter,2.615384615,11,0.733,Spot Up,0.417,0.84,0.318
+Offensive,Strength,UWPlatteville,253,Clay_Gerds,7.896551724,25.37931034,1.019,P&R Roll Man,0.051,1.091,0.6
+Offensive,Strength,UWPlatteville,253,Clay_Gerds,7.896551724,25.37931034,1.019,Offensive Rebounds (put backs),0.194,1.262,0.636
+Offensive,Strength,UWPlatteville,253,Clay_Gerds,7.896551724,25.37931034,1.019,Cut,0.227,1.224,0.675
+Offensive,Strength,UWPlatteville,253,Clay_Gerds,7.896551724,25.37931034,1.019,Transition,0.056,1.167,0.636
+Offensive,Strength,GustavusAdolphus,302,CJ_Woda,2.476190476,9.238095238,0.675,Cut,0.208,0.938,0.462
+Offensive,Strength,GustavusAdolphus,302,CJ_Woda,2.476190476,9.238095238,0.675,Transition,0.182,1.143,0.778
+Offensive,Strength,GustavusAdolphus,302,CJ_Woda,2.476190476,9.238095238,0.675,P&R Roll Man,0.013,3,1
+Offensive,Strength,OlivetCollege,273,Chase_Brocker,5.642857143,15.10714286,0.981,Hand Off,0.088,1.071,0.273
+Offensive,Strength,OlivetCollege,273,Chase_Brocker,5.642857143,15.10714286,0.981,Transition,0.195,1.258,0.647
+Offensive,Strength,OlivetCollege,273,Chase_Brocker,5.642857143,15.10714286,0.981,Spot Up,0.409,1.046,0.386
+Offensive,Strength,OlivetCollege,273,Chase_Brocker,5.642857143,15.10714286,0.981,Isolation,0.025,1,0.667
+Offensive,Strength,GustavusAdolphus,301,Charlie_Krambeer,2.263157895,11.05263158,0.878,Spot Up,0.531,1.115,0.455
+Offensive,Strength,GustavusAdolphus,301,Charlie_Krambeer,2.263157895,11.05263158,0.878,Transition,0.143,1.286,0.75
+Offensive,Strength,Kalamazoo,217,Charlie_Carson,1.764705882,5.705882353,0.714,Spot Up,0.524,0.909,0.316
+Offensive,Strength,Kalamazoo,217,Charlie_Carson,1.764705882,5.705882353,0.714,Cut,0.071,1.333,0.667
+Offensive,Strength,Rose-Hulman,284,Charlie_Aimone,11.81481481,25,1.051,Spot Up,0.247,1.154,0.431
+Offensive,Strength,Rose-Hulman,284,Charlie_Aimone,11.81481481,25,1.051,Off Screen,0.206,1.169,0.474
+Offensive,Strength,Rose-Hulman,284,Charlie_Aimone,11.81481481,25,1.051,Hand Off,0.041,1.154,0.455
+Offensive,Strength,Rose-Hulman,284,Charlie_Aimone,11.81481481,25,1.051,Transition,0.104,1.364,0.714
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,Spot Up,0.158,1.519,0.583
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,Cut,0.181,1.129,0.615
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,P&R Roll Man,0.129,1.5,0.667
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,Transition,0.047,2.25,1
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,Off Screen,0.076,1.385,0.5
+Offensive,Strength,Roosevelt,170,Chandler_Fuzak,6.3,13,1.105,Offensive Rebounds (put backs),0.047,1.5,0.714
+Offensive,Strength,UWPlatteville,252,Carter_Voelker,10.20689655,28.89655172,1.014,Hand Off,0.034,1.3,0.556
+Offensive,Strength,UWPlatteville,252,Carter_Voelker,10.20689655,28.89655172,1.014,Spot Up,0.271,1.19,0.42
+Offensive,Strength,UWPlatteville,252,Carter_Voelker,10.20689655,28.89655172,1.014,Cut,0.045,1.462,0.8
+Offensive,Strength,UWPlatteville,252,Carter_Voelker,10.20689655,28.89655172,1.014,Transition,0.179,1.288,0.548
+Offensive,Strength,Roosevelt,169,Carson_Hughes,8.909090909,24.03030303,0.933,P&R Roll Man,0.006,2.5,1
+Offensive,Strength,Roosevelt,169,Carson_Hughes,8.909090909,24.03030303,0.933,Transition,0.17,1.151,0.478
+Offensive,Strength,Roosevelt,169,Carson_Hughes,8.909090909,24.03030303,0.933,Off Screen,0.173,0.944,0.396
+Offensive,Strength,Roosevelt,169,Carson_Hughes,8.909090909,24.03030303,0.933,Spot Up,0.285,1.135,0.405
+Offensive,Strength,EastWest,87,Carl_Moore,12.46666667,25.66666667,0.72,Transition,0.197,0.979,0.4
+Offensive,Strength,EastWest,87,Carl_Moore,12.46666667,25.66666667,0.72,Off Screen,0.05,1.25,0.5
+Offensive,Strength,EastWest,87,Carl_Moore,12.46666667,25.66666667,0.72,Post-Up,0.205,0.878,0.472
+Offensive,Strength,EastWest,87,Carl_Moore,12.46666667,25.66666667,0.72,Cut,0.021,0.8,0.5
+Offensive,Strength,NorthPark,233,Cardell_Simmons,1.25,5.5,0.357,Isolation,0.143,0.5,0
+Offensive,Strength,NorthPark,233,Cardell_Simmons,1.25,5.5,0.357,Transition,0.214,0.667,0
+Offensive,Strength,NorthPark,233,Cardell_Simmons,1.25,5.5,0.357,Spot Up,0.214,0.667,0
+Offensive,Strength,IllinoisTech,317,Capriest_Gardner,3.470588235,15.47058824,0.67,Cut,0.102,0.889,0.5
+Offensive,Strength,IllinoisTech,317,Capriest_Gardner,3.470588235,15.47058824,0.67,Transition,0.17,0.867,0.6
+Offensive,Strength,IllinoisTech,317,Capriest_Gardner,3.470588235,15.47058824,0.67,Offensive Rebounds (put backs),0.114,0.7,0.333
+Offensive,Strength,IllinoisTech,317,Capriest_Gardner,3.470588235,15.47058824,0.67,Post-Up,0.159,0.786,0.385
+Offensive,Strength,IllinoisTech,316,Calvin_Schmitz,2.111111111,10.11111111,0.633,Transition,0.167,0.7,0.4
+Offensive,Strength,IllinoisTech,316,Calvin_Schmitz,2.111111111,10.11111111,0.633,Off Screen,0.083,1.2,0.4
+Offensive,Strength,IllinoisTech,316,Calvin_Schmitz,2.111111111,10.11111111,0.633,Offensive Rebounds (put backs),0.05,0.667,0.5
+Offensive,Strength,IllinoisTech,316,Calvin_Schmitz,2.111111111,10.11111111,0.633,P&R Ball Handler,0.083,1.6,0.8
+Offensive,Strength,Albion,5,Caden_Ebeling,5.48,14.84,0.792,Transition,0.071,1.077,0.455
+Offensive,Strength,Albion,5,Caden_Ebeling,5.48,14.84,0.792,Offensive Rebounds (put backs),0.142,1.115,0.474
+Offensive,Strength,Albion,5,Caden_Ebeling,5.48,14.84,0.792,Cut,0.131,1.25,0.609
+Offensive,Strength,WheatonIL,199,Cade_Alioth,1.5,7.045454545,1.32,Transition,0.16,1.75,0.75
+Offensive,Strength,WheatonIL,199,Cade_Alioth,1.5,7.045454545,1.32,Cut,0.2,2,1
+Offensive,Strength,WheatonIL,199,Cade_Alioth,1.5,7.045454545,1.32,Offensive Rebounds (put backs),0.24,1.333,0.667
+Offensive,Strength,WheatonIL,199,Cade_Alioth,1.5,7.045454545,1.32,Spot Up,0.12,1.667,0.667
+Offensive,Strength,Knox,122,Bryce_Wilkinson,3.75,9.375,0.921,Spot Up,0.254,1.312,0.5
+Offensive,Strength,Knox,122,Bryce_Wilkinson,3.75,9.375,0.921,Off Screen,0.159,1.4,0.5
+Offensive,Strength,Knox,122,Bryce_Wilkinson,3.75,9.375,0.921,P&R Ball Handler,0.048,1,1
+Offensive,Strength,Knox,122,Bryce_Wilkinson,3.75,9.375,0.921,Offensive Rebounds (put backs),0.063,1,1
+Offensive,Strength,Fontbonne,102,Brian_Wacha,0.6,2,1.5,Spot Up,0.5,3,1
+Offensive,Strength,MSOE,152,Brian_Dorn,2.307692308,10.96153846,0.723,Cut,0.108,1.222,0.625
+Offensive,Strength,MSOE,152,Brian_Dorn,2.307692308,10.96153846,0.723,P&R Ball Handler,0.241,0.95,0.6
+Offensive,Strength,MSOE,152,Brian_Dorn,2.307692308,10.96153846,0.723,Isolation,0.024,1,0.5
+Offensive,Strength,MSOE,152,Brian_Dorn,2.307692308,10.96153846,0.723,Transition,0.169,1,0.75
+Offensive,Strength,EastWest,86,Brian_Ashberry,5,12.15384615,0.625,Post-Up,0.087,0.667,0.333
+Offensive,Strength,EastWest,86,Brian_Ashberry,5,12.15384615,0.625,Cut,0.202,0.762,0.5
+Offensive,Strength,EastWest,86,Brian_Ashberry,5,12.15384615,0.625,Miscellaneous,0.077,0.75,1
+Offensive,Strength,EastWest,86,Brian_Ashberry,5,12.15384615,0.625,Transition,0.26,0.815,0.45
+Offensive,Strength,IllinoisTech,314,Brett_Ott,0.7,3.9,0.438,Off Screen,0.188,1,0.5
+Offensive,Strength,Carthage,20,Brett_Czerak,1.333333333,4.333333333,0.667,Off Screen,0.333,1,0.5
+Offensive,Strength,OlivetCollege,272,Brent_Davis,0.285714286,4.142857143,0.583,Cut,0.083,2,1
+Offensive,Strength,OlivetCollege,272,Brent_Davis,0.285714286,4.142857143,0.583,Transition,0.25,1.667,0.667
+Offensive,Strength,Kalamazoo,216,Brennen_Buszka,1.772727273,11.86363636,0.588,Cut,0.088,1,1
+Offensive,Strength,Kalamazoo,216,Brennen_Buszka,1.772727273,11.86363636,0.588,Offensive Rebounds (put backs),0.147,1,0.4
+Offensive,Strength,Kalamazoo,216,Brennen_Buszka,1.772727273,11.86363636,0.588,Spot Up,0.294,0.75,0.571
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,Transition,0.073,1.571,1
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,Off Screen,0.083,1,0.571
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,P&R Roll Man,0.01,2,1
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,Hand Off,0.021,1.5,0.5
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,Cut,0.25,1.208,0.7
+Offensive,Strength,GustavusAdolphus,300,Brandon_Snoberger,4.842105263,12.94736842,0.958,Isolation,0.042,1,0.667
+Offensive,Strength,Carthage,19,Brad_Perry,10.04,23.52,0.951,Transition,0.019,1.8,0.75
+Offensive,Strength,Carthage,19,Brad_Perry,10.04,23.52,0.951,Cut,0.174,1.196,0.639
+Offensive,Strength,Carthage,19,Brad_Perry,10.04,23.52,0.951,Offensive Rebounds (put backs),0.095,1.04,0.647
+Offensive,Strength,Carthage,18,Brad_Kruse,16.12,36.76,1.056,Cut,0.061,1.174,0.632
+Offensive,Strength,Carthage,18,Brad_Kruse,16.12,36.76,1.056,Spot Up,0.218,1.134,0.462
+Offensive,Strength,Carthage,18,Brad_Kruse,16.12,36.76,1.056,P&R Roll Man,0.032,1.083,0.556
+Offensive,Strength,Carthage,18,Brad_Kruse,16.12,36.76,1.056,Offensive Rebounds (put backs),0.098,1.216,0.625
+Offensive,Strength,Carthage,18,Brad_Kruse,16.12,36.76,1.056,Transition,0.141,1.509,0.78
+Offensive,Strength,CornellCollege,51,Brad_Hund,8.642857143,22.07142857,0.907,Off Screen,0.036,1.2,0.5
+Offensive,Strength,CornellCollege,51,Brad_Hund,8.642857143,22.07142857,0.907,Offensive Rebounds (put backs),0.15,1.571,0.833
+Offensive,Strength,CornellCollege,51,Brad_Hund,8.642857143,22.07142857,0.907,Cut,0.129,1.222,0.667
+Offensive,Strength,CornellCollege,51,Brad_Hund,8.642857143,22.07142857,0.907,Transition,0.05,1,0.6
+Offensive,Strength,OlivetCollege,271,Blake_Siersma,2.892857143,13.03571429,1,Transition,0.136,1.091,1
+Offensive,Strength,OlivetCollege,271,Blake_Siersma,2.892857143,13.03571429,1,Post-Up,0.099,1.125,0.667
+Offensive,Strength,OlivetCollege,271,Blake_Siersma,2.892857143,13.03571429,1,Cut,0.383,1.194,0.619
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Post-Up,0.171,0.857,0.45
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Offensive Rebounds (put backs),0.073,1,0.545
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Cut,0.22,1.111,0.517
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Transition,0.085,1.357,0.571
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Off Screen,0.024,1.25,0.667
+Offensive,Strength,Knox,121,Blake_Godbold,8.117647059,29.70588235,0.823,Spot Up,0.226,0.892,0.314
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,Transition,0.146,0.933,0.469
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,Off Screen,0.101,1.032,0.448
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,Cut,0.13,1.3,0.667
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,P&R Roll Man,0.013,1.5,0.667
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,Hand Off,0.016,1,0.5
+Offensive,Strength,NorthPark,232,Billy_Kirby,11.03846154,29.03846154,0.932,Offensive Rebounds (put backs),0.016,1.6,0.75
+Offensive,Strength,Wabash,181,Ben_Stachowski,5.5,16.625,0.898,Post-Up,0.02,2,
+Offensive,Strength,Wabash,181,Ben_Stachowski,5.5,16.625,0.898,Offensive Rebounds (put backs),0.061,1.333,0.667
+Offensive,Strength,Wabash,181,Ben_Stachowski,5.5,16.625,0.898,Cut,0.061,1.333,1
+Offensive,Strength,Wabash,181,Ben_Stachowski,5.5,16.625,0.898,Transition,0.184,1,0.5
+Offensive,Strength,Wabash,181,Ben_Stachowski,5.5,16.625,0.898,Off Screen,0.061,1.667,0.667
+Offensive,Strength,Kalamazoo,215,Ben_Reiter,10.8,25.36,0.92,Off Screen,0.056,0.938,0.313
+Offensive,Strength,Kalamazoo,215,Ben_Reiter,10.8,25.36,0.92,Cut,0.073,0.952,0.474
+Offensive,Strength,Kalamazoo,215,Ben_Reiter,10.8,25.36,0.92,Hand Off,0.017,2.2,1
+Offensive,Strength,Kalamazoo,215,Ben_Reiter,10.8,25.36,0.92,Spot Up,0.395,1.115,0.38
+Offensive,Strength,MSOE,151,Bailey_Mcdaniel,2.956521739,7.739130435,0.973,Offensive Rebounds (put backs),0.027,2,1
+Offensive,Strength,MSOE,151,Bailey_Mcdaniel,2.956521739,7.739130435,0.973,Transition,0.253,1.053,0.538
+Offensive,Strength,MSOE,151,Bailey_Mcdaniel,2.956521739,7.739130435,0.973,Hand Off,0.013,2,1
+Offensive,Strength,MSOE,151,Bailey_Mcdaniel,2.956521739,7.739130435,0.973,Miscellaneous,0.093,1.571,1
+Offensive,Strength,MSOE,151,Bailey_Mcdaniel,2.956521739,7.739130435,0.973,P&R Roll Man,0.013,2,1
+Offensive,Strength,Albion,4,Austin_Thompson,0.4,2.6,0.667,Transition,0.333,2,
+Offensive,Strength,GustavusAdolphus,299,Austin_Goetz,2.5,26.70833333,0.594,Spot Up,0.317,0.625,0.276
+Offensive,Strength,GustavusAdolphus,299,Austin_Goetz,2.5,26.70833333,0.594,Offensive Rebounds (put backs),0.05,0.6,0.25
+Offensive,Strength,GustavusAdolphus,299,Austin_Goetz,2.5,26.70833333,0.594,Transition,0.168,1.235,0.727
+Offensive,Strength,GustavusAdolphus,299,Austin_Goetz,2.5,26.70833333,0.594,Post-Up,0.02,1,1
+Offensive,Strength,CornellCollege,50,Austin_Dyer,0.571428571,5.428571429,0.333,Offensive Rebounds (put backs),0.167,2,1
+Offensive,Strength,WheatonIL,198,Aston_Francis,27.38461538,34.61538462,0.989,Transition,0.125,1.273,0.58
+Offensive,Strength,WheatonIL,198,Aston_Francis,27.38461538,34.61538462,0.989,P&R Roll Man,0.003,1,0.5
+Offensive,Strength,WheatonIL,198,Aston_Francis,27.38461538,34.61538462,0.989,Off Screen,0.246,1.052,0.397
+Offensive,Strength,WheatonIL,198,Aston_Francis,27.38461538,34.61538462,0.989,Hand Off,0.111,1.064,0.413
+Offensive,Strength,WheatonIL,198,Aston_Francis,27.38461538,34.61538462,0.989,Offensive Rebounds (put backs),0.016,1,0.625
+Offensive,Strength,Albion,3,Arshawn_Parker,4.777777778,10.66666667,0.905,Transition,0.211,1.15,0.444
+Offensive,Strength,Albion,3,Arshawn_Parker,4.777777778,10.66666667,0.905,Spot Up,0.4,0.974,0.361
+Offensive,Strength,Albion,3,Arshawn_Parker,4.777777778,10.66666667,0.905,Isolation,0.032,1.333,0.5
+Offensive,Strength,DominicanIL,70,Arrin_Westbrook,2.1,4.6,0.75,Off Screen,0.071,1,0.5
+Offensive,Strength,DominicanIL,70,Arrin_Westbrook,2.1,4.6,0.75,Offensive Rebounds (put backs),0.071,1,0.5
+Offensive,Strength,DominicanIL,70,Arrin_Westbrook,2.1,4.6,0.75,Isolation,0.107,1.333,0.667
+Offensive,Strength,DominicanIL,70,Arrin_Westbrook,2.1,4.6,0.75,Hand Off,0.071,2,1
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,Transition,0.103,0.895,0.429
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,P&R Ball Handler,0.011,1.5,0.5
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,Spot Up,0.272,0.9,0.311
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,Offensive Rebounds (put backs),0.049,1.222,0.625
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,Cut,0.141,1.077,0.545
+Offensive,Strength,Albion,2,Aquavius_Burks,5.869565217,17.34782609,0.772,Isolation,0.076,0.786,0.364
+Offensive,Strength,NorthPark,231,Antonio_Gardner,2.6,7.9,0.839,Spot Up,0.5,1.065,0.393
+Offensive,Strength,NorthPark,231,Antonio_Gardner,2.6,7.9,0.839,Cut,0.016,2,1
+Offensive,Strength,NorthPark,231,Antonio_Gardner,2.6,7.9,0.839,Miscellaneous,0.081,1.2,0.667
+Offensive,Strength,NorthPark,231,Antonio_Gardner,2.6,7.9,0.839,Hand Off,0.065,1,0.5
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,Transition,0.184,0.885,0.533
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,P&R Ball Handler,0.028,1.25,0.5
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,Post-Up,0.071,1,0.625
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,Offensive Rebounds (put backs),0.057,1.5,0.667
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,Off Screen,0.014,1.5,0.5
+Offensive,Strength,DominicanIL,69,Antonio_Amoah,5.454545455,14.09090909,0.872,Cut,0.135,1.632,0.778
+Offensive,Strength,IllinoisTech,313,Anthony_Mosley,14.93333333,35.2,0.842,P&R Ball Handler,0.457,0.876,0.444
+Offensive,Strength,IllinoisTech,313,Anthony_Mosley,14.93333333,35.2,0.842,Transition,0.211,0.982,0.595
+Offensive,Strength,IllinoisTech,313,Anthony_Mosley,14.93333333,35.2,0.842,Offensive Rebounds (put backs),0.015,1,0.667
+Offensive,Strength,Fontbonne,101,Anthony_Loper,2.166666667,10.83333333,0.481,Transition,0.185,1.2,0.667
+Offensive,Strength,Fontbonne,101,Anthony_Loper,2.166666667,10.83333333,0.481,Spot Up,0.111,0.667,0.5
+Offensive,Strength,Fontbonne,101,Anthony_Loper,2.166666667,10.83333333,0.481,Offensive Rebounds (put backs),0.074,1,0.5
+Offensive,Strength,Fontbonne,101,Anthony_Loper,2.166666667,10.83333333,0.481,Cut,0.148,0.5,0.333
+Offensive,Strength,MSOE,150,Anthony_Bartman,0.5,2.5,1,Post-Up,0.5,2,1
+Offensive,Strength,OlivetCollege,270,Angus_Bennett,2.321428571,10.96428571,0.905,Transition,0.041,1.333,0.667
+Offensive,Strength,OlivetCollege,270,Angus_Bennett,2.321428571,10.96428571,0.905,Cut,0.324,1.042,0.545
+Offensive,Strength,OlivetCollege,270,Angus_Bennett,2.321428571,10.96428571,0.905,Miscellaneous,0.068,1,1
+Offensive,Strength,OlivetCollege,270,Angus_Bennett,2.321428571,10.96428571,0.905,Offensive Rebounds (put backs),0.27,0.95,0.533
+Offensive,Strength,DominicanIL,68,Andrew_Wojcik,2.6875,6.9375,0.754,Off Screen,0.105,1,0.5
+Offensive,Strength,DominicanIL,68,Andrew_Wojcik,2.6875,6.9375,0.754,Spot Up,0.281,1.188,0.462
+Offensive,Strength,DominicanIL,68,Andrew_Wojcik,2.6875,6.9375,0.754,Hand Off,0.07,1.5,0.75
+Offensive,Strength,Kalamazoo,214,Andrew_Sheckell,1.92,9.56,0.696,Spot Up,0.377,0.885,0.348
+Offensive,Strength,Kalamazoo,214,Andrew_Sheckell,1.92,9.56,0.696,P&R Roll Man,0.043,2,1
+Offensive,Strength,Kalamazoo,214,Andrew_Sheckell,1.92,9.56,0.696,Transition,0.072,1.6,0.6
+Offensive,Strength,Kalamazoo,214,Andrew_Sheckell,1.92,9.56,0.696,Offensive Rebounds (put backs),0.087,0.833,0.25
+Offensive,Strength,Roosevelt,168,Andre_Raiford_Jr.,1.692307692,8.076923077,0.588,Offensive Rebounds (put backs),0.147,1.2,0.5
+Offensive,Strength,Roosevelt,168,Andre_Raiford_Jr.,1.692307692,8.076923077,0.588,Spot Up,0.088,1.333,0.667
+Offensive,Strength,Roosevelt,168,Andre_Raiford_Jr.,1.692307692,8.076923077,0.588,Transition,0.118,1.5,1
+Offensive,Strength,Roosevelt,168,Andre_Raiford_Jr.,1.692307692,8.076923077,0.588,P&R Roll Man,0.029,2,1
+Offensive,Strength,EastWest,84,Amare_Thurman,3.416666667,8.333333333,0.654,P&R Ball Handler,0.115,0.778,0.429
+Offensive,Strength,EastWest,84,Amare_Thurman,3.416666667,8.333333333,0.654,Isolation,0.115,1,0.444
+Offensive,Strength,EastWest,84,Amare_Thurman,3.416666667,8.333333333,0.654,Post-Up,0.026,2,1
+Offensive,Strength,EastWest,84,Amare_Thurman,3.416666667,8.333333333,0.654,Spot Up,0.244,0.737,0.25
+Offensive,Strength,EastWest,84,Amare_Thurman,3.416666667,8.333333333,0.654,Offensive Rebounds (put backs),0.077,0.667,0.4
+Offensive,Strength,Knox,120,Alik_Airapetyan,1.090909091,5.090909091,0.48,Spot Up,0.16,1.5,0.667
+Offensive,Strength,Knox,120,Alik_Airapetyan,1.090909091,5.090909091,0.48,Transition,0.12,0.667,0.333
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,Offensive Rebounds (put backs),0.074,1.2,0.667
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,Cut,0.074,1,0.444
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,P&R Ball Handler,0.059,1.125,0.75
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,Hand Off,0.007,2,1
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,Transition,0.178,1.375,0.611
+Offensive,Strength,UWPlatteville,251,Alex_Ranney,4.448275862,15.55172414,0.963,Spot Up,0.311,1.167,0.462
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Transition,0.05,1.286,0.6
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,P&R Ball Handler,0.071,1,0.467
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Isolation,0.057,1.062,0.444
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Hand Off,0.036,1.4,0.8
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Offensive Rebounds (put backs),0.05,1.143,0.6
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Cut,0.068,1.263,0.647
+Offensive,Strength,Wabash,180,Alex_Eberhard,9.692307692,27.5,0.897,Off Screen,0.036,0.9,0.4
+Offensive,Strength,EastWest,83,Ahmad_Eshftari,1.2,2.4,0.333,Miscellaneous,0.083,1,
+Offensive,Strength,EastWest,83,Ahmad_Eshftari,1.2,2.4,0.333,Post-Up,0.5,0.5,0.2
+Offensive,Strength,EastWest,82,Adonis_Bell,3,12,0.5,P&R Roll Man,0.167,1,0.5
+Offensive,Strength,EastWest,82,Adonis_Bell,3,12,0.5,Transition,0.25,0.667,0.5
+Offensive,Strength,EastWest,82,Adonis_Bell,3,12,0.5,Spot Up,0.167,1,0.5
+Offensive,Strength,Carthage,17,Adam_Radcliffe,0.4,2.2,0.5,P&R Ball Handler,0.5,1,0.5
+Offensive,Strength,Albion,1,Adam_Davis,3,11.61111111,0.841,Transition,0.072,1,0.4
+Offensive,Strength,Albion,1,Adam_Davis,3,11.61111111,0.841,Post-Up,0.101,1.143,1
+Offensive,Strength,Albion,1,Adam_Davis,3,11.61111111,0.841,Offensive Rebounds (put backs),0.116,1.5,0.8
+Offensive,Strength,Roosevelt,167,Adam_Alexander,9.242424242,26.27272727,0.914,Offensive Rebounds (put backs),0.083,0.963,0.45
+Offensive,Strength,Roosevelt,167,Adam_Alexander,9.242424242,26.27272727,0.914,Cut,0.129,1.048,0.613
+Offensive,Strength,Roosevelt,167,Adam_Alexander,9.242424242,26.27272727,0.914,P&R Ball Handler,0.003,3,1
+Offensive,Strength,Roosevelt,167,Adam_Alexander,9.242424242,26.27272727,0.914,Transition,0.113,1.27,0.645
+Offensive,Strength,OlivetCollege,269,Aaron_Washington,3.84,8.52,0.777,Spot Up,0.313,0.857,0.303
+Offensive,Strength,OlivetCollege,269,Aaron_Washington,3.84,8.52,0.777,Offensive Rebounds (put backs),0.009,3,1
+Offensive,Strength,OlivetCollege,269,Aaron_Washington,3.84,8.52,0.777,Transition,0.295,1.061,0.5
+Offensive,Strength,NorthPark,230,Aaron_Reed,3.038461538,15.03846154,0.778,Off Screen,0.056,1,0.333
+Offensive,Strength,NorthPark,230,Aaron_Reed,3.038461538,15.03846154,0.778,Transition,0.231,1.04,0.667
+Offensive,Strength,NorthPark,230,Aaron_Reed,3.038461538,15.03846154,0.778,Spot Up,0.37,0.9,0.375
+Offensive,Strength,Knox,119,Aaron_Crose,2.916666667,10.16666667,0.714,Cut,0.163,0.875,0.333
+Offensive,Strength,Knox,119,Aaron_Crose,2.916666667,10.16666667,0.714,P&R Roll Man,0.143,1.429,0.571
+Offensive,Strength,Knox,119,Aaron_Crose,2.916666667,10.16666667,0.714,Isolation,0.02,2,
+Offensive,Strength,Knox,119,Aaron_Crose,2.916666667,10.16666667,0.714,Transition,0.082,0.75,1
+Offensive,Strength,Knox,119,Aaron_Crose,2.916666667,10.16666667,0.714,Spot Up,0.102,1.4,0.667
+Offensive,Strength,MoodyBible,137,Aaron_Brown,0.666666667,0.333333333,0.4,Spot Up,0.8,0.5,0.25

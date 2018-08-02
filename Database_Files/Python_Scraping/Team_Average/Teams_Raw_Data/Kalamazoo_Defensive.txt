@@ -1,0 +1,494 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Kalamazoo College Hornets	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: Kalamazoo College Hornets	Date Range: 11/17/2017 to 02/17/2018	Number of Games: 25
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	100%	2065	1812	0.877	60%	Good	849	612	1461	41.9%	49.1%	17.2%	13.7%	8.7%	39.9%
+ Transition	15.1%	312	318	1.019	34%	Average	108	113	221	51.1%	56.3%	15.4%	17%	13.5%	48.4%
+ Overall Half Court	84.9%	1753	1494	0.852	65%	Very Good	741	499	1240	40.2%	47.8%	17.6%	13.1%	7.8%	38.4%
+                    Short Shot Clock <4 Seconds	3.7%	76	34	0.447	96%	Excellent	51	11	62	17.7%	23.4%	13.2%	5.3%	0%	18.4%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	9.1%	159	126	0.792	68%	Very Good	64	44	108	40.7%	46.8%	21.4%	10.7%	7.5%	37.1%
+         Out of Bounds (Side)	3.7%	65	48	0.738	69%	Very Good	30	16	46	34.8%	41.3%	18.5%	12.3%	10.8%	32.3%
+         After Time Outs	10.8%	189	143	0.757	85%	Excellent	90	47	137	34.3%	41.6%	16.9%	12.2%	6.9%	33.3%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	97.4%	1708	1443	0.845	67%	Very Good	726	482	1208	39.9%	47.3%	17.6%	13.1%	7.8%	38.2%
+    Zone Defense	2.6%	45	51	1.133	7%	Poor	15	17	32	53.1%	68.8%	17.8%	13.3%	8.9%	46.7%
+Breakdown of Full Court Press Situations:
+  Press Defense	0.9%	16	17	1.062	11%	Poor	2	2	4	50%	62.5%	31.3%	43.8%	6.3%	56.3%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	30.2%	623	591	0.949	38%	Average	334	200	534	37.5%	50.7%	9.8%	5.1%	4.3%	36.6%
+ Transition	15.1%	312	318	1.019	34%	Average	108	113	221	51.1%	56.3%	15.4%	17%	13.5%	48.4%
+ Cut	8.9%	183	195	1.066	59%	Good	57	80	137	58.4%	58.4%	12.6%	16.4%	14.8%	53%
+ Off Screen	7.6%	157	117	0.745	87%	Excellent	89	41	130	31.5%	39.6%	11.5%	6.4%	3.8%	30.6%
+ Post-Up	7.5%	155	113	0.729	89%	Excellent	56	44	100	44%	44%	21.3%	14.8%	9.7%	38.7%
+ P&R Ball Handler	6.9%	142	84	0.592	96%	Excellent	61	26	87	29.9%	32.2%	25.4%	14.1%	8.5%	29.6%
+ Offensive Rebounds (put backs)	5.8%	119	109	0.916	91%	Excellent	42	37	79	46.8%	46.8%	13.4%	25.2%	20.2%	49.6%
+ Isolation	5.2%	107	102	0.953	10%	Poor	37	32	69	46.4%	51.4%	13.1%	23.4%	14%	45.8%
+ Hand Off	2.8%	57	41	0.719	76%	Very Good	32	14	46	30.4%	39.1%	12.3%	7%	1.8%	29.8%
+ P&R Roll Man	2.5%	52	43	0.827	79%	Very Good	22	16	38	42.1%	44.7%	21.2%	11.5%	9.6%	36.5%
+ Miscellaneous	7.7%	158	99	0.627	8%	Poor	11	9	20	45%	55%	56.3%	31.6%	3.2%	34.2%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	7.1%	147	139	0.946	17%	Below Average	55	43	98	43.9%	51%	14.3%	19.7%	12.2%	43.5%
+  Pick and Rolls Including Passes	15.4%	318	249	0.783	84%	Excellent	149	85	234	36.3%	43.4%	17.3%	11%	7.9%	34.3%
+  Post-Ups Including Passes	10.9%	225	186	0.827	77%	Very Good	89	71	160	44.4%	49.1%	18.2%	11.6%	8%	39.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.9%	40	37	0.925	56%	Good	18	11	29	37.9%	50%	17.5%	10%	7.5%	37.5%
+  P&R BH - Defense Commits	10.3%	213	173	0.812	57%	Good	88	59	147	40.1%	50%	24.4%	8.9%	6.1%	33.3%
+  Post-Up - Defense Commits	3.4%	70	73	1.043	48%	Average	33	27	60	45%	57.5%	11.4%	4.3%	4.3%	41.4%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.1%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+  Post-Up - Hard Double	1.9%	40	35	0.875	40%	Average	13	14	27	51.9%	64.8%	27.5%	5%	2.5%	35%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	56.9%	705	675	0.957	50%	Average	462	243	705	34.5%	47.8%	0%	0.1%	0.1%	34.5%
+          Short Shot Clock <4 Seconds	3.7%	46	25	0.543	68%	Very Good	37	9	46	19.6%	27.2%	0%	0%	0%	19.6%
+Runner	4.8%	59	40	0.678	67%	Very Good	39	20	59	33.9%	33.9%	0%	0%	0%	33.9%
+          Short Shot Clock <4 Seconds	0.5%	6	0	0	-	-	6	0	6	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	30.3%	376	402	1.069	69%	Very Good	184	192	376	51.1%	51.1%	0%	6.1%	6.1%	51.1%
+Post-Ups	8.1%	100	89	0.89	78%	Very Good	56	44	100	44%	44%	0%	1%	1%	44%
+          Short Shot Clock <4 Seconds	0.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	40.9%	507	532	1.049	41%	Average	326	181	507	35.7%	52.4%	0%	0.2%	0.2%	35.7%
+  Guarded	66.9%	339	321	0.947	63%	Good	230	109	339	32.2%	47.2%	0%	0.3%	0.3%	32.2%
+  Unguarded	33.1%	168	211	1.256	14%	Poor	96	72	168	42.9%	62.8%	0%	0%	0%	42.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	13.2%	164	106	0.646	92%	Excellent	117	47	164	28.7%	32.3%	0%	0%	0%	28.7%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	12.1%	85	52	0.612	89%	Excellent	59	26	85	30.6%	30.6%	0%	0%	0%	30.6%
+Medium (17' to <3 point line)	12.9%	91	58	0.637	76%	Very Good	62	29	91	31.9%	31.9%	0%	0%	0%	31.9%
+Long (3 point jump shots)	75%	529	565	1.068	30%	Below Average	341	188	529	35.5%	53.3%	0%	0.2%	0.2%	35.5%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	100%	2065	1812	0.877	60%	Good	849	612	1461	41.9%	49.1%	17.2%	13.7%	8.7%	39.9%
+#3 Tanner Blyly	12.2%	251	214	0.853	56%	Good	121	75	196	38.3%	46.7%	14.7%	7.6%	5.2%	36.7%
+#50 Jimmy Paprocki	7.5%	155	126	0.813	66%	Very Good	72	47	119	39.5%	47.1%	16.8%	7.7%	6.5%	35.5%
+#34 Jack Smith	6.7%	139	131	0.942	32%	Average	63	41	104	39.4%	51.9%	13.7%	12.2%	6.5%	38.8%
+#15 Roger Hood	6.4%	133	117	0.88	49%	Average	70	40	110	36.4%	44.5%	7.5%	9.8%	6%	38.3%
+#24 Ben Reiter	6.1%	126	114	0.905	42%	Average	61	41	102	40.2%	49.5%	11.9%	9.5%	4.8%	37.3%
+#1 Jeremiah Vincent	3.7%	76	74	0.974	26%	Below Average	40	24	64	37.5%	53.1%	11.8%	3.9%	2.6%	35.5%
+#14 Brennen Buszka	3.5%	73	58	0.795	70%	Very Good	34	20	54	37%	47.2%	20.5%	5.5%	5.5%	32.9%
+#33 Jordan Currie	3.2%	66	39	0.591	94%	Excellent	43	12	55	21.8%	28.2%	7.6%	9.1%	4.5%	25.8%
+#42 Merritt Hamann	2.8%	58	50	0.862	54%	Good	26	17	43	39.5%	47.7%	10.3%	15.5%	13.8%	37.9%
+#30 Andrew Sheckell	2.7%	55	39	0.709	85%	Excellent	27	13	40	32.5%	38.8%	14.5%	14.5%	10.9%	34.5%
+#20 Jarnard Smith	2.1%	44	36	0.818	65%	Very Good	24	10	34	29.4%	41.2%	11.4%	11.4%	4.5%	31.8%
+#5 KaLeif Gaines	1.7%	36	20	0.556	95%	Excellent	16	8	24	33.3%	41.7%	33.3%	0%	0%	22.2%
+#25 Charlie Carson	1.2%	24	20	0.833	61%	Good	8	7	15	46.7%	53.3%	25%	16.7%	8.3%	37.5%
+#40 Thomas Cook	1.1%	22	23	1.045	15%	Below Average	8	8	16	50%	59.4%	13.6%	18.2%	18.2%	50%
+#22 Dan Black	0.5%	11	7	0.636	92%	Excellent	8	1	9	11.1%	16.7%	0%	18.2%	18.2%	27.3%
+#100 Unidentifiable Player	0.3%	7	5	0.714	-	-	4	2	6	33.3%	41.7%	14.3%	0%	0%	28.6%
+#10 Alex Dykema	0.1%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#52 Owen Jozefowicz	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	30.2%	623	591	0.949	38%	Average	334	200	534	37.5%	50.7%	9.8%	5.1%	4.3%	36.6%
+#3 Tanner Blyly	17.8%	111	107	0.964	42%	Average	56	38	94	40.4%	52.1%	10.8%	4.5%	2.7%	38.7%
+#34 Jack Smith	11.6%	72	82	1.139	16%	Below Average	34	26	60	43.3%	59.2%	8.3%	8.3%	5.6%	44.4%
+#50 Jimmy Paprocki	10.6%	66	62	0.939	46%	Average	37	21	58	36.2%	50%	9.1%	4.5%	4.5%	34.8%
+#15 Roger Hood	10.1%	63	52	0.825	68%	Very Good	41	18	59	30.5%	43.2%	4.8%	1.6%	1.6%	30.2%
+#24 Ben Reiter	9.6%	60	65	1.083	22%	Below Average	30	23	53	43.4%	57.5%	10%	5%	3.3%	40%
+#33 Jordan Currie	6.6%	41	25	0.61	92%	Excellent	28	8	36	22.2%	30.6%	7.3%	4.9%	4.9%	24.4%
+#1 Jeremiah Vincent	6.4%	40	45	1.125	17%	Below Average	20	16	36	44.4%	62.5%	10%	0%	0%	40%
+#14 Brennen Buszka	6.1%	38	35	0.921	50%	Average	19	12	31	38.7%	53.2%	15.8%	2.6%	2.6%	34.2%
+#30 Andrew Sheckell	4.7%	29	20	0.69	86%	Excellent	16	6	22	27.3%	38.6%	13.8%	10.3%	10.3%	31%
+#20 Jarnard Smith	4%	25	20	0.8	72%	Very Good	14	7	21	33.3%	47.6%	16%	0%	0%	28%
+#42 Merritt Hamann	3.9%	24	21	0.875	60%	Good	15	6	21	28.6%	40.5%	4.2%	8.3%	8.3%	33.3%
+#25 Charlie Carson	2.1%	13	13	1	34%	Average	3	5	8	62.5%	75%	30.8%	7.7%	7.7%	46.2%
+#40 Thomas Cook	1.9%	12	18	1.5	2%	Poor	3	6	9	66.7%	83.3%	8.3%	25%	25%	66.7%
+#5 KaLeif Gaines	1.8%	11	11	1	34%	Average	6	4	10	40%	55%	9.1%	0%	0%	36.4%
+#22 Dan Black	1.8%	11	7	0.636	91%	Excellent	8	1	9	11.1%	16.7%	0%	18.2%	18.2%	27.3%
+#100 Unidentifiable Player	0.5%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#10 Alex Dykema	0.5%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#52 Owen Jozefowicz	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	7.6%	157	117	0.745	87%	Excellent	89	41	130	31.5%	39.6%	11.5%	6.4%	3.8%	30.6%
+#3 Tanner Blyly	19.7%	31	17	0.548	85%	Excellent	22	7	29	24.1%	27.6%	6.5%	3.2%	3.2%	22.6%
+#15 Roger Hood	18.5%	29	26	0.897	52%	Good	14	9	23	39.1%	45.7%	6.9%	13.8%	10.3%	41.4%
+#34 Jack Smith	15.9%	25	20	0.8	63%	Good	15	7	22	31.8%	40.9%	8%	4%	0%	32%
+#24 Ben Reiter	11.5%	18	16	0.889	52%	Good	10	4	14	28.6%	42.9%	5.6%	16.7%	11.1%	33.3%
+#1 Jeremiah Vincent	6.4%	10	17	1.7	1%	Poor	4	6	10	60%	85%	0%	0%	0%	60%
+#14 Brennen Buszka	5.7%	9	5	0.556	-	-	3	2	5	40%	50%	44.4%	0%	0%	22.2%
+#50 Jimmy Paprocki	3.8%	6	0	0	-	-	3	0	3	0%	0%	50%	0%	0%	0%
+#25 Charlie Carson	3.8%	6	2	0.333	-	-	4	1	5	20%	20%	16.7%	0%	0%	16.7%
+#30 Andrew Sheckell	3.8%	6	2	0.333	-	-	4	1	5	20%	20%	16.7%	0%	0%	16.7%
+#33 Jordan Currie	3.2%	5	5	1	-	-	3	2	5	40%	50%	0%	0%	0%	40%
+#5 KaLeif Gaines	2.5%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#40 Thomas Cook	1.9%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#42 Merritt Hamann	1.3%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#20 Jarnard Smith	1.3%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	0%	50%
+#100 Unidentifiable Player	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	7.5%	155	113	0.729	89%	Excellent	56	44	100	44%	44%	21.3%	14.8%	9.7%	38.7%
+#50 Jimmy Paprocki	40.6%	63	44	0.698	76%	Very Good	24	17	41	41.5%	41.5%	22.2%	14.3%	11.1%	36.5%
+#24 Ben Reiter	15.5%	24	15	0.625	84%	Excellent	12	7	19	36.8%	36.8%	16.7%	4.2%	0%	33.3%
+#42 Merritt Hamann	14.2%	22	17	0.773	64%	Good	6	6	12	50%	50%	18.2%	27.3%	22.7%	40.9%
+#15 Roger Hood	5.8%	9	10	1.111	-	-	4	5	9	55.6%	55.6%	0%	0%	0%	55.6%
+#3 Tanner Blyly	4.5%	7	10	1.429	-	-	0	4	4	100%	100%	28.6%	14.3%	0%	71.4%
+#30 Andrew Sheckell	4.5%	7	2	0.286	-	-	3	1	4	25%	25%	28.6%	14.3%	0%	14.3%
+#5 KaLeif Gaines	3.9%	6	4	0.667	-	-	0	2	2	100%	100%	66.7%	0%	0%	33.3%
+#33 Jordan Currie	3.9%	6	5	0.833	-	-	3	0	3	0%	0%	0%	50%	16.7%	50%
+#100 Unidentifiable Player	1.9%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#34 Jack Smith	1.9%	3	1	0.333	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+#40 Thomas Cook	1.3%	2	3	1.5	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#1 Jeremiah Vincent	1.3%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#14 Brennen Buszka	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	6.9%	142	84	0.592	96%	Excellent	61	26	87	29.9%	32.2%	25.4%	14.1%	8.5%	29.6%
+#3 Tanner Blyly	32.4%	46	26	0.565	82%	Very Good	21	8	29	27.6%	29.3%	23.9%	13%	10.9%	28.3%
+#34 Jack Smith	14.1%	20	10	0.5	89%	Excellent	7	4	11	36.4%	36.4%	35%	15%	5%	25%
+#14 Brennen Buszka	9.9%	14	9	0.643	71%	Very Good	6	3	9	33.3%	33.3%	21.4%	14.3%	14.3%	35.7%
+#15 Roger Hood	8.5%	12	9	0.75	52%	Good	4	2	6	33.3%	33.3%	25%	25%	8.3%	41.7%
+#20 Jarnard Smith	7%	10	10	1	15%	Below Average	6	3	9	33.3%	44.4%	0%	10%	10%	40%
+#1 Jeremiah Vincent	7%	10	7	0.7	62%	Good	4	1	5	20%	30%	30%	20%	10%	30%
+#5 KaLeif Gaines	6.3%	9	2	0.222	-	-	4	1	5	20%	20%	44.4%	0%	0%	11.1%
+#24 Ben Reiter	4.2%	6	5	0.833	-	-	1	2	3	66.7%	66.7%	33.3%	16.7%	16.7%	50%
+#30 Andrew Sheckell	3.5%	5	4	0.8	-	-	2	2	4	50%	50%	20%	0%	0%	40%
+#33 Jordan Currie	2.8%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#25 Charlie Carson	2.1%	3	2	0.667	-	-	0	0	0	-	-	33.3%	66.7%	0%	33.3%
+#50 Jimmy Paprocki	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Thomas Cook	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Merritt Hamann	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	5.2%	107	102	0.953	10%	Poor	37	32	69	46.4%	51.4%	13.1%	23.4%	14%	45.8%
+#3 Tanner Blyly	30.8%	33	37	1.121	12%	Poor	9	12	21	57.1%	64.3%	18.2%	18.2%	12.1%	54.5%
+#15 Roger Hood	9.3%	10	12	1.2	7%	Poor	3	3	6	50%	50%	0%	40%	30%	60%
+#24 Ben Reiter	9.3%	10	9	0.9	35%	Average	3	3	6	50%	50%	20%	30%	10%	40%
+#34 Jack Smith	9.3%	10	13	1.3	4%	Poor	1	3	4	75%	100%	10%	50%	20%	60%
+#50 Jimmy Paprocki	7.5%	8	8	1	-	-	3	4	7	57.1%	57.1%	12.5%	0%	0%	50%
+#14 Brennen Buszka	6.5%	7	9	1.286	-	-	3	3	6	50%	58.3%	0%	14.3%	14.3%	57.1%
+#1 Jeremiah Vincent	6.5%	7	2	0.286	-	-	5	0	5	0%	0%	14.3%	14.3%	14.3%	14.3%
+#33 Jordan Currie	4.7%	5	0	0	-	-	3	0	3	0%	0%	20%	20%	0%	0%
+#42 Merritt Hamann	3.7%	4	5	1.25	-	-	1	2	3	66.7%	83.3%	0%	25%	25%	50%
+#30 Andrew Sheckell	3.7%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#5 KaLeif Gaines	2.8%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#40 Thomas Cook	2.8%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#20 Jarnard Smith	2.8%	3	2	0.667	-	-	0	0	0	-	-	33.3%	66.7%	33.3%	33.3%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	2.8%	57	41	0.719	76%	Very Good	32	14	46	30.4%	39.1%	12.3%	7%	1.8%	29.8%
+#3 Tanner Blyly	29.8%	17	15	0.882	42%	Average	10	5	15	33.3%	50%	11.8%	0%	0%	29.4%
+#15 Roger Hood	10.5%	6	2	0.333	-	-	4	1	5	20%	20%	16.7%	0%	0%	16.7%
+#24 Ben Reiter	10.5%	6	4	0.667	-	-	3	2	5	40%	40%	0%	16.7%	0%	33.3%
+#1 Jeremiah Vincent	10.5%	6	3	0.5	-	-	4	1	5	20%	30%	16.7%	0%	0%	16.7%
+#34 Jack Smith	8.8%	5	3	0.6	-	-	2	1	3	33.3%	50%	40%	0%	0%	20%
+#14 Brennen Buszka	5.3%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#33 Jordan Currie	5.3%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#20 Jarnard Smith	5.3%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	0%	33.3%
+#50 Jimmy Paprocki	3.5%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#5 KaLeif Gaines	3.5%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#30 Andrew Sheckell	3.5%	2	3	1.5	-	-	0	0	0	-	-	0%	100%	50%	100%
+#25 Charlie Carson	1.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Thomas Cook	1.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Kalamazoo College Hornets	2.5%	52	43	0.827	79%	Very Good	22	16	38	42.1%	44.7%	21.2%	11.5%	9.6%	36.5%
+#50 Jimmy Paprocki	17.3%	9	10	1.111	-	-	3	4	7	57.1%	71.4%	22.2%	0%	0%	44.4%
+#3 Tanner Blyly	11.5%	6	2	0.333	-	-	3	1	4	25%	25%	33.3%	0%	0%	16.7%
+#42 Merritt Hamann	9.6%	5	2	0.4	-	-	3	1	4	25%	25%	20%	0%	0%	20%
+#15 Roger Hood	7.7%	4	6	1.5	-	-	0	2	2	100%	100%	25%	25%	0%	75%
+#34 Jack Smith	7.7%	4	2	0.5	-	-	3	0	3	0%	0%	0%	25%	25%	25%
+#24 Ben Reiter	3.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#33 Jordan Currie	3.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#30 Andrew Sheckell	3.8%	2	5	2.5	-	-	0	2	2	100%	100%	0%	50%	50%	100%
+#25 Charlie Carson	1.9%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+#5 KaLeif Gaines	1.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#14 Brennen Buszka	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Jarnard Smith	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#1 Jeremiah Vincent	1.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

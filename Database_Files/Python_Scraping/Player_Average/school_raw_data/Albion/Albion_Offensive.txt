@@ -1,0 +1,594 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Albion Britons	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 06/29/2018
+Season: 2017-2018	Team: Albion Britons	Date Range: 11/17/2017 to 02/17/2018	Number of Games: 25
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	100%	2077	1807	0.87	43%	Average	896	649	1545	42%	48.2%	15.5%	12.2%	7.8%	39.8%
+ Transition	13.6%	283	291	1.028	72%	Very Good	117	98	215	45.6%	52.8%	11.7%	17%	13.8%	45.6%
+ Overall Half Court	86.4%	1794	1516	0.845	43%	Average	779	551	1330	41.4%	47.5%	16.1%	11.4%	6.9%	38.9%
+                    Short Shot Clock <4 Seconds	3.8%	79	48	0.608	30%	Below Average	50	19	69	27.5%	33.3%	11.4%	2.5%	1.3%	25.3%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.2%	148	120	0.811	40%	Average	69	46	115	40%	46.1%	14.9%	10.8%	8.1%	37.2%
+         Out of Bounds (Side)	3.7%	66	58	0.879	69%	Very Good	24	20	44	45.5%	48.9%	18.2%	16.7%	13.6%	43.9%
+         After Time Outs	10.6%	190	150	0.789	34%	Average	86	54	140	38.6%	42.9%	16.8%	11.1%	5.8%	37.4%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	86%	1543	1304	0.845	46%	Average	662	468	1130	41.4%	47.5%	16.5%	11.9%	6.7%	39%
+    Against Zone	14%	251	212	0.845	32%	Average	117	83	200	41.5%	47.3%	13.5%	8.8%	8%	38.2%
+Breakdown of Full Court Press Situations:
+  Press Offense	4.7%	85	66	0.776	35%	Average	34	20	54	37%	42.6%	23.5%	14.1%	5.9%	36.5%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	31.5%	654	598	0.914	51%	Good	364	205	569	36%	47.9%	7.8%	6.1%	5%	35.9%
+ Post-Up	15.4%	320	267	0.834	48%	Average	111	107	218	49.1%	49.1%	19.1%	15%	7.8%	43.4%
+ Transition	13.6%	283	291	1.028	72%	Very Good	117	98	215	45.6%	52.8%	11.7%	17%	13.8%	45.6%
+ Offensive Rebounds (put backs)	7.5%	155	188	1.213	90%	Excellent	45	76	121	62.8%	63.6%	7.1%	17.4%	12.9%	61.3%
+ Cut	6.6%	138	150	1.087	55%	Good	49	64	113	56.6%	56.6%	5.8%	14.5%	14.5%	57.2%
+ P&R Ball Handler	5.4%	112	86	0.768	53%	Good	57	31	88	35.2%	38.6%	10.7%	14.3%	9.8%	34.8%
+ Off Screen	4.3%	90	64	0.711	18%	Below Average	53	25	78	32.1%	37.8%	10%	4.4%	4.4%	31.1%
+ Isolation	4.3%	89	53	0.596	10%	Poor	43	21	64	32.8%	34.4%	20.2%	10.1%	4.5%	29.2%
+ Hand Off	1.7%	36	30	0.833	59%	Good	17	11	28	39.3%	46.4%	13.9%	8.3%	5.6%	38.9%
+ P&R Roll Man	1.4%	29	11	0.379	0%	Poor	22	4	26	15.4%	21.2%	10.3%	0%	0%	13.8%
+ Miscellaneous	8.2%	171	69	0.404	28%	Below Average	18	7	25	28%	28%	64.3%	22.2%	2.9%	22.8%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6.5%	135	108	0.8	40%	Average	67	38	105	36.2%	42.9%	14.1%	9.6%	5.9%	34.8%
+  Pick and Rolls Including Passes	10.5%	218	167	0.766	23%	Below Average	123	60	183	32.8%	38.3%	7.8%	10.1%	6.9%	33.9%
+  Post-Ups Including Passes	22.7%	472	426	0.903	59%	Good	188	163	351	46.4%	51.9%	15.5%	11.7%	6.8%	42.6%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.2%	46	55	1.196	87%	Excellent	24	17	41	41.5%	56.1%	2.2%	8.7%	8.7%	45.7%
+  P&R BH - Defense Commits	5.6%	117	83	0.709	22%	Below Average	66	29	95	30.5%	37.9%	12.8%	6%	3.4%	30.8%
+  Post-Up - Defense Commits	7.3%	152	159	1.046	54%	Good	77	56	133	42.1%	56.4%	7.9%	4.6%	4.6%	40.8%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.3%	7	0	0	-	-	5	0	5	0%	0%	28.6%	0%	0%	0%
+  Post-Up - Hard Double	5.8%	121	97	0.802	51%	Good	51	35	86	40.7%	53.5%	24%	5%	5%	33.1%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	52%	692	631	0.912	38%	Average	458	234	692	33.8%	45.4%	0%	0.6%	0.6%	33.8%
+          Short Shot Clock <4 Seconds	3.5%	46	35	0.761	75%	Very Good	33	13	46	28.3%	37%	0%	2.2%	2.2%	28.3%
+Runner	5.3%	71	60	0.845	81%	Very Good	42	29	71	40.8%	40.8%	0%	4.2%	4.2%	40.8%
+          Short Shot Clock <4 Seconds	0.5%	7	2	0.286	-	-	6	1	7	14.3%	14.3%	0%	0%	0%	14.3%
+Around Basket (not Post-Ups)	26.2%	349	375	1.074	39%	Average	168	181	349	51.9%	51.9%	0%	4.3%	4.3%	51.9%
+Post-Ups	16.4%	218	216	0.991	58%	Good	111	107	218	49.1%	49.1%	0%	3.2%	3.2%	49.1%
+          Short Shot Clock <4 Seconds	0.3%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	34.9%	464	453	0.976	33%	Average	309	155	464	33.4%	48.8%	0%	0.4%	0.4%	33.4%
+  Guarded	59.5%	276	266	0.964	46%	Average	185	91	276	33%	48.2%	0%	0.4%	0.4%	33%
+  Unguarded	40.5%	188	187	0.995	25%	Below Average	124	64	188	34%	49.7%	0%	0.5%	0.5%	34%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	14.7%	196	151	0.77	50%	Average	129	67	196	34.2%	38%	0%	1%	1%	34.2%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	16.3%	113	79	0.699	35%	Average	74	39	113	34.5%	34.5%	0%	0.9%	0.9%	34.5%
+Medium (17' to <3 point line)	11.6%	80	69	0.863	87%	Excellent	46	34	80	42.5%	42.5%	0%	1.3%	1.3%	42.5%
+Long (3 point jump shots)	72.1%	499	483	0.968	32%	Average	338	161	499	32.3%	48.4%	0%	0.4%	0.4%	32.3%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	100%	2077	1807	0.87	43%	Average	896	649	1545	42%	48.2%	15.5%	12.2%	7.8%	39.8%
+#4 Corey Wheeler	14.8%	308	297	0.964	78%	Very Good	121	100	221	45.2%	49.8%	13.6%	21.1%	14.9%	45.1%
+#20 Jaylen Fordham	10.4%	216	171	0.792	41%	Average	101	60	161	37.3%	48.4%	19.9%	6%	2.8%	31.5%
+#44 Quinton Armstrong	9.8%	204	196	0.961	77%	Very Good	75	86	161	53.4%	55.3%	13.7%	10.3%	5.9%	46.6%
+#30 Nathaniel Collins	8.9%	185	174	0.941	73%	Very Good	86	59	145	40.7%	48.6%	11.4%	11.4%	7%	41.1%
+#24 Aquavius Burks	8.9%	184	142	0.772	37%	Average	78	48	126	38.1%	44%	20.1%	13.6%	9.8%	36.4%
+#42 Caden Ebeling	8.8%	183	145	0.792	41%	Average	90	54	144	37.5%	40.3%	12%	10.9%	7.7%	38.3%
+#54 Ryan Lowe	7.4%	153	165	1.078	93%	Excellent	33	69	102	67.6%	67.6%	19%	15%	8.5%	56.9%
+#14 Jamezell Davis Jr.	7.3%	152	119	0.783	39%	Average	78	41	119	34.5%	43.7%	14.5%	7.9%	3.9%	33.6%
+#3 Robert Ryan	6.4%	132	87	0.659	20%	Below Average	60	25	85	29.4%	37.1%	23.5%	12.1%	7.6%	29.5%
+#10 Arshawn Parker	4.6%	95	86	0.905	65%	Very Good	49	29	78	37.2%	46.8%	9.5%	9.5%	6.3%	36.8%
+#22 Juwan Perry	3.5%	72	70	0.972	79%	Very Good	30	24	54	44.4%	52.8%	12.5%	16.7%	16.7%	44.4%
+#52 Adam Davis	3.3%	69	58	0.841	51%	Good	28	20	48	41.7%	45.8%	15.9%	14.5%	7.2%	42%
+#12 Dylan Bennett	3.1%	65	59	0.908	66%	Very Good	40	20	60	33.3%	48.3%	6.2%	1.5%	0%	32.3%
+#40 Nathan Kellum	1.8%	38	27	0.711	27%	Below Average	15	11	26	42.3%	42.3%	21.1%	10.5%	2.6%	36.8%
+#5 Ojani Echevarria	0.9%	18	9	0.5	7%	Poor	11	3	14	21.4%	32.1%	22.2%	0%	0%	16.7%
+#32 Austin Thompson	0.1%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	31.5%	654	598	0.914	51%	Good	364	205	569	36%	47.9%	7.8%	6.1%	5%	35.9%
+#4 Corey Wheeler	14.5%	95	88	0.926	57%	Good	44	29	73	39.7%	50%	11.6%	13.7%	12.6%	41.1%
+#20 Jaylen Fordham	12.8%	84	94	1.119	84%	Excellent	40	31	71	43.7%	62%	10.7%	4.8%	2.4%	40.5%
+#30 Nathaniel Collins	11.5%	75	62	0.827	40%	Average	44	22	66	33.3%	40.2%	5.3%	8%	8%	36%
+#3 Robert Ryan	10.6%	69	56	0.812	37%	Average	35	19	54	35.2%	46.3%	15.9%	5.8%	5.8%	31.9%
+#14 Jamezell Davis Jr.	9.6%	63	66	1.048	75%	Very Good	36	23	59	39%	53.4%	4.8%	1.6%	1.6%	38.1%
+#24 Aquavius Burks	7.6%	50	45	0.9	52%	Good	31	14	45	31.1%	45.6%	6%	6%	4%	32%
+#12 Dylan Bennett	6.6%	43	44	1.023	72%	Very Good	28	15	43	34.9%	51.2%	0%	0%	0%	34.9%
+#10 Arshawn Parker	5.8%	38	37	0.974	64%	Good	23	13	36	36.1%	48.6%	2.6%	2.6%	0%	36.8%
+#22 Juwan Perry	5.7%	37	34	0.919	55%	Good	19	12	31	38.7%	50%	10.8%	5.4%	5.4%	37.8%
+#42 Caden Ebeling	5.2%	34	14	0.412	4%	Poor	26	5	31	16.1%	22.6%	5.9%	5.9%	5.9%	14.7%
+#44 Quinton Armstrong	5.2%	34	32	0.941	59%	Good	19	13	32	40.6%	48.4%	5.9%	2.9%	2.9%	38.2%
+#52 Adam Davis	3.4%	22	18	0.818	39%	Average	12	6	18	33.3%	38.9%	4.5%	13.6%	4.5%	40.9%
+#5 Ojani Echevarria	1.1%	7	6	0.857	-	-	5	2	7	28.6%	42.9%	0%	0%	0%	28.6%
+#40 Nathan Kellum	0.3%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#32 Austin Thompson	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	15.4%	320	267	0.834	48%	Average	111	107	218	49.1%	49.1%	19.1%	15%	7.8%	43.4%
+#44 Quinton Armstrong	28.1%	90	76	0.844	52%	Good	36	37	73	50.7%	50.7%	13.3%	7.8%	3.3%	42.2%
+#54 Ryan Lowe	26.9%	86	79	0.919	66%	Very Good	20	32	52	61.5%	61.5%	26.7%	14%	5.8%	48.8%
+#42 Caden Ebeling	20.3%	65	49	0.754	36%	Average	30	19	49	38.8%	38.8%	15.4%	12.3%	9.2%	38.5%
+#24 Aquavius Burks	10.3%	33	25	0.758	37%	Average	10	6	16	37.5%	37.5%	24.2%	30.3%	18.2%	39.4%
+#4 Corey Wheeler	8.4%	27	23	0.852	54%	Good	11	7	18	38.9%	38.9%	7.4%	29.6%	18.5%	48.1%
+#40 Nathan Kellum	3.8%	12	7	0.583	14%	Poor	4	2	6	33.3%	33.3%	33.3%	16.7%	0%	33.3%
+#52 Adam Davis	2.2%	7	8	1.143	-	-	0	4	4	100%	100%	28.6%	14.3%	0%	57.1%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	13.6%	283	291	1.028	72%	Very Good	117	98	215	45.6%	52.8%	11.7%	17%	13.8%	45.6%
+#4 Corey Wheeler	19.8%	56	66	1.179	81%	Very Good	21	20	41	48.8%	51.2%	8.9%	33.9%	28.6%	51.8%
+#30 Nathaniel Collins	14.8%	42	47	1.119	73%	Very Good	17	16	33	48.5%	60.6%	11.9%	9.5%	9.5%	45.2%
+#20 Jaylen Fordham	14.1%	40	26	0.65	11%	Poor	22	8	30	26.7%	36.7%	15%	10%	5%	25%
+#14 Jamezell Davis Jr.	9.2%	26	16	0.615	9%	Poor	11	6	17	35.3%	41.2%	26.9%	7.7%	3.8%	30.8%
+#10 Arshawn Parker	7.1%	20	23	1.15	77%	Very Good	10	8	18	44.4%	55.6%	5%	10%	10%	45%
+#24 Aquavius Burks	6.7%	19	17	0.895	38%	Average	8	6	14	42.9%	42.9%	10.5%	21.1%	15.8%	47.4%
+#3 Robert Ryan	5.3%	15	17	1.133	75%	Very Good	5	3	8	37.5%	43.8%	13.3%	33.3%	20%	53.3%
+#22 Juwan Perry	5.3%	15	17	1.133	75%	Very Good	5	6	11	54.5%	59.1%	6.7%	26.7%	26.7%	60%
+#42 Caden Ebeling	4.6%	13	14	1.077	67%	Very Good	6	5	11	45.5%	59.1%	7.7%	7.7%	7.7%	46.2%
+#44 Quinton Armstrong	3.9%	11	19	1.727	100%	Excellent	1	9	10	90%	90%	9.1%	9.1%	9.1%	81.8%
+#12 Dylan Bennett	2.5%	7	6	0.857	-	-	4	2	6	33.3%	50%	14.3%	0%	0%	28.6%
+#52 Adam Davis	1.8%	5	5	1	-	-	3	2	5	40%	50%	0%	0%	0%	40%
+#54 Ryan Lowe	1.8%	5	7	1.4	-	-	1	3	4	75%	75%	0%	20%	20%	80%
+#40 Nathan Kellum	1.8%	5	6	1.2	-	-	2	3	5	60%	60%	0%	0%	0%	60%
+#5 Ojani Echevarria	1.1%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#32 Austin Thompson	0.4%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	7.5%	155	188	1.213	90%	Excellent	45	76	121	62.8%	63.6%	7.1%	17.4%	12.9%	61.3%
+#54 Ryan Lowe	24.5%	38	51	1.342	86%	Excellent	8	23	31	74.2%	74.2%	5.3%	13.2%	10.5%	68.4%
+#44 Quinton Armstrong	18.1%	28	34	1.214	72%	Very Good	8	14	22	63.6%	63.6%	10.7%	17.9%	14.3%	60.7%
+#42 Caden Ebeling	16.8%	26	29	1.115	56%	Good	10	9	19	47.4%	47.4%	3.8%	23.1%	15.4%	57.7%
+#4 Corey Wheeler	13.5%	21	30	1.429	93%	Excellent	6	13	19	68.4%	73.7%	4.8%	9.5%	4.8%	66.7%
+#20 Jaylen Fordham	6.5%	10	8	0.8	14%	Poor	4	3	7	42.9%	42.9%	20%	20%	10%	40%
+#24 Aquavius Burks	5.8%	9	11	1.222	-	-	3	5	8	62.5%	62.5%	0%	11.1%	11.1%	66.7%
+#52 Adam Davis	5.2%	8	12	1.5	-	-	1	4	5	80%	80%	12.5%	25%	25%	75%
+#22 Juwan Perry	3.2%	5	7	1.4	-	-	0	2	2	100%	100%	0%	60%	60%	80%
+#40 Nathan Kellum	2.6%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#30 Nathaniel Collins	1.9%	3	2	0.667	-	-	1	1	2	50%	50%	0%	33.3%	0%	33.3%
+#3 Robert Ryan	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Arshawn Parker	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Jamezell Davis Jr.	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	6.6%	138	150	1.087	55%	Good	49	64	113	56.6%	56.6%	5.8%	14.5%	14.5%	57.2%
+#24 Aquavius Burks	18.8%	26	28	1.077	48%	Average	10	12	22	54.5%	54.5%	3.8%	11.5%	11.5%	57.7%
+#44 Quinton Armstrong	18.1%	25	25	1	35%	Average	9	12	21	57.1%	57.1%	8%	8%	8%	52%
+#42 Caden Ebeling	17.4%	24	30	1.25	73%	Very Good	9	14	23	60.9%	60.9%	0%	4.2%	4.2%	62.5%
+#52 Adam Davis	10.9%	15	8	0.533	2%	Poor	8	3	11	27.3%	27.3%	13.3%	13.3%	13.3%	33.3%
+#54 Ryan Lowe	10.9%	15	21	1.4	90%	Excellent	3	9	12	75%	75%	0%	20%	20%	73.3%
+#4 Corey Wheeler	9.4%	13	19	1.462	94%	Excellent	3	7	10	70%	70%	7.7%	38.5%	38.5%	69.2%
+#40 Nathan Kellum	6.5%	9	8	0.889	-	-	4	3	7	42.9%	42.9%	11.1%	11.1%	11.1%	44.4%
+#3 Robert Ryan	2.2%	3	5	1.667	-	-	0	2	2	100%	100%	0%	33.3%	33.3%	100%
+#20 Jaylen Fordham	2.2%	3	1	0.333	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#30 Nathaniel Collins	2.2%	3	3	1	-	-	1	1	2	50%	50%	0%	33.3%	33.3%	66.7%
+#22 Juwan Perry	1.4%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	5.4%	112	86	0.768	53%	Good	57	31	88	35.2%	38.6%	10.7%	14.3%	9.8%	34.8%
+#4 Corey Wheeler	25%	28	32	1.143	96%	Excellent	8	11	19	57.9%	57.9%	10.7%	32.1%	17.9%	53.6%
+#14 Jamezell Davis Jr.	20.5%	23	18	0.783	54%	Good	14	7	21	33.3%	38.1%	4.3%	4.3%	4.3%	34.8%
+#10 Arshawn Parker	16.1%	18	14	0.778	53%	Good	8	5	13	38.5%	46.2%	11.1%	16.7%	11.1%	33.3%
+#20 Jaylen Fordham	15.2%	17	9	0.529	18%	Below Average	10	4	14	28.6%	32.1%	17.6%	0%	0%	23.5%
+#3 Robert Ryan	8.9%	10	3	0.3	4%	Poor	6	0	6	0%	0%	20%	20%	20%	20%
+#30 Nathaniel Collins	6.3%	7	4	0.571	-	-	5	2	7	28.6%	28.6%	0%	0%	0%	28.6%
+#12 Dylan Bennett	1.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#24 Aquavius Burks	1.8%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#5 Ojani Echevarria	1.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#22 Juwan Perry	1.8%	2	3	1.5	-	-	0	1	1	100%	100%	50%	50%	50%	50%
+#52 Adam Davis	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	4.3%	90	64	0.711	18%	Below Average	53	25	78	32.1%	37.8%	10%	4.4%	4.4%	31.1%
+#30 Nathaniel Collins	23.3%	21	18	0.857	42%	Average	12	8	20	40%	45%	4.8%	0%	0%	38.1%
+#20 Jaylen Fordham	21.1%	19	17	0.895	47%	Average	9	7	16	43.8%	53.1%	15.8%	0%	0%	36.8%
+#4 Corey Wheeler	12.2%	11	7	0.636	18%	Below Average	8	3	11	27.3%	31.8%	0%	0%	0%	27.3%
+#12 Dylan Bennett	8.9%	8	6	0.75	-	-	5	2	7	28.6%	42.9%	12.5%	0%	0%	25%
+#22 Juwan Perry	8.9%	8	7	0.875	-	-	4	2	6	33.3%	41.7%	12.5%	25%	25%	37.5%
+#10 Arshawn Parker	7.8%	7	6	0.857	-	-	3	2	5	40%	40%	14.3%	14.3%	14.3%	42.9%
+#14 Jamezell Davis Jr.	5.6%	5	0	0	-	-	5	0	5	0%	0%	0%	0%	0%	0%
+#3 Robert Ryan	3.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#5 Ojani Echevarria	3.3%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#24 Aquavius Burks	2.2%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#42 Caden Ebeling	2.2%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#44 Quinton Armstrong	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	4.3%	89	53	0.596	10%	Poor	43	21	64	32.8%	34.4%	20.2%	10.1%	4.5%	29.2%
+#4 Corey Wheeler	29.2%	26	18	0.692	34%	Average	13	8	21	38.1%	38.1%	15.4%	7.7%	3.8%	34.6%
+#20 Jaylen Fordham	20.2%	18	6	0.333	4%	Poor	8	3	11	27.3%	27.3%	33.3%	5.6%	0%	16.7%
+#24 Aquavius Burks	15.7%	14	11	0.786	48%	Average	7	4	11	36.4%	40.9%	14.3%	14.3%	14.3%	35.7%
+#3 Robert Ryan	12.4%	11	1	0.091	1%	Poor	8	0	8	0%	0%	18.2%	9.1%	0%	9.1%
+#14 Jamezell Davis Jr.	10.1%	9	6	0.667	-	-	4	3	7	42.9%	42.9%	11.1%	11.1%	0%	33.3%
+#30 Nathaniel Collins	6.7%	6	7	1.167	-	-	1	2	3	66.7%	83.3%	33.3%	16.7%	16.7%	50%
+#10 Arshawn Parker	3.4%	3	4	1.333	-	-	1	1	2	50%	50%	0%	33.3%	0%	66.7%
+#42 Caden Ebeling	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Juwan Perry	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	1.7%	36	30	0.833	59%	Good	17	11	28	39.3%	46.4%	13.9%	8.3%	5.6%	38.9%
+#4 Corey Wheeler	30.6%	11	5	0.455	9%	Poor	5	1	6	16.7%	16.7%	27.3%	18.2%	9.1%	27.3%
+#30 Nathaniel Collins	27.8%	10	15	1.5	98%	Excellent	3	6	9	66.7%	83.3%	10%	0%	0%	60%
+#20 Jaylen Fordham	16.7%	6	4	0.667	-	-	4	2	6	33.3%	33.3%	0%	0%	0%	33.3%
+#14 Jamezell Davis Jr.	8.3%	3	4	1.333	-	-	1	1	2	50%	75%	0%	33.3%	33.3%	66.7%
+#3 Robert Ryan	5.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#10 Arshawn Parker	5.6%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#12 Dylan Bennett	2.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#22 Juwan Perry	2.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	1.4%	29	11	0.379	0%	Poor	22	4	26	15.4%	21.2%	10.3%	0%	0%	13.8%
+#42 Caden Ebeling	31%	9	3	0.333	-	-	7	1	8	12.5%	18.8%	11.1%	0%	0%	11.1%
+#24 Aquavius Burks	27.6%	8	0	0	-	-	7	0	7	0%	0%	12.5%	0%	0%	0%
+#52 Adam Davis	13.8%	4	3	0.75	-	-	3	1	4	25%	37.5%	0%	0%	0%	25%
+#44 Quinton Armstrong	10.3%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#4 Corey Wheeler	6.9%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#54 Ryan Lowe	6.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#14 Jamezell Davis Jr.	3.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Albion Britons	8.2%	171	69	0.404	28%	Below Average	18	7	25	28%	28%	64.3%	22.2%	2.9%	22.8%
+#24 Aquavius Burks	12.3%	21	1	0.048	3%	Poor	0	0	0	-	-	95.2%	4.8%	0%	4.8%
+#14 Jamezell Davis Jr.	12.3%	21	9	0.429	45%	Average	5	1	6	16.7%	16.7%	47.6%	28.6%	9.5%	28.6%
+#20 Jaylen Fordham	11.1%	19	6	0.316	30%	Below Average	2	2	4	50%	50%	73.7%	5.3%	0%	15.8%
+#3 Robert Ryan	10.5%	18	3	0.167	11%	Poor	2	0	2	0%	0%	72.2%	16.7%	0%	11.1%
+#4 Corey Wheeler	10.5%	18	9	0.5	56%	Good	1	1	2	50%	50%	61.1%	27.8%	0%	27.8%
+#30 Nathaniel Collins	10.5%	18	16	0.889	94%	Excellent	2	1	3	33.3%	33.3%	44.4%	44.4%	5.6%	44.4%
+#44 Quinton Armstrong	7%	12	7	0.583	68%	Very Good	0	0	0	-	-	58.3%	41.7%	8.3%	33.3%
+#42 Caden Ebeling	5.3%	9	6	0.667	-	-	1	1	2	50%	50%	55.6%	22.2%	0%	33.3%
+#52 Adam Davis	4.1%	7	4	0.571	-	-	0	0	0	-	-	71.4%	28.6%	0%	28.6%
+#54 Ryan Lowe	4.1%	7	5	0.714	-	-	0	1	1	100%	100%	57.1%	28.6%	0%	42.9%
+#10 Arshawn Parker	3.5%	6	2	0.333	-	-	2	0	2	0%	0%	50%	16.7%	16.7%	16.7%
+#40 Nathan Kellum	3.5%	6	0	0	-	-	2	0	2	0%	0%	50%	16.7%	0%	0%
+#12 Dylan Bennett	2.3%	4	1	0.25	-	-	1	0	1	0%	0%	50%	25%	0%	25%
+#5 Ojani Echevarria	1.8%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Juwan Perry	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Austin Thompson	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 

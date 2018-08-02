@@ -1,0 +1,628 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - East-West Phantoms	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 07/09/2018
+Season: 2017-2018	Team: East-West Phantoms	Date Range: 10/27/2017 to 02/20/2018	Number of Games: 17
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	100%	1576	1159	0.735	43%	Average	686	403	1089	37%	41.6%	18.9%	14.1%	10%	34.9%
+ Transition	20.6%	325	296	0.911	67%	Very Good	123	98	221	44.3%	49.3%	16.3%	19.4%	15.7%	43.4%
+ Overall Half Court	79.4%	1251	863	0.69	43%	Average	563	305	868	35.1%	39.7%	19.6%	12.8%	8.6%	32.7%
+                    Short Shot Clock <4 Seconds	2.2%	35	21	0.6	63%	Good	22	8	30	26.7%	33.3%	11.4%	2.9%	2.9%	25.7%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.2%	102	49	0.48	9%	Poor	48	18	66	27.3%	29.5%	28.4%	7.8%	2.9%	23.5%
+         Out of Bounds (Side)	3.8%	48	27	0.562	25%	Below Average	22	11	33	33.3%	37.9%	27.1%	4.2%	4.2%	27.1%
+         After Time Outs	10.7%	134	93	0.694	64%	Good	59	35	94	37.2%	42.6%	23.9%	7.5%	6.7%	31.3%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	75.4%	943	629	0.667	43%	Average	408	224	632	35.4%	39.1%	20.9%	13.9%	8.8%	32.6%
+    Against Zone	24.6%	308	234	0.76	50%	Average	155	81	236	34.3%	41.3%	15.6%	9.4%	7.8%	33.1%
+Breakdown of Full Court Press Situations:
+  Press Offense	4.6%	57	40	0.702	75%	Very Good	21	15	36	41.7%	48.6%	29.8%	8.8%	5.3%	29.8%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	21.4%	337	263	0.78	62%	Good	193	89	282	31.6%	40.8%	9.8%	7.1%	5.3%	32%
+ Transition	20.6%	325	296	0.911	67%	Very Good	123	98	221	44.3%	49.3%	16.3%	19.4%	15.7%	43.4%
+ Isolation	10.7%	168	102	0.607	38%	Average	88	34	122	27.9%	32.4%	16.7%	13.1%	9.5%	29.2%
+ Post-Up	9.1%	144	102	0.708	40%	Average	62	43	105	41%	41%	16.7%	13.9%	11.8%	34.7%
+ Offensive Rebounds (put backs)	8.2%	130	100	0.769	27%	Below Average	60	41	101	40.6%	40.6%	6.9%	16.9%	13.8%	40.8%
+ P&R Ball Handler	7.2%	114	55	0.482	23%	Below Average	53	19	72	26.4%	28.5%	28.9%	9.6%	7.9%	22.8%
+ Cut	7.1%	112	107	0.955	42%	Average	43	45	88	51.1%	51.1%	11.6%	14.3%	12.5%	48.2%
+ Off Screen	2.7%	43	39	0.907	88%	Excellent	19	15	34	44.1%	57.4%	20.9%	0%	0%	34.9%
+ P&R Roll Man	1.8%	29	22	0.759	83%	Excellent	14	6	20	30%	30%	10.3%	24.1%	20.7%	41.4%
+ Hand Off	1%	15	13	0.867	67%	Very Good	7	4	11	36.4%	45.5%	13.3%	13.3%	13.3%	40%
+ Miscellaneous	10.1%	159	60	0.377	62%	Good	24	9	33	27.3%	30.3%	57.2%	22.6%	4.4%	22.6%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	13.3%	210	134	0.638	31%	Average	107	45	152	29.6%	34.2%	16.7%	14.3%	11.4%	30.5%
+  Pick and Rolls Including Passes	11.5%	182	107	0.588	23%	Below Average	92	36	128	28.1%	31.6%	20.9%	10.4%	8.8%	27.5%
+  Post-Ups Including Passes	11.7%	184	144	0.783	50%	Average	79	59	138	42.8%	45.3%	15.2%	12.5%	10.3%	37%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.7%	42	32	0.762	38%	Average	19	11	30	36.7%	41.7%	16.7%	19%	19%	35.7%
+  P&R BH - Defense Commits	6%	95	52	0.547	36%	Average	39	17	56	30.4%	35.7%	33.7%	8.4%	7.4%	25.3%
+  Post-Up - Defense Commits	2.5%	40	42	1.05	75%	Very Good	17	16	33	48.5%	59.1%	10%	7.5%	5%	45%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.2%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+  Post-Up - Hard Double	1.7%	27	33	1.222	100%	Excellent	5	12	17	70.6%	79.4%	29.6%	14.8%	14.8%	51.9%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	49.9%	433	303	0.7	36%	Average	321	112	433	25.9%	35%	0%	0.2%	0.2%	25.9%
+          Short Shot Clock <4 Seconds	2.2%	19	9	0.474	50%	Average	16	3	19	15.8%	23.7%	0%	0%	0%	15.8%
+Runner	5.2%	45	20	0.444	0%	Poor	35	10	45	22.2%	22.2%	0%	0%	0%	22.2%
+          Short Shot Clock <4 Seconds	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Around Basket (not Post-Ups)	32.8%	285	289	1.014	64%	Good	145	140	285	49.1%	49.1%	0%	5.6%	5.6%	49.1%
+Post-Ups	12.1%	105	90	0.857	63%	Good	62	43	105	41%	41%	0%	4.8%	4.8%	41%
+          Short Shot Clock <4 Seconds	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	23.6%	205	180	0.878	58%	Good	144	61	205	29.8%	43.9%	0%	0%	0%	29.8%
+  Guarded	69.3%	142	127	0.894	82%	Very Good	99	43	142	30.3%	44.7%	0%	0%	0%	30.3%
+  Unguarded	30.7%	63	53	0.841	9%	Poor	45	18	63	28.6%	42.1%	0%	0%	0%	28.6%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	19.6%	170	89	0.524	25%	Below Average	131	39	170	22.9%	26.2%	0%	0%	0%	22.9%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	15%	65	36	0.554	30%	Below Average	47	18	65	27.7%	27.7%	0%	0%	0%	27.7%
+Medium (17' to <3 point line)	14.8%	64	30	0.469	30%	Below Average	49	15	64	23.4%	23.4%	0%	1.6%	1.6%	23.4%
+Long (3 point jump shots)	70.2%	304	237	0.78	33%	Average	225	79	304	26%	39%	0%	0%	0%	26%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	100%	1576	1159	0.735	43%	Average	686	403	1089	37%	41.6%	18.9%	14.1%	10%	34.9%
+#2 Sherman Carter	18.4%	290	218	0.752	59%	Good	136	71	207	34.3%	40.1%	17.6%	13.1%	10.3%	35.2%
+#4 Carl Moore	15.2%	239	172	0.72	52%	Good	118	62	180	34.4%	41.7%	18.8%	6.7%	4.6%	31%
+#3 Patrick Rucker	13.3%	210	193	0.919	81%	Very Good	87	64	151	42.4%	50.3%	17.6%	14.3%	10.5%	40.5%
+#5 Markus Johnson	10%	158	146	0.924	82%	Very Good	54	54	108	50%	50.5%	13.3%	24.7%	17.7%	47.5%
+#1 Cortland Gillespie	8.5%	134	91	0.679	46%	Average	50	31	81	38.3%	43.8%	25.4%	14.9%	10.4%	32.8%
+#24 Brian Ashberry	6.6%	104	65	0.625	36%	Average	48	25	73	34.2%	34.9%	14.4%	16.3%	11.5%	31.7%
+#12 Amare Thurman	4.9%	78	51	0.654	40%	Average	35	19	54	35.2%	39.8%	21.8%	10.3%	3.8%	30.8%
+#23 Eric Spencer	4.6%	73	48	0.658	41%	Average	34	17	51	33.3%	34.3%	13.7%	19.2%	11%	34.2%
+#22 Jeremy Hargrove	4.5%	71	45	0.634	38%	Average	27	13	40	32.5%	42.5%	32.4%	14.1%	9.9%	25.4%
+#15 Sherman Brown	2.6%	41	28	0.683	48%	Average	17	11	28	39.3%	39.3%	19.5%	12.2%	9.8%	39%
+#30 Kinsley Shaw	2%	31	25	0.806	67%	Very Good	14	11	25	44%	44%	16.1%	6.5%	6.5%	38.7%
+#1 Demarques Turner	1.5%	24	16	0.667	42%	Average	10	4	14	28.6%	35.7%	25%	16.7%	12.5%	33.3%
+#21 Roland Watkins	1.4%	22	13	0.591	31%	Average	10	4	14	28.6%	28.6%	18.2%	18.2%	4.5%	31.8%
+#25 Scherone Clarke	1.4%	22	11	0.5	18%	Below Average	9	5	14	35.7%	35.7%	27.3%	9.1%	4.5%	27.3%
+#10 Manny Coleman	1.4%	22	10	0.455	14%	Poor	13	3	16	18.8%	18.8%	9.1%	18.2%	13.6%	27.3%
+#34 NA Collison	0.8%	13	8	0.615	35%	Average	2	4	6	66.7%	66.7%	46.2%	7.7%	7.7%	30.8%
+#11 Ahmad Eshftari	0.8%	12	4	0.333	8%	Poor	7	1	8	12.5%	12.5%	8.3%	25%	16.7%	25%
+#1 Adonis Bell	0.8%	12	6	0.5	18%	Below Average	7	3	10	30%	30%	16.7%	0%	0%	25%
+#23 Stanley Thomas	0.7%	11	6	0.545	22%	Below Average	4	0	4	0%	0%	18.2%	45.5%	45.5%	27.3%
+#25 Anthony Bonney	0.3%	4	1	0.25	-	-	0	0	0	-	-	75%	25%	25%	25%
+#100 Unidentifiable Player	0.2%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#20 NA Kinsley	0.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#11 Joshua Johnson	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	21.4%	337	263	0.78	62%	Good	193	89	282	31.6%	40.8%	9.8%	7.1%	5.3%	32%
+#2 Sherman Carter	28.8%	97	81	0.835	61%	Good	52	27	79	34.2%	41.1%	9.3%	11.3%	7.2%	37.1%
+#4 Carl Moore	15.7%	53	34	0.642	30%	Below Average	36	13	49	26.5%	34.7%	7.5%	0%	0%	24.5%
+#3 Patrick Rucker	15.7%	53	57	1.075	86%	Excellent	28	19	47	40.4%	56.4%	7.5%	3.8%	3.8%	39.6%
+#1 Cortland Gillespie	9.8%	33	26	0.788	50%	Average	14	9	23	39.1%	52.2%	24.2%	6.1%	6.1%	33.3%
+#22 Jeremy Hargrove	6.8%	23	21	0.913	67%	Very Good	15	7	22	31.8%	47.7%	4.3%	0%	0%	30.4%
+#12 Amare Thurman	5.6%	19	14	0.737	43%	Average	9	3	12	25%	33.3%	21.1%	15.8%	10.5%	31.6%
+#23 Eric Spencer	3.9%	13	8	0.615	25%	Below Average	9	3	12	25%	25%	0%	7.7%	7.7%	30.8%
+#24 Brian Ashberry	3.6%	12	7	0.583	19%	Below Average	9	3	12	25%	29.2%	0%	0%	0%	25%
+#5 Markus Johnson	2.4%	8	4	0.5	-	-	5	2	7	28.6%	28.6%	0%	12.5%	0%	25%
+#15 Sherman Brown	1.8%	6	3	0.5	-	-	4	0	4	0%	0%	0%	33.3%	33.3%	33.3%
+#1 Demarques Turner	1.2%	4	6	1.5	-	-	2	2	4	50%	75%	0%	0%	0%	50%
+#21 Roland Watkins	0.9%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#34 NA Collison	0.9%	3	0	0	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	0%
+#10 Manny Coleman	0.6%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#25 Anthony Bonney	0.6%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#1 Adonis Bell	0.6%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#11 Ahmad Eshftari	0.3%	1	0	0	-	-	0	0	0	-	-	0%	100%	100%	0%
+#100 Unidentifiable Player	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#25 Scherone Clarke	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#30 Kinsley Shaw	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	20.6%	325	296	0.911	67%	Very Good	123	98	221	44.3%	49.3%	16.3%	19.4%	15.7%	43.4%
+#3 Patrick Rucker	21.2%	69	76	1.101	83%	Excellent	23	27	50	54%	59%	15.9%	20.3%	17.4%	49.3%
+#2 Sherman Carter	17.5%	57	51	0.895	55%	Good	24	14	38	36.8%	43.4%	14%	21.1%	15.8%	43.9%
+#4 Carl Moore	14.5%	47	46	0.979	68%	Very Good	24	16	40	40%	52.5%	10.6%	4.3%	2.1%	38.3%
+#1 Cortland Gillespie	10.2%	33	27	0.818	42%	Average	9	10	19	52.6%	55.3%	24.2%	18.2%	12.1%	39.4%
+#24 Brian Ashberry	8.3%	27	22	0.815	39%	Average	11	9	20	45%	45%	11.1%	18.5%	14.8%	40.7%
+#12 Amare Thurman	5.2%	17	10	0.588	12%	Poor	6	4	10	40%	40%	29.4%	11.8%	0%	35.3%
+#22 Jeremy Hargrove	4.6%	15	15	1	73%	Very Good	3	3	6	50%	50%	26.7%	46.7%	40%	46.7%
+#5 Markus Johnson	3.7%	12	10	0.833	46%	Average	4	4	8	50%	50%	16.7%	25%	25%	41.7%
+#23 Eric Spencer	3.1%	10	11	1.1	82%	Very Good	3	4	7	57.1%	64.3%	20%	20%	20%	50%
+#10 Manny Coleman	2.2%	7	4	0.571	-	-	4	0	4	0%	0%	0%	42.9%	42.9%	42.9%
+#21 Roland Watkins	1.8%	6	2	0.333	-	-	3	1	4	25%	25%	33.3%	0%	0%	16.7%
+#1 Demarques Turner	1.8%	6	6	1	-	-	2	1	3	33.3%	33.3%	0%	50%	50%	66.7%
+#25 Scherone Clarke	1.5%	5	5	1	-	-	2	2	4	50%	50%	0%	20%	20%	60%
+#30 Kinsley Shaw	1.2%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#1 Adonis Bell	0.9%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#34 NA Collison	0.6%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#23 Stanley Thomas	0.6%	2	4	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#100 Unidentifiable Player	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#15 Sherman Brown	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#25 Anthony Bonney	0.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	10.7%	168	102	0.607	38%	Average	88	34	122	27.9%	32.4%	16.7%	13.1%	9.5%	29.2%
+#2 Sherman Carter	20.2%	34	23	0.676	48%	Average	18	7	25	28%	32%	11.8%	17.6%	17.6%	35.3%
+#4 Carl Moore	17.9%	30	19	0.633	40%	Average	14	6	20	30%	37.5%	23.3%	10%	6.7%	26.7%
+#3 Patrick Rucker	17.3%	29	18	0.621	32%	Average	18	6	24	25%	29.2%	10.3%	10.3%	3.4%	27.6%
+#1 Cortland Gillespie	14.3%	24	15	0.625	36%	Average	11	5	16	31.3%	37.5%	20.8%	12.5%	8.3%	33.3%
+#22 Jeremy Hargrove	7.1%	12	9	0.75	64%	Good	4	3	7	42.9%	50%	16.7%	25%	8.3%	33.3%
+#23 Eric Spencer	6%	10	6	0.6	28%	Below Average	6	2	8	25%	25%	10%	20%	20%	30%
+#12 Amare Thurman	5.4%	9	9	1	-	-	5	4	9	44.4%	50%	0%	11.1%	11.1%	44.4%
+#15 Sherman Brown	4.8%	8	3	0.375	-	-	4	1	5	20%	20%	25%	12.5%	12.5%	25%
+#1 Demarques Turner	3%	5	0	0	-	-	4	0	4	0%	0%	20%	0%	0%	0%
+#10 Manny Coleman	2.4%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#34 NA Collison	1.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#5 Markus Johnson	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	9.1%	144	102	0.708	40%	Average	62	43	105	41%	41%	16.7%	13.9%	11.8%	34.7%
+#4 Carl Moore	34%	49	43	0.878	67%	Very Good	19	17	36	47.2%	47.2%	16.3%	14.3%	12.2%	42.9%
+#5 Markus Johnson	17.4%	25	18	0.72	33%	Average	8	8	16	50%	50%	24%	24%	20%	32%
+#23 Eric Spencer	8.3%	12	4	0.333	0%	Poor	5	2	7	28.6%	28.6%	16.7%	25%	25%	16.7%
+#30 Kinsley Shaw	8.3%	12	10	0.833	60%	Good	7	4	11	36.4%	36.4%	0%	8.3%	8.3%	41.7%
+#24 Brian Ashberry	6.3%	9	6	0.667	-	-	4	2	6	33.3%	33.3%	22.2%	11.1%	0%	33.3%
+#15 Sherman Brown	5.6%	8	4	0.5	-	-	5	2	7	28.6%	28.6%	12.5%	0%	0%	25%
+#2 Sherman Carter	4.9%	7	6	0.857	-	-	2	3	5	60%	60%	28.6%	0%	0%	42.9%
+#11 Ahmad Eshftari	4.2%	6	3	0.5	-	-	4	1	5	20%	20%	0%	16.7%	16.7%	33.3%
+#23 Stanley Thomas	2.8%	4	0	0	-	-	2	0	2	0%	0%	25%	25%	25%	0%
+#22 Jeremy Hargrove	2.1%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#25 Scherone Clarke	2.1%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#12 Amare Thurman	1.4%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#1 Adonis Bell	1.4%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#1 Cortland Gillespie	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 NA Kinsley	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	8.2%	130	100	0.769	27%	Below Average	60	41	101	40.6%	40.6%	6.9%	16.9%	13.8%	40.8%
+#5 Markus Johnson	30.8%	40	47	1.175	56%	Good	13	19	32	59.4%	59.4%	2.5%	22.5%	17.5%	60%
+#24 Brian Ashberry	16.2%	21	5	0.238	0%	Poor	13	1	14	7.1%	7.1%	4.8%	28.6%	19%	14.3%
+#2 Sherman Carter	10%	13	11	0.846	22%	Below Average	5	4	9	44.4%	44.4%	15.4%	15.4%	15.4%	46.2%
+#4 Carl Moore	6.9%	9	3	0.333	-	-	6	1	7	14.3%	14.3%	11.1%	11.1%	11.1%	22.2%
+#3 Patrick Rucker	4.6%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+#23 Eric Spencer	4.6%	6	4	0.667	-	-	4	2	6	33.3%	33.3%	0%	0%	0%	33.3%
+#12 Amare Thurman	4.6%	6	4	0.667	-	-	3	2	5	40%	40%	16.7%	0%	0%	33.3%
+#1 Cortland Gillespie	3.8%	5	7	1.4	-	-	0	3	3	100%	100%	0%	40%	40%	80%
+#30 Kinsley Shaw	3.1%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#11 Ahmad Eshftari	2.3%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#15 Sherman Brown	2.3%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#25 Scherone Clarke	2.3%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#10 Manny Coleman	2.3%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#23 Stanley Thomas	2.3%	3	0	0	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	0%
+#21 Roland Watkins	1.5%	2	3	1.5	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#100 Unidentifiable Player	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#1 Adonis Bell	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Joshua Johnson	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	7.2%	114	55	0.482	23%	Below Average	53	19	72	26.4%	28.5%	28.9%	9.6%	7.9%	22.8%
+#2 Sherman Carter	37.7%	43	16	0.372	26%	Below Average	22	6	28	21.4%	25%	30.2%	4.7%	2.3%	16.3%
+#3 Patrick Rucker	15.8%	18	13	0.722	81%	Very Good	8	3	11	27.3%	27.3%	16.7%	27.8%	27.8%	38.9%
+#4 Carl Moore	11.4%	13	4	0.308	19%	Below Average	7	2	9	22.2%	22.2%	30.8%	0%	0%	15.4%
+#1 Cortland Gillespie	11.4%	13	9	0.692	74%	Very Good	6	2	8	25%	25%	15.4%	30.8%	23.1%	30.8%
+#12 Amare Thurman	7.9%	9	7	0.778	-	-	4	3	7	42.9%	50%	22.2%	0%	0%	33.3%
+#22 Jeremy Hargrove	5.3%	6	0	0	-	-	1	0	1	0%	0%	83.3%	0%	0%	0%
+#1 Demarques Turner	2.6%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#10 Manny Coleman	2.6%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#34 NA Collison	2.6%	3	2	0.667	-	-	0	1	1	100%	100%	66.7%	0%	0%	33.3%
+#15 Sherman Brown	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#21 Roland Watkins	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#25 Anthony Bonney	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	7.1%	112	107	0.955	42%	Average	43	45	88	51.1%	51.1%	11.6%	14.3%	12.5%	48.2%
+#5 Markus Johnson	42%	47	44	0.936	38%	Average	20	18	38	47.4%	47.4%	8.5%	17%	14.9%	46.8%
+#24 Brian Ashberry	18.8%	21	16	0.762	6%	Poor	8	8	16	50%	50%	19%	4.8%	4.8%	38.1%
+#15 Sherman Brown	6.3%	7	13	1.857	-	-	0	6	6	100%	100%	0%	14.3%	14.3%	100%
+#23 Eric Spencer	6.3%	7	6	0.857	-	-	3	3	6	50%	50%	14.3%	0%	0%	42.9%
+#30 Kinsley Shaw	6.3%	7	9	1.286	-	-	1	4	5	80%	80%	28.6%	14.3%	14.3%	57.1%
+#4 Carl Moore	4.5%	5	4	0.8	-	-	1	1	2	50%	50%	40%	20%	0%	40%
+#1 Cortland Gillespie	4.5%	5	3	0.6	-	-	3	1	4	25%	25%	0%	20%	20%	40%
+#3 Patrick Rucker	3.6%	4	5	1.25	-	-	1	1	2	50%	50%	0%	50%	50%	75%
+#25 Scherone Clarke	3.6%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#2 Sherman Carter	2.7%	3	3	1	-	-	2	1	3	33.3%	33.3%	0%	33.3%	33.3%	33.3%
+#21 Roland Watkins	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#1 Adonis Bell	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	2.7%	43	39	0.907	88%	Excellent	19	15	34	44.1%	57.4%	20.9%	0%	0%	34.9%
+#2 Sherman Carter	39.5%	17	12	0.706	29%	Below Average	8	5	13	38.5%	46.2%	23.5%	0%	0%	29.4%
+#4 Carl Moore	27.9%	12	15	1.25	86%	Excellent	5	5	10	50%	75%	16.7%	0%	0%	41.7%
+#12 Amare Thurman	11.6%	5	3	0.6	-	-	4	1	5	20%	30%	0%	0%	0%	20%
+#22 Jeremy Hargrove	9.3%	4	0	0	-	-	1	0	1	0%	0%	75%	0%	0%	0%
+#3 Patrick Rucker	7%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#1 Cortland Gillespie	2.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#34 NA Collison	2.3%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	1.8%	29	22	0.759	83%	Excellent	14	6	20	30%	30%	10.3%	24.1%	20.7%	41.4%
+#5 Markus Johnson	27.6%	8	9	1.125	-	-	3	2	5	40%	40%	0%	50%	50%	62.5%
+#24 Brian Ashberry	20.7%	6	3	0.5	-	-	3	1	4	25%	25%	16.7%	16.7%	16.7%	33.3%
+#23 Eric Spencer	10.3%	3	4	1.333	-	-	1	1	2	50%	50%	0%	33.3%	0%	66.7%
+#15 Sherman Brown	6.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#30 Kinsley Shaw	6.9%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#23 Stanley Thomas	6.9%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#1 Adonis Bell	6.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#4 Carl Moore	3.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Ahmad Eshftari	3.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#21 Roland Watkins	3.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#25 Scherone Clarke	3.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	1%	15	13	0.867	67%	Very Good	7	4	11	36.4%	45.5%	13.3%	13.3%	13.3%	40%
+#2 Sherman Carter	33.3%	5	6	1.2	-	-	2	1	3	33.3%	50%	0%	40%	40%	60%
+#3 Patrick Rucker	26.7%	4	5	1.25	-	-	2	2	4	50%	62.5%	0%	0%	0%	50%
+#1 Cortland Gillespie	13.3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#4 Carl Moore	6.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Markus Johnson	6.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#21 Roland Watkins	6.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#34 NA Collison	6.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+East-West Phantoms	10.1%	159	60	0.377	62%	Good	24	9	33	27.3%	30.3%	57.2%	22.6%	4.4%	22.6%
+#3 Patrick Rucker	15.1%	24	8	0.333	40%	Average	3	1	4	25%	25%	66.7%	16.7%	0%	20.8%
+#4 Carl Moore	11.9%	19	4	0.211	27%	Below Average	4	1	5	20%	20%	63.2%	10.5%	5.3%	15.8%
+#1 Cortland Gillespie	10.7%	17	2	0.118	13%	Poor	5	0	5	0%	0%	58.8%	11.8%	0%	5.9%
+#5 Markus Johnson	10.1%	16	14	0.875	100%	Excellent	0	1	1	100%	150%	43.8%	50%	12.5%	56.3%
+#2 Sherman Carter	8.8%	14	9	0.643	83%	Excellent	1	3	4	75%	87.5%	64.3%	14.3%	14.3%	28.6%
+#23 Eric Spencer	7.5%	12	5	0.417	53%	Good	3	0	3	0%	0%	33.3%	41.7%	0%	33.3%
+#12 Amare Thurman	6.9%	11	0	0	0%	Poor	4	0	4	0%	0%	45.5%	18.2%	0%	0%
+#22 Jeremy Hargrove	5%	8	0	0	-	-	1	0	1	0%	0%	87.5%	0%	0%	0%
+#24 Brian Ashberry	5%	8	6	0.75	-	-	0	1	1	100%	100%	50%	37.5%	25%	37.5%
+#21 Roland Watkins	4.4%	7	8	1.143	-	-	0	2	2	100%	100%	28.6%	42.9%	0%	57.1%
+#1 Demarques Turner	3.8%	6	2	0.333	-	-	1	0	1	0%	0%	66.7%	16.7%	0%	16.7%
+#15 Sherman Brown	3.1%	5	1	0.2	-	-	0	0	0	-	-	80%	20%	0%	20%
+#25 Scherone Clarke	3.1%	5	0	0	-	-	0	0	0	-	-	80%	20%	0%	0%
+#10 Manny Coleman	1.9%	3	0	0	-	-	2	0	2	0%	0%	0%	33.3%	0%	0%
+#11 Ahmad Eshftari	0.6%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#30 Kinsley Shaw	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#34 NA Collison	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#1 Adonis Bell	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.100	 	 
