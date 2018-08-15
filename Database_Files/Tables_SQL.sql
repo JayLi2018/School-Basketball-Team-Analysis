@@ -250,6 +250,81 @@ CREATE TABLE TEAM_GAME
   FOREIGN KEY(Team_ID) REFERENCES TEAM(Team_ID)
   )
 
+CREATE TABLE SESSION
+(
+  Session_ID INT NOT NULL,
+  Session_Name CHAR(20) NOT NULL,
+  
+  PRIMARY KEY(Session_ID)
+)
+
+
+CREATE TABLE LINEUPINFO
+(
+  Game_ID INT NOT NULL,
+  Session_ID INT NOT NULL,
+  LineUp_ID INT NOT NULL,
+  Player_ID INT NOT NULL,
+  Game_Status_ID INT NOT NULL,
+  Min FLOAT NOT NULL,
+  Lineup_Score INT NOT NULL,
+  Oppo_Score INT NOT NULL,
+  Plus_Minus INT NOT NULL,
+  Oppo_FGA INT NOT NULL,
+  Oppo_FGmade INT NOT NULL,
+  Oppo_FGmiss INT NOT NULL,
+  Oppo_Two_FGA INT NOT NULL,
+  Oppo_Two_FGMade INT NOT NULL,
+  Oppo_Two_Fgmiss INT NOT NULL,
+  Oppo_Three_FGA INT NOT NULL,
+  Oppo_Three_FGMade INT NOT NULL,
+  Oppo_Three_Fgmiss INT NOT NULL,
+  Oppo_DefReb INT NOT NULL,
+  Oppo_OffReb INT NOT NULL,
+  Oppo_TtlReB INT NOT NULL,
+  Oppo_FTA INT NOT NULL,
+  Oppo_Ftmiss INT NOT NULL,
+  Oppo_FTMade INT NOT NULL,
+  Oppo_Ast INT NOT NULL,
+  Oppo_Stl INT NOT NULL,
+  Pts INT NOT NULL,
+  OffReb INT NOT NULL,
+  DefReb INT NOT NULL,
+  TtlReb INT NOT NULL,
+  FGA INT NOT NULL, 
+  FGMade INT NOT NULL,
+  FGmiss INT NOT NULL,
+  Two_FGA INT NOT NULL,
+  Two_FGMade INT NOT NULL,
+  Two_FGmiss INT NOT NULL,
+  Three_FGA INT NOT NULL,
+  Three_FGMade INT NOT NULL,
+  Three_Fgmiss INT NOT NULL,
+  Ast INT NOT NULL,
+  Stl INT NOT NULL,
+  FTA INT NOT NULL,
+  FTMade INT NOT NULL,
+  FTmiss INT NOT NULL,
+
+  PRIMARY KEY(Game_ID,Game_Status_ID,Session_ID,LineUp_ID,Player_ID),
+  FOREIGN KEY(Game_ID,Game_Status_ID) REFERENCES TEAM_GAME(Game_ID,Team_Game_Status_ID),
+  FOREIGN KEY(Session_ID) REFERENCES SESSION(SESSION_ID),
+  FOREIGN KEY(Player_ID) REFERENCES PLAYER(Player_ID)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 copy category(Category_ID,Category_Name,Category_Description)
 from 'D:\Final_Version_Tables\Category_Table.csv' DELIMITER ','CSV HEADER;
@@ -301,3 +376,6 @@ copy Team_Cumulative(Team_Cumulative_ID,Player_ID,Team_ID,GP,Min,SST,SSTexPts,Pt
 from 'C:\Users\lchen\Desktop\Basketball_Project_Archives\BBallDB_all_the_files\Team_Cumulative_Table.csv' DELIMITER ',' CSV HEADER NULL as '-';
 
 copy Team_Cumulative(Team_Cumulative_ID,Player_ID,Team_ID,GP,Min,SST,SSTexPts,Pts,Ast,Turnover,Ast_To_Ratio,Stl,StlPos,Blk,TtlReb,OffReb,DefReb,Field_Goals_Attempt,Field_Goals_Made,Field_Goals_Missed,Field_Goal_Percentage,Adjusted_Field_Goal_Percentage,Two_Field_Goals_Attempt,Two_Field_Goals_Made,Two_Field_Goals_Missed,Two_Field_Goal_Percentage,Three_Field_Goals_Attempt,Three_Field_Goals_Made,Three_Field_Goals_Missed,Three_Field_Goal_Percentage,Free_Throw_Attempts,Free_Throw_Made,Free_Throw_Missed,Free_Throw_Percentage,And_One,Personal_Fouls_Taken,Total_Personal_Fouls_Commited)from 'C:\Users\lchen\Desktop\Basketball_Project_Archives\BBallDB_all_the_files\Team_Cumulative_Table.csv' DELIMITER ',' CSV HEADER NULL as '-';
+
+
+copy LINEUPINFO(Game_ID,Session_ID,LineUp_ID,Player_ID,Game_Status_ID,Min,Lineup_Score,Oppo_Score,Plus_Minus,Oppo_FGA,Oppo_FGmade,Oppo_FGmiss,Oppo_Two_FGA,Oppo_Two_FGMade,Oppo_Two_Fgmiss,Oppo_Three_FGA,Oppo_Three_FGMade,Oppo_Three_Fgmiss,Oppo_DefReb,Oppo_OffReb,Oppo_TtlReb,Oppo_FTA,Oppo_Ftmiss,Oppo_FTMade,Oppo_Ast,Oppo_Stl,Pts,OffReb,DefReb,TtlReb,FGA,FGMade,FGmiss,Two_FGA,Two_FGMade,Two_FGmiss,Three_FGA,Three_FGMade,Three_Fgmiss,Ast,Stl,FTA,FTMade,FTmiss) from 'C:\Users\lchen\Desktop\Some_valuable_queries\Play_By_Play\LineUps\lineupinfo_final_version.csv' DELIMITER ',' CSV HEADER;
