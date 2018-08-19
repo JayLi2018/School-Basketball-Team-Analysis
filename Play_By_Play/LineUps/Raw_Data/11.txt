@@ -1,0 +1,629 @@
+IIT	1	19:52	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover			
+19:52	Turnover > Any Type > Anthony Mosley
+19:51	Misc Stat > Steal > Keegan Van Kooten
+COR	1	19:47	43 Brad Hund > Transition > First Middle > To Basket > Miss 2 Pts			
+19:47	Shot > Brad Hund > Any Type > 2 Point Attempt > Miss 2 Pts
+19:47	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	19:18	22 Max Hisatake > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts			
+19:18	Shot > Max Hisatake > Any Type > 3 Point Attempt > Miss 3 Pts
+19:18	Misc Stat > Defensive Rebound > Michael Drew
+COR	1	19:06	43 Brad Hund > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	0	-	3
+19:06	Shot > Brad Hund > Any Type > 3 Point Attempt > Make 3 Pts
+19:06	Misc Stat > Assist > Corey Davis
+IIT	1	18:46	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	0	-	3
+18:46	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:46	Misc Stat > Defensive Rebound > Keegan Van Kooten
+COR	1	18:21	20 Corey Davis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+18:21	Shot > Brad Hund > Any Type > 3 Point Attempt > Miss 3 Pts
+18:21	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:01	21 Jake Digiorgio > Off Screen > To Shooter's Right > Straight > To Basket > Miss 2 Pts	0	-	3
+18:01	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+18:01	Misc Stat > Block > Jon Anderson
+17:57	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	17:54	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	2	-	3
+17:54	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+COR	1	17:42	40 Jon Anderson > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	2	-	3
+17:42	Shot > Jon Anderson > Any Type > 2 Point Attempt > Miss 2 Pts
+17:42	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	17:30	22 Max Hisatake > Post-Up > Right Block > Defense Commits 
+17:30	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+17:30	Misc Stat > Assist > Anthony Mosley
+COR	1	17:09	40 Jon Anderson > Cut > Basket > Make 2 Pts	4	-	5
+17:09	Shot > Jon Anderson > Any Type > 2 Point Attempt > Make 2 Pts
+17:09	Misc Stat > Assist > Corey Davis
+IIT	1	16:47	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Split > Defense Commits 
+16:47	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+16:47	Misc Stat > Assist > Malik Howze
+COR	1	16:28	40 Jon Anderson > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits 
+16:28	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	16:09	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	7	-	7
+16:09	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+16:09	Misc Stat > Defensive Rebound > Jon Anderson
+15:40	Player Movement > Sub Out > Home Player > Keegan Van Kooten
+15:40	Player Movement > Sub In > Away Player > Kohl Linder
+15:40	Player Movement > Sub In > Home Player > Michael Fiorito
+15:40	Player Movement > Sub In > Home Player > Cody Carter
+15:40	Player Movement > Sub Out > Home Player > Brad Hund
+15:40	Player Movement > Sub Out > Away Player > Max Hisatake
+COR	1	15:39	2 Michael Fiorito > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	7	-	7
+15:39	Shot > Michael Fiorito > Any Type > 3 Point Attempt > Miss 3 Pts
+COR	1	15:39	40 Jon Anderson > Offensive Rebound > Short > Run Offense	7	-	7
+15:39	Misc Stat > Offensive Rebound > Jon Anderson
+COR	1	15:31	40 Jon Anderson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	7	-	7
+15:31	Shot > Jon Anderson > Any Type > 2 Point Attempt > Miss 2 Pts
+15:31	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	15:21	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	7	-	7
+15:21	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+15:21	Misc Stat > Defensive Rebound > Corey Davis
+COR	1	15:10	40 Jon Anderson > Post-Up > Right Block > Left Shoulder > No Dribble Move > To Basket > Make 2 Pts	7	-	9
+15:10	Shot > Jon Anderson > Any Type > 2 Point Attempt > Make 2 Pts
+15:10	Misc Stat > Assist > Cody Carter
+IIT	1	14:59	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	10	-	9
+14:59	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	14:49	Player Movement > Sub Out > Away Player > Kohl Linder
+14:49	Player Movement > Sub In > Away Player > Capriest Gardner
+COR	1	14:47	20 Corey Davis > Spot-Up > Drives Straight > To Basket > Turnover	10	-	9
+14:47	Turnover > Any Type > Corey Davis
+14:47	Personal Foul > Defensive - Any > Corey Davis
+IIT	1	14:23	21 Jake Digiorgio > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	10	-	9
+14:23	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	14:23	15 Capriest Gardner > Offensive Rebound > Long > Run Offense	10	-	9
+14:23	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	14:10	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+14:10	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+14:03	Player Movement > Sub In > Away Player > Max Hisatake
+14:03	Player Movement > Sub In > Home Player > Cooper Kabela
+14:03	Player Movement > Sub In > Home Player > Brad Hund
+14:03	Player Movement > Sub Out > Home Player > Jon Anderson
+14:03	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:03	Player Movement > Sub Out > Home Player > Cody Carter
+IIT	1	13:53	32 Parker Joncus > Off Screen > To Shooter's Right > Fade > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	13	-	9
+13:53	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+13:53	Misc Stat > Assist > Anthony Mosley
+COR	1	13:39	20 Corey Davis > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+13:39	Shot > Cooper Kabela > Any Type > 3 Point Attempt > Miss 3 Pts
+13:39	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	13:22	22 Max Hisatake > Non Possession > Non Shooting Foul	13	-	9
+13:22	Personal Foul > Defensive - Any > Cooper Kabela
+IIT	1	13:20	22 Max Hisatake > Cut > Screen > Foul	13	-	9
+13:20	Personal Foul > Defensive - Any > Corey Davis
+IIT	1	13:20	22 Max Hisatake > Non Possession > Free Throw	13	-	9
+13:20	Shot > Max Hisatake > Free Throw > Missed
+IIT	1	13:20	22 Max Hisatake > Non Possession > Free Throw	13	-	9
+13:20	Shot > Max Hisatake > Free Throw > Missed
+13:20	Player Movement > Sub Out > Away Player > Parker Joncus
+13:20	Player Movement > Sub In > Away Player > Jake Bruns
+13:20	Player Movement > Sub Out > Home Player > Corey Davis
+13:20	Misc Stat > Defensive Rebound > Michael Fiorito
+13:20	Player Movement > Sub In > Home Player > Keegan Van Kooten
+COR	1	13:16	33 Cooper Kabela > Transition > Left Wing > To Basket > Make 2 Pts	13	-	11
+13:16	Shot > Cooper Kabela > Any Type > 2 Point Attempt > Make 2 Pts
+13:16	Misc Stat > Assist > Michael Fiorito
+IIT	1	13:05	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	13	-	11
+13:05	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+13:05	Misc Stat > Defensive Rebound > Michael Fiorito
+COR	1	12:42	24 Keegan Van Kooten > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	13	-	11
+12:42	Shot > Keegan Van Kooten > Any Type > 3 Point Attempt > Miss 3 Pts
+12:42	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	12:28	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	15	-	11
+12:28	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+12:28	Misc Stat > Assist > Jake Bruns
+COR	1	11:58	24 Keegan Van Kooten > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	15	-	11
+11:58	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+11:58	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	11:53	2 Anthony Mosley > Transition > Ballhandler > To Basket > Miss 2 Pts	15	-	11
+11:53	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+11:53	Misc Stat > Defensive Rebound > Scott Gasik
+COR	1	11:32	2 Michael Fiorito > No Play Type > Turnover	15	-	11
+11:32	Turnover > Any Type > Michael Fiorito
+IIT	1	11:32	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	15	-	11
+11:32	Player Movement > Sub In > Home Player > Jon Anderson
+11:32	Player Movement > Sub Out > Home Player > Scott Gasik
+11:32	Player Movement > Sub Out > Away Player > Malik Howze
+11:32	Player Movement > Sub Out > Home Player > Cooper Kabela
+11:32	Player Movement > Sub In > Away Player > Jake Digiorgio
+11:32	Player Movement > Sub In > Home Player > Michael Drew
+11:24	Personal Foul > Defensive - Any > Max Hisatake
+11:24	Misc Stat > Steal > Michael Drew
+11:24	Turnover > Any Type > Anthony Mosley
+COR	1	11:13	10 Michael Drew > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+11:13	Shot > Jon Anderson > Any Type > 2 Point Attempt > Miss 2 Pts
+COR	1	11:13	24 Keegan Van Kooten > Offensive Rebound > Short > Run Offense	15	-	11
+11:13	Misc Stat > Offensive Rebound > Keegan Van Kooten
+11:09	Personal Foul > Defensive - Any > Capriest Gardner
+COR	1	10:52	40 Jon Anderson > Post-Up > Right Block > Defense Commits 
+10:52	Shot > Michael Fiorito > Any Type > 3 Point Attempt > Make 3 Pts
+10:52	Misc Stat > Assist > Brad Hund
+IIT	1	10:24	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	15	-	14
+10:24	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+10:24	Misc Stat > Defensive Rebound > Jon Anderson
+COR	1	10:10	2 Michael Fiorito > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+10:10	Shot > Jon Anderson > Any Type > 2 Point Attempt > Miss 2 Pts
+10:10	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	09:50	21 Jake Digiorgio > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	15	-	14
+09:50	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+09:50	Misc Stat > Defensive Rebound > Jon Anderson
+COR	1	09:38	2 Michael Fiorito > Non Possession > Non Shooting Foul	15	-	14
+09:38	Personal Foul > Defensive - Any > Jake Bruns
+COR	1	09:38	2 Michael Fiorito > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:38	Player Movement > Sub In > Away Player > Quentin Forberg
+09:38	Player Movement > Sub In > Away Player > Parker Joncus
+09:38	Player Movement > Sub Out > Away Player > Anthony Mosley
+09:38	Player Movement > Sub Out > Away Player > Capriest Gardner
+09:24	Personal Foul > Defensive - Any > Max Hisatake
+COR	1	09:24	40 Jon Anderson > Non Possession > Free Throw	15	-	15
+09:24	Shot > Jon Anderson > Free Throw > Made
+COR	1	09:24	40 Jon Anderson > Non Possession > Free Throw	15	-	15
+09:24	Shot > Jon Anderson > Free Throw > Missed
+09:24	Player Movement > Sub In > Home Player > Cody Carter
+09:24	Misc Stat > Defensive Rebound > Max Hisatake
+09:24	Player Movement > Sub Out > Home Player > Brad Hund
+IIT	1	09:09	3 Malik Howze > ISO > Top > Early Jumper > Medium/17' to <3p > Miss 2 Pts	15	-	15
+09:09	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+09:09	Misc Stat > Defensive Rebound > Michael Fiorito
+COR	1	08:54	10 Michael Drew > Non Possession > Non Shooting Foul	15	-	15
+08:54	Personal Foul > Defensive - Any > Max Hisatake
+08:54	Player Movement > Sub Out > Away Player > Max Hisatake
+08:54	Player Movement > Sub In > Away Player > Kohl Linder
+COR	1	08:47	12 Cody Carter > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	15	-	15
+08:47	Shot > Cody Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+08:47	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	08:31	3 Malik Howze > Off Screen > To Shooter's Right > Straight > To Basket > Foul	15	-	15
+08:31	Personal Foul > Defensive - Any > Jon Anderson
+IIT	1	08:31	Player Movement > Sub Out > Away Player > Jake Bruns
+08:31	Player Movement > Sub In > Away Player > Malik Howze
+08:31	3 Malik Howze > Non Possession > Free Throw	16	-	15
+08:31	Shot > Malik Howze > Free Throw > Made
+IIT	1	08:31	3 Malik Howze > Non Possession > Free Throw	17	-	15
+08:31	Shot > Malik Howze > Free Throw > Made
+08:31	Player Movement > Sub Out > Home Player > Keegan Van Kooten
+08:31	Player Movement > Sub In > Home Player > Scott Gasik
+COR	1	08:21	2 Michael Fiorito > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	17	-	17
+08:21	Shot > Michael Fiorito > Any Type > 2 Point Attempt > Make 2 Pts
+08:21	Misc Stat > Assist > Cody Carter
+IIT	1	08:11	32 Parker Joncus > Transition > Right Wing > Dribble Jumper > Long/3pt > Make 3 Pts	20	-	17
+08:11	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+08:11	Misc Stat > Assist > Malik Howze
+COR	1	07:58	12 Cody Carter > Non Possession > Non Shooting Foul	20	-	17
+07:58	Personal Foul > Defensive - Any > Quentin Forberg
+COR	1	07:58	2 Michael Fiorito > Cut > Screen > Turnover	20	-	17
+07:58	Player Movement > Sub Out > Away Player > Kohl Linder
+07:58	Player Movement > Sub In > Away Player > Anthony Mosley
+07:46	Turnover > Any Type > Michael Fiorito
+07:45	Misc Stat > Steal > Malik Howze
+IIT	1	07:24	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts	22	-	17
+07:24	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+07:24	Misc Stat > Assist > Anthony Mosley
+COR	1	07:03	40 Jon Anderson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts Foul > 0 Pts	22	-	19
+07:03	Shot > Jon Anderson > Any Type > 2 Point Attempt > Make 2 Pts
+07:03	Personal Foul > Defensive - Any > Jake Digiorgio
+07:03	Misc Stat > Assist > Michael Fiorito
+COR	1	07:03	40 Jon Anderson > Non Possession > Free Throw	22	-	19
+07:03	Shot > Jon Anderson > Free Throw > Missed
+07:03	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	06:40	3 Malik Howze > Spot-Up > Drives Left > Turnover	22	-	19
+06:40	Turnover > Any Type > Malik Howze
+COR	1	06:27	11 Scott Gasik > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	22	-	19
+06:27	Shot > Scott Gasik > Any Type > 2 Point Attempt > Miss 2 Pts
+COR	1	06:27	40 Jon Anderson > Offensive Rebound > Short > Run Offense	22	-	19
+06:27	Misc Stat > Offensive Rebound > Jon Anderson
+COR	1	06:22	10 Michael Drew > Cut > Flash > Miss 2 Pts	22	-	19
+06:22	Shot > Michael Drew > Any Type > 2 Point Attempt > Miss 2 Pts
+06:18	Player Movement > Sub In > Away Player > Calvin Schmitz
+06:18	Player Movement > Sub Out > Away Player > Quentin Forberg
+COR	1	06:08	10 Michael Drew > Hand Off > From Stationary > Top > To Basket > Miss 2 Pts	22	-	19
+06:08	Shot > Michael Drew > Any Type > 2 Point Attempt > Miss 2 Pts
+06:08	Misc Stat > Offensive Rebound > Scott Gasik
+COR	1	06:04	11 Scott Gasik > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Make 2 Pts	22	-	21
+06:04	Shot > Scott Gasik > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	05:58	13 Calvin Schmitz > Transition > Right Wing > Turnover	22	-	21
+05:58	Turnover > Any Type > Calvin Schmitz
+05:55	Misc Stat > Steal > Michael Drew
+COR	1	05:53	10 Michael Drew > Transition > Ballhandler > To Basket > Make 2 Pts	22	-	23
+05:53	Shot > Michael Drew > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	05:41	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+05:41	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+05:41	Misc Stat > Defensive Rebound > Michael Drew
+COR	1	05:31	12 Cody Carter > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	22	-	26
+05:31	Shot > Cody Carter > Any Type > 3 Point Attempt > Make 3 Pts
+05:31	Misc Stat > Assist > Michael Drew
+05:27	Player Movement > Sub Out > Home Player > Jon Anderson
+05:27	Player Movement > Sub In > Home Player > Brad Hund
+05:27	Player Movement > Sub Out > Away Player > Calvin Schmitz
+05:27	Player Movement > Sub In > Away Player > Capriest Gardner
+IIT	1	05:13	2 Anthony Mosley > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	22	-	26
+05:13	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+05:13	Misc Stat > Defensive Rebound > Michael Drew
+COR	1	05:05	11 Scott Gasik > Transition > Left Wing > Turnover	22	-	26
+05:05	Turnover > Any Type > Scott Gasik
+05:03	Misc Stat > Steal > Jake Digiorgio
+IIT	1	04:47	15 Capriest Gardner > ISO > Left > Drives Left > Defense Commits 
+04:47	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+04:47	Misc Stat > Defensive Rebound > Michael Fiorito
+COR	1	04:32	2 Michael Fiorito > No Play Type > Turnover	22	-	26
+04:32	Player Movement > Sub In > Home Player > Keegan Van Kooten
+04:32	Player Movement > Sub Out > Home Player > Michael Drew
+04:31	Turnover > Any Type > Michael Fiorito
+04:29	Misc Stat > Steal > Malik Howze
+IIT	1	04:24	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	24	-	26
+04:24	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+04:24	Misc Stat > Assist > Malik Howze
+COR	1	04:05	12 Cody Carter > No Play Type > Turnover	24	-	26
+04:05	Turnover > Any Type > Cody Carter
+04:03	Misc Stat > Steal > Anthony Mosley
+IIT	1	04:00	3 Malik Howze > Transition > Left Wing > Dribble Jumper > Short to < 17' > Miss 2 Pts	24	-	26
+04:00	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	04:00	21 Jake Digiorgio > Offensive Rebound > Long > Run Offense	24	-	26
+04:00	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	03:53	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	27	-	26
+03:53	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+03:53	Misc Stat > Assist > Capriest Gardner
+COR	1	03:22	2 Michael Fiorito > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:22	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+03:22	Misc Stat > Offensive Rebound > Brad Hund
+COR	1	03:15	43 Brad Hund > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	27	-	28
+03:15	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	02:55	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	27	-	28
+02:55	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+02:55	Misc Stat > Defensive Rebound > Scott Gasik
+COR	1	02:45	24 Keegan Van Kooten > Transition > Right Wing > To Basket > Miss 2 Pts	27	-	28
+02:45	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+02:45	Misc Stat > Offensive Rebound > Keegan Van Kooten
+COR	1	02:41	24 Keegan Van Kooten > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	27	-	28
+02:41	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+02:41	Misc Stat > Block > Jake Digiorgio
+02:39	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	02:35	2 Anthony Mosley > Transition > Ballhandler > Turnover	27	-	28
+02:35	Turnover > Any Type > Anthony Mosley
+02:33	Misc Stat > Steal > Scott Gasik
+COR	1	02:28	24 Keegan Van Kooten > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	27	-	28
+02:28	Shot > Keegan Van Kooten > Any Type > 3 Point Attempt > Miss 3 Pts
+02:28	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	02:08	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	27	-	28
+02:08	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+02:08	Misc Stat > Defensive Rebound > Michael Fiorito
+COR	1	02:00	2 Michael Fiorito > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Turnover	27	-	28
+02:00	Turnover > Any Type > Michael Fiorito
+02:00	Player Movement > Sub Out > Home Player > Cody Carter
+02:00	Player Movement > Sub In > Away Player > Kohl Linder
+02:00	Player Movement > Sub In > Home Player > Michael Drew
+02:00	Player Movement > Sub In > Home Player > Jon Anderson
+02:00	Player Movement > Sub Out > Home Player > Scott Gasik
+02:00	Player Movement > Sub Out > Away Player > Jake Digiorgio
+IIT	1	01:39	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	30	-	28
+01:39	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+01:39	Misc Stat > Assist > Kohl Linder
+COR	1	01:24	10 Michael Drew > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	30	-	28
+01:24	Shot > Michael Drew > Any Type > 2 Point Attempt > Miss 2 Pts
+COR	1	01:05	43 Brad Hund > Spot-Up > Drives Left > To Basket > Turnover	30	-	28
+01:05	Turnover > Any Type > Brad Hund
+IIT	1	00:56	3 Malik Howze > ISO > Top > Early Jumper > Short to < 17' > Make 2 Pts	32	-	28
+00:56	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+COR	1	00:43	43 Brad Hund > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	32	-	28
+00:43	Shot > Brad Hund > Any Type > 3 Point Attempt > Miss 3 Pts
+00:43	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	00:14	3 Malik Howze > Non Possession > Non Shooting Foul	32	-	28
+00:14	Personal Foul > Defensive - Any > Keegan Van Kooten
+IIT	1	00:07	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	34	-	28
+00:07	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	19:51	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	34	-	28
+19:51	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+19:51	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	19:47	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	36	-	28
+19:47	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+COR	2	19:29	43 Brad Hund > Post-Up > Left Block > Defense Commits 
+19:29	Shot > Michael Drew > Any Type > 3 Point Attempt > Miss 3 Pts
+19:29	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	19:19	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	38	-	28
+19:19	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+COR	2	19:00	43 Brad Hund > Spot-Up > Drives Right > To Basket > Miss 2 Pts	38	-	28
+19:00	Shot > Brad Hund > Any Type > 2 Point Attempt > Miss 2 Pts
+19:00	Misc Stat > Offensive Rebound > Brad Hund
+COR	2	18:56	43 Brad Hund > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	38	-	30
+18:56	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	18:51	2 Anthony Mosley > Transition > First Middle > To Basket > Make 2 Pts	40	-	30
+18:51	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+18:51	Misc Stat > Assist > Malik Howze
+COR	2	18:21	40 Jon Anderson > Non Possession > Non Shooting Foul	40	-	30
+18:21	Personal Foul > Defensive - Any > Max Hisatake
+IIT	2	18:21	Player Movement > Sub Out > Away Player > Max Hisatake
+18:21	Player Movement > Sub In > Away Player > Kohl Linder
+COR	2	18:02	40 Jon Anderson > Post-Up > Right Block > Defense Commits 
+18:02	Shot > Michael Drew > Any Type > 2 Point Attempt > Miss 2 Pts
+18:02	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	17:47	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	40	-	30
+17:47	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	17:32	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	40	-	30
+17:32	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+17:32	Misc Stat > Block > Jon Anderson
+17:29	Misc Stat > Defensive Rebound > Brad Hund
+COR	2	17:12	40 Jon Anderson > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	40	-	32
+17:12	Shot > Jon Anderson > Any Type > 2 Point Attempt > Make 2 Pts
+17:12	Misc Stat > Assist > Brad Hund
+IIT	2	16:50	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	40	-	32
+16:50	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+COR	2	16:20	40 Jon Anderson > Spot-Up > Drives Straight > To Basket > Foul	40	-	32
+16:20	Personal Foul > Defensive - Any > Kohl Linder
+COR	2	16:20	40 Jon Anderson > Non Possession > Free Throw	40	-	33
+16:20	Shot > Jon Anderson > Free Throw > Made
+COR	2	16:20	40 Jon Anderson > Non Possession > Free Throw	40	-	33
+16:20	Shot > Jon Anderson > Free Throw > Missed
+16:20	Misc Stat > Defensive Rebound > Jake Digiorgio
+16:20	Player Movement > Sub Out > Home Player > Keegan Van Kooten
+16:20	Player Movement > Sub In > Home Player > Cody Carter
+16:20	Player Movement > Sub In > Home Player > Michael Fiorito
+16:20	Player Movement > Sub Out > Home Player > Brad Hund
+IIT	2	15:52	3 Malik Howze > No Play Type > Turnover	40	-	33
+15:52	Turnover > Any Type > Malik Howze
+15:52	Player Movement > Sub Out > Away Player > Kohl Linder
+15:52	Player Movement > Sub In > Away Player > Capriest Gardner
+COR	2	15:41	40 Jon Anderson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	40	-	33
+15:41	Shot > Jon Anderson > Any Type > 2 Point Attempt > Miss 2 Pts
+COR	2	15:41	10 Michael Drew > Offensive Rebound > Long > Run Offense	40	-	33
+15:41	Misc Stat > Offensive Rebound > Michael Drew
+COR	2	15:29	20 Corey Davis > No Play Type > Turnover	40	-	33
+15:29	Turnover > Any Type > Corey Davis
+15:27	Misc Stat > Steal > Malik Howze
+IIT	2	15:22	3 Malik Howze > Transition > Ballhandler > To Basket > Miss 2 Pts	40	-	33
+15:22	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	15:22	15 Capriest Gardner > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	40	-	33
+15:22	Misc Stat > Offensive Rebound > Capriest Gardner
+15:19	Personal Foul > Defensive - Any > Jon Anderson
+IIT	2	15:19	15 Capriest Gardner > Non Possession > Free Throw	41	-	33
+15:19	Shot > Capriest Gardner > Free Throw > Made
+IIT	2	15:19	15 Capriest Gardner > Non Possession > Free Throw	41	-	33
+15:19	Shot > Capriest Gardner > Free Throw > Missed
+15:19	Player Movement > Sub In > Home Player > Brad Hund
+15:19	Misc Stat > Defensive Rebound > Michael Drew
+15:19	Player Movement > Sub Out > Home Player > Jon Anderson
+COR	2	14:58	20 Corey Davis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:58	Shot > Michael Drew > Any Type > 3 Point Attempt > Make 3 Pts
+14:58	Misc Stat > Assist > Corey Davis
+IIT	2	14:45	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Jumper > Make 2 Pts	43	-	36
+14:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+14:45	Misc Stat > Assist > Parker Joncus
+COR	2	14:24	43 Brad Hund > Off Screen > To Shooter's Left > Curl > To Basket > Miss 2 Pts	43	-	36
+14:24	Shot > Brad Hund > Any Type > 2 Point Attempt > Miss 2 Pts
+14:24	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	14:15	15 Capriest Gardner > Post-Up > Left Block > Face-up > Drive Baseline > Miss 2 Pts	43	-	36
+14:15	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+14:15	Misc Stat > Defensive Rebound > Corey Davis
+COR	2	14:06	20 Corey Davis > Non Possession > Non Shooting Foul	43	-	36
+14:06	Personal Foul > Defensive - Any > Anthony Mosley
+14:06	Player Movement > Sub Out > Away Player > Malik Howze
+14:06	Player Movement > Sub In > Away Player > Jake Bruns
+COR	2	13:56	43 Brad Hund > Cut > Flash > Make 2 Pts	43	-	38
+13:56	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+13:56	Misc Stat > Assist > Cody Carter
+IIT	2	13:40	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	45	-	38
+13:40	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+13:40	Misc Stat > Assist > Jake Bruns
+COR	2	13:14	2 Michael Fiorito > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	45	-	38
+13:14	Shot > Michael Fiorito > Any Type > 2 Point Attempt > Miss 2 Pts
+13:14	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	13:06	2 Anthony Mosley > Transition > Ballhandler > Turnover	45	-	38
+13:06	Turnover > Any Type > Anthony Mosley
+13:04	Misc Stat > Steal > Corey Davis
+COR	2	13:02	20 Corey Davis > Transition > Ballhandler > To Basket > Make 2 Pts	45	-	40
+13:02	Shot > Corey Davis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	12:45	2 Anthony Mosley > ISO > Left > Drives Left > Defense Commits 
+12:45	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+12:45	Misc Stat > Defensive Rebound > Brad Hund
+12:40	Player Movement > Sub In > Home Player > Keegan Van Kooten
+12:40	Player Movement > Sub Out > Away Player > Jake Digiorgio
+12:40	Player Movement > Sub In > Away Player > Max Hisatake
+12:40	Player Movement > Sub Out > Home Player > Corey Davis
+COR	2	12:25	43 Brad Hund > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	45	-	42
+12:25	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	12:08	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > Turnover	45	-	42
+12:08	Turnover > Any Type > Max Hisatake
+12:08	Personal Foul > Defensive - Any > Max Hisatake
+12:08	Player Movement > Sub In > Away Player > Jake Digiorgio
+12:08	Player Movement > Sub Out > Away Player > Max Hisatake
+COR	2	11:46	24 Keegan Van Kooten > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	45	-	42
+11:46	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+COR	2	11:46	24 Keegan Van Kooten > Offensive Rebound > Short > Run Offense	45	-	42
+11:46	Misc Stat > Offensive Rebound > Keegan Van Kooten
+COR	2	11:40	10 Michael Drew > Cut > Screen > Make 2 Pts	45	-	44
+11:40	Shot > Michael Drew > Any Type > 2 Point Attempt > Make 2 Pts
+11:40	Misc Stat > Assist > Michael Fiorito
+IIT	2	11:22	2 Anthony Mosley > Spot-Up > Drives Left > To Basket > Miss 2 Pts	45	-	44
+11:22	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+11:22	Misc Stat > Block > Keegan Van Kooten
+11:18	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	2	11:14	2 Anthony Mosley > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	47	-	44
+11:14	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+COR	2	11:01	2 Michael Fiorito > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	47	-	44
+11:01	Player Movement > Sub Out > Home Player > Michael Drew
+11:01	Player Movement > Sub In > Home Player > Scott Gasik
+10:54	Turnover > Any Type > Michael Fiorito
+10:52	Misc Stat > Steal > Jake Digiorgio
+IIT	2	10:47	10 Jake Bruns > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	50	-	44
+10:47	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+10:47	Misc Stat > Assist > Anthony Mosley
+COR	2	10:37	11 Scott Gasik > P&R Ball Handler > Right P&R > Side > Takes Early Jump Shot > Long/3pt > Miss 3 Pts	50	-	44
+10:37	Shot > Scott Gasik > Any Type > 3 Point Attempt > Miss 3 Pts
+10:37	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	10:27	10 Jake Bruns > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	50	-	44
+10:27	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+10:22	Player Movement > Sub In > Home Player > Corey Davis
+10:22	Player Movement > Sub Out > Home Player > Cody Carter
+10:22	Player Movement > Sub Out > Home Player > Keegan Van Kooten
+10:22	Player Movement > Sub In > Home Player > Jon Anderson
+IIT	2	10:08	2 Anthony Mosley > Spot-Up > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	50	-	44
+10:08	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+10:08	Misc Stat > Defensive Rebound > Corey Davis
+COR	2	10:01	20 Corey Davis > Transition > Ballhandler > To Basket > Foul	50	-	44
+10:01	Personal Foul > Defensive - Any > Anthony Mosley
+COR	2	10:01	20 Corey Davis > Non Possession > Free Throw	50	-	45
+10:01	Shot > Corey Davis > Free Throw > Made
+COR	2	10:01	20 Corey Davis > Non Possession > Free Throw	50	-	46
+10:01	Shot > Corey Davis > Free Throw > Made
+10:01	Player Movement > Sub Out > Home Player > Brad Hund
+10:01	Player Movement > Sub In > Home Player > Cooper Kabela
+10:01	Player Movement > Sub Out > Away Player > Anthony Mosley
+10:01	Player Movement > Sub In > Away Player > Malik Howze
+IIT	2	09:40	21 Jake Digiorgio > ISO > Right > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	52	-	46
+09:40	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+COR	2	09:13	20 Corey Davis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:13	Shot > Michael Fiorito > Any Type > 3 Point Attempt > Make 3 Pts
+09:13	Misc Stat > Assist > Corey Davis
+IIT	2	09:00	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+09:00	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	09:00	15 Capriest Gardner > Offensive Rebound > Long > Run Offense	52	-	49
+09:00	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	2	08:36	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:36	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+08:36	Misc Stat > Defensive Rebound > Jon Anderson
+COR	2	08:27	2 Michael Fiorito > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	52	-	49
+08:27	Shot > Michael Fiorito > Any Type > 3 Point Attempt > Miss 3 Pts
+COR	2	08:27	11 Scott Gasik > Offensive Rebound > Short > Run Offense	52	-	49
+08:27	Misc Stat > Offensive Rebound > Scott Gasik
+COR	2	08:06	40 Jon Anderson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Foul	52	-	49
+08:06	Personal Foul > Defensive - Any > Capriest Gardner
+COR	2	08:06	40 Jon Anderson > Non Possession > Free Throw	52	-	50
+08:06	Shot > Jon Anderson > Free Throw > Made
+COR	2	08:06	40 Jon Anderson > Non Possession > Free Throw	52	-	51
+08:06	Shot > Jon Anderson > Free Throw > Made
+08:06	Player Movement > Sub Out > Home Player > Michael Fiorito
+08:06	Player Movement > Sub In > Home Player > Keegan Van Kooten
+08:06	Player Movement > Sub Out > Away Player > Jake Bruns
+08:06	Player Movement > Sub In > Away Player > Anthony Mosley
+IIT	2	07:52	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+07:52	Turnover > Any Type > Capriest Gardner
+07:52	Player Movement > Sub Out > Away Player > Capriest Gardner
+07:52	Player Movement > Sub In > Away Player > Kohl Linder
+COR	2	07:39	40 Jon Anderson > Post-Up > Flash Middle > Defense Commits 
+07:39	Shot > Scott Gasik > Any Type > 3 Point Attempt > Miss 3 Pts
+07:39	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	07:29	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Short to < 17' > Miss 2 Pts	52	-	51
+07:29	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+07:29	Misc Stat > Defensive Rebound > Jon Anderson
+COR	2	07:09	33 Cooper Kabela > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	52	-	54
+07:09	Shot > Cooper Kabela > Any Type > 3 Point Attempt > Make 3 Pts
+07:09	Misc Stat > Assist > Corey Davis
+IIT	2	06:51	32 Parker Joncus > Non Possession > Non Shooting Foul	52	-	54
+06:51	Personal Foul > Defensive - Any > Scott Gasik
+06:51	Player Movement > Sub Out > Home Player > Scott Gasik
+06:51	Player Movement > Sub In > Home Player > Michael Drew
+IIT	2	06:36	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	52	-	54
+06:36	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+06:36	Misc Stat > Defensive Rebound > Cooper Kabela
+COR	2	06:33	10 Michael Drew > No Play Type > Foul	52	-	54
+06:33	Personal Foul > Defensive - Any > Anthony Mosley
+COR	2	06:33	10 Michael Drew > Non Possession > Free Throw	52	-	54
+06:33	Shot > Michael Drew > Free Throw > Missed
+06:33	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	06:27	3 Malik Howze > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 0 Pts	54	-	54
+06:27	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+06:27	Personal Foul > Defensive - Any > Keegan Van Kooten
+IIT	2	06:27	3 Malik Howze > Non Possession > Free Throw	54	-	54
+06:27	Shot > Malik Howze > Free Throw > Missed
+06:27	Misc Stat > Defensive Rebound > Keegan Van Kooten
+06:27	Player Movement > Sub In > Home Player > Brad Hund
+06:27	Player Movement > Sub Out > Away Player > Anthony Mosley
+06:27	Player Movement > Sub In > Away Player > Quentin Forberg
+06:27	Player Movement > Sub Out > Home Player > Jon Anderson
+COR	2	06:10	33 Cooper Kabela > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	54	-	54
+06:10	Shot > Cooper Kabela > Any Type > 3 Point Attempt > Miss 3 Pts
+COR	2	06:10	20 Corey Davis > Offensive Rebound > Long > Run Offense	54	-	54
+06:10	Misc Stat > Offensive Rebound > Corey Davis
+COR	2	06:00	43 Brad Hund > Cut > Screen > Make 2 Pts	54	-	56
+06:00	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+06:00	Misc Stat > Assist > Corey Davis
+IIT	2	05:34	3 Malik Howze > ISO > Top > Early Jumper > Medium/17' to <3p > Miss 2 Pts	54	-	56
+05:34	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:34	Misc Stat > Defensive Rebound > Michael Drew
+COR	2	05:12	24 Keegan Van Kooten > ISO > Right > Drives Left > To Basket > Foul	54	-	56
+05:12	Personal Foul > Defensive - Any > Quentin Forberg
+COR	2	05:12	24 Keegan Van Kooten > Non Possession > Free Throw	54	-	57
+05:12	Shot > Keegan Van Kooten > Free Throw > Made
+COR	2	05:12	24 Keegan Van Kooten > Non Possession > Free Throw	54	-	58
+05:12	Shot > Keegan Van Kooten > Free Throw > Made
+05:12	Player Movement > Sub In > Away Player > Anthony Mosley
+05:12	Player Movement > Sub Out > Away Player > Quentin Forberg
+IIT	2	04:56	2 Anthony Mosley > Spot-Up > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	54	-	58
+04:56	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+04:56	Misc Stat > Defensive Rebound > Corey Davis
+COR	2	04:48	24 Keegan Van Kooten > Transition > Left Wing > To Basket > Miss 2 Pts	54	-	58
+04:48	Shot > Keegan Van Kooten > Any Type > 2 Point Attempt > Miss 2 Pts
+04:48	Misc Stat > Block > Kohl Linder
+COR	2	04:47	43 Brad Hund > No Play Type > Turnover	54	-	58
+04:47	Player Movement > Sub In > Home Player > Michael Fiorito
+04:47	Player Movement > Sub Out > Home Player > Cooper Kabela
+04:47	Player Movement > Sub Out > Home Player > Keegan Van Kooten
+04:47	Player Movement > Sub In > Home Player > Jon Anderson
+04:42	Personal Foul > Defensive - Any > Brad Hund
+04:42	Turnover > Any Type > Brad Hund
+IIT	2	04:15	2 Anthony Mosley > ISO > Right > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	54	-	58
+04:15	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+04:15	Misc Stat > Defensive Rebound > Jon Anderson
+COR	2	03:41	43 Brad Hund > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	54	-	58
+03:41	Shot > Brad Hund > Any Type > 3 Point Attempt > Miss 3 Pts
+03:41	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	03:29	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	57	-	58
+03:29	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+COR	2	03:08	20 Corey Davis > ISO > Left > Drives Right > Defense Commits 
+03:08	Shot > Michael Drew > Any Type > 2 Point Attempt > Miss 2 Pts
+03:08	Misc Stat > Offensive Rebound > Brad Hund
+COR	2	03:03	43 Brad Hund > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	57	-	60
+03:03	Shot > Brad Hund > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:38	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	59	-	60
+02:38	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+COR	2	02:09	43 Brad Hund > Spot-Up > Drives Straight > Foul	59	-	60
+02:09	Personal Foul > Defensive - Any > Kohl Linder
+COR	2	02:08	43 Brad Hund > Non Possession > Free Throw	59	-	60
+02:08	Shot > Brad Hund > Free Throw > Missed
+COR	2	02:08	43 Brad Hund > Non Possession > Free Throw	59	-	60
+02:08	Shot > Brad Hund > Free Throw > Missed
+02:08	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	01:53	2 Anthony Mosley > Non Possession > Non Shooting Foul	59	-	60
+01:53	Personal Foul > Defensive - Any > Brad Hund
+IIT	2	01:36	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	59	-	60
+01:36	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+01:36	Misc Stat > Defensive Rebound > Jon Anderson
+COR	2	01:15	20 Corey Davis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+01:15	Shot > Michael Fiorito > Any Type > 3 Point Attempt > Make 3 Pts
+01:15	Misc Stat > Assist > Corey Davis
+IIT	2	00:57	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+00:57	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+00:57	Misc Stat > Assist > Anthony Mosley
+COR	2	00:44	20 Corey Davis > P&R Ball Handler > High P&R > Dribble Off Pick > Foul	61	-	63
+00:44	Personal Foul > Defensive - Any > Malik Howze
+COR	2	00:44	20 Corey Davis > Non Possession > Free Throw	61	-	64
+00:44	Shot > Corey Davis > Free Throw > Made
+COR	2	00:44	20 Corey Davis > Non Possession > Free Throw	61	-	65
+00:44	Shot > Corey Davis > Free Throw > Made
+IIT	2	00:27	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > To Jumper > Miss 2 Pts	61	-	65
+00:27	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+00:27	Misc Stat > Defensive Rebound > Jon Anderson
+COR	2	00:22	20 Corey Davis > No Play Type > Foul	61	-	65
+00:22	Personal Foul > Defensive - Any > Malik Howze
+COR	2	00:22	20 Corey Davis > Non Possession > Free Throw	61	-	66
+00:22	Shot > Corey Davis > Free Throw > Made
+COR	2	00:22	20 Corey Davis > Non Possession > Free Throw	61	-	67
+00:22	Shot > Corey Davis > Free Throw > Made
+IIT	2	00:17	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	64	-	67
+00:17	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+COR	2	00:15	40 Jon Anderson > No Play Type > Foul	64	-	67
+00:15	Personal Foul > Defensive - Any > Kohl Linder
+COR	2	00:15	40 Jon Anderson > Non Possession > Free Throw	64	-	67
+00:15	Shot > Jon Anderson > Free Throw > Missed
+COR	2	00:15	40 Jon Anderson > Non Possession > Free Throw	64	-	67
+00:15	Shot > Jon Anderson > Free Throw > Missed
+00:15	Player Movement > Sub Out > Away Player > Kohl Linder
+00:15	Player Movement > Sub In > Away Player > Jake Bruns
+00:15	Player Movement > Sub Out > Home Player > Brad Hund
+00:15	Misc Stat > Defensive Rebound > Parker Joncus
+00:15	Player Movement > Sub In > Home Player > Keegan Van Kooten
+IIT	2	00:05	3 Malik Howze > Spot-Up > Drives Straight > Dribble Jumper > Long/3pt > Miss 3 Pts	64	-	67
+00:05	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+00:05	Misc Stat > Defensive Rebound > Michael Drew
+COR	2	00:03	10 Michael Drew > No Play Type > Foul	64	-	67
+00:03	Personal Foul > Defensive - Any > Jake Digiorgio
+COR	2	00:03	10 Michael Drew > Non Possession > Free Throw	64	-	68
+00:03	Shot > Michael Drew > Free Throw > Made
+COR	2	00:03	10 Michael Drew > Non Possession > Free Throw	64	-	69
+00:03	Shot > Michael Drew > Free Throw > Made
+IIT	2	00:01	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	64	-	69
+00:01	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts

@@ -1,0 +1,627 @@
+GUS	1	20:00	4 Kelsey Thomas > ISO > Right > Drives Right > To Basket > Miss 2 Pts			
+20:00	Shot > Kelsey Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+GUS	1	20:00	32 Jason Faul > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts Foul > 1 Pts	0	-	2
+20:00	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+20:00	Personal Foul > Defensive - Any > Max Hisatake
+20:00	Misc Stat > Offensive Rebound > Jason Faul
+GUS	1	20:00	32 Jason Faul > Non Possession > Free Throw	0	-	3
+20:00	Shot > Jason Faul > Free Throw > Made
+IIT	1	20:00	3 Malik Howze > Non Possession > Shot Clock Violation	0	-	3
+20:00	Turnover > Specify Turnover Type > Team Turnover > Away Team
+GUS	1	20:00	23 Vannis Smith > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	0	-	3
+20:00	Shot > Vannis Smith > Any Type > 3 Point Attempt > Miss 3 Pts
+20:00	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	18:23	3 Malik Howze > ISO > Top > Drives Right > To Basket > Miss 2 Pts	0	-	3
+GUS	1	18:18	32 Jason Faul > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	0	-	3
+18:18	Misc Stat > Defensive Rebound > Vannis Smith
+IIT	1	17:45	21 Jake Digiorgio > Spot-Up > Drives Left > To Basket > Make 2 Pts	2	-	5
+17:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+17:45	Misc Stat > Assist > Parker Joncus
+GUS	1	17:35	4 Kelsey Thomas > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	2	-	8
+17:35	Shot > Kelsey Thomas > Any Type > 3 Point Attempt > Make 3 Pts
+17:35	Misc Stat > Assist > Vannis Smith
+IIT	1	17:17	Player Movement > Sub In > Home Player > Schuyler Thompson
+17:17	Player Movement > Sub Out > Home Player > Jason Faul
+17:17	Player Movement > Sub In > Away Player > Kohl Linder
+17:17	Player Movement > Sub In > Home Player > Zach Bloemker
+17:17	Player Movement > Sub Out > Home Player > Austin Goetz
+17:17	Player Movement > Sub In > Home Player > Spencer Tollefson
+17:17	Player Movement > Sub Out > Home Player > Vannis Smith
+IIT	1	17:17	21 Jake Digiorgio > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	2	-	8
+17:17	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	17:17	35 Kohl Linder > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	2	-	8
+17:17	Personal Foul > Defensive - Any > Jason Faul
+17:17	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	17:17	35 Kohl Linder > Non Possession > Free Throw	3	-	8
+17:17	Shot > Kohl Linder > Free Throw > Made
+IIT	1	17:17	35 Kohl Linder > Non Possession > Free Throw	4	-	8
+17:17	Shot > Kohl Linder > Free Throw > Made
+GUS	1	16:52	4 Kelsey Thomas > Non Possession > Non Shooting Foul	4	-	8
+16:52	Personal Foul > Defensive - Any > Jake Digiorgio
+GUS	1	16:37	4 Kelsey Thomas > ISO > Left > Early Jumper > Long/3pt > Make 3 Pts	4	-	11
+16:37	Shot > Kelsey Thomas > Any Type > 3 Point Attempt > Make 3 Pts
+16:37	Misc Stat > Assist > Zach Bloemker
+IIT	1	16:14	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+16:14	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+16:14	Misc Stat > Team Defensive Rebound > Home
+GUS	1	16:11	3 Zach Bloemker > P&R Ball Handler > Left P&R > Baseline > Go Away from Pick > Defense Commits 
+16:11	Player Movement > Sub Out > Home Player > Kelsey Thomas
+16:11	Player Movement > Sub In > Home Player > CJ Woda
+16:11	Player Movement > Sub In > Away Player > Max Hisatake
+16:11	Player Movement > Sub Out > Away Player > Kohl Linder
+15:50	Turnover > Any Type > Spencer Tollefson
+IIT	1	15:18	3 Malik Howze > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	4	-	11
+15:18	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+15:18	Misc Stat > Team Offensive Rebound > Away
+15:18	Player Movement > Sub Out > Home Player > Riley Sharbono
+15:18	Player Movement > Sub In > Home Player > Vannis Smith
+IIT	1	15:02	2 Anthony Mosley > Spot-Up > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	6	-	11
+15:02	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	1	14:43	30 Schuyler Thompson > ISO > Left > Drives Right > To Basket > Miss 2 Pts	6	-	11
+14:43	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Miss 2 Pts
+14:43	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	14:29	21 Jake Digiorgio > Spot-Up > Drives Right > Turnover	6	-	11
+14:29	Turnover > Any Type > Jake Digiorgio
+14:23	Player Movement > Sub In > Home Player > Kelsey Thomas
+14:23	Player Movement > Sub Out > Home Player > Spencer Tollefson
+GUS	1	14:06	11 CJ Woda > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	6	-	11
+14:06	Shot > CJ Woda > Any Type > 3 Point Attempt > Miss 3 Pts
+14:06	Misc Stat > Team Defensive Rebound > Away
+14:06	Personal Foul > Defensive - Any > Kelsey Thomas
+IIT	1	13:56	2 Anthony Mosley > Non Possession > Non Shooting Foul	6	-	11
+13:56	Personal Foul > Defensive - Any > Kelsey Thomas
+13:56	Player Movement > Sub In > Home Player > Austin Goetz
+13:56	Player Movement > Sub In > Home Player > Jason Faul
+13:56	Player Movement > Sub Out > Home Player > Zach Bloemker
+13:56	Player Movement > Sub Out > Home Player > Kelsey Thomas
+IIT	1	13:35	35 Kohl Linder > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	6	-	11
+13:35	Shot > Kohl Linder > Any Type > 3 Point Attempt > Miss 3 Pts
+13:35	Misc Stat > Team Defensive Rebound > Home
+13:32	Time Event > Full Time Out > Away Team
+13:31	Player Movement > Sub In > Home Player > Charlie Krambeer
+13:31	Player Movement > Sub Out > Home Player > CJ Woda
+GUS	1	13:09	30 Schuyler Thompson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	6	-	11
+13:09	Shot > Schuyler Thompson > Any Type > 3 Point Attempt > Miss 3 Pts
+13:09	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	12:42	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	6	-	11
+12:42	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+12:42	Misc Stat > Defensive Rebound > Charlie Krambeer
+GUS	1	12:34	32 Jason Faul > Transition > First Middle > To Basket > Foul	6	-	11
+12:34	Personal Foul > Defensive - Any > Anthony Mosley
+GUS	1	12:34	32 Jason Faul > Non Possession > Free Throw	6	-	12
+12:34	Shot > Jason Faul > Free Throw > Made
+GUS	1	12:34	32 Jason Faul > Non Possession > Free Throw	6	-	13
+12:34	Shot > Jason Faul > Free Throw > Made
+12:34	Player Movement > Sub In > Away Player > Jake Bruns
+12:34	Player Movement > Sub Out > Home Player > Schuyler Thompson
+12:34	Player Movement > Sub In > Home Player > Riley Sharbono
+12:34	Player Movement > Sub Out > Away Player > Malik Howze
+IIT	1	12:08	21 Jake Digiorgio > Post-Up > Right Block > Face-up > Drive Baseline > Make 2 Pts	8	-	13
+12:08	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	1	11:55	23 Vannis Smith > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	8	-	15
+11:55	Shot > Vannis Smith > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	11:41	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+11:41	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+11:41	Misc Stat > Defensive Rebound > Riley Sharbono
+GUS	1	11:32	21 Riley Sharbono > Transition > Trailer > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	8	-	15
+11:32	Shot > Riley Sharbono > Any Type > 3 Point Attempt > Miss 3 Pts
+11:32	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	11:19	2 Anthony Mosley > Non Possession > Non Shooting Foul	8	-	15
+11:19	Personal Foul > Defensive - Any > Jason Faul
+IIT	1	10:54	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+10:54	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+10:54	Misc Stat > Team Defensive Rebound > Home
+GUS	1	10:28	5 Austin Goetz > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	8	-	18
+10:28	Shot > Austin Goetz > Any Type > 3 Point Attempt > Make 3 Pts
+10:28	Misc Stat > Assist > Vannis Smith
+IIT	1	10:19	22 Max Hisatake > Transition > Leak Outs > To Basket > Foul	8	-	18
+10:19	Personal Foul > Defensive - Any > Schuyler Thompson
+IIT	1	10:19	22 Max Hisatake > Non Possession > Free Throw	8	-	18
+10:19	Misc Stat > Team Defensive Rebound > Away
+10:19	Player Movement > Sub In > Home Player > Spencer Tollefson
+10:19	Player Movement > Sub Out > Home Player > Charlie Krambeer
+10:19	Player Movement > Sub Out > Away Player > Jake Bruns
+10:19	Player Movement > Sub Out > Home Player > Vannis Smith
+10:19	Player Movement > Sub In > Away Player > Malik Howze
+10:19	Player Movement > Sub In > Home Player > Zach Bloemker
+IIT	1	10:18	22 Max Hisatake > Non Possession > Free Throw	8	-	18
+10:18	Misc Stat > Defensive Rebound > Schuyler Thompson
+GUS	1	10:08	21 Riley Sharbono > No Play Type > Turnover	8	-	18
+10:08	Turnover > Any Type > Riley Sharbono
+10:03	Misc Stat > Steal > Anthony Mosley
+IIT	1	10:02	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	10	-	18
+10:02	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	1	09:50	3 Zach Bloemker > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	10	-	21
+09:50	Shot > Zach Bloemker > Any Type > 3 Point Attempt > Make 3 Pts
+09:50	Misc Stat > Assist > Austin Goetz
+IIT	1	09:27	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:27	Misc Stat > Steal > Austin Goetz
+GUS	1	09:20	30 Schuyler Thompson > Transition > Left Wing > To Basket > Make 2 Pts	10	-	23
+09:20	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Make 2 Pts
+09:20	Misc Stat > Assist > Spencer Tollefson
+IIT	1	09:01	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	10	-	23
+09:01	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+09:01	Misc Stat > Defensive Rebound > Schuyler Thompson
+GUS	1	08:56	20 Spencer Tollefson > Non Possession > Non Shooting Foul	10	-	23
+08:56	Personal Foul > Defensive - Any > Calvin Schmitz
+GUS	1	08:56	20 Spencer Tollefson > Spot-Up > Drives Straight > To Basket > Foul	10	-	23
+08:56	Player Movement > Sub Out > Away Player > Calvin Schmitz
+08:56	Player Movement > Sub Out > Away Player > Kohl Linder
+08:56	Player Movement > Sub Out > Home Player > Schuyler Thompson
+08:56	Player Movement > Sub In > Away Player > Jake Digiorgio
+08:56	Player Movement > Sub In > Home Player > Peter Lundquist
+08:39	Personal Foul > Defensive - Any > Kohl Linder
+GUS	1	08:39	20 Spencer Tollefson > Non Possession > Free Throw	10	-	24
+08:39	Shot > Spencer Tollefson > Free Throw > Made
+GUS	1	08:39	20 Spencer Tollefson > Non Possession > Free Throw	10	-	25
+08:39	Shot > Spencer Tollefson > Free Throw > Made
+IIT	1	08:39	3 Malik Howze > ISO > Right > Drives Right > To Basket > Foul	10	-	25
+08:39	Player Movement > Sub Out > Home Player > Austin Goetz
+08:39	Player Movement > Sub In > Home Player > Vannis Smith
+08:27	Personal Foul > Defensive - Any > Peter Lundquist
+IIT	1	08:27	3 Malik Howze > Non Possession > Free Throw	11	-	25
+08:27	Shot > Malik Howze > Free Throw > Made
+IIT	1	08:27	3 Malik Howze > Non Possession > Free Throw	12	-	25
+08:27	Shot > Malik Howze > Free Throw > Made
+GUS	1	08:07	21 Riley Sharbono > ISO > Left > Early Jumper > Long/3pt > Miss 3 Pts	12	-	25
+08:07	Shot > Riley Sharbono > Any Type > 3 Point Attempt > Miss 3 Pts
+08:07	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	07:47	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Defense Commits 
+07:47	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+07:47	Misc Stat > Team Defensive Rebound > Home
+07:47	Player Movement > Sub Out > Home Player > Peter Lundquist
+07:47	Player Movement > Sub In > Home Player > Schuyler Thompson
+GUS	1	07:39	23 Vannis Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	12	-	25
+07:39	Shot > Vannis Smith > Any Type > 3 Point Attempt > Miss 3 Pts
+07:39	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	07:22	35 Kohl Linder > Cut > Basket > Make 2 Pts	14	-	25
+07:22	Shot > Kohl Linder > Any Type > 2 Point Attempt > Make 2 Pts
+07:22	Misc Stat > Assist > Malik Howze
+GUS	1	07:15	30 Schuyler Thompson > Transition > Right Wing > To Basket > Miss 2 Pts	14	-	25
+07:15	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	1	07:11	3 Malik Howze > Transition > Ballhandler > Foul	14	-	25
+07:11	Personal Foul > Defensive - Any > Zach Bloemker
+IIT	1	07:11	3 Malik Howze > Non Possession > Free Throw	15	-	25
+07:11	Shot > Malik Howze > Free Throw > Made
+IIT	1	07:11	3 Malik Howze > Non Possession > Free Throw	15	-	25
+07:11	Shot > Malik Howze > Free Throw > Missed
+07:11	Misc Stat > Defensive Rebound > Schuyler Thompson
+07:11	Player Movement > Sub In > Home Player > Charlie Krambeer
+07:11	Player Movement > Sub In > Away Player > Kohl Linder
+07:11	Player Movement > Sub Out > Home Player > Vannis Smith
+GUS	1	07:05	12 Charlie Krambeer > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	15	-	25
+07:05	Time Event > Full Time Out > Home Team
+GUS	1	06:13	3 Zach Bloemker > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	15	-	25
+06:13	Shot > Zach Bloemker > Any Type > 3 Point Attempt > Miss 3 Pts
+06:13	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	06:08	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	17	-	25
+06:08	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	1	05:36	20 Spencer Tollefson > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	17	-	25
+05:36	Shot > Spencer Tollefson > Any Type > 2 Point Attempt > Miss 2 Pts
+05:36	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	05:30	2 Anthony Mosley > Transition > Left Wing > To Basket > Make 2 Pts	19	-	25
+05:30	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+05:30	Misc Stat > Assist > Malik Howze
+GUS	1	05:11	21 Riley Sharbono > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	19	-	25
+05:11	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Miss 2 Pts
+05:11	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	1	05:06	3 Malik Howze > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	21	-	25
+05:06	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+05:06	Personal Foul > Defensive - Any > Charlie Krambeer
+IIT	1	05:06	3 Malik Howze > Non Possession > Free Throw	22	-	25
+05:06	Shot > Malik Howze > Free Throw > Made
+05:06	Time Event > Full Time Out > Home Team
+GUS	1	04:42	12 Charlie Krambeer > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+04:42	Shot > Austin Goetz > Any Type > 2 Point Attempt > Miss 2 Pts
+04:42	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	04:38	3 Malik Howze > No Play Type > Turnover	22	-	25
+04:38	Turnover > Any Type > Malik Howze
+04:36	Misc Stat > Steal > Charlie Krambeer
+GUS	1	04:31	30 Schuyler Thompson > Transition > First Middle > To Basket > Miss 2 Pts	22	-	25
+04:31	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Miss 2 Pts
+GUS	1	04:31	23 Vannis Smith > Offensive Rebound > Long > Run Offense	22	-	25
+04:31	Misc Stat > Offensive Rebound > Vannis Smith
+GUS	1	04:26	21 Riley Sharbono > Spot-Up > Drives Left > To Basket > Make 2 Pts	22	-	27
+04:26	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+04:26	Misc Stat > Assist > Vannis Smith
+IIT	1	03:58	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:58	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+03:58	Misc Stat > Block > Riley Sharbono
+IIT	1	03:58	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts Foul > 0 Pts	24	-	27
+03:58	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+03:58	Personal Foul > Defensive - Any > Schuyler Thompson
+03:58	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	03:58	21 Jake Digiorgio > Non Possession > Free Throw	24	-	27
+03:58	Shot > Jake Digiorgio > Free Throw > Missed
+03:58	Misc Stat > Defensive Rebound > CJ Woda
+03:58	Player Movement > Sub Out > Home Player > Schuyler Thompson
+03:58	Player Movement > Sub In > Home Player > CJ Woda
+GUS	1	03:43	21 Riley Sharbono > Cut > Screen > Make 2 Pts	24	-	29
+03:43	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+03:43	Misc Stat > Assist > Vannis Smith
+IIT	1	03:24	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+03:24	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+03:24	Misc Stat > Assist > Anthony Mosley
+GUS	1	03:05	21 Riley Sharbono > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	27	-	31
+03:05	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	02:55	2 Anthony Mosley > Transition > Ballhandler > To Basket > Miss 2 Pts	27	-	31
+02:55	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+02:55	Misc Stat > Team Defensive Rebound > Home
+GUS	1	02:35	12 Charlie Krambeer > No Play Type > Turnover	27	-	31
+02:35	Turnover > Any Type > Charlie Krambeer
+02:34	Misc Stat > Steal > Anthony Mosley
+IIT	1	02:32	13 Calvin Schmitz > Transition > Right Wing > To Basket > Turnover	27	-	31
+02:32	Turnover > Any Type > Calvin Schmitz
+GUS	1	02:32	21 Riley Sharbono > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Foul	27	-	31
+02:32	Player Movement > Sub In > Away Player > Kohl Linder
+02:32	Player Movement > Sub Out > Away Player > Calvin Schmitz
+02:08	Personal Foul > Defensive - Any > Parker Joncus
+GUS	1	02:08	21 Riley Sharbono > Non Possession > Free Throw	27	-	31
+02:08	Shot > Riley Sharbono > Free Throw > Missed
+02:08	Misc Stat > Team Defensive Rebound > Home
+GUS	1	02:08	21 Riley Sharbono > Non Possession > Free Throw	27	-	32
+02:08	Shot > Riley Sharbono > Free Throw > Made
+IIT	1	02:08	3 Malik Howze > Off Screen > To Shooter's Left > Flare > To Basket > Foul	27	-	32
+02:08	Player Movement > Sub Out > Home Player > Charlie Krambeer
+02:08	Player Movement > Sub In > Home Player > Isaac Douglas
+01:52	Personal Foul > Defensive - Any > Riley Sharbono
+IIT	1	01:52	3 Malik Howze > Non Possession > Free Throw	28	-	32
+01:52	Shot > Malik Howze > Free Throw > Made
+IIT	1	01:52	3 Malik Howze > Non Possession > Free Throw	29	-	32
+01:52	Shot > Malik Howze > Free Throw > Made
+GUS	1	01:52	21 Riley Sharbono > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	29	-	32
+01:52	Player Movement > Sub Out > Away Player > Kohl Linder
+01:52	Player Movement > Sub In > Away Player > Jake Bruns
+01:38	Turnover > Any Type > Riley Sharbono
+01:38	Personal Foul > Defensive - Any > Riley Sharbono
+01:38	Player Movement > Sub Out > Home Player > Riley Sharbono
+01:38	Player Movement > Sub In > Home Player > Zach Bloemker
+IIT	1	01:17	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+01:17	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+01:17	Personal Foul > Defensive - Any > CJ Woda
+01:17	Misc Stat > Assist > Anthony Mosley
+IIT	1	01:17	21 Jake Digiorgio > Non Possession > Free Throw	32	-	32
+01:17	Shot > Jake Digiorgio > Free Throw > Made
+GUS	1	01:17	3 Zach Bloemker > ISO > Left > Drives Right > Defense Commits > Turnover	32	-	32
+01:17	Player Movement > Sub In > Home Player > Austin Goetz
+01:17	Player Movement > Sub Out > Home Player > Austin Goetz
+01:17	Player Movement > Sub Out > Home Player > Vannis Smith
+01:17	Player Movement > Sub In > Home Player > Jason Faul
+00:54	Turnover > Any Type > Zach Bloemker
+00:54	Misc Stat > Steal > Anthony Mosley
+IIT	1	00:54	2 Anthony Mosley > No Play Type > Foul	32	-	32
+00:54	Personal Foul > Defensive - Any > Jason Faul
+IIT	1	00:54	2 Anthony Mosley > Non Possession > Free Throw	33	-	32
+00:54	Shot > Anthony Mosley > Free Throw > Made
+IIT	1	00:54	2 Anthony Mosley > Non Possession > Free Throw	34	-	32
+00:54	Shot > Anthony Mosley > Free Throw > Made
+GUS	1	00:54	20 Spencer Tollefson > No Play Type > Turnover	34	-	32
+00:54	Player Movement > Sub In > Home Player > Spencer Tollefson
+00:54	Player Movement > Sub In > Home Player > Peter Lundquist
+00:54	Player Movement > Sub Out > Home Player > Isaac Douglas
+00:54	Player Movement > Sub Out > Home Player > Jason Faul
+00:44	Misc Stat > Steal > Jake Bruns
+00:44	Turnover > Any Type > Spencer Tollefson
+IIT	1	00:31	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:31	Personal Foul > Defensive - Any > CJ Woda
+IIT	1	00:31	21 Jake Digiorgio > Non Possession > Free Throw	34	-	32
+00:31	Shot > Jake Digiorgio > Free Throw > Missed
+00:31	Misc Stat > Team Defensive Rebound > Away
+IIT	1	00:31	21 Jake Digiorgio > Non Possession > Free Throw	34	-	32
+00:31	Shot > Jake Digiorgio > Free Throw > Missed
+00:31	Misc Stat > Defensive Rebound > Austin Goetz
+GUS	1	00:10	5 Austin Goetz > No Play Type > Turnover	34	-	32
+00:10	Turnover > Any Type > Austin Goetz
+IIT	1	00:02	2 Anthony Mosley > ISO > Top > Drives Left > To Basket > Make 2 Pts	36	-	32
+00:02	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+00:00	Misc Stat > Team Defensive Rebound > Home
+GUS	2	18:58	21 Riley Sharbono > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	36	-	34
+18:58	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	18:51	21 Jake Digiorgio > Non Possession > Non Shooting Foul	36	-	34
+18:51	Player Movement > Sub Out > Home Player > Jason Faul
+18:51	Player Movement > Sub In > Home Player > Schuyler Thompson
+18:51	Personal Foul > Defensive - Any > Kelsey Thomas
+IIT	2	18:27	2 Anthony Mosley > ISO > Top > Drives Left > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	38	-	34
+18:27	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	2	18:08	4 Kelsey Thomas > ISO > Right > Drives Right > To Basket > Miss 2 Pts	38	-	34
+18:08	Shot > Kelsey Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+18:08	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	17:48	3 Malik Howze > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	38	-	34
+17:48	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	17:48	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	38	-	34
+17:48	Misc Stat > Offensive Rebound > Jake Digiorgio
+17:45	Personal Foul > Defensive - Any > Austin Goetz
+IIT	2	17:45	2 Anthony Mosley > ISO > Left > Drives Left > Defense Commits 
+17:45	Player Movement > Sub Out > Home Player > Kelsey Thomas
+17:45	Player Movement > Sub In > Home Player > Jason Faul
+GUS	2	16:51	32 Jason Faul > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Make 2 Pts	38	-	36
+16:51	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	16:39	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	38	-	36
+16:39	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+16:39	Misc Stat > Defensive Rebound > Jason Faul
+GUS	2	16:12	21 Riley Sharbono > ISO > Right > Drives Left > To Basket > Turnover	38	-	36
+16:12	Turnover > Any Type > Riley Sharbono
+16:12	Personal Foul > Defensive - Any > Riley Sharbono
+IIT	2	16:12	21 Jake Digiorgio > Post-Up > Left Block > Defense Commits 
+16:12	Player Movement > Sub In > Home Player > Zach Bloemker
+16:12	Player Movement > Sub Out > Home Player > Jason Faul
+16:12	Player Movement > Sub Out > Home Player > Vannis Smith
+16:12	Player Movement > Sub In > Home Player > Kelsey Thomas
+15:52	Personal Foul > Defensive - Any > Zach Bloemker
+15:52	Misc Stat > Assist > Jake Digiorgio
+GUS	2	15:28	4 Kelsey Thomas > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+15:28	Shot > Zach Bloemker > Any Type > 3 Point Attempt > Miss 3 Pts
+GUS	2	15:28	5 Austin Goetz > Offensive Rebound > Long > Run Offense	41	-	36
+15:28	Misc Stat > Offensive Rebound > Austin Goetz
+GUS	2	15:19	21 Riley Sharbono > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	41	-	36
+15:19	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Miss 2 Pts
+15:19	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	15:04	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:04	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+15:04	Misc Stat > Block > Austin Goetz
+15:01	Misc Stat > Defensive Rebound > Austin Goetz
+GUS	2	14:54	3 Zach Bloemker > No Play Type > Turnover	41	-	36
+14:54	Turnover > Any Type > Zach Bloemker
+14:53	Misc Stat > Steal > Anthony Mosley
+IIT	2	14:49	22 Max Hisatake > Transition > First Middle > To Basket > Make 2 Pts	41	-	36
+14:49	Misc Stat > Assist > Anthony Mosley
+14:37	Time Event > Full Time Out > Home Team
+14:37	Player Movement > Sub Out > Home Player > Riley Sharbono
+14:37	Player Movement > Sub In > Home Player > Charlie Krambeer
+GUS	2	14:33	4 Kelsey Thomas > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+14:33	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Miss 2 Pts
+14:33	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	14:17	3 Malik Howze > Transition > Right Wing > To Basket > Foul	41	-	36
+14:17	Personal Foul > Defensive - Any > Schuyler Thompson
+IIT	2	14:17	3 Malik Howze > Non Possession > Free Throw	42	-	36
+14:17	Shot > Malik Howze > Free Throw > Made
+IIT	2	14:17	3 Malik Howze > Non Possession > Free Throw	43	-	36
+14:17	Shot > Malik Howze > Free Throw > Made
+GUS	2	14:17	32 Jason Faul > Non Possession > Non Shooting Foul	43	-	36
+14:17	Player Movement > Sub In > Away Player > Kohl Linder
+14:17	Player Movement > Sub In > Home Player > Jason Faul
+14:17	Player Movement > Sub Out > Home Player > Schuyler Thompson
+14:04	Personal Foul > Defensive - Any > Kohl Linder
+GUS	2	14:00	32 Jason Faul > Cut > Basket > Make 2 Pts	43	-	38
+14:00	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+14:00	Misc Stat > Assist > Kelsey Thomas
+IIT	2	13:35	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	43	-	38
+13:35	Turnover > Any Type > Malik Howze
+13:34	Misc Stat > Steal > Kelsey Thomas
+GUS	2	13:28	4 Kelsey Thomas > Transition > Ballhandler > To Basket > Miss 2 Pts	43	-	38
+13:28	Shot > Kelsey Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+13:28	Misc Stat > Block > Kohl Linder
+GUS	2	13:26	4 Kelsey Thomas > Offensive Rebound > Long > Run Offense	43	-	38
+13:26	Misc Stat > Offensive Rebound > Kelsey Thomas
+GUS	2	13:26	3 Zach Bloemker > Spot-Up > Drives Left > Turnover	43	-	38
+13:26	Turnover > Any Type > Zach Bloemker
+IIT	2	13:26	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	43	-	38
+13:26	Player Movement > Sub Out > Away Player > Malik Howze
+13:26	Player Movement > Sub In > Away Player > Jake Bruns
+13:26	Player Movement > Sub Out > Home Player > Zach Bloemker
+13:26	Player Movement > Sub In > Home Player > Sam Dubois
+13:14	Turnover > Any Type > Anthony Mosley
+13:13	Misc Stat > Steal > Jason Faul
+GUS	2	13:00	5 Austin Goetz > No Play Type > Turnover	43	-	38
+13:00	Turnover > Any Type > Austin Goetz
+12:58	Misc Stat > Steal > Jake Bruns
+IIT	2	12:40	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	43	-	38
+12:40	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+12:40	Misc Stat > Defensive Rebound > Charlie Krambeer
+GUS	2	12:12	32 Jason Faul > ISO > Top > Drives Left > To Basket > Make 2 Pts	43	-	40
+12:12	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+12:12	Misc Stat > Assist > Kelsey Thomas
+IIT	2	11:48	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	43	-	40
+11:48	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	11:48	13 Calvin Schmitz > Offensive Rebound > Long > Run Offense	43	-	40
+11:48	Misc Stat > Offensive Rebound > Calvin Schmitz
+IIT	2	11:35	2 Anthony Mosley > Non Possession > Non Shooting Foul	43	-	40
+11:35	Personal Foul > Defensive - Any > Kelsey Thomas
+11:35	Player Movement > Sub Out > Home Player > Charlie Krambeer
+11:35	Player Movement > Sub Out > Away Player > Calvin Schmitz
+11:35	Player Movement > Sub In > Home Player > Riley Sharbono
+11:35	Player Movement > Sub In > Away Player > Parker Joncus
+11:35	Player Movement > Sub Out > Home Player > Kelsey Thomas
+11:35	Player Movement > Sub In > Home Player > Vannis Smith
+11:35	Player Movement > Sub Out > Home Player > Austin Goetz
+11:35	Player Movement > Sub In > Home Player > Schuyler Thompson
+IIT	2	11:22	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	43	-	40
+11:22	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+11:22	Misc Stat > Defensive Rebound > Riley Sharbono
+GUS	2	11:08	30 Schuyler Thompson > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	43	-	40
+11:08	Turnover > Any Type > Schuyler Thompson
+11:08	Player Movement > Sub Out > Away Player > Jake Digiorgio
+IIT	2	10:55	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	43	-	40
+10:55	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+10:55	Misc Stat > Defensive Rebound > Jason Faul
+GUS	2	10:45	30 Schuyler Thompson > Non Possession > Non Shooting Foul	43	-	40
+10:45	Personal Foul > Defensive - Any > Kohl Linder
+GUS	2	10:45	21 Riley Sharbono > No Play Type > Turnover	43	-	40
+10:45	Player Movement > Sub Out > Home Player > Jason Faul
+10:45	Player Movement > Sub In > Home Player > CJ Woda
+10:43	Turnover > Any Type > Riley Sharbono
+10:40	Misc Stat > Steal > Anthony Mosley
+IIT	2	10:39	2 Anthony Mosley > Transition > Ballhandler > To Basket > Miss 2 Pts	43	-	40
+10:39	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+10:39	Misc Stat > Defensive Rebound > Vannis Smith
+GUS	2	10:28	30 Schuyler Thompson > Transition > Right Wing > To Basket > Make 2 Pts Foul > 0 Pts	43	-	42
+10:28	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Make 2 Pts
+10:28	Misc Stat > Assist > Vannis Smith
+GUS	2	10:28	30 Schuyler Thompson > Non Possession > Free Throw	43	-	42
+10:28	Shot > Schuyler Thompson > Free Throw > Missed
+GUS	2	10:28	11 CJ Woda > Offensive Rebound > Long > Run Offense	43	-	42
+10:28	Misc Stat > Offensive Rebound > CJ Woda
+GUS	2	10:16	23 Vannis Smith > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts	43	-	44
+10:16	Shot > Vannis Smith > Any Type > 2 Point Attempt > Make 2 Pts
+10:16	Misc Stat > Assist > Sam Dubois
+IIT	2	09:46	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:46	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+09:46	Misc Stat > Assist > Anthony Mosley
+GUS	2	09:13	23 Vannis Smith > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	45	-	44
+09:13	Shot > Vannis Smith > Any Type > 3 Point Attempt > Miss 3 Pts
+09:13	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	08:52	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Foul	45	-	44
+08:52	Personal Foul > Defensive - Any > Schuyler Thompson
+IIT	2	08:52	2 Anthony Mosley > Non Possession > Free Throw	46	-	44
+08:52	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	08:52	2 Anthony Mosley > Non Possession > Free Throw	47	-	44
+08:52	Shot > Anthony Mosley > Free Throw > Made
+08:52	Player Movement > Sub In > Away Player > Jake Digiorgio
+08:52	Player Movement > Sub Out > Home Player > Schuyler Thompson
+08:52	Player Movement > Sub Out > Away Player > Kohl Linder
+08:52	Player Movement > Sub In > Away Player > Malik Howze
+08:52	Player Movement > Sub Out > Home Player > Sam Dubois
+08:52	Player Movement > Sub Out > Away Player > Anthony Mosley
+08:52	Player Movement > Sub In > Home Player > Jason Faul
+08:52	Player Movement > Sub In > Away Player > Calvin Schmitz
+08:52	Player Movement > Sub In > Home Player > Austin Goetz
+GUS	2	08:38	23 Vannis Smith > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	47	-	46
+08:38	Shot > Vannis Smith > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	08:13	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Make 2 Pts	49	-	46
+08:13	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+08:13	Misc Stat > Assist > Jake Bruns
+GUS	2	07:54	11 CJ Woda > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	49	-	46
+07:54	Shot > CJ Woda > Any Type > 2 Point Attempt > Miss 2 Pts
+07:54	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	07:35	10 Jake Bruns > ISO > Top > Drives Left > Defense Commits > Turnover	49	-	46
+07:35	Turnover > Any Type > Jake Bruns
+07:35	Player Movement > Sub Out > Home Player > CJ Woda
+07:35	Player Movement > Sub In > Home Player > Kelsey Thomas
+GUS	2	07:14	21 Riley Sharbono > P&R Ball Handler > Left P&R > Side > Takes Early Jump Shot > Long/3pt > Make 3 Pts	49	-	49
+07:14	Shot > Riley Sharbono > Any Type > 3 Point Attempt > Make 3 Pts
+07:14	Misc Stat > Assist > Austin Goetz
+IIT	2	07:01	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Turnover	49	-	49
+07:01	Turnover > Any Type > Malik Howze
+07:01	Personal Foul > Defensive - Any > Malik Howze
+07:01	Player Movement > Sub Out > Away Player > Jake Bruns
+07:01	Player Movement > Sub In > Away Player > Anthony Mosley
+GUS	2	06:42	5 Austin Goetz > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	49	-	51
+06:42	Shot > Austin Goetz > Any Type > 2 Point Attempt > Make 2 Pts
+06:42	Misc Stat > Assist > Jason Faul
+IIT	2	06:14	2 Anthony Mosley > ISO > Right > Drives Right > Defense Commits 
+06:14	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:14	Misc Stat > Defensive Rebound > Vannis Smith
+GUS	2	06:00	32 Jason Faul > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	49	-	51
+06:00	Shot > Jason Faul > Any Type > 2 Point Attempt > Miss 2 Pts
+06:00	Misc Stat > Team Defensive Rebound > Away
+05:59	Player Movement > Sub Out > Home Player > Vannis Smith
+05:59	Player Movement > Sub In > Home Player > Zach Bloemker
+05:59	Player Movement > Sub Out > Away Player > Calvin Schmitz
+IIT	2	05:36	3 Malik Howze > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	52	-	51
+05:36	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+05:36	Misc Stat > Assist > Anthony Mosley
+GUS	2	05:23	4 Kelsey Thomas > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	52	-	53
+05:23	Shot > Kelsey Thomas > Any Type > 2 Point Attempt > Make 2 Pts
+05:23	Misc Stat > Assist > Jason Faul
+IIT	2	04:46	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+04:46	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	04:46	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	54	-	53
+04:46	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+04:46	Misc Stat > Offensive Rebound > Jake Digiorgio
+GUS	2	04:19	32 Jason Faul > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	54	-	55
+04:19	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+04:19	Misc Stat > Assist > Zach Bloemker
+IIT	2	03:51	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:51	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+03:51	Misc Stat > Assist > Anthony Mosley
+GUS	2	03:32	3 Zach Bloemker > ISO > Left > Drives Left > Turnover	56	-	55
+03:32	Turnover > Any Type > Zach Bloemker
+IIT	2	03:32	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	56	-	55
+03:32	Player Movement > Sub In > Home Player > Vannis Smith
+03:32	Player Movement > Sub Out > Home Player > Zach Bloemker
+03:17	Misc Stat > Steal > Jason Faul
+03:17	Turnover > Any Type > Anthony Mosley
+GUS	2	03:17	23 Vannis Smith > Transition > Ballhandler > To Basket > Miss 2 Pts	56	-	55
+03:17	Shot > Vannis Smith > Any Type > 2 Point Attempt > Miss 2 Pts
+03:17	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	02:32	3 Malik Howze > No Play Type > Foul	56	-	55
+02:32	Personal Foul > Defensive - Any > Riley Sharbono
+IIT	2	02:28	3 Malik Howze > Non Possession > Free Throw	56	-	55
+02:28	Shot > Malik Howze > Free Throw > Missed
+02:28	Misc Stat > Defensive Rebound > Kelsey Thomas
+IIT	2	01:54	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	56	-	55
+01:54	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+01:54	Misc Stat > Defensive Rebound > Riley Sharbono
+GUS	2	01:44	23 Vannis Smith > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	56	-	58
+01:44	Shot > Vannis Smith > Any Type > 3 Point Attempt > Make 3 Pts
+01:44	Misc Stat > Assist > Kelsey Thomas
+IIT	2	01:08	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits 
+01:08	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+01:08	Misc Stat > Defensive Rebound > Jason Faul
+GUS	2	00:54	21 Riley Sharbono > Hand Off > From Dribble > Top > To Basket > Make 2 Pts	56	-	60
+00:54	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+00:22	Misc Stat > Team Defensive Rebound > Home
+IIT	2	00:22	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Jumper > Miss 2 Pts	56	-	60
+00:22	Time Event > Full Time Out > Home Team
+GUS	2	00:07	23 Vannis Smith > Non Possession > Non Shooting Foul	56	-	60
+00:07	Time Event > Full Time Out > Away Team
+00:07	Personal Foul > Defensive - Any > Malik Howze
+GUS	2	00:00	21 Riley Sharbono > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	56	-	60
+00:00	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Miss 2 Pts
+00:00	Misc Stat > Team Offensive Rebound > HomeGUS	3	04:44	21 Riley Sharbono > Off Screen > To Shooter's Right > Curl > To Basket > Make 2 Pts	56	-	62
+04:44	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+04:44	Misc Stat > Assist > Kelsey Thomas
+IIT	3	04:16	3 Malik Howze > No Play Type > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	58	-	62
+04:16	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	3	03:48	23 Vannis Smith > ISO > Left > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	58	-	62
+03:48	Shot > Vannis Smith > Any Type > 2 Point Attempt > Miss 2 Pts
+GUS	3	03:48	23 Vannis Smith > Offensive Rebound > Long > Run Offense	58	-	62
+03:48	Misc Stat > Offensive Rebound > Vannis Smith
+GUS	3	03:35	32 Jason Faul > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	58	-	64
+03:35	Shot > Jason Faul > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	3	03:14	22 Max Hisatake > Cut > Basket > Make 2 Pts	60	-	64
+03:14	Misc Stat > Assist > Anthony Mosley
+GUS	3	02:58	21 Riley Sharbono > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Short to < 17' > Make 2 Pts	60	-	66
+02:58	Shot > Riley Sharbono > Any Type > 2 Point Attempt > Make 2 Pts
+02:58	Misc Stat > Assist > Kelsey Thomas
+IIT	3	02:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+02:33	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+02:33	Misc Stat > Team Offensive Rebound > Away
+IIT	3	02:32	21 Jake Digiorgio > No Play Type > Foul	60	-	66
+02:32	Personal Foul > Defensive - Any > Kelsey Thomas
+IIT	3	02:32	21 Jake Digiorgio > Non Possession > Free Throw	60	-	66
+02:32	Shot > Jake Digiorgio > Free Throw > Missed
+02:32	Misc Stat > Defensive Rebound > Jason Faul
+GUS	3	02:32	21 Riley Sharbono > No Play Type > Turnover	60	-	66
+02:32	Player Movement > Sub In > Home Player > Schuyler Thompson
+02:32	Player Movement > Sub Out > Home Player > Kelsey Thomas
+02:15	Turnover > Any Type > Riley Sharbono
+IIT	3	01:46	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	60	-	66
+01:46	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+01:46	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	3	01:43	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	62	-	66
+01:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	3	01:22	32 Jason Faul > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+01:22	Shot > Schuyler Thompson > Any Type > 2 Point Attempt > Miss 2 Pts
+01:11	Time Event > Full Time Out > Away Team
+IIT	3	00:54	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:54	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+GUS	3	00:25	5 Austin Goetz > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	64	-	66
+00:25	Shot > Austin Goetz > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	3	00:14	21 Jake Digiorgio > No Play Type > Foul	64	-	66
+00:14	Player Movement > Sub In > Away Player > Jake Bruns
+00:14	Player Movement > Sub Out > Home Player > Riley Sharbono
+00:14	Player Movement > Sub In > Home Player > Spencer Tollefson
+00:13	Personal Foul > Defensive - Any > Jason Faul
+IIT	3	00:13	21 Jake Digiorgio > Non Possession > Free Throw	64	-	66
+00:13	Shot > Jake Digiorgio > Free Throw > Missed
+00:13	Misc Stat > Team Defensive Rebound > Away
+IIT	3	00:13	21 Jake Digiorgio > Non Possession > Free Throw	65	-	66
+00:13	Shot > Jake Digiorgio > Free Throw > Made
+00:09	Player Movement > Sub Out > Away Player > Jake Bruns
+IIT	3	00:07	2 Anthony Mosley > Non Possession > Free Throw	66	-	66
+00:07	Shot > Anthony Mosley > Free Throw > Made
+IIT	3	00:07	2 Anthony Mosley > Non Possession > Free Throw	66	-	66
+00:07	Shot > Anthony Mosley > Free Throw > Missed
+00:07	Misc Stat > Defensive Rebound > Riley Sharbono
+00:07	Player Movement > Sub Out > Home Player > Austin Goetz
+00:07	Player Movement > Sub In > Home Player > Riley Sharbono
+00:07	Player Movement > Sub Out > Home Player > Jason Faul
+00:07	Player Movement > Sub Out > Away Player > Jake Bruns
+00:07	Player Movement > Sub In > Home Player > Zach Bloemker
+00:07	Player Movement > Sub In > Away Player > Jake Digiorgio
+00:07	Player Movement > Sub Out > Home Player > Sam Dubois
+00:07	Player Movement > Sub In > Home Player > Charlie Krambeer
+GUS	3	00:00	10 Isaac Douglas > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	66	-	66
+00:00	Shot > Isaac Douglas > Any Type > 3 Point Attempt > Miss 3 Pts
+00:00	Misc Stat > Defensive Rebound > Jake Digiorgio

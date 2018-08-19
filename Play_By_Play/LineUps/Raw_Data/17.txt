@@ -1,0 +1,701 @@
+ROH	1	19:38	30 Nick McGrail > Post-Up > Right Block > Face-up > Jumper > Make 2 Pts	0	-	2
+19:38	Shot > Nick Mcgrail > Any Type > 2 Point Attempt > Make 2 Pts
+19:38	Misc Stat > Assist > Craig Mcgee Jr.
+IIT	1	19:25	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	2	-	2
+19:25	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	1	18:58	21 Charlie Aimone > Off Screen > To Shooter's Left > Curl > Dribble Jumper > Short to < 17' > Miss 2 Pts	2	-	2
+18:58	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Miss 2 Pts
+18:58	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:41	21 Jake Digiorgio > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts	4	-	2
+18:41	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+18:41	Misc Stat > Assist > Malik Howze
+ROH	1	18:25	21 Charlie Aimone > Off Screen > To Shooter's Right > Curl > To Basket > Make 2 Pts	4	-	4
+18:25	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Make 2 Pts
+18:25	Misc Stat > Assist > Craig Mcgee Jr.
+IIT	1	18:18	22 Max Hisatake > Transition > Leak Outs > To Basket > Miss 2 Pts	4	-	4
+18:18	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:18	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+ROH	1	18:01	21 Charlie Aimone > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	4	-	4
+18:01	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+18:01	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	17:54	2 Anthony Mosley > Transition > Ballhandler > Turnover	4	-	4
+17:54	Turnover > Any Type > Anthony Mosley
+17:53	Misc Stat > Steal > John Czarnecki
+ROH	1	17:39	21 Charlie Aimone > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	4	-	7
+17:39	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Make 3 Pts
+17:39	Misc Stat > Assist > Ryuji Aoki
+IIT	1	17:17	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+17:17	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+17:17	Misc Stat > Assist > Anthony Mosley
+ROH	1	17:08	15 Craig McGee Jr. > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	7	-	9
+17:08	Shot > Craig Mcgee Jr. > Any Type > 2 Point Attempt > Make 2 Pts
+17:08	Personal Foul > Defensive - Any > Anthony Mosley
+ROH	1	17:08	15 Craig McGee Jr. > Non Possession > Free Throw	7	-	10
+17:08	Shot > Craig Mcgee Jr. > Free Throw > Made
+IIT	1	17:00	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	7	-	10
+17:00	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+17:00	Misc Stat > Team Offensive Rebound > Away
+IIT	1	16:50	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Hook > Miss 2 Pts	7	-	10
+16:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+16:50	Misc Stat > Defensive Rebound > John Czarnecki
+ROH	1	16:39	50 John Czarnecki > No Play Type > Turnover	7	-	10
+16:39	Player Movement > Sub In > Away Player > Capriest Gardner
+16:39	Player Movement > Sub Out > Away Player > Max Hisatake
+16:39	Player Movement > Sub In > Away Player > Kohl Linder
+16:39	Turnover > Any Type > John Czarnecki
+16:39	Player Movement > Sub Out > Away Player > Parker Joncus
+16:39	Personal Foul > Defensive - Any > John Czarnecki
+IIT	1	16:17	15 Capriest Gardner > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	7	-	10
+16:17	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+16:17	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+ROH	1	16:10	21 Charlie Aimone > Transition > Left Wing > Turnover	7	-	10
+16:10	Turnover > Any Type > Charlie Aimone
+IIT	1	15:57	35 Kohl Linder > No Play Type > Turnover	7	-	10
+15:57	Player Movement > Sub Out > Home Player > Nick Mcgrail
+15:57	Turnover > Any Type > Kohl Linder
+15:57	Player Movement > Sub Out > Home Player > Ryuji Aoki
+15:57	Personal Foul > Defensive - Any > Kohl Linder
+15:57	Player Movement > Sub In > Home Player > Stephen Schueth
+15:57	Player Movement > Sub In > Home Player > Jacob Back
+ROH	1	15:42	50 John Czarnecki > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	7	-	10
+15:42	Shot > John Czarnecki > Any Type > 2 Point Attempt > Miss 2 Pts
+15:42	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	15:36	3 Malik Howze > Transition > Ballhandler > Turnover	7	-	10
+15:36	Turnover > Any Type > Malik Howze
+15:35	Misc Stat > Steal > Jacob Back
+ROH	1	15:17	5 Jacob Back > No Play Type > Turnover	7	-	10
+15:17	Personal Foul > Defensive - Any > Jacob Back
+15:17	Turnover > Any Type > Jacob Back
+IIT	1	14:58	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+14:58	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	1	14:38	21 Charlie Aimone > ISO > Right > Early Jumper > Long/3pt > Miss 3 Pts	9	-	10
+14:38	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+14:38	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	14:34	3 Malik Howze > Transition > Ballhandler > To Basket > Foul	9	-	10
+14:34	Personal Foul > Defensive - Any > Stephen Schueth
+IIT	1	14:34	3 Malik Howze > Non Possession > Free Throw	10	-	10
+14:34	Shot > Malik Howze > Free Throw > Made
+IIT	1	14:34	3 Malik Howze > Non Possession > Free Throw	11	-	10
+14:34	Shot > Malik Howze > Free Throw > Made
+14:34	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:34	Player Movement > Sub Out > Home Player > Charlie Aimone
+14:34	Player Movement > Sub In > Away Player > Max Hisatake
+14:34	Player Movement > Sub In > Home Player > Kyle Steckel
+14:34	Player Movement > Sub In > Home Player > Michael Lake
+14:34	Player Movement > Sub Out > Home Player > Craig Mcgee Jr.
+ROH	1	14:25	5 Jacob Back > Non Possession > Non Shooting Foul	11	-	10
+14:25	Personal Foul > Defensive - Any > Kohl Linder
+ROH	1	14:14	50 John Czarnecki > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	11	-	13
+14:14	Shot > John Czarnecki > Any Type > 3 Point Attempt > Make 3 Pts
+14:14	Misc Stat > Assist > Stephen Schueth
+IIT	1	13:42	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	13	-	13
+13:42	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+13:42	Misc Stat > Assist > Jake Bruns
+13:33	Player Movement > Sub In > Away Player > Jake Bruns
+13:33	Player Movement > Sub Out > Away Player > Anthony Mosley
+ROH	1	13:23	10 Stephen Schueth > Off Screen > To Shooter's Right > Fade > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	13	-	13
+13:23	Shot > Stephen Schueth > Any Type > 3 Point Attempt > Miss 3 Pts
+13:23	Misc Stat > Team Offensive Rebound > Home
+13:19	Player Movement > Sub In > Home Player > Eli Combs
+13:19	Player Movement > Sub Out > Home Player > John Czarnecki
+ROH	1	13:05	11 Michael Lake > Non Possession > Non Shooting Foul	13	-	13
+13:05	Personal Foul > Defensive - Any > Malik Howze
+ROH	1	12:56	11 Michael Lake > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	13	-	13
+12:56	Shot > Michael Lake > Any Type > 2 Point Attempt > Miss 2 Pts
+12:56	Misc Stat > Block > Kohl Linder
+12:56	Misc Stat > Defensive Rebound > Kohl Linder
+12:54	Player Movement > Sub In > Away Player > Jake Digiorgio
+12:54	Player Movement > Sub Out > Away Player > Kohl Linder
+12:54	Personal Foul > Defensive - Any > Michael Lake
+12:54	Player Movement > Sub Out > Away Player > Malik Howze
+12:54	Player Movement > Sub In > Away Player > Anthony Mosley
+IIT	1	12:34	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	13	-	13
+12:34	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	12:34	22 Max Hisatake > Offensive Rebound > Short > Run Offense	13	-	13
+12:34	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	12:27	15 Capriest Gardner > Cut > Basket > Make 2 Pts	15	-	13
+12:27	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+12:27	Misc Stat > Assist > Max Hisatake
+ROH	1	12:14	40 Eli Combs > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	15	-	16
+12:14	Shot > Eli Combs > Any Type > 3 Point Attempt > Make 3 Pts
+12:14	Misc Stat > Assist > Stephen Schueth
+IIT	1	12:03	15 Capriest Gardner > Non Possession > Out of Bound Timeout	15	-	16
+12:03	Time Event > Full Time Out > Away Team
+12:03	Player Movement > Sub In > Home Player > Craig Mcgee Jr.
+12:03	Player Movement > Sub Out > Home Player > Jacob Back
+12:03	Player Movement > Sub Out > Home Player > Kyle Steckel
+12:03	Player Movement > Sub In > Home Player > Nick Mcgrail
+IIT	1	11:51	2 Anthony Mosley > ISO > Right > Drives Left > Defense Commits > Turnover	15	-	16
+11:51	Turnover > Any Type > Anthony Mosley
+ROH	1	11:33	10 Stephen Schueth > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	15	-	16
+11:33	Shot > Stephen Schueth > Any Type > 2 Point Attempt > Miss 2 Pts
+11:33	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	11:05	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	15	-	16
+11:05	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+11:05	Misc Stat > Team Defensive Rebound > Home
+11:01	Player Movement > Sub Out > Home Player > Michael Lake
+11:01	Player Movement > Sub In > Away Player > Quentin Forberg
+11:01	Player Movement > Sub In > Home Player > Ryuji Aoki
+11:01	Player Movement > Sub In > Away Player > Malik Howze
+11:01	Player Movement > Sub Out > Away Player > Jake Bruns
+11:01	Player Movement > Sub Out > Away Player > Capriest Gardner
+ROH	1	10:55	31 Ryuji Aoki > Off Screen > To Shooter's Left > Fade > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	15	-	16
+10:55	Shot > Ryuji Aoki > Any Type > 3 Point Attempt > Miss 3 Pts
+10:55	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	10:31	4 Quentin Forberg > ISO > Right > Drives Left > To Basket > Miss 2 Pts	15	-	16
+10:31	Shot > Quentin Forberg > Any Type > 2 Point Attempt > Miss 2 Pts
+10:31	Misc Stat > Defensive Rebound > Ryuji Aoki
+ROH	1	10:23	31 Ryuji Aoki > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+10:23	Shot > Craig Mcgee Jr. > Any Type > 2 Point Attempt > Miss 2 Pts
+10:23	Misc Stat > Defensive Rebound > Max Hisatake
+10:23	Misc Stat > Block > Max Hisatake
+IIT	1	10:17	3 Malik Howze > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	15	-	16
+10:17	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+10:17	Misc Stat > Defensive Rebound > Nick Mcgrail
+ROH	1	10:06	10 Stephen Schueth > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits 
+10:06	Shot > Nick Mcgrail > Any Type > 3 Point Attempt > Miss 3 Pts
+10:06	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	09:35	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	15	-	16
+09:35	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+09:35	Misc Stat > Defensive Rebound > Ryuji Aoki
+ROH	1	09:19	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	15	-	16
+09:19	Shot > Craig Mcgee Jr. > Any Type > 2 Point Attempt > Miss 2 Pts
+09:19	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	09:14	2 Anthony Mosley > Non Possession > Non Shooting Foul	15	-	16
+09:14	Player Movement > Sub In > Home Player > Luke Callahan
+09:14	Player Movement > Sub In > Home Player > Charlie Aimone
+09:14	Player Movement > Sub Out > Home Player > Nick Mcgrail
+09:14	Personal Foul > Defensive - Any > Ryuji Aoki
+09:14	Player Movement > Sub Out > Home Player > Stephen Schueth
+IIT	1	09:00	21 Jake Digiorgio > Non Possession > Non Shooting Foul	15	-	16
+09:00	Personal Foul > Defensive - Any > Luke Callahan
+09:00	Player Movement > Sub Out > Away Player > Quentin Forberg
+09:00	Player Movement > Sub In > Away Player > Parker Joncus
+IIT	1	08:53	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Defense Commits > Turnover	15	-	16
+08:53	Turnover > Any Type > Jake Digiorgio
+08:51	Misc Stat > Steal > Craig Mcgee Jr.
+ROH	1	08:48	33 Luke Callahan > No Play Type > Turnover	15	-	16
+08:48	Personal Foul > Defensive - Any > Luke Callahan
+08:48	Turnover > Any Type > Luke Callahan
+IIT	1	08:35	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+08:35	Turnover > Any Type > Max Hisatake
+08:35	Personal Foul > Defensive - Any > Max Hisatake
+ROH	1	08:15	31 Ryuji Aoki > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+08:15	Shot > Craig Mcgee Jr. > Any Type > 2 Point Attempt > Make 2 Pts
+08:15	Misc Stat > Assist > Charlie Aimone
+IIT	1	07:57	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts	17	-	18
+07:57	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	1	07:32	21 Charlie Aimone > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	17	-	18
+07:32	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Miss 2 Pts
+07:32	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	07:21	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Foul	17	-	18
+07:21	Personal Foul > Defensive - Any > Craig Mcgee Jr.
+IIT	1	07:21	2 Anthony Mosley > Non Possession > Free Throw	18	-	18
+07:21	Shot > Anthony Mosley > Free Throw > Made
+IIT	1	07:21	2 Anthony Mosley > Non Possession > Free Throw	19	-	18
+07:21	Shot > Anthony Mosley > Free Throw > Made
+ROH	1	07:04	33 Luke Callahan > Post-Up > Right Block > Right Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	19	-	18
+07:04	Shot > Luke Callahan > Any Type > 2 Point Attempt > Miss 2 Pts
+07:04	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	06:59	21 Jake Digiorgio > Transition > First Middle > To Basket > Make 2 Pts	21	-	18
+06:59	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+06:59	Misc Stat > Assist > Malik Howze
+ROH	1	06:44	21 Charlie Aimone > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+06:44	Shot > Luke Callahan > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:31	2 Anthony Mosley > Hand Off > From Dribble > Top > To Basket > Make 2 Pts	23	-	20
+06:31	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	1	06:19	31 Ryuji Aoki > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	23	-	20
+06:19	Shot > Ryuji Aoki > Any Type > 3 Point Attempt > Miss 3 Pts
+06:19	Misc Stat > Team Defensive Rebound > Away
+06:14	Player Movement > Sub In > Home Player > Nick Mcgrail
+06:14	Player Movement > Sub Out > Home Player > Luke Callahan
+06:14	Player Movement > Sub Out > Home Player > Eli Combs
+06:14	Player Movement > Sub In > Home Player > Jacob Back
+IIT	1	05:59	3 Malik Howze > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	23	-	20
+05:59	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:59	Misc Stat > Defensive Rebound > Charlie Aimone
+ROH	1	05:55	15 Craig McGee Jr. > Transition > Ballhandler > Turnover	23	-	20
+05:55	Turnover > Any Type > Craig Mcgee Jr.
+05:53	Misc Stat > Steal > Jake Digiorgio
+IIT	1	05:32	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	23	-	20
+05:32	Turnover > Any Type > Malik Howze
+05:31	Misc Stat > Steal > Craig Mcgee Jr.
+ROH	1	05:23	31 Ryuji Aoki > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	23	-	20
+05:23	Shot > Ryuji Aoki > Any Type > 2 Point Attempt > Miss 2 Pts
+05:23	Misc Stat > Block > Jake Digiorgio
+05:23	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	05:14	22 Max Hisatake > No Play Type > Foul	23	-	20
+05:14	Personal Foul > Defensive - Any > Jacob Back
+IIT	1	05:14	22 Max Hisatake > Non Possession > Free Throw	23	-	20
+05:14	Shot > Max Hisatake > Free Throw > Missed
+05:14	Player Movement > Sub Out > Home Player > Craig Mcgee Jr.
+05:14	Player Movement > Sub In > Home Player > Kyle Steckel
+05:14	Misc Stat > Defensive Rebound > Charlie Aimone
+ROH	1	04:54	21 Charlie Aimone > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+04:54	Shot > Ryuji Aoki > Any Type > 2 Point Attempt > Make 2 Pts
+04:54	Misc Stat > Assist > Charlie Aimone
+IIT	1	04:40	2 Anthony Mosley > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Foul	23	-	22
+04:40	Personal Foul > Defensive - Any > Kyle Steckel
+IIT	1	04:40	2 Anthony Mosley > Non Possession > Free Throw	24	-	22
+04:40	Shot > Anthony Mosley > Free Throw > Made
+IIT	1	04:40	2 Anthony Mosley > Non Possession > Free Throw	24	-	22
+04:40	Shot > Anthony Mosley > Free Throw > Missed
+IIT	1	04:40	22 Max Hisatake > Offensive Rebound > Short > Run Offense	24	-	22
+04:40	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	04:15	2 Anthony Mosley > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	24	-	22
+04:15	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+04:15	Misc Stat > Defensive Rebound > Charlie Aimone
+ROH	1	04:01	5 Jacob Back > Cut > Flash > Miss 2 Pts	24	-	22
+04:01	Shot > Jacob Back > Any Type > 2 Point Attempt > Miss 2 Pts
+04:01	Misc Stat > Defensive Rebound > Max Hisatake
+03:59	Player Movement > Sub Out > Away Player > Parker Joncus
+03:59	Player Movement > Sub In > Away Player > Capriest Gardner
+IIT	1	03:38	15 Capriest Gardner > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	24	-	22
+03:38	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	03:38	15 Capriest Gardner > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	24	-	22
+03:38	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	03:34	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	24	-	22
+03:34	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+03:34	Misc Stat > Defensive Rebound > Nick Mcgrail
+ROH	1	03:25	23 Kyle Steckel > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:25	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Make 3 Pts
+03:25	Misc Stat > Assist > Kyle Steckel
+IIT	1	03:12	21 Jake Digiorgio > Transition > Left Wing > To Basket > Turnover	24	-	25
+03:12	Turnover > Any Type > Jake Digiorgio
+03:12	Personal Foul > Defensive - Any > Jake Digiorgio
+ROH	1	02:56	30 Nick McGrail > Post-Up > Right Block > Defense Commits > Turnover	24	-	25
+02:56	Turnover > Any Type > Nick Mcgrail
+02:55	Misc Stat > Steal > Jake Digiorgio
+IIT	1	02:36	15 Capriest Gardner > ISO > Right > Early Jumper > Medium/17' to <3p > Miss 2 Pts	24	-	25
+02:36	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+02:36	Misc Stat > Defensive Rebound > Kyle Steckel
+ROH	1	02:25	23 Kyle Steckel > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	24	-	25
+02:25	Turnover > Any Type > Kyle Steckel
+02:24	Misc Stat > Steal > Anthony Mosley
+IIT	1	02:18	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	26	-	25
+02:18	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	1	01:52	31 Ryuji Aoki > No Play Type > Turnover	26	-	25
+01:52	Turnover > Any Type > Ryuji Aoki
+01:51	Misc Stat > Steal > Anthony Mosley
+IIT	1	01:47	3 Malik Howze > Transition > Left Wing > To Basket > Miss 2 Pts	26	-	25
+01:47	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+01:47	Misc Stat > Defensive Rebound > Ryuji Aoki
+01:47	Misc Stat > Block > Jacob Back
+ROH	1	01:31	21 Charlie Aimone > ISO > Top > Drives Right > To Basket > Make 2 Pts	26	-	27
+01:31	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	01:13	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	28	-	27
+01:13	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+01:01	Time Event > Full Time Out > Home Team
+01:01	Player Movement > Sub In > Home Player > JT Whitaker
+01:01	Player Movement > Sub Out > Home Player > Ryuji Aoki
+01:01	Player Movement > Sub In > Home Player > Eli Combs
+01:01	Player Movement > Sub Out > Home Player > Jacob Back
+01:01	Player Movement > Sub In > Home Player > Stephen Schueth
+01:01	Player Movement > Sub Out > Home Player > Charlie Aimone
+01:01	Player Movement > Sub In > Home Player > Michael Lake
+01:01	Player Movement > Sub Out > Home Player > Nick Mcgrail
+00:53	Player Movement > Sub In > Away Player > Parker Joncus
+00:53	Player Movement > Sub Out > Away Player > Capriest Gardner
+00:53	Player Movement > Sub Out > Away Player > Jake Digiorgio
+00:53	Player Movement > Sub In > Away Player > Kohl Linder
+ROH	1	00:36	40 Eli Combs > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	28	-	27
+00:36	Shot > Eli Combs > Any Type > 2 Point Attempt > Miss 2 Pts
+ROH	1	00:36	45 JT Whitaker > Offensive Rebound > Short > Run Offense	28	-	27
+00:36	Misc Stat > Offensive Rebound > JT Whitaker
+IIT	2	19:46	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	30	-	27
+19:46	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	2	19:34	31 Ryuji Aoki > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits > Turnover	30	-	27
+19:34	Turnover > Any Type > Ryuji Aoki
+19:33	Misc Stat > Steal > Max Hisatake
+IIT	2	19:15	22 Max Hisatake > Cut > Basket > Miss 2 Pts	30	-	27
+19:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+19:15	Misc Stat > Defensive Rebound > John Czarnecki
+19:11	Player Movement > Sub Out > Away Player > Max Hisatake
+19:11	Player Movement > Sub In > Away Player > Kohl Linder
+ROH	2	18:49	21 Charlie Aimone > Spot-Up > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	30	-	27
+18:49	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Miss 2 Pts
+ROH	2	18:49	30 Nick McGrail > Offensive Rebound > Short > Run Offense	30	-	27
+18:49	Misc Stat > Offensive Rebound > Nick Mcgrail
+ROH	2	18:44	31 Ryuji Aoki > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	30	-	30
+18:44	Shot > Ryuji Aoki > Any Type > 3 Point Attempt > Make 3 Pts
+18:44	Misc Stat > Assist > Nick Mcgrail
+IIT	2	18:17	32 Parker Joncus > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	32	-	30
+18:17	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	2	18:09	30 Nick McGrail > Transition > Leak Outs > To Basket > Make 2 Pts	32	-	32
+18:09	Shot > Nick Mcgrail > Any Type > 2 Point Attempt > Make 2 Pts
+18:09	Misc Stat > Assist > Craig Mcgee Jr.
+IIT	2	17:53	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	35	-	32
+17:53	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+17:53	Misc Stat > Assist > Anthony Mosley
+ROH	2	17:41	50 John Czarnecki > Post-Up > Left Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	35	-	34
+17:41	Shot > John Czarnecki > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:29	35 Kohl Linder > Transition > Right Wing > To Basket > Make 2 Pts	37	-	34
+17:29	Shot > Kohl Linder > Any Type > 2 Point Attempt > Make 2 Pts
+17:29	Misc Stat > Assist > Anthony Mosley
+ROH	2	17:14	31 Ryuji Aoki > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+17:14	Shot > Nick Mcgrail > Any Type > 3 Point Attempt > Make 3 Pts
+17:14	Misc Stat > Assist > Ryuji Aoki
+IIT	2	16:49	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	40	-	37
+16:49	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Make 3 Pts
+ROH	2	16:33	31 Ryuji Aoki > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+16:33	Shot > Craig Mcgee Jr. > Any Type > 3 Point Attempt > Make 3 Pts
+16:33	Misc Stat > Assist > Charlie Aimone
+IIT	2	16:19	32 Parker Joncus > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 0 Pts	42	-	40
+16:19	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+16:19	Personal Foul > Defensive - Any > Charlie Aimone
+IIT	2	16:19	32 Parker Joncus > Non Possession > Free Throw	42	-	40
+16:19	Shot > Parker Joncus > Free Throw > Missed
+16:19	Player Movement > Sub Out > Home Player > Nick Mcgrail
+16:19	Player Movement > Sub Out > Away Player > Kohl Linder
+16:19	Player Movement > Sub Out > Home Player > Ryuji Aoki
+16:19	Player Movement > Sub In > Away Player > Max Hisatake
+16:19	Player Movement > Sub In > Home Player > Jacob Back
+16:19	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+16:19	Player Movement > Sub In > Home Player > Michael Lake
+ROH	2	16:01	11 Michael Lake > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	42	-	40
+16:01	Shot > Michael Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+16:01	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	15:40	22 Max Hisatake > Post-Up > Left Block > Face-up > Drive Baseline > Foul	42	-	40
+15:40	Personal Foul > Defensive - Any > John Czarnecki
+IIT	2	15:40	22 Max Hisatake > Non Possession > Free Throw	43	-	40
+15:40	Shot > Max Hisatake > Free Throw > Made
+IIT	2	15:40	22 Max Hisatake > Non Possession > Free Throw	44	-	40
+15:40	Shot > Max Hisatake > Free Throw > Made
+15:40	Player Movement > Sub Out > Away Player > Malik Howze
+15:40	Player Movement > Sub In > Away Player > Jake Bruns
+ROH	2	15:24	21 Charlie Aimone > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts	44	-	42
+15:24	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	14:59	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+14:59	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+14:59	Misc Stat > Offensive Rebound > Max Hisatake
+14:56	Turnover > Any Type > Max Hisatake
+ROH	2	14:33	21 Charlie Aimone > ISO > Right > Drives Left > To Basket > Make 2 Pts	44	-	44
+14:33	Shot > Charlie Aimone > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	14:27	2 Anthony Mosley > No Play Type > Turnover	44	-	44
+14:27	Turnover > Any Type > Anthony Mosley
+14:26	Misc Stat > Steal > Jacob Back
+ROH	2	14:26	21 Charlie Aimone > Transition > Right Wing > To Basket > Turnover	44	-	44
+14:26	Personal Foul > Defensive - Any > Charlie Aimone
+14:26	Turnover > Any Type > Charlie Aimone
+IIT	2	14:16	2 Anthony Mosley > Non Possession > Non Shooting Foul	44	-	44
+14:16	Player Movement > Sub In > Home Player > Kyle Steckel
+14:16	Personal Foul > Defensive - Any > Michael Lake
+14:16	Player Movement > Sub Out > Home Player > Craig Mcgee Jr.
+14:15	Player Movement > Sub Out > Home Player > John Czarnecki
+14:15	Player Movement > Sub In > Home Player > JT Whitaker
+IIT	2	13:57	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	44	-	44
+13:57	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+13:57	Player Movement > Sub In > Away Player > Malik Howze
+13:57	Personal Foul > Defensive - Any > Max Hisatake
+13:57	Misc Stat > Defensive Rebound > JT Whitaker
+13:57	Player Movement > Sub Out > Away Player > Anthony Mosley
+ROH	2	13:42	21 Charlie Aimone > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	44	-	44
+13:42	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+13:42	Misc Stat > Offensive Rebound > Jacob Back
+ROH	2	13:36	5 Jacob Back > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	44	-	46
+13:36	Shot > Jacob Back > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	13:08	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	44	-	46
+13:08	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+13:08	Misc Stat > Defensive Rebound > Jacob Back
+ROH	2	12:57	21 Charlie Aimone > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:57	Shot > Jacob Back > Any Type > 2 Point Attempt > Miss 2 Pts
+12:57	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	12:47	3 Malik Howze > ISO > Right > Drives Left > To Basket > Make 2 Pts	46	-	46
+12:47	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	2	12:11	21 Charlie Aimone > Hand Off > From Dribble > Right > Dribble Jumper > Long/3pt > Miss 3 Pts	46	-	46
+12:11	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+12:11	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	11:55	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:55	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+11:55	Misc Stat > Defensive Rebound > Kyle Steckel
+11:52	Personal Foul > Defensive - Any > Parker Joncus
+11:52	Player Movement > Sub Out > Away Player > Parker Joncus
+11:52	Player Movement > Sub In > Away Player > Kohl Linder
+11:52	Player Movement > Sub In > Away Player > Capriest Gardner
+11:52	Player Movement > Sub Out > Away Player > Jake Digiorgio
+11:36	Player Movement > Sub Out > Home Player > Charlie Aimone
+11:36	Player Movement > Sub In > Home Player > Eli Combs
+11:36	Player Movement > Sub In > Home Player > Stephen Schueth
+11:36	Player Movement > Sub Out > Home Player > Jacob Back
+ROH	2	11:29	40 Eli Combs > Non Possession > Non Shooting Foul	46	-	46
+11:29	Personal Foul > Defensive - Any > Kohl Linder
+11:24	Player Movement > Sub Out > Away Player > Jake Bruns
+11:24	Player Movement > Sub In > Away Player > Anthony Mosley
+ROH	2	11:23	40 Eli Combs > Non Possession > Non Shooting Foul	46	-	46
+11:23	Player Movement > Sub Out > Away Player > Kohl Linder
+11:23	Player Movement > Sub In > Away Player > Jake Digiorgio
+11:23	Personal Foul > Defensive - Any > Kohl Linder
+ROH	2	11:07	23 Kyle Steckel > Off Screen > To Shooter's Left > Curl > To Basket > Foul	46	-	46
+11:07	Personal Foul > Defensive - Any > Anthony Mosley
+ROH	2	11:07	23 Kyle Steckel > Non Possession > Free Throw	46	-	47
+11:07	Shot > Kyle Steckel > Free Throw > Made
+ROH	2	11:07	23 Kyle Steckel > Non Possession > Free Throw	46	-	48
+11:07	Shot > Kyle Steckel > Free Throw > Made
+IIT	2	10:54	2 Anthony Mosley > No Play Type > Turnover	46	-	48
+10:54	Turnover > Any Type > Anthony Mosley
+ROH	2	10:41	40 Eli Combs > Post-Up > Left Block > Right Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	46	-	48
+10:41	Shot > Eli Combs > Any Type > 2 Point Attempt > Miss 2 Pts
+10:41	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	10:29	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Takes Early Jump Shot > Medium/17' to <3p > Make 2 Pts	48	-	48
+10:29	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+ROH	2	10:18	23 Kyle Steckel > Non Possession > Non Shooting Foul	48	-	48
+10:18	Player Movement > Sub Out > Home Player > Kyle Steckel
+10:18	Player Movement > Sub In > Home Player > Craig Mcgee Jr.
+10:18	Player Movement > Sub In > Home Player > Ryuji Aoki
+10:18	Player Movement > Sub Out > Home Player > Michael Lake
+10:18	Personal Foul > Defensive - Any > Malik Howze
+ROH	2	10:08	45 JT Whitaker > Post-Up > Left Block > Right Shoulder > Dribble Move > To Hook > Foul	48	-	48
+10:08	Personal Foul > Defensive - Any > Max Hisatake
+ROH	2	10:08	45 JT Whitaker > Non Possession > Free Throw	48	-	48
+10:08	Shot > JT Whitaker > Free Throw > Missed
+10:08	Misc Stat > Team Defensive Rebound > Home
+ROH	2	10:08	45 JT Whitaker > Non Possession > Free Throw	48	-	48
+10:08	Shot > JT Whitaker > Free Throw > Missed
+10:08	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	09:46	15 Capriest Gardner > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+09:46	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+09:46	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+ROH	2	09:31	31 Ryuji Aoki > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:31	Shot > Craig Mcgee Jr. > Any Type > 3 Point Attempt > Miss 3 Pts
+09:31	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	09:12	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	50	-	48
+09:12	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+09:12	Misc Stat > Assist > Anthony Mosley
+ROH	2	08:44	31 Ryuji Aoki > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	50	-	48
+08:44	Shot > Ryuji Aoki > Any Type > 3 Point Attempt > Miss 3 Pts
+08:44	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	08:28	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	50	-	48
+08:28	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+08:28	Misc Stat > Defensive Rebound > Luke Callahan
+ROH	2	08:17	15 Craig McGee Jr. > No Play Type > Turnover	50	-	48
+08:17	Turnover > Any Type > Craig Mcgee Jr.
+08:15	Misc Stat > Steal > Capriest Gardner
+IIT	2	07:52	3 Malik Howze > Off Screen > To Shooter's Left > Straight > Dribble Jumper > Medium/17' to <3p > Foul	50	-	48
+07:52	Personal Foul > Defensive - Any > Stephen Schueth
+IIT	2	07:52	3 Malik Howze > Non Possession > Free Throw	50	-	48
+07:52	Shot > Malik Howze > Free Throw > Missed
+07:52	Misc Stat > Team Defensive Rebound > Away
+IIT	2	07:52	3 Malik Howze > Non Possession > Free Throw	51	-	48
+07:52	Shot > Malik Howze > Free Throw > Made
+07:52	Player Movement > Sub Out > Home Player > Ryuji Aoki
+07:52	Player Movement > Sub In > Home Player > Charlie Aimone
+ROH	2	07:38	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+07:38	Turnover > Any Type > Luke Callahan
+07:36	Misc Stat > Steal > Capriest Gardner
+IIT	2	07:36	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	53	-	48
+07:36	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+07:36	Misc Stat > Assist > Capriest Gardner
+07:36	Personal Foul > Defensive - Any > Craig Mcgee Jr.
+IIT	2	07:36	2 Anthony Mosley > Non Possession > Free Throw	54	-	48
+07:36	Shot > Anthony Mosley > Free Throw > Made
+ROH	2	07:16	15 Craig McGee Jr. > No Play Type > Turnover	54	-	48
+07:16	Turnover > Any Type > Craig Mcgee Jr.
+IIT	2	06:53	3 Malik Howze > Off Screen > To Shooter's Right > Straight > To Basket > Foul	54	-	48
+06:53	Personal Foul > Defensive - Any > Luke Callahan
+IIT	2	06:53	3 Malik Howze > Non Possession > Free Throw	55	-	48
+06:53	Shot > Malik Howze > Free Throw > Made
+IIT	2	06:53	3 Malik Howze > Non Possession > Free Throw	56	-	48
+06:53	Shot > Malik Howze > Free Throw > Made
+06:53	Player Movement > Sub Out > Home Player > Luke Callahan
+06:53	Player Movement > Sub In > Home Player > Nick Mcgrail
+06:53	Player Movement > Sub Out > Home Player > Eli Combs
+06:53	Player Movement > Sub In > Home Player > John Czarnecki
+06:53	Player Movement > Sub Out > Home Player > Craig Mcgee Jr.
+06:53	Player Movement > Sub In > Home Player > Kyle Steckel
+ROH	2	06:35	30 Nick McGrail > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	56	-	48
+06:35	Shot > Nick Mcgrail > Any Type > 3 Point Attempt > Miss 3 Pts
+ROH	2	06:35	30 Nick McGrail > Offensive Rebound > Short > Run Offense	56	-	48
+06:35	Misc Stat > Offensive Rebound > Nick Mcgrail
+ROH	2	06:08	30 Nick McGrail > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	56	-	48
+06:08	Shot > Nick Mcgrail > Any Type > 2 Point Attempt > Miss 2 Pts
+06:08	Misc Stat > Defensive Rebound > Max Hisatake
+06:08	Misc Stat > Block > Max Hisatake
+IIT	2	05:49	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	56	-	48
+05:49	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	05:49	21 Jake Digiorgio > Offensive Rebound > Short > Turnover	56	-	48
+05:49	Misc Stat > Offensive Rebound > Jake Digiorgio
+05:47	Turnover > Any Type > Jake Digiorgio
+ROH	2	05:35	10 Stephen Schueth > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits > Foul	56	-	48
+05:35	Personal Foul > Defensive - Any > Jake Digiorgio
+ROH	2	05:35	10 Stephen Schueth > Non Possession > Free Throw	56	-	49
+05:35	Shot > Stephen Schueth > Free Throw > Made
+ROH	2	05:35	10 Stephen Schueth > Non Possession > Free Throw	56	-	49
+05:35	Shot > Stephen Schueth > Free Throw > Missed
+ROH	2	05:35	50 John Czarnecki > Offensive Rebound > Long > Run Offense	56	-	49
+05:35	Misc Stat > Offensive Rebound > John Czarnecki
+ROH	2	05:31	10 Stephen Schueth > Spot-Up > Turnover	56	-	49
+05:31	Turnover > Any Type > Stephen Schueth
+IIT	2	05:13	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	56	-	49
+05:13	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:13	Misc Stat > Defensive Rebound > Nick Mcgrail
+ROH	2	05:10	30 Nick McGrail > No Play Type > Foul	56	-	49
+05:10	Personal Foul > Defensive - Any > Jake Digiorgio
+ROH	2	05:10	30 Nick McGrail > Non Possession > Free Throw	56	-	49
+05:10	Shot > Nick Mcgrail > Free Throw > Missed
+05:10	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	04:44	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	56	-	49
+04:44	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+04:44	Misc Stat > Team Defensive Rebound > Home
+ROH	2	04:12	21 Charlie Aimone > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	56	-	49
+04:12	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+04:12	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	03:44	15 Capriest Gardner > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	59	-	49
+03:44	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Make 3 Pts
+ROH	2	03:34	21 Charlie Aimone > No Play Type > Turnover	59	-	49
+03:34	Turnover > Any Type > Charlie Aimone
+03:33	Misc Stat > Steal > Capriest Gardner
+IIT	2	03:11	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+03:11	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+03:11	Misc Stat > Assist > Max Hisatake
+ROH	2	02:47	23 Kyle Steckel > Spot-Up > Drives Right > To Basket > Miss 2 Pts	62	-	49
+02:47	Shot > Kyle Steckel > Any Type > 2 Point Attempt > Miss 2 Pts
+02:47	Misc Stat > Team Offensive Rebound > Home
+02:47	Misc Stat > Block > Max Hisatake
+02:44	Player Movement > Sub In > Home Player > Ryuji Aoki
+02:44	Player Movement > Sub Out > Home Player > Kyle Steckel
+02:44	Player Movement > Sub In > Home Player > Michael Lake
+02:44	Player Movement > Sub Out > Home Player > Stephen Schueth
+02:44	Player Movement > Sub In > Home Player > Craig Mcgee Jr.
+02:44	Player Movement > Sub Out > Home Player > Charlie Aimone
+ROH	2	02:42	50 John Czarnecki > Cut > Basket > Miss 2 Pts	62	-	49
+02:42	Shot > John Czarnecki > Any Type > 2 Point Attempt > Miss 2 Pts
+02:42	Misc Stat > Team Offensive Rebound > Home
+ROH	2	02:34	50 John Czarnecki > Cut > Basket > Miss 2 Pts	62	-	49
+02:34	Shot > John Czarnecki > Any Type > 2 Point Attempt > Miss 2 Pts
+02:34	Misc Stat > Offensive Rebound > John Czarnecki
+ROH	2	02:30	50 John Czarnecki > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	62	-	51
+02:30	Shot > John Czarnecki > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:07	15 Capriest Gardner > No Play Type > Foul	62	-	51
+02:07	Personal Foul > Defensive - Any > Ryuji Aoki
+IIT	2	02:07	15 Capriest Gardner > Non Possession > Free Throw	62	-	51
+02:07	Shot > Capriest Gardner > Free Throw > Missed
+02:07	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+ROH	2	01:58	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	62	-	53
+01:58	Shot > Craig Mcgee Jr. > Any Type > 2 Point Attempt > Make 2 Pts
+01:55	Time Event > Full Time Out > Home Team
+01:55	Player Movement > Sub In > Home Player > Jacob Back
+01:55	Player Movement > Sub Out > Away Player > Capriest Gardner
+01:55	Player Movement > Sub In > Away Player > Parker Joncus
+01:55	Player Movement > Sub Out > Home Player > Nick Mcgrail
+IIT	2	01:54	3 Malik Howze > No Play Type > Foul	62	-	53
+01:54	Personal Foul > Defensive - Any > Ryuji Aoki
+IIT	2	01:54	3 Malik Howze > Non Possession > Free Throw	63	-	53
+01:54	Shot > Malik Howze > Free Throw > Made
+IIT	2	01:54	3 Malik Howze > Non Possession > Free Throw	63	-	53
+01:54	Shot > Malik Howze > Free Throw > Missed
+01:54	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+ROH	2	01:47	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	63	-	53
+01:47	Personal Foul > Defensive - Any > Anthony Mosley
+ROH	2	01:47	15 Craig McGee Jr. > Non Possession > Free Throw	63	-	54
+01:47	Shot > Craig Mcgee Jr. > Free Throw > Made
+ROH	2	01:47	15 Craig McGee Jr. > Non Possession > Free Throw	63	-	55
+01:47	Shot > Craig Mcgee Jr. > Free Throw > Made
+01:47	Player Movement > Sub Out > Home Player > Ryuji Aoki
+01:47	Player Movement > Sub In > Home Player > Stephen Schueth
+IIT	2	01:36	22 Max Hisatake > No Play Type > Foul	63	-	55
+01:36	Personal Foul > Defensive - Any > Jacob Back
+IIT	2	01:36	22 Max Hisatake > Non Possession > Free Throw	63	-	55
+01:36	Shot > Max Hisatake > Free Throw > Missed
+01:36	Misc Stat > Team Defensive Rebound > Away
+IIT	2	01:36	22 Max Hisatake > Non Possession > Free Throw	64	-	55
+01:36	Shot > Max Hisatake > Free Throw > Made
+01:36	Player Movement > Sub In > Home Player > Ryuji Aoki
+01:36	Player Movement > Sub Out > Home Player > Jacob Back
+01:36	Player Movement > Sub In > Home Player > Nick Mcgrail
+01:36	Player Movement > Sub Out > Home Player > Stephen Schueth
+01:36	Player Movement > Sub In > Home Player > Charlie Aimone
+01:36	Player Movement > Sub Out > Home Player > Michael Lake
+ROH	2	01:24	31 Ryuji Aoki > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	64	-	55
+01:24	Shot > Ryuji Aoki > Any Type > 3 Point Attempt > Miss 3 Pts
+01:24	Misc Stat > Offensive Rebound > Nick Mcgrail
+ROH	2	01:20	30 Nick McGrail > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	64	-	55
+01:20	Shot > Nick Mcgrail > Any Type > 2 Point Attempt > Miss 2 Pts
+01:20	Misc Stat > Defensive Rebound > Jake Digiorgio
+01:17	Turnover > Any Type > Jake Digiorgio
+01:17	Personal Foul > Defensive - Any > Max Hisatake
+ROH	2	01:17	15 Craig McGee Jr. > Non Possession > Free Throw	64	-	56
+01:17	Shot > Craig Mcgee Jr. > Free Throw > Made
+ROH	2	01:17	15 Craig McGee Jr. > Non Possession > Free Throw	64	-	56
+01:17	Shot > Craig Mcgee Jr. > Free Throw > Missed
+01:17	Misc Stat > Team Defensive Rebound > Home
+ROH	2	01:09	15 Craig McGee Jr. > ISO > Left > Drives Left > Defense Commits 
+01:09	Shot > John Czarnecki > Any Type > 2 Point Attempt > Miss 2 Pts
+ROH	2	01:09	15 Craig McGee Jr. > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	64	-	56
+01:09	Misc Stat > Offensive Rebound > Craig Mcgee Jr.
+ROH	2	01:04	30 Nick McGrail > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	64	-	59
+01:04	Shot > Nick Mcgrail > Any Type > 3 Point Attempt > Make 3 Pts
+01:04	Misc Stat > Assist > Craig Mcgee Jr.
+01:01	Time Event > Full Time Out > Home Team
+01:01	Player Movement > Sub Out > Home Player > Nick Mcgrail
+01:01	Player Movement > Sub In > Home Player > Stephen Schueth
+01:01	Player Movement > Sub Out > Home Player > Ryuji Aoki
+01:01	Player Movement > Sub In > Home Player > Jacob Back
+01:01	Player Movement > Sub Out > Home Player > Charlie Aimone
+01:01	Player Movement > Sub In > Home Player > Michael Lake
+IIT	2	00:48	2 Anthony Mosley > No Play Type > Foul	64	-	59
+00:48	Personal Foul > Defensive - Any > Michael Lake
+IIT	2	00:48	2 Anthony Mosley > Non Possession > Free Throw	65	-	59
+00:48	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	00:48	2 Anthony Mosley > Non Possession > Free Throw	65	-	59
+00:48	Shot > Anthony Mosley > Free Throw > Missed
+00:48	Player Movement > Sub In > Home Player > Charlie Aimone
+00:48	Player Movement > Sub Out > Home Player > Stephen Schueth
+00:48	Player Movement > Sub In > Home Player > Ryuji Aoki
+00:48	Player Movement > Sub Out > Home Player > Michael Lake
+00:48	Misc Stat > Defensive Rebound > Craig Mcgee Jr.
+00:48	Player Movement > Sub In > Home Player > Nick Mcgrail
+00:48	Player Movement > Sub Out > Home Player > Jacob Back
+ROH	2	00:42	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	65	-	59
+00:42	Personal Foul > Defensive - Any > Max Hisatake
+ROH	2	00:42	15 Craig McGee Jr. > Non Possession > Free Throw	65	-	59
+00:42	Shot > Craig Mcgee Jr. > Free Throw > Missed
+00:42	Misc Stat > Team Defensive Rebound > Home
+ROH	2	00:42	15 Craig McGee Jr. > Non Possession > Free Throw	65	-	59
+00:42	Shot > Craig Mcgee Jr. > Free Throw > Missed
+00:42	Player Movement > Sub Out > Away Player > Max Hisatake
+00:42	Player Movement > Sub In > Home Player > Stephen Schueth
+00:42	Player Movement > Sub In > Away Player > Capriest Gardner
+00:42	Player Movement > Sub Out > Home Player > Charlie Aimone
+00:42	Player Movement > Sub In > Home Player > Michael Lake
+00:42	Misc Stat > Defensive Rebound > Jake Digiorgio
+00:42	Player Movement > Sub Out > Home Player > Nick Mcgrail
+00:42	Player Movement > Sub In > Home Player > Jacob Back
+00:42	Player Movement > Sub Out > Home Player > Ryuji Aoki
+IIT	2	00:33	15 Capriest Gardner > No Play Type > Foul	65	-	59
+00:33	Personal Foul > Defensive - Any > Craig Mcgee Jr.
+IIT	2	00:33	15 Capriest Gardner > Non Possession > Free Throw	65	-	59
+00:33	Shot > Capriest Gardner > Free Throw > Missed
+00:33	Misc Stat > Team Defensive Rebound > Away
+IIT	2	00:33	15 Capriest Gardner > Non Possession > Free Throw	66	-	59
+00:33	Shot > Capriest Gardner > Free Throw > Made
+00:33	Player Movement > Sub In > Home Player > Charlie Aimone
+00:33	Player Movement > Sub Out > Home Player > Stephen Schueth
+00:33	Player Movement > Sub In > Home Player > Kyle Steckel
+00:33	Player Movement > Sub Out > Home Player > Michael Lake
+00:33	Player Movement > Sub In > Home Player > Ryuji Aoki
+00:33	Player Movement > Sub Out > Home Player > John Czarnecki
+00:33	Player Movement > Sub In > Home Player > Nick Mcgrail
+00:33	Player Movement > Sub Out > Home Player > Jacob Back
+ROH	2	00:28	15 Craig McGee Jr. > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:28	Shot > Charlie Aimone > Any Type > 3 Point Attempt > Miss 3 Pts
+00:28	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	00:25	3 Malik Howze > No Play Type > Foul	66	-	59
+00:25	Personal Foul > Defensive - Any > Ryuji Aoki
+IIT	2	00:25	3 Malik Howze > Non Possession > Free Throw	67	-	59
+00:25	Shot > Malik Howze > Free Throw > Made
+IIT	2	00:25	3 Malik Howze > Non Possession > Free Throw	68	-	59
+00:25	Shot > Malik Howze > Free Throw > Made
+ROH	2	00:22	15 Craig McGee Jr. > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	68	-	59
+00:22	Shot > Craig Mcgee Jr. > Any Type > 3 Point Attempt > Miss 3 Pts
+00:22	Misc Stat > Team Offensive Rebound > Home
+ROH	2	00:19	31 Ryuji Aoki > No Play Type > Turnover	68	-	59
+00:19	Time Event > Full Time Out > Away Team
+00:19	Player Movement > Sub In > Away Player > Jake Bruns
+00:19	Player Movement > Sub Out > Home Player > Kyle Steckel
+00:19	Player Movement > Sub In > Home Player > John Czarnecki
+00:19	Turnover > Any Type > Ryuji Aoki
+00:19	Player Movement > Sub Out > Away Player > Jake Digiorgio
+IIT	2	00:05	2 Anthony Mosley > Non Possession > Free Throw	69	-	59
+00:05	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	00:05	2 Anthony Mosley > Non Possession > Free Throw	70	-	59
+00:05	Shot > Anthony Mosley > Free Throw > Made

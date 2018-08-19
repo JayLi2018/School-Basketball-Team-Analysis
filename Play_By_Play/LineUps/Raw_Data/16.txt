@@ -1,0 +1,662 @@
+IIT	1	19:45	21 Jake Digiorgio > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	2	-	0
+19:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	1	19:30	5 KaLeif Gaines > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover	2	-	0
+19:30	Turnover > Any Type > Kaleif Gaines
+IIT	1	19:16	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+19:16	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	1	19:08	15 Roger Hood > Transition > Left Wing > Turnover	5	-	0
+19:08	Turnover > Any Type > Roger Hood
+IIT	1	18:51	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits > Turnover	5	-	0
+18:51	Turnover > Any Type > Max Hisatake
+18:50	Misc Stat > Steal > Tanner Blyly
+KAC	1	18:46	24 Ben Reiter > Transition > Right Wing > To Basket > Make 2 Pts	5	-	2
+18:46	Shot > Ben Reiter > Any Type > 2 Point Attempt > Make 2 Pts
+18:46	Misc Stat > Assist > Tanner Blyly
+IIT	1	18:23	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+18:23	Turnover > Any Type > Jake Digiorgio
+18:22	Misc Stat > Steal > Kaleif Gaines
+KAC	1	18:16	3 Tanner Blyly > Transition > Right Wing > To Basket > Miss 2 Pts	5	-	2
+18:16	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+18:16	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:09	3 Malik Howze > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	5	-	2
+18:09	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	18:09	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	5	-	2
+18:09	Misc Stat > Offensive Rebound > Jake Digiorgio
+18:06	Personal Foul > Defensive - Any > Ben Reiter
+IIT	1	17:53	3 Malik Howze > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	5	-	2
+17:53	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+17:53	Misc Stat > Defensive Rebound > Roger Hood
+KAC	1	17:42	3 Tanner Blyly > Off Screen > To Shooter's Right > Curl > To Basket > Miss 2 Pts	5	-	2
+17:42	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+17:42	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	17:25	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Basket > Make 2 Pts	7	-	2
+17:25	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	1	17:12	3 Tanner Blyly > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	7	-	2
+17:12	Shot > Tanner Blyly > Any Type > 3 Point Attempt > Miss 3 Pts
+17:12	Misc Stat > Defensive Rebound > Jake Digiorgio
+KAC	1	16:39	50 Jimmy Paprocki > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Make 2 Pts	7	-	4
+16:39	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+16:39	Misc Stat > Assist > Kaleif Gaines
+IIT	1	16:14	21 Jake Digiorgio > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	7	-	4
+16:14	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+16:14	Misc Stat > Defensive Rebound > Ben Reiter
+KAC	1	16:06	3 Tanner Blyly > Transition > Left Wing > To Basket > Miss 2 Pts	7	-	4
+16:06	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+16:06	Misc Stat > Defensive Rebound > Jake Digiorgio
+15:57	Player Movement > Sub Out > Away Player > Max Hisatake
+15:57	Player Movement > Sub In > Away Player > Capriest Gardner
+15:57	Player Movement > Sub Out > Away Player > Parker Joncus
+15:57	Player Movement > Sub Out > Home Player > Tanner Blyly
+15:57	Player Movement > Sub In > Away Player > Jake Bruns
+15:57	Player Movement > Sub In > Home Player > Jack Smith
+15:57	Player Movement > Sub In > Away Player > Kohl Linder
+KAC	1	15:47	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	7	-	4
+15:47	Turnover > Any Type > Kaleif Gaines
+15:46	Misc Stat > Steal > Jake Digiorgio
+IIT	1	15:43	10 Jake Bruns > Transition > First Middle > To Basket > Miss 2 Pts	7	-	4
+15:43	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+15:43	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	15:40	35 Kohl Linder > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	7	-	4
+15:40	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+15:40	Player Movement > Sub Out > Home Player > Jimmy Paprocki
+15:40	Player Movement > Sub In > Home Player > Merritt Hamann
+15:40	Misc Stat > Block > Jimmy Paprocki
+IIT	1	15:17	15 Capriest Gardner > ISO > Left > Drives Right > To Basket > Miss 2 Pts	7	-	4
+15:17	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+15:17	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	15:15	15 Capriest Gardner > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	7	-	4
+15:15	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+15:15	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	15:12	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	9	-	4
+15:12	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	1	14:50	15 Roger Hood > ISO > Right > Drives Right > To Basket > Foul	9	-	4
+14:50	Personal Foul > Defensive - Any > Capriest Gardner
+KAC	1	14:50	15 Roger Hood > Non Possession > Free Throw	9	-	5
+14:50	Shot > Roger Hood > Free Throw > Made
+KAC	1	14:50	15 Roger Hood > Non Possession > Free Throw	9	-	5
+14:50	Shot > Roger Hood > Free Throw > Missed
+14:50	Player Movement > Sub Out > Home Player > Kaleif Gaines
+14:50	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:50	Player Movement > Sub Out > Home Player > Ben Reiter
+14:50	Player Movement > Sub In > Away Player > Max Hisatake
+14:50	Player Movement > Sub In > Home Player > Jarnard Smith
+14:50	Misc Stat > Defensive Rebound > Malik Howze
+14:50	Player Movement > Sub In > Home Player > Andrew Sheckell
+IIT	1	14:31	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	11	-	5
+14:31	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	1	14:15	20 Jarnard Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	11	-	5
+14:15	Player Movement > Sub Out > Home Player > Roger Hood
+14:15	Player Movement > Sub In > Home Player > Jeremiah Vincent
+14:15	Turnover > Any Type > Jarnard Smith
+IIT	1	13:56	22 Max Hisatake > No Play Type > Turnover	11	-	5
+13:56	Turnover > Any Type > Max Hisatake
+13:56	Personal Foul > Defensive - Any > Max Hisatake
+KAC	1	13:45	20 Jarnard Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:45	Shot > Andrew Sheckell > Any Type > 3 Point Attempt > Miss 3 Pts
+13:45	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	13:36	22 Max Hisatake > Post-Up > Left Block > Defense Commits 
+13:36	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+13:36	Misc Stat > Defensive Rebound > Jack Smith
+KAC	1	13:24	1 Jeremiah Vincent > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	11	-	5
+13:24	Player Movement > Sub Out > Away Player > Malik Howze
+13:24	Turnover > Any Type > Jeremiah Vincent
+IIT	1	13:06	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Turnover	11	-	5
+13:06	Turnover > Any Type > Max Hisatake
+13:05	Misc Stat > Steal > Jarnard Smith
+KAC	1	13:01	20 Jarnard Smith > Transition > Ballhandler > To Basket > Miss 2 Pts	11	-	5
+13:01	Shot > Jarnard Smith > Any Type > 2 Point Attempt > Miss 2 Pts
+13:01	Misc Stat > Offensive Rebound > Merritt Hamann
+KAC	1	12:57	42 Merritt Hamann > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	11	-	5
+12:57	Shot > Merritt Hamann > Any Type > 2 Point Attempt > Miss 2 Pts
+KAC	1	12:40	20 Jarnard Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Turnover	11	-	5
+12:40	Turnover > Any Type > Jarnard Smith
+12:40	Player Movement > Sub Out > Away Player > Kohl Linder
+12:40	Player Movement > Sub In > Away Player > Parker Joncus
+IIT	1	12:29	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:29	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+12:29	Misc Stat > Defensive Rebound > Jack Smith
+12:23	Player Movement > Sub Out > Home Player > Merritt Hamann
+12:23	Player Movement > Sub In > Home Player > Jimmy Paprocki
+KAC	1	12:04	50 Jimmy Paprocki > Post-Up > Flash Middle > Right Shoulder > Dribble Move > Defense Commits 
+12:04	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Miss 2 Pts
+12:04	Misc Stat > Offensive Rebound > Jeremiah Vincent
+KAC	1	12:01	1 Jeremiah Vincent > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	11	-	5
+12:01	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Miss 2 Pts
+12:01	Misc Stat > Offensive Rebound > Jack Smith
+KAC	1	11:59	34 Jack Smith > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	11	-	5
+11:59	Shot > Jack Smith > Any Type > 2 Point Attempt > Miss 2 Pts
+11:59	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	11:57	32 Parker Joncus > Non Possession > Non Shooting Foul	11	-	5
+11:57	Personal Foul > Defensive - Any > Andrew Sheckell
+IIT	1	11:44	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	11	-	5
+11:44	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	11:44	22 Max Hisatake > Offensive Rebound > Short > Run Offense	11	-	5
+11:44	Misc Stat > Offensive Rebound > Max Hisatake
+11:40	Player Movement > Sub Out > Home Player > Jarnard Smith
+11:40	Player Movement > Sub Out > Away Player > Capriest Gardner
+11:40	Player Movement > Sub Out > Home Player > Jack Smith
+11:40	Player Movement > Sub In > Away Player > Jake Digiorgio
+11:40	Player Movement > Sub In > Home Player > Kaleif Gaines
+11:40	Player Movement > Sub In > Home Player > Brennen Buszka
+IIT	1	11:39	22 Max Hisatake > Cut > Screen > Turnover	11	-	5
+11:39	Turnover > Any Type > Max Hisatake
+11:36	Misc Stat > Steal > Jimmy Paprocki
+KAC	1	11:28	50 Jimmy Paprocki > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+11:28	Turnover > Any Type > Kaleif Gaines
+11:24	Player Movement > Sub Out > Home Player > Andrew Sheckell
+11:24	Player Movement > Sub In > Home Player > Ben Reiter
+IIT	1	11:23	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:23	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	1	11:17	1 Jeremiah Vincent > Transition > Left Wing > To Basket > Miss 2 Pts	14	-	5
+11:17	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Miss 2 Pts
+11:17	Misc Stat > Block > Max Hisatake
+11:17	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	11:03	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	17	-	5
+11:03	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Make 3 Pts
+11:03	Misc Stat > Assist > Jake Bruns
+KAC	1	10:43	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	17	-	8
+10:43	Shot > Kaleif Gaines > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	10:15	22 Max Hisatake > Post-Up > Right Block > Post Pin > No Dribble Move > To Basket > Make 2 Pts	19	-	8
+10:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+10:15	Misc Stat > Assist > Malik Howze
+10:04	Player Movement > Sub In > Away Player > Malik Howze
+10:04	Player Movement > Sub Out > Away Player > Jake Bruns
+KAC	1	09:57	50 Jimmy Paprocki > Post-Up > Left Block > Defense Commits 
+09:57	Shot > Ben Reiter > Any Type > 3 Point Attempt > Miss 3 Pts
+KAC	1	09:57	14 Brennen Buszka > Offensive Rebound > Long > Run Offense	19	-	8
+09:57	Misc Stat > Offensive Rebound > Brennen Buszka
+KAC	1	09:28	50 Jimmy Paprocki > Post-Up > Left Block > Face-up > Defense Commits 
+09:28	Shot > Ben Reiter > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	09:23	2 Anthony Mosley > Transition > Ballhandler > To Basket > Foul	21	-	8
+09:23	Player Movement > Sub In > Home Player > Tanner Blyly
+09:23	Personal Foul > Defensive - Any > Kaleif Gaines
+09:23	Player Movement > Sub Out > Home Player > Jeremiah Vincent
+09:23	Player Movement > Sub Out > Away Player > Max Hisatake
+09:23	Player Movement > Sub Out > Home Player > Brennen Buszka
+09:23	Player Movement > Sub In > Away Player > Calvin Schmitz
+09:23	Player Movement > Sub In > Home Player > Roger Hood
+09:23	Player Movement > Sub In > Away Player > Quentin Forberg
+KAC	1	09:04	50 Jimmy Paprocki > Post-Up > Right Block > Post Pin > No Dribble Move > To Basket > Make 2 Pts	21	-	10
+09:04	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+09:04	Misc Stat > Assist > Tanner Blyly
+IIT	1	08:35	3 Malik Howze > ISO > Right > Drives Left > Defense Commits 
+08:35	Turnover > Any Type > Jake Digiorgio
+KAC	1	08:25	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	21	-	12
+08:25	Shot > Kaleif Gaines > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	08:05	3 Malik Howze > Post-Up > Right Block > Post Pin > Turnover	21	-	12
+08:05	Personal Foul > Defensive - Any > Malik Howze
+08:05	Turnover > Any Type > Malik Howze
+KAC	1	07:50	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+07:50	Player Movement > Sub Out > Away Player > Calvin Schmitz
+07:50	Player Movement > Sub Out > Away Player > Jake Digiorgio
+07:50	Player Movement > Sub In > Away Player > Max Hisatake
+07:50	Turnover > Any Type > Ben Reiter
+IIT	1	07:38	32 Parker Joncus > Non Possession > Non Shooting Foul	21	-	12
+07:38	Personal Foul > Defensive - Any > Ben Reiter
+IIT	1	07:36	32 Parker Joncus > Cut > Flash > Turnover	21	-	12
+07:36	Misc Stat > Steal > Ben Reiter
+07:36	Turnover > Any Type > Parker Joncus
+KAC	1	07:22	5 KaLeif Gaines > No Play Type > Turnover	21	-	12
+07:22	Turnover > Any Type > Kaleif Gaines
+07:20	Misc Stat > Steal > Quentin Forberg
+IIT	1	06:57	4 Quentin Forberg > Spot-Up > Drives Right > To Basket > Miss 2 Pts	21	-	12
+06:57	Shot > Quentin Forberg > Any Type > 2 Point Attempt > Miss 2 Pts
+06:57	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	06:52	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	21	-	12
+06:52	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	06:52	3 Malik Howze > Offensive Rebound > Short > Run Offense	21	-	12
+06:52	Misc Stat > Offensive Rebound > Malik Howze
+06:51	Player Movement > Sub Out > Away Player > Quentin Forberg
+06:51	Player Movement > Sub In > Away Player > Jake Digiorgio
+IIT	1	06:45	2 Anthony Mosley > ISO > Left > Drives Left > Dribble Jumper > Short to < 17' > Foul	23	-	12
+06:45	Personal Foul > Defensive - Any > Tanner Blyly
+06:45	Player Movement > Sub Out > Home Player > Kaleif Gaines
+06:45	Player Movement > Sub In > Home Player > Andrew Sheckell
+06:45	Player Movement > Sub In > Home Player > Jarnard Smith
+06:45	Player Movement > Sub Out > Home Player > Ben Reiter
+KAC	1	06:27	50 Jimmy Paprocki > Post-Up > Left Block > Defense Commits 
+06:27	Turnover > Any Type > Roger Hood
+IIT	1	06:15	3 Malik Howze > Non Possession > Non Shooting Foul	23	-	12
+06:15	Personal Foul > Defensive - Any > Jarnard Smith
+IIT	1	06:03	2 Anthony Mosley > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	23	-	12
+06:03	Personal Foul > Defensive - Any > Jake Digiorgio
+KAC	1	05:55	20 Jarnard Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Foul	23	-	12
+05:55	Personal Foul > Defensive - Any > Malik Howze
+KAC	1	05:54	20 Jarnard Smith > Non Possession > Free Throw	23	-	13
+05:54	Shot > Jarnard Smith > Free Throw > Made
+KAC	1	05:54	20 Jarnard Smith > Non Possession > Free Throw	23	-	14
+05:54	Shot > Jarnard Smith > Free Throw > Made
+IIT	1	05:43	22 Max Hisatake > Cut > Flash > Make 2 Pts	25	-	14
+05:43	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	1	05:29	50 Jimmy Paprocki > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+05:29	Shot > Andrew Sheckell > Any Type > 3 Point Attempt > Make 3 Pts
+05:29	Misc Stat > Assist > Jimmy Paprocki
+IIT	1	05:22	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Long/3pt > Make 3 Pts	28	-	17
+05:22	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	1	05:07	50 Jimmy Paprocki > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	28	-	17
+05:07	Turnover > Any Type > Jimmy Paprocki
+05:06	Misc Stat > Steal > Parker Joncus
+IIT	1	04:58	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	28	-	17
+04:58	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+04:58	Misc Stat > Defensive Rebound > Roger Hood
+KAC	1	04:50	30 Andrew Sheckell > Transition > First Middle > To Basket > Miss 2 Pts	28	-	17
+04:50	Shot > Andrew Sheckell > Any Type > 2 Point Attempt > Miss 2 Pts
+04:50	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	04:32	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+04:32	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	1	04:17	50 Jimmy Paprocki > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	31	-	19
+04:17	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	04:00	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+04:00	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	04:00	22 Max Hisatake > Offensive Rebound > Long > Run Offense	31	-	19
+04:00	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	03:48	3 Malik Howze > Spot-Up > Drives Left > Turnover	31	-	19
+03:48	Player Movement > Sub Out > Home Player > Jarnard Smith
+03:48	Player Movement > Sub In > Home Player > Jeremiah Vincent
+03:48	Player Movement > Sub In > Away Player > Kohl Linder
+03:48	Player Movement > Sub Out > Home Player > Jimmy Paprocki
+03:48	Player Movement > Sub Out > Away Player > Max Hisatake
+03:48	Turnover > Any Type > Malik Howze
+03:48	Player Movement > Sub In > Home Player > Jack Smith
+03:48	Player Movement > Sub Out > Away Player > Parker Joncus
+03:48	Player Movement > Sub Out > Home Player > Roger Hood
+03:48	Player Movement > Sub In > Home Player > Merritt Hamann
+03:48	Player Movement > Sub In > Away Player > Capriest Gardner
+KAC	1	03:38	42 Merritt Hamann > No Play Type > Turnover	31	-	19
+03:38	Personal Foul > Defensive - Any > Merritt Hamann
+03:38	Turnover > Any Type > Merritt Hamann
+IIT	1	03:22	3 Malik Howze > ISO > Left > Drives Right > Defense Commits 
+03:22	Personal Foul > Defensive - Any > Jack Smith
+IIT	1	03:22	15 Capriest Gardner > Non Possession > Free Throw	32	-	19
+03:22	Shot > Capriest Gardner > Free Throw > Made
+IIT	1	03:22	15 Capriest Gardner > Non Possession > Free Throw	33	-	19
+03:22	Shot > Capriest Gardner > Free Throw > Made
+03:22	Player Movement > Sub Out > Home Player > Merritt Hamann
+03:22	Player Movement > Sub In > Home Player > Jimmy Paprocki
+KAC	1	03:12	50 Jimmy Paprocki > Non Possession > Free Throw	33	-	20
+03:12	Shot > Jimmy Paprocki > Free Throw > Made
+KAC	1	03:12	50 Jimmy Paprocki > Non Possession > Free Throw	33	-	20
+03:12	Shot > Jimmy Paprocki > Free Throw > Missed
+03:12	Player Movement > Sub In > Away Player > Quentin Forberg
+03:12	Misc Stat > Defensive Rebound > Quentin Forberg
+IIT	1	02:56	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	33	-	20
+02:56	Turnover > Any Type > Malik Howze
+02:55	Misc Stat > Steal > Jimmy Paprocki
+KAC	1	02:53	3 Tanner Blyly > Transition > Ballhandler > To Basket > Make 2 Pts	33	-	22
+02:53	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	02:38	15 Capriest Gardner > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	33	-	22
+02:38	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+02:38	Misc Stat > Block > Jimmy Paprocki
+02:38	Misc Stat > Defensive Rebound > Jeremiah Vincent
+KAC	1	02:28	1 Jeremiah Vincent > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	33	-	22
+02:28	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Miss 2 Pts
+KAC	1	02:21	50 Jimmy Paprocki > Cut > Basket > Turnover	33	-	22
+02:21	Turnover > Any Type > Jimmy Paprocki
+02:20	Misc Stat > Steal > Capriest Gardner
+IIT	1	02:00	4 Quentin Forberg > Spot-Up > Drives Right > Turnover	33	-	22
+02:00	Turnover > Any Type > Quentin Forberg
+KAC	1	01:50	50 Jimmy Paprocki > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	33	-	22
+01:50	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Miss 2 Pts
+01:50	Misc Stat > Defensive Rebound > Quentin Forberg
+IIT	1	01:40	3 Malik Howze > ISO > Right > Drives Left > Defense Commits 
+01:40	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+01:40	Misc Stat > Defensive Rebound > Jack Smith
+KAC	1	01:32	34 Jack Smith > Transition > Ballhandler > To Basket > Make 2 Pts	33	-	24
+01:32	Shot > Jack Smith > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	01:00	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	33	-	24
+01:00	Turnover > Any Type > Malik Howze
+KAC	1	00:48	30 Andrew Sheckell > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	33	-	24
+00:48	Shot > Andrew Sheckell > Any Type > 2 Point Attempt > Miss 2 Pts
+00:48	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	00:22	15 Capriest Gardner > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	33	-	24
+00:22	Turnover > Any Type > Capriest Gardner
+00:21	Misc Stat > Steal > Tanner Blyly
+KAC	1	00:19	1 Jeremiah Vincent > Transition > Leak Outs > To Basket > Make 2 Pts	33	-	26
+00:19	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Make 2 Pts
+00:19	Misc Stat > Assist > Tanner Blyly
+IIT	1	00:02	3 Malik Howze > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+00:02	Shot > Quentin Forberg > Any Type > 3 Point Attempt > Miss 3 Pts
+KAC	2	19:40	50 Jimmy Paprocki > Post-Up > Right Block > Left Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	33	-	26
+19:40	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Miss 2 Pts
+19:40	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	19:31	22 Max Hisatake > Non Possession > Non Shooting Foul	33	-	26
+19:31	Personal Foul > Defensive - Any > Roger Hood
+IIT	2	19:28	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Turnover	33	-	26
+19:28	Turnover > Any Type > Jake Digiorgio
+KAC	2	19:18	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	33	-	26
+19:18	Shot > Kaleif Gaines > Any Type > 2 Point Attempt > Miss 2 Pts
+19:18	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	19:04	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	35	-	26
+19:04	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+19:04	Misc Stat > Assist > Parker Joncus
+KAC	2	18:45	50 Jimmy Paprocki > Cut > Flash > Turnover	35	-	26
+18:45	Turnover > Any Type > Jimmy Paprocki
+18:45	Player Movement > Sub In > Home Player > Jeremiah Vincent
+18:45	Player Movement > Sub In > Home Player > Andrew Sheckell
+18:45	Player Movement > Sub Out > Home Player > Roger Hood
+18:45	Misc Stat > Steal > Parker Joncus
+18:45	Player Movement > Sub Out > Home Player > Ben Reiter
+IIT	2	18:30	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+18:30	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+18:30	Misc Stat > Assist > Parker Joncus
+KAC	2	17:58	50 Jimmy Paprocki > Post-Up > Flash Middle > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	38	-	26
+17:58	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	17:47	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > Dribble Move > To Basket > Foul	38	-	26
+17:47	Personal Foul > Defensive - Any > Jimmy Paprocki
+IIT	2	17:47	22 Max Hisatake > Non Possession > Free Throw	39	-	26
+17:47	Shot > Max Hisatake > Free Throw > Made
+IIT	2	17:47	22 Max Hisatake > Non Possession > Free Throw	40	-	26
+17:47	Shot > Max Hisatake > Free Throw > Made
+KAC	2	17:35	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+17:35	Shot > Andrew Sheckell > Any Type > 3 Point Attempt > Miss 3 Pts
+17:35	Misc Stat > Defensive Rebound > Jake Digiorgio
+17:32	Player Movement > Sub In > Home Player > Ben Reiter
+17:32	Personal Foul > Defensive - Any > Andrew Sheckell
+17:32	Player Movement > Sub Out > Home Player > Andrew Sheckell
+IIT	2	17:21	21 Jake Digiorgio > No Play Type > Turnover	40	-	26
+17:21	Turnover > Any Type > Jake Digiorgio
+17:20	Misc Stat > Steal > Tanner Blyly
+KAC	2	17:17	3 Tanner Blyly > Transition > Ballhandler > To Basket > Make 2 Pts	40	-	28
+17:17	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:09	3 Malik Howze > No Play Type > Turnover	40	-	28
+17:09	Turnover > Any Type > Malik Howze
+17:08	Misc Stat > Steal > Ben Reiter
+KAC	2	17:05	5 KaLeif Gaines > Transition > Right Wing > To Basket > Miss 2 Pts	40	-	28
+17:05	Shot > Kaleif Gaines > Any Type > 2 Point Attempt > Miss 2 Pts
+KAC	2	17:04	3 Tanner Blyly > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	40	-	31
+17:04	Shot > Tanner Blyly > Any Type > 3 Point Attempt > Make 3 Pts
+17:04	Misc Stat > Assist > Jeremiah Vincent
+IIT	2	16:53	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	42	-	31
+16:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	2	16:35	50 Jimmy Paprocki > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	42	-	33
+16:35	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	16:15	22 Max Hisatake > Cut > Basket > Make 2 Pts	44	-	33
+16:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	2	16:04	3 Tanner Blyly > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	44	-	33
+16:04	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+KAC	2	15:48	50 Jimmy Paprocki > Post-Up > Flash Middle > Defense Commits 
+15:48	Shot > Jeremiah Vincent > Any Type > 3 Point Attempt > Make 3 Pts
+15:48	Misc Stat > Assist > Jimmy Paprocki
+IIT	2	15:21	2 Anthony Mosley > Non Possession > Non Shooting Foul	44	-	36
+15:21	Personal Foul > Defensive - Any > Kaleif Gaines
+IIT	2	15:20	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	44	-	36
+15:20	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	15:20	22 Max Hisatake > Offensive Rebound > Short > Run Offense	44	-	36
+15:20	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	15:08	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:08	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	15:08	22 Max Hisatake > Offensive Rebound > Long > Run Offense	44	-	36
+15:08	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	15:01	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	44	-	36
+15:01	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	14:59	22 Max Hisatake > Non Possession > Non Shooting Foul	44	-	36
+14:59	Player Movement > Sub In > Home Player > Brennen Buszka
+14:59	Personal Foul > Defensive - Any > Ben Reiter
+14:59	Player Movement > Sub Out > Home Player > Ben Reiter
+IIT	2	14:46	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	44	-	36
+14:46	Misc Stat > Steal > Jimmy Paprocki
+KAC	2	14:38	50 Jimmy Paprocki > Non Possession > Non Shooting Foul	44	-	36
+14:38	Player Movement > Sub In > Away Player > Kohl Linder
+14:38	Personal Foul > Defensive - Any > Parker Joncus
+14:38	Player Movement > Sub Out > Away Player > Max Hisatake
+KAC	2	14:36	50 Jimmy Paprocki > No Play Type > Turnover	44	-	36
+14:36	Turnover > Any Type > Jimmy Paprocki
+14:36	Personal Foul > Defensive - Any > Jimmy Paprocki
+14:36	Player Movement > Sub Out > Home Player > Jimmy Paprocki
+14:36	Player Movement > Sub In > Home Player > Merritt Hamann
+IIT	2	14:20	3 Malik Howze > Off Screen > To Shooter's Left > Flare > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	44	-	36
+14:20	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+14:20	Misc Stat > Defensive Rebound > Tanner Blyly
+KAC	2	13:56	5 KaLeif Gaines > Non Possession > Non Shooting Foul	44	-	36
+13:56	Personal Foul > Defensive - Any > Malik Howze
+KAC	2	13:41	5 KaLeif Gaines > Spot-Up > Drives Left > To Basket > Miss 2 Pts	44	-	36
+13:41	Shot > Kaleif Gaines > Any Type > 2 Point Attempt > Miss 2 Pts
+13:41	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	13:30	3 Malik Howze > Transition > Trailer > Turnover	44	-	36
+13:30	Turnover > Any Type > Malik Howze
+13:29	Player Movement > Sub Out > Home Player > Kaleif Gaines
+13:29	Player Movement > Sub In > Home Player > Jarnard Smith
+KAC	2	13:24	20 Jarnard Smith > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:24	Shot > Brennen Buszka > Any Type > 3 Point Attempt > Miss 3 Pts
+13:24	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	12:59	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+12:59	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+12:59	Misc Stat > Assist > Parker Joncus
+KAC	2	12:44	14 Brennen Buszka > Spot-Up > Drives Right > To Basket > Foul	46	-	36
+12:44	Personal Foul > Defensive - Any > Jake Digiorgio
+KAC	2	12:44	14 Brennen Buszka > Non Possession > Free Throw	46	-	37
+12:44	Shot > Brennen Buszka > Free Throw > Made
+KAC	2	12:44	14 Brennen Buszka > Non Possession > Free Throw	46	-	37
+12:44	Shot > Brennen Buszka > Free Throw > Missed
+12:44	Player Movement > Sub In > Home Player > Jimmy Paprocki
+12:44	Misc Stat > Defensive Rebound > Max Hisatake
+12:44	Player Movement > Sub Out > Away Player > Jake Digiorgio
+12:44	Player Movement > Sub In > Away Player > Jake Bruns
+12:44	Player Movement > Sub Out > Home Player > Merritt Hamann
+12:44	Player Movement > Sub In > Away Player > Max Hisatake
+IIT	2	12:38	3 Malik Howze > Transition > Ballhandler > Foul	46	-	37
+12:38	Personal Foul > Defensive - Any > Tanner Blyly
+IIT	2	12:38	3 Malik Howze > Non Possession > Free Throw	47	-	37
+12:38	Shot > Malik Howze > Free Throw > Made
+IIT	2	12:38	3 Malik Howze > Non Possession > Free Throw	48	-	37
+12:38	Shot > Malik Howze > Free Throw > Made
+12:38	Player Movement > Sub Out > Away Player > Parker Joncus
+12:38	Player Movement > Sub In > Away Player > Capriest Gardner
+KAC	2	12:16	20 Jarnard Smith > Hand Off > From Stationary > Right > To Basket > Make 2 Pts	48	-	39
+12:16	Shot > Jarnard Smith > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	12:02	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Foul	48	-	39
+12:02	Personal Foul > Defensive - Any > Jeremiah Vincent
+IIT	2	12:02	3 Malik Howze > Non Possession > Free Throw	49	-	39
+12:02	Shot > Malik Howze > Free Throw > Made
+IIT	2	12:02	3 Malik Howze > Non Possession > Free Throw	50	-	39
+12:02	Shot > Malik Howze > Free Throw > Made
+12:02	Player Movement > Sub Out > Home Player > Tanner Blyly
+12:02	Player Movement > Sub In > Home Player > Jack Smith
+KAC	2	11:42	50 Jimmy Paprocki > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Foul	50	-	39
+11:42	Personal Foul > Defensive - Any > Max Hisatake
+KAC	2	11:42	50 Jimmy Paprocki > Non Possession > Free Throw	50	-	40
+11:42	Shot > Jimmy Paprocki > Free Throw > Made
+KAC	2	11:42	50 Jimmy Paprocki > Non Possession > Free Throw	50	-	40
+11:42	Shot > Jimmy Paprocki > Free Throw > Missed
+IIT	2	11:21	35 Kohl Linder > Post-Up > Left Block > Turnover	50	-	40
+11:21	Turnover > Any Type > Kohl Linder
+11:21	Personal Foul > Defensive - Any > Kohl Linder
+KAC	2	11:10	1 Jeremiah Vincent > Non Possession > Non Shooting Foul	50	-	40
+11:10	Personal Foul > Defensive - Any > Capriest Gardner
+KAC	2	10:58	34 Jack Smith > Spot-Up > Drives Right > Dribble Jumper > Long/3pt > Make 3 Pts	50	-	43
+10:58	Shot > Jack Smith > Any Type > 3 Point Attempt > Make 3 Pts
+10:55	Player Movement > Sub Out > Away Player > Malik Howze
+IIT	2	10:32	2 Anthony Mosley > ISO > Top > Drives Right > Foul	50	-	43
+10:32	Personal Foul > Defensive - Any > Jarnard Smith
+IIT	2	10:32	2 Anthony Mosley > Non Possession > Free Throw	50	-	43
+10:32	Misc Stat > Defensive Rebound > Jimmy Paprocki
+KAC	2	10:12	34 Jack Smith > No Play Type > Turnover	50	-	43
+10:12	Player Movement > Sub In > Away Player > Jake Digiorgio
+10:12	Turnover > Any Type > Jack Smith
+10:12	Player Movement > Sub Out > Away Player > Kohl Linder
+IIT	2	09:43	21 Jake Digiorgio > Spot-Up > Drives Left > To Basket > Miss 2 Pts	50	-	43
+09:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	09:43	22 Max Hisatake > Offensive Rebound > Short > Run Offense	50	-	43
+09:43	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	09:35	2 Anthony Mosley > ISO > Right > Drives Right > Foul	50	-	43
+09:35	Personal Foul > Defensive - Any > Jack Smith
+KAC	2	09:35	50 Jimmy Paprocki > No Play Type > Foul	50	-	43
+09:35	Personal Foul > Defensive - Any > Max Hisatake
+KAC	2	09:35	50 Jimmy Paprocki > Non Possession > Free Throw	50	-	43
+09:35	Shot > Jimmy Paprocki > Free Throw > Missed
+09:35	Player Movement > Sub In > Away Player > Malik Howze
+09:35	Player Movement > Sub Out > Home Player > Brennen Buszka
+09:35	Player Movement > Sub In > Home Player > Roger Hood
+09:35	Player Movement > Sub Out > Home Player > Jarnard Smith
+09:35	Player Movement > Sub In > Home Player > Ben Reiter
+09:35	Player Movement > Sub Out > Home Player > Jack Smith
+09:35	Player Movement > Sub Out > Away Player > Jake Bruns
+09:35	Player Movement > Sub In > Home Player > Kaleif Gaines
+IIT	2	09:10	3 Malik Howze > ISO > Left > Drives Right > Defense Commits 
+09:10	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	09:10	22 Max Hisatake > Offensive Rebound > Long > Run Offense	50	-	43
+09:10	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	08:53	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:53	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+KAC	2	08:49	1 Jeremiah Vincent > No Play Type > Foul	50	-	43
+08:49	Personal Foul > Defensive - Any > Jake Digiorgio
+KAC	2	08:49	1 Jeremiah Vincent > Non Possession > Free Throw	50	-	44
+08:49	Shot > Jeremiah Vincent > Free Throw > Made
+KAC	2	08:49	1 Jeremiah Vincent > Non Possession > Free Throw	50	-	45
+08:49	Shot > Jeremiah Vincent > Free Throw > Made
+08:49	Player Movement > Sub In > Away Player > Parker Joncus
+08:49	Player Movement > Sub Out > Away Player > Capriest Gardner
+IIT	2	08:19	3 Malik Howze > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	50	-	45
+08:19	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+08:19	Misc Stat > Defensive Rebound > Jeremiah Vincent
+KAC	2	08:10	15 Roger Hood > Transition > Right Wing > To Basket > Miss 2 Pts	50	-	45
+08:10	Shot > Roger Hood > Any Type > 2 Point Attempt > Miss 2 Pts
+08:10	Misc Stat > Offensive Rebound > Jimmy Paprocki
+KAC	2	08:03	50 Jimmy Paprocki > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	50	-	47
+08:03	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+KAC	2	07:25	24 Ben Reiter > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	50	-	47
+07:25	Shot > Ben Reiter > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	07:07	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits > Turnover	50	-	47
+07:07	Misc Stat > Steal > Roger Hood
+KAC	2	06:58	24 Ben Reiter > ISO > Right > Drives Left > Foul	50	-	47
+06:58	Personal Foul > Defensive - Any > Max Hisatake
+KAC	2	06:58	24 Ben Reiter > Non Possession > Free Throw	50	-	47
+06:58	Shot > Ben Reiter > Free Throw > Missed
+06:58	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	06:48	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Foul	50	-	47
+06:48	Personal Foul > Defensive - Any > Ben Reiter
+IIT	2	06:48	3 Malik Howze > Non Possession > Free Throw	51	-	47
+06:48	Shot > Malik Howze > Free Throw > Made
+IIT	2	06:48	3 Malik Howze > Non Possession > Free Throw	52	-	47
+06:48	Shot > Malik Howze > Free Throw > Made
+06:48	Player Movement > Sub Out > Away Player > Max Hisatake
+06:48	Player Movement > Sub In > Away Player > Kohl Linder
+06:48	Player Movement > Sub Out > Home Player > Ben Reiter
+06:48	Player Movement > Sub In > Home Player > Andrew Sheckell
+KAC	2	06:31	50 Jimmy Paprocki > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	52	-	49
+06:31	Shot > Jimmy Paprocki > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	06:05	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	52	-	49
+06:05	Misc Stat > Defensive Rebound > Jimmy Paprocki
+KAC	2	05:41	5 KaLeif Gaines > Non Possession > Free Throw	52	-	49
+05:41	Shot > Kaleif Gaines > Free Throw > Missed
+KAC	2	05:41	5 KaLeif Gaines > Non Possession > Free Throw	52	-	50
+05:41	Shot > Kaleif Gaines > Free Throw > Made
+IIT	2	05:26	32 Parker Joncus > No Play Type > Turnover	52	-	50
+05:26	Turnover > Any Type > Parker Joncus
+05:25	Misc Stat > Steal > Andrew Sheckell
+KAC	2	05:22	1 Jeremiah Vincent > Transition > Left Wing > To Basket > Miss 2 Pts	52	-	50
+05:22	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Miss 2 Pts
+05:22	Misc Stat > Offensive Rebound > Roger Hood
+KAC	2	05:18	15 Roger Hood > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	52	-	50
+05:18	Shot > Roger Hood > Any Type > 2 Point Attempt > Miss 2 Pts
+05:18	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	05:11	3 Malik Howze > ISO > Top > Drives Right > To Basket > Foul	52	-	50
+05:11	Personal Foul > Defensive - Any > Jimmy Paprocki
+IIT	2	05:11	3 Malik Howze > Non Possession > Free Throw	53	-	50
+05:11	Shot > Malik Howze > Free Throw > Made
+IIT	2	05:11	3 Malik Howze > Non Possession > Free Throw	54	-	50
+05:11	Shot > Malik Howze > Free Throw > Made
+05:11	Player Movement > Sub In > Home Player > Tanner Blyly
+05:11	Player Movement > Sub Out > Away Player > Parker Joncus
+05:11	Player Movement > Sub In > Away Player > Calvin Schmitz
+05:11	Player Movement > Sub Out > Home Player > Roger Hood
+KAC	2	05:01	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	54	-	50
+05:01	Shot > Kaleif Gaines > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	04:50	3 Malik Howze > ISO > Top > Drives Right > To Basket > Miss 2 Pts	54	-	50
+04:50	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+04:50	Misc Stat > Defensive Rebound > Tanner Blyly
+KAC	2	04:37	3 Tanner Blyly > Transition > Ballhandler > To Basket > Miss 2 Pts	54	-	50
+04:37	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	04:26	35 Kohl Linder > No Play Type > Turnover	54	-	50
+04:26	Personal Foul > Defensive - Any > Kohl Linder
+04:26	Turnover > Any Type > Kohl Linder
+KAC	2	04:13	5 KaLeif Gaines > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	54	-	50
+04:13	Personal Foul > Defensive - Any > Kohl Linder
+KAC	2	04:13	5 KaLeif Gaines > Non Possession > Free Throw	54	-	51
+04:13	Shot > Kaleif Gaines > Free Throw > Made
+KAC	2	04:13	5 KaLeif Gaines > Non Possession > Free Throw	54	-	52
+04:13	Shot > Kaleif Gaines > Free Throw > Made
+IIT	2	03:57	2 Anthony Mosley > ISO > Top > Drives Right > Defense Commits 
+03:57	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+03:57	Misc Stat > Defensive Rebound > Kaleif Gaines
+KAC	2	03:49	1 Jeremiah Vincent > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	54	-	52
+03:49	Shot > Jeremiah Vincent > Any Type > 3 Point Attempt > Miss 3 Pts
+03:49	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	03:20	32 Parker Joncus > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Make 3 Pts	57	-	52
+03:20	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	2	03:09	50 Jimmy Paprocki > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+03:09	Shot > Andrew Sheckell > Any Type > 2 Point Attempt > Miss 2 Pts
+03:09	Player Movement > Sub In > Away Player > Max Hisatake
+03:09	Player Movement > Sub In > Away Player > Parker Joncus
+03:09	Player Movement > Sub Out > Away Player > Calvin Schmitz
+03:09	Misc Stat > Defensive Rebound > Max Hisatake
+03:09	Player Movement > Sub Out > Away Player > Kohl Linder
+03:09	Misc Stat > Block > Max Hisatake
+IIT	2	03:07	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:07	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+KAC	2	02:10	1 Jeremiah Vincent > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	60	-	52
+02:10	Shot > Jeremiah Vincent > Any Type > 3 Point Attempt > Miss 3 Pts
+KAC	2	02:10	15 Roger Hood > Offensive Rebound > Short > Run Offense	60	-	52
+02:10	Misc Stat > Offensive Rebound > Roger Hood
+KAC	2	02:05	3 Tanner Blyly > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	60	-	52
+02:05	Shot > Tanner Blyly > Any Type > 3 Point Attempt > Miss 3 Pts
+02:05	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	01:37	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+01:37	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+01:37	Personal Foul > Defensive - Any > Andrew Sheckell
+IIT	2	01:37	21 Jake Digiorgio > Non Possession > Free Throw	63	-	52
+01:37	Shot > Jake Digiorgio > Free Throw > Made
+KAC	2	01:12	50 Jimmy Paprocki > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Foul	63	-	52
+01:12	Personal Foul > Defensive - Any > Max Hisatake
+KAC	2	01:12	50 Jimmy Paprocki > Non Possession > Free Throw	63	-	52
+01:12	Shot > Jimmy Paprocki > Free Throw > Missed
+KAC	2	01:12	50 Jimmy Paprocki > Non Possession > Free Throw	63	-	53
+01:12	Shot > Jimmy Paprocki > Free Throw > Made
+01:12	Player Movement > Sub Out > Away Player > Max Hisatake
+01:12	Player Movement > Sub Out > Home Player > Jimmy Paprocki
+01:12	Player Movement > Sub In > Away Player > Kohl Linder
+01:12	Player Movement > Sub In > Home Player > Kaleif Gaines
+01:12	Player Movement > Sub In > Home Player > Ben Reiter
+01:12	Player Movement > Sub Out > Home Player > Andrew Sheckell
+IIT	2	01:09	32 Parker Joncus > No Play Type > Turnover	63	-	53
+01:09	Turnover > Any Type > Parker Joncus
+01:08	Misc Stat > Steal > Kaleif Gaines
+KAC	2	01:05	3 Tanner Blyly > No Play Type > To Basket > Make 2 Pts	63	-	55
+01:05	Misc Stat > Assist > Kaleif Gaines
+IIT	2	01:01	21 Jake Digiorgio > No Play Type > Turnover	63	-	55
+01:01	Turnover > Any Type > Jake Digiorgio
+01:00	Misc Stat > Steal > Tanner Blyly
+KAC	2	00:58	3 Tanner Blyly > No Play Type > To Basket > Miss 2 Pts	63	-	55
+00:58	Shot > Tanner Blyly > Any Type > 2 Point Attempt > Miss 2 Pts
+00:58	Misc Stat > Offensive Rebound > Jeremiah Vincent
+KAC	2	00:55	1 Jeremiah Vincent > Offensive Rebound > Long > Scoring Attempt > At Basket > Make 2 Pts	63	-	57
+00:55	Shot > Jeremiah Vincent > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	00:36	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:36	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+00:36	Misc Stat > Defensive Rebound > Roger Hood
+KAC	2	00:18	24 Ben Reiter > ISO > Top > Drives Left > To Basket > Foul	63	-	57
+00:18	Personal Foul > Defensive - Any > Malik Howze
+KAC	2	00:18	24 Ben Reiter > Non Possession > Free Throw	63	-	57
+00:18	Shot > Ben Reiter > Free Throw > Missed
+KAC	2	00:18	24 Ben Reiter > Non Possession > Free Throw	63	-	58
+00:18	Shot > Ben Reiter > Free Throw > Made
+00:18	Player Movement > Sub Out > Home Player > Ben Reiter
+00:18	Player Movement > Sub In > Home Player > Jarnard Smith
+KAC	2	00:07	3 Tanner Blyly > Transition > Left Wing > Foul	63	-	58
+00:07	Personal Foul > Defensive - Any > Kaleif Gaines
+KAC	2	00:04	3 Tanner Blyly > Non Possession > Free Throw	65	-	58
+00:04	Shot > Tanner Blyly > Free Throw > Missed
+KAC	2	00:04	3 Tanner Blyly > Non Possession > Free Throw	65	-	58
+00:04	Shot > Tanner Blyly > Free Throw > Missed
+00:04	Misc Stat > Defensive Rebound > Jake Bruns
+00:04	Player Movement > Sub Out > Home Player > Jarnard Smith
+00:04	Player Movement > Sub In > Home Player > Jimmy Paprocki
+00:04	Player Movement > Sub In > Away Player > Jake Bruns
+IIT	2	00:03	10 Jake Bruns > No Play Type > Foul	65	-	58
+00:03	Personal Foul > Defensive - Any > Kaleif Gaines
+IIT	2	00:03	10 Jake Bruns > Non Possession > Free Throw	66	-	58
+00:03	Shot > Jake Bruns > Free Throw > Made
+IIT	2	00:03	10 Jake Bruns > Non Possession > Free Throw	67	-	58
+00:03	Shot > Jake Bruns > Free Throw > Made
+KAC	2	00:00	3 Tanner Blyly > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	67	-	58
+00:00	Shot > Tanner Blyly > Any Type > 3 Point Attempt > Miss 3 Pts

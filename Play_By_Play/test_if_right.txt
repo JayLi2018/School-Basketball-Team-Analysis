@@ -1,0 +1,83 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Single-Game Views/College Men -	East-West Phantoms	
+(1 - 15 Away)
+(1 - 15)
+@	Illinois Tech Scarlet Hawks	
+(6 - 3 Home)
+(11 - 7)
+2/20/2018
+Change
+Game
+Extended Box Score	Game Breakdown	Team Play Types	Player Play Types	Player Stats	Play By Play	Shot Chart
+Team	Final	1	2
+East-West Phantoms	42	19	23
+Illinois Tech Scarlet Hawks	78	35	43
+Team	Series	Home	Away	Season
+East-West Phantoms	0	0-0	1-16	1-16
+Illinois Tech Scarlet Hawks	1	7-3	5-4	12-7
+
+Play By Play (1st)	Period: 1 | 2
+Team	PER	Time	Data	EWP - IIT
+IIT	1	19:55	21 Jake Digiorgio > No Play Type > To Basket > Make 2 Pts	0	-	2
+19:55	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+19:55	Misc Stat > Assist > Max Hisatake
+EWP	1	19:38	10 Manny Coleman > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+Ball Delivered
+5 Markus Johnson > P&R Roll Man > Pick and Pops > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	0	-	2
+19:38	Shot > Markus Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+19:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	19:10	32 Parker Joncus > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	0	-	4
+19:10	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+19:10	Misc Stat > Assist > Jake Digiorgio
+EWP	1	18:55	2 Sherman Carter > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	0	-	4
+18:55	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+18:55	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	18:37	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	0	-	6
+18:37	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	18:19	10 Manny Coleman > ISO > Top > Drives Right > Defense Commits 
+Ball Delivered
+2 Sherman Carter > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	0	-	6
+18:19	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+18:19	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	17:55	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	0	-	6
+17:55	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	17:55	22 Max Hisatake > Offensive Rebound > Long > Run Offense	0	-	6
+17:55	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	17:41	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	0	-	6
+17:41	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:41	Misc Stat > Block > Carl Moore
+IIT	1	17:38	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	0	-	6
+17:38	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:39	Misc Stat > Offensive Rebound > Jake Digiorgio
+17:37	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	1	17:17	30 Kinsley Shaw > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	0	-	6
+17:17	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+17:17	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	17:08	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+Ball Delivered
+22 Max Hisatake > Cut > Basket > Make 2 Pts	0	-	8
+17:08	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+17:08	Misc Stat > Assist > Malik Howze
+EWP	1	16:47	2 Sherman Carter > Spot-Up > Drives Left > To Basket > Foul	0	-	8
+16:47	Personal Foul > Defensive - Any > Max Hisatake
+EWP	1	16:47	2 Sherman Carter > Non Possession > Free Throw	0	-	8
+16:47	Shot > Sherman Carter > Free Throw > Missed
+EWP	1	16:47	2 Sherman Carter > Non Possession > Free Throw	1	-	8
+16:47	Shot > Sherman Carter > Free Throw > Made
+EWP	1	16:04	23 Stanley Thomas > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	1	-	8
+16:04	Personal Foul > Defensive - Any > Malik Howze
+EWP	1	16:04	23 Stanley Thomas > Non Possession > Free Throw	1	-	8
+16:04	Shot > Stanley Thomas > Free Throw > Missed
+EWP	1	16:04	23 Stanley Thomas > Non Possession > Free Throw	1	-	8
+16:04	Shot > Stanley Thomas > Free Throw > Missed
+16:04	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	15:54	32 Parker Joncus > Non Possession > Non Shooting Foul	1	-	8
+15:54	Personal Foul > Defensive - Any > Stanley Thomas
+IIT	1	15:37	22 Max Hisatake > No Play Type > To Basket > Miss 2 Pts	1	-	8
+15:37	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts

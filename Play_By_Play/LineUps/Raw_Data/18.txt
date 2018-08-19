@@ -1,0 +1,685 @@
+IIT	1	19:40	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	2	-	0
+19:40	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	19:12	30 Dyron Woods > Post-Up > Right Block > Left Shoulder > No Dribble Move > To Jumper > Make 2 Pts	2	-	2
+19:12	Shot > Dyron Woods > Any Type > 2 Point Attempt > Make 2 Pts
+19:12	Misc Stat > Assist > Aaron Reed
+IIT	1	18:53	22 Max Hisatake > ISO > Right > Early Jumper > Medium/17' to <3p > Miss 2 Pts	2	-	2
+18:53	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:53	Misc Stat > Defensive Rebound > Aaron Reed
+NP	1	18:47	5 Aaron Reed > Transition > Ballhandler > To Basket > Make 2 Pts	2	-	4
+18:47	Shot > Aaron Reed > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	18:35	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	2	-	4
+18:35	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+18:35	Misc Stat > Defensive Rebound > Aaron Reed
+NP	1	18:30	30 Dyron Woods > Transition > Right Wing > To Basket > Miss 2 Pts	2	-	4
+18:30	Shot > Dyron Woods > Any Type > 2 Point Attempt > Miss 2 Pts
+18:30	Misc Stat > Block > Max Hisatake
+NP	1	18:30	1 Matt Szuba > Offensive Rebound > Short > Run Offense	2	-	4
+18:30	Misc Stat > Offensive Rebound > Matt Szuba
+NP	1	18:23	5 Aaron Reed > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	2	-	7
+18:23	Shot > Aaron Reed > Any Type > 3 Point Attempt > Make 3 Pts
+18:23	Misc Stat > Assist > Colin Lake
+18:21	TIMEOUT 30SEC by TEAM
+IIT	1	18:02	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+18:02	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	18:02	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	2	-	7
+18:02	Personal Foul > Defensive - Any > Dyron Woods
+18:02	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	18:02	22 Max Hisatake > Non Possession > Free Throw	3	-	7
+18:02	Shot > Max Hisatake > Free Throw > Made
+IIT	1	18:02	22 Max Hisatake > Non Possession > Free Throw	4	-	7
+18:02	Shot > Max Hisatake > Free Throw > Made
+NP	1	17:43	4 Colin Lake > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	4	-	7
+17:43	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+17:43	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	17:24	2 Anthony Mosley > No Play Type > Turnover	4	-	7
+17:24	Turnover > Any Type > Anthony Mosley
+17:22	Misc Stat > Steal > Billy Kirby
+NP	1	17:21	23 Billy Kirby > Transition > Ballhandler > To Basket > Make 2 Pts	4	-	9
+17:21	Shot > Billy Kirby > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	17:05	22 Max Hisatake > Non Possession > Non Shooting Foul	4	-	9
+17:05	Personal Foul > Defensive - Any > Matt Szuba
+17:05	Player Movement > Sub Out > Home Player > Dyron Woods
+17:05	Player Movement > Sub In > Home Player > Vegard Tangen
+IIT	1	16:52	3 Malik Howze > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	4	-	9
+16:52	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+16:52	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	16:47	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	4	-	9
+16:47	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+16:47	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	1	16:42	32 Parker Joncus > Offensive Rebound > Long > Scoring Attempt > At Basket > Miss 2 Pts	4	-	9
+16:42	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+16:42	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	16:40	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	6	-	9
+16:40	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	16:16	1 Matt Szuba > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	6	-	12
+16:16	Shot > Matt Szuba > Any Type > 3 Point Attempt > Make 3 Pts
+16:16	Misc Stat > Assist > Vegard Tangen
+IIT	1	15:48	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	8	-	12
+15:48	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	15:26	4 Colin Lake > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	8	-	14
+15:26	Shot > Colin Lake > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	14:58	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	8	-	14
+14:58	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+14:58	Misc Stat > Defensive Rebound > Matt Szuba
+NP	1	14:42	23 Billy Kirby > Transition > Ballhandler > To Basket > Make 2 Pts	8	-	16
+14:42	Shot > Billy Kirby > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	14:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	10	-	16
+14:33	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+14:33	Misc Stat > Assist > Malik Howze
+NP	1	14:17	21 Vegard Tangen > No Play Type > Turnover	10	-	16
+14:17	Turnover > Any Type > Vegard Tangen
+14:17	Personal Foul > Defensive - Any > Vegard Tangen
+14:17	Player Movement > Sub In > Away Player > Capriest Gardner
+14:17	Player Movement > Sub Out > Away Player > Parker Joncus
+14:17	Player Movement > Sub In > Away Player > Kohl Linder
+14:17	Player Movement > Sub Out > Away Player > Malik Howze
+14:17	Player Movement > Sub In > Away Player > Jake Bruns
+14:17	Player Movement > Sub Out > Home Player > Matt Szuba
+14:17	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:17	Player Movement > Sub In > Home Player > Dyron Woods
+IIT	1	14:11	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	10	-	16
+14:11	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+14:11	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	1	14:06	2 Anthony Mosley > Offensive Rebound > Long > Scoring Attempt > At Basket > Make 2 Pts Foul > 0 Pts	12	-	16
+14:06	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+14:04	Personal Foul > Defensive - Any > Colin Lake
+IIT	1	14:04	2 Anthony Mosley > Non Possession > Free Throw	12	-	16
+14:04	Shot > Anthony Mosley > Free Throw > Missed
+14:04	Misc Stat > Defensive Rebound > Vegard Tangen
+NP	1	13:56	30 Dyron Woods > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	12	-	16
+13:56	Shot > Dyron Woods > Any Type > 2 Point Attempt > Miss 2 Pts
+13:56	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	13:47	35 Kohl Linder > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	12	-	16
+13:47	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+13:47	Misc Stat > Defensive Rebound > Billy Kirby
+13:47	Misc Stat > Block > Dyron Woods
+NP	1	13:37	0 Toby Marek > Transition > Trailer > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	12	-	16
+13:37	Shot > Toby Marek > Any Type > 3 Point Attempt > Miss 3 Pts
+13:37	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	13:21	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:21	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+13:21	Misc Stat > Defensive Rebound > Billy Kirby
+NP	1	13:12	4 Colin Lake > Transition > Left Wing > To Basket > Miss 2 Pts	12	-	16
+13:12	Shot > Colin Lake > Any Type > 2 Point Attempt > Miss 2 Pts
+13:12	Misc Stat > Team Defensive Rebound > Away
+13:12	Player Movement > Sub In > Home Player > Toby Marek
+13:12	Player Movement > Sub In > Home Player > Matt Mohr
+13:12	Player Movement > Sub Out > Home Player > Aaron Reed
+13:12	Player Movement > Sub Out > Home Player > Vegard Tangen
+IIT	1	12:56	10 Jake Bruns > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	12	-	16
+12:56	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+12:56	Misc Stat > Defensive Rebound > Colin Lake
+NP	1	12:46	4 Colin Lake > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	12	-	16
+12:46	Shot > Colin Lake > Any Type > 2 Point Attempt > Miss 2 Pts
+12:46	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	12:41	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	14	-	16
+12:41	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+12:41	Personal Foul > Defensive - Any > Billy Kirby
+12:41	Misc Stat > Assist > Jake Bruns
+IIT	1	12:41	2 Anthony Mosley > Non Possession > Free Throw	15	-	16
+12:41	Shot > Anthony Mosley > Free Throw > Made
+12:41	Player Movement > Sub In > Away Player > Jake Digiorgio
+12:41	Player Movement > Sub In > Away Player > Calvin Schmitz
+12:41	Player Movement > Sub Out > Away Player > Kohl Linder
+12:41	Player Movement > Sub Out > Away Player > Max Hisatake
+NP	1	12:26	4 Colin Lake > P&R Ball Handler > Left P&R > Side > Defense Commits > Turnover	15	-	16
+12:26	Turnover > Any Type > Colin Lake
+12:25	Misc Stat > Steal > Anthony Mosley
+IIT	1	12:14	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:14	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Make 3 Pts
+12:14	Misc Stat > Assist > Anthony Mosley
+IIT	1	12:06	15 Capriest Gardner > Transition > Left Wing > To Basket > Make 2 Pts	20	-	16
+12:06	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	12:06	15 Matt Mohr > Non Possession > Non Shooting Foul	20	-	16
+12:06	Player Movement > Sub In > Away Player > Malik Howze
+12:06	Player Movement > Sub Out > Home Player > Colin Lake
+12:06	Player Movement > Sub In > Home Player > Aaron Reed
+12:06	Player Movement > Sub Out > Away Player > Anthony Mosley
+11:15	Personal Foul > Defensive - Any > Malik Howze
+11:15	Player Movement > Sub Out > Home Player > Billy Kirby
+11:15	Player Movement > Sub In > Home Player > Colin Lake
+NP	1	11:02	30 Dyron Woods > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	20	-	16
+11:02	Shot > Dyron Woods > Any Type > 2 Point Attempt > Miss 2 Pts
+11:02	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	10:35	15 Capriest Gardner > Post-Up > Left Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	20	-	16
+10:35	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+10:35	Misc Stat > Block > Matt Mohr
+10:35	Misc Stat > Defensive Rebound > Jason Hines
+10:33	Player Movement > Sub Out > Home Player > Dyron Woods
+10:33	Player Movement > Sub In > Away Player > Max Hisatake
+10:33	Player Movement > Sub In > Home Player > Matt Szuba
+10:33	Player Movement > Sub In > Away Player > Anthony Mosley
+10:33	Player Movement > Sub Out > Away Player > Calvin Schmitz
+10:33	Player Movement > Sub Out > Away Player > Jake Bruns
+NP	1	10:16	0 Toby Marek > Cut > Flash > Make 2 Pts	20	-	18
+10:16	Shot > Toby Marek > Any Type > 2 Point Attempt > Make 2 Pts
+10:16	Misc Stat > Assist > Aaron Reed
+IIT	1	09:56	22 Max Hisatake > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+09:56	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+09:56	Misc Stat > Assist > Max Hisatake
+NP	1	09:44	0 Toby Marek > Spot-Up > Drives Left > To Basket > Make 2 Pts	22	-	20
+09:44	Shot > Toby Marek > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	09:27	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	22	-	20
+09:27	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+09:27	Misc Stat > Defensive Rebound > Matt Mohr
+NP	1	09:15	0 Toby Marek > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	22	-	20
+09:15	Shot > Toby Marek > Any Type > 3 Point Attempt > Miss 3 Pts
+09:15	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	09:08	2 Anthony Mosley > Transition > Ballhandler > Turnover	22	-	20
+09:08	Turnover > Any Type > Anthony Mosley
+09:08	Player Movement > Sub Out > Away Player > Capriest Gardner
+09:08	Player Movement > Sub In > Away Player > Parker Joncus
+09:08	Player Movement > Sub Out > Home Player > Toby Marek
+09:08	Player Movement > Sub In > Home Player > Jack Gurvey
+NP	1	08:53	5 Aaron Reed > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+08:53	Shot > Matt Szuba > Any Type > 3 Point Attempt > Miss 3 Pts
+08:53	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	08:46	3 Malik Howze > Transition > Ballhandler > Turnover	22	-	20
+08:46	Turnover > Any Type > Malik Howze
+08:45	Misc Stat > Steal > Matt Szuba
+NP	1	08:36	5 Aaron Reed > Off Screen > To Shooter's Right > Flare > Turnover	22	-	20
+08:36	Turnover > Any Type > Aaron Reed
+08:34	Misc Stat > Steal > Anthony Mosley
+IIT	1	08:32	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	24	-	20
+08:32	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	08:09	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+08:09	Shot > Aaron Reed > Any Type > 3 Point Attempt > Miss 3 Pts
+08:09	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	07:47	22 Max Hisatake > Post-Up > Right Block > Defense Commits 
+07:47	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	07:47	22 Max Hisatake > Offensive Rebound > Long > Run Offense	24	-	20
+07:47	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	07:42	3 Malik Howze > Cut > Basket > Make 2 Pts	26	-	20
+07:42	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+07:42	Misc Stat > Assist > Max Hisatake
+NP	1	07:25	15 Matt Mohr > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	26	-	20
+07:25	Shot > Matt Mohr > Any Type > 2 Point Attempt > Miss 2 Pts
+07:25	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	07:18	21 Jake Digiorgio > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	26	-	20
+07:18	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+07:18	Misc Stat > Defensive Rebound > Aaron Reed
+NP	1	07:07	4 Colin Lake > Transition > Right Wing > Dribble Jumper > Long/3pt > Make 3 Pts	26	-	23
+07:07	Shot > Colin Lake > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	06:35	3 Malik Howze > ISO > Left > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	26	-	23
+06:35	Player Movement > Sub In > Home Player > Billy Kirby
+06:35	Player Movement > Sub Out > Away Player > Max Hisatake
+06:35	Player Movement > Sub In > Away Player > Kohl Linder
+06:35	Player Movement > Sub Out > Home Player > Matt Mohr
+06:29	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	06:21	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	26	-	23
+06:21	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:21	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	06:19	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	28	-	23
+06:19	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+NP	1	06:06	5 Aaron Reed > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+06:06	Shot > Jack Gurvey > Any Type > 3 Point Attempt > Make 3 Pts
+06:06	Misc Stat > Assist > Matt Szuba
+IIT	1	05:56	2 Anthony Mosley > Non Possession > Non Shooting Foul	28	-	26
+05:56	Personal Foul > Defensive - Any > Aaron Reed
+IIT	1	05:56	2 Anthony Mosley > Spot-Up > Drives Left > Foul	28	-	26
+05:56	Player Movement > Sub In > Away Player > Brett Ott
+05:56	Player Movement > Sub Out > Home Player > Matt Szuba
+05:56	Player Movement > Sub In > Home Player > Jason Hines
+05:56	Player Movement > Sub Out > Away Player > Kohl Linder
+05:36	Personal Foul > Defensive - Any > Aaron Reed
+IIT	1	05:36	2 Anthony Mosley > Non Possession > Free Throw	29	-	26
+05:36	Shot > Anthony Mosley > Free Throw > Made
+IIT	1	05:36	2 Anthony Mosley > Non Possession > Free Throw	30	-	26
+05:36	Shot > Anthony Mosley > Free Throw > Made
+05:36	Player Movement > Sub In > Home Player > Toby Marek
+05:36	Player Movement > Sub Out > Home Player > Aaron Reed
+NP	1	05:19	2 Jack Gurvey > Non Possession > Non Shooting Foul	30	-	26
+05:19	Personal Foul > Defensive - Any > Malik Howze
+NP	1	05:16	23 Billy Kirby > Non Possession > Out of Bound Timeout	30	-	26
+05:16	TIMEOUT 30SEC by TEAM
+NP	1	05:16	13 Jason Hines > No Play Type > Turnover	30	-	26
+05:16	Turnover > Any Type > Jason Hines
+05:16	Personal Foul > Defensive - Any > Jason Hines
+IIT	1	05:08	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+05:08	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+05:08	Misc Stat > Defensive Rebound > Toby Marek
+NP	1	04:52	23 Billy Kirby > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	30	-	26
+04:52	Shot > Billy Kirby > Any Type > 2 Point Attempt > Miss 2 Pts
+04:52	Misc Stat > Team Defensive Rebound > Away
+IIT	1	04:35	21 Jake Digiorgio > No Play Type > Foul	30	-	26
+04:35	Personal Foul > Defensive - Any > Jason Hines
+IIT	1	04:35	21 Jake Digiorgio > Non Possession > Free Throw	31	-	26
+04:35	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	04:35	21 Jake Digiorgio > Non Possession > Free Throw	32	-	26
+04:35	Shot > Jake Digiorgio > Free Throw > Made
+04:35	Player Movement > Sub In > Away Player > Quentin Forberg
+04:35	Player Movement > Sub In > Away Player > Capriest Gardner
+04:35	Player Movement > Sub Out > Away Player > Brett Ott
+04:35	Player Movement > Sub Out > Away Player > Malik Howze
+NP	1	04:35	1 Matt Szuba > Non Possession > Non Shooting Foul	32	-	26
+04:35	Player Movement > Sub Out > Home Player > Jason Hines
+04:35	Player Movement > Sub In > Home Player > Matt Szuba
+04:20	Personal Foul > Defensive - Any > Capriest Gardner
+04:20	Player Movement > Sub Out > Away Player > Jake Digiorgio
+04:20	Player Movement > Sub In > Away Player > Max Hisatake
+NP	1	04:10	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	32	-	28
+04:10	Shot > Colin Lake > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	03:50	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > No Dribble Move > To Basket > Make 2 Pts	34	-	28
+03:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+03:50	Misc Stat > Assist > Parker Joncus
+NP	1	03:35	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	34	-	30
+03:35	Shot > Colin Lake > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	03:14	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	34	-	30
+03:14	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+03:14	Misc Stat > Defensive Rebound > Matt Szuba
+NP	1	02:57	4 Colin Lake > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+02:57	Shot > Toby Marek > Any Type > 3 Point Attempt > Miss 3 Pts
+02:57	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	02:51	32 Parker Joncus > Transition > Right Wing > To Basket > Miss 2 Pts	34	-	30
+02:51	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+02:51	Misc Stat > Team Offensive Rebound > Away
+02:51	Misc Stat > Block > Toby Marek
+02:51	Player Movement > Sub In > Away Player > Malik Howze
+02:51	Player Movement > Sub Out > Away Player > Parker Joncus
+IIT	1	02:48	22 Max Hisatake > Cut > Screen > Make 2 Pts	36	-	30
+02:48	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+02:48	Misc Stat > Assist > Malik Howze
+NP	1	02:22	0 Toby Marek > Non Possession > Non Shooting Foul	36	-	30
+02:22	Personal Foul > Defensive - Any > Quentin Forberg
+02:22	Player Movement > Sub Out > Away Player > Quentin Forberg
+02:22	Player Movement > Sub In > Away Player > Jake Digiorgio
+NP	1	02:14	1 Matt Szuba > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	36	-	30
+02:14	Shot > Matt Szuba > Any Type > 3 Point Attempt > Miss 3 Pts
+02:14	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	01:55	22 Max Hisatake > Post-Up > Left Block > Defense Commits > Turnover	36	-	30
+01:55	Turnover > Any Type > Max Hisatake
+NP	1	01:34	2 Jack Gurvey > ISO > Right > Drives Left > Defense Commits 
+01:34	Personal Foul > Defensive - Any > Jake Digiorgio
+NP	1	01:34	23 Billy Kirby > Non Possession > Free Throw	36	-	31
+01:34	Shot > Billy Kirby > Free Throw > Made
+NP	1	01:34	23 Billy Kirby > Non Possession > Free Throw	36	-	32
+01:34	Shot > Billy Kirby > Free Throw > Made
+NP	1	01:34	23 Billy Kirby > Non Possession > Free Throw	36	-	32
+01:34	Shot > Billy Kirby > Free Throw > Missed
+01:34	Misc Stat > Team Offensive Rebound > Home
+01:34	Player Movement > Sub In > Home Player > Dyron Woods
+01:34	Player Movement > Sub Out > Home Player > Jack Gurvey
+01:34	Player Movement > Sub Out > Home Player > Matt Szuba
+01:34	Player Movement > Sub In > Home Player > Vegard Tangen
+NP	1	01:20	4 Colin Lake > ISO > Left > Early Jumper > Long/3pt > Miss 3 Pts	36	-	32
+01:20	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+NP	1	01:20	23 Billy Kirby > Offensive Rebound > Long > Run Offense	36	-	32
+01:20	Misc Stat > Offensive Rebound > Billy Kirby
+NP	1	01:15	4 Colin Lake > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	36	-	32
+01:15	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+NP	1	01:15	23 Billy Kirby > Offensive Rebound > Long > Run Offense	36	-	32
+01:15	Misc Stat > Offensive Rebound > Billy Kirby
+NP	1	01:04	23 Billy Kirby > Spot-Up > Drives Left > To Basket > Make 2 Pts Foul > 0 Pts	36	-	34
+01:04	Shot > Billy Kirby > Any Type > 2 Point Attempt > Make 2 Pts
+01:04	Personal Foul > Defensive - Any > Capriest Gardner
+NP	1	01:04	23 Billy Kirby > Non Possession > Free Throw	36	-	34
+01:04	Shot > Billy Kirby > Free Throw > Missed
+01:04	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	00:43	2 Anthony Mosley > Hand Off > From Dribble > Right > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	36	-	34
+00:43	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+00:43	Misc Stat > Defensive Rebound > Billy Kirby
+NP	1	00:22	23 Billy Kirby > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Turnover	36	-	34
+00:22	Turnover > Any Type > Billy Kirby
+IIT	1	00:03	2 Anthony Mosley > ISO > Top > Drives Left > Defense Commits > Turnover	36	-	34
+00:03	Turnover > Any Type > Anthony Mosley
+00:02	Misc Stat > Steal > Colin Lake
+NP	2	19:44	4 Colin Lake > Off Screen > To Shooter's Left > Flare > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	36	-	37
+19:44	Shot > Colin Lake > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	19:30	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+19:30	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+19:30	Misc Stat > Assist > Anthony Mosley
+NP	2	19:07	30 Dyron Woods > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	38	-	37
+19:07	Shot > Dyron Woods > Any Type > 2 Point Attempt > Miss 2 Pts
+19:07	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	18:48	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	38	-	37
+18:48	Turnover > Any Type > Anthony Mosley
+18:48	Misc Stat > Steal > Aaron Reed
+NP	2	18:48	5 Aaron Reed > Non Possession > Non Shooting Foul	38	-	37
+18:48	Personal Foul > Defensive - Any > Anthony Mosley
+NP	2	18:28	4 Colin Lake > Off Screen > To Shooter's Right > Straight > Turnover	38	-	37
+18:28	Turnover > Any Type > Colin Lake
+IIT	2	18:02	3 Malik Howze > ISO > Right > Early Jumper > Long/3pt > Miss 3 Pts	38	-	37
+18:02	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	18:02	2 Anthony Mosley > Offensive Rebound > Long > Run Offense	38	-	37
+18:02	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	2	17:55	22 Max Hisatake > Non Possession > Non Shooting Foul	38	-	37
+17:55	Personal Foul > Defensive - Any > Matt Szuba
+IIT	2	17:35	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	38	-	37
+17:35	Misc Stat > Steal > Billy Kirby
+17:35	Turnover > Any Type > Jake Digiorgio
+NP	2	17:20	23 Billy Kirby > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	38	-	37
+17:20	Shot > Billy Kirby > Any Type > 3 Point Attempt > Miss 3 Pts
+17:20	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	17:13	3 Malik Howze > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	38	-	37
+17:13	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+17:13	Misc Stat > Defensive Rebound > Aaron Reed
+NP	2	17:06	30 Dyron Woods > Transition > Leak Outs > To Basket > Miss 2 Pts	38	-	37
+17:06	Shot > Dyron Woods > Any Type > 2 Point Attempt > Miss 2 Pts
+17:06	Misc Stat > Block > Max Hisatake
+17:06	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	17:00	3 Malik Howze > Transition > Ballhandler > Turnover	38	-	37
+17:00	Turnover > Any Type > Malik Howze
+NP	2	16:28	5 Aaron Reed > Hand Off > From Dribble > Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	38	-	37
+16:28	Shot > Aaron Reed > Any Type > 2 Point Attempt > Miss 2 Pts
+16:28	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	16:15	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	40	-	37
+16:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+NP	2	15:56	4 Colin Lake > Hand Off > From Stationary > Top > Dribble Jumper > Long/3pt > Miss 3 Pts	40	-	37
+15:56	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+15:56	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	15:35	2 Anthony Mosley > ISO > Left > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	42	-	37
+15:35	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+15:35	Misc Stat > Assist > Malik Howze
+NP	2	15:12	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	42	-	37
+15:12	Shot > Colin Lake > Any Type > 2 Point Attempt > Miss 2 Pts
+15:12	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	15:06	3 Malik Howze > Non Possession > Non Shooting Foul	42	-	37
+15:06	Personal Foul > Defensive - Any > Colin Lake
+IIT	2	15:02	22 Max Hisatake > Post-Up > Left Block > Post Pin > No Dribble Move > To Basket > Foul	42	-	37
+15:02	Personal Foul > Defensive - Any > Matt Szuba
+IIT	2	15:02	22 Max Hisatake > Non Possession > Free Throw	43	-	37
+15:02	Shot > Max Hisatake > Free Throw > Made
+IIT	2	15:02	22 Max Hisatake > Non Possession > Free Throw	44	-	37
+15:02	Shot > Max Hisatake > Free Throw > Made
+15:02	Player Movement > Sub Out > Home Player > Aaron Reed
+15:02	Player Movement > Sub In > Home Player > Toby Marek
+NP	2	14:47	0 Toby Marek > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:47	Shot > Matt Szuba > Any Type > 3 Point Attempt > Make 3 Pts
+14:47	Misc Stat > Assist > Toby Marek
+IIT	2	14:40	22 Max Hisatake > Post-Up > Left Block > Turnover	44	-	40
+14:40	Turnover > Any Type > Max Hisatake
+14:40	Personal Foul > Defensive - Any > Max Hisatake
+NP	2	14:24	4 Colin Lake > P&R Ball Handler > High P&R > Split > Defense Commits 
+14:24	Shot > Matt Szuba > Any Type > 3 Point Attempt > Miss 3 Pts
+NP	2	14:24	21 Vegard Tangen > Offensive Rebound > Short > Run Offense	44	-	40
+14:24	Misc Stat > Offensive Rebound > Vegard Tangen
+NP	2	14:13	4 Colin Lake > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits > Turnover	44	-	40
+14:13	Turnover > Any Type > Colin Lake
+14:12	Misc Stat > Steal > Malik Howze
+IIT	2	14:08	2 Anthony Mosley > Transition > First Middle > To Basket > Make 2 Pts	46	-	40
+14:08	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+14:08	Misc Stat > Assist > Max Hisatake
+NP	2	14:03	23 Billy Kirby > Transition > Ballhandler > Turnover	46	-	40
+14:03	Misc Stat > Steal > Max Hisatake
+IIT	2	14:03	22 Max Hisatake > No Play Type > Turnover	46	-	40
+14:03	Turnover > Any Type > Max Hisatake
+NP	2	14:03	4 Colin Lake > Non Possession > Non Shooting Foul	46	-	40
+14:03	Player Movement > Sub In > Away Player > Capriest Gardner
+14:03	Player Movement > Sub Out > Away Player > Parker Joncus
+13:56	Personal Foul > Defensive - Any > Anthony Mosley
+NP	2	13:56	0 Toby Marek > Non Possession > Non Shooting Foul	46	-	40
+13:56	Player Movement > Sub In > Away Player > Kohl Linder
+13:56	Player Movement > Sub Out > Away Player > Jake Digiorgio
+13:43	Personal Foul > Defensive - Any > Capriest Gardner
+NP	2	13:32	4 Colin Lake > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+13:32	Shot > Matt Szuba > Any Type > 3 Point Attempt > Make 3 Pts
+13:32	Misc Stat > Assist > Vegard Tangen
+IIT	2	13:02	22 Max Hisatake > Non Possession > Non Shooting Foul	46	-	43
+13:02	Personal Foul > Defensive - Any > Vegard Tangen
+IIT	2	12:53	22 Max Hisatake > Non Possession > Non Shooting Foul	46	-	43
+12:53	Personal Foul > Defensive - Any > Vegard Tangen
+IIT	2	12:53	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Up and Under > Foul	46	-	43
+12:53	Player Movement > Sub Out > Home Player > Vegard Tangen
+12:53	Player Movement > Sub In > Home Player > Matt Mohr
+12:45	Personal Foul > Defensive - Any > Colin Lake
+IIT	2	12:45	22 Max Hisatake > Non Possession > Free Throw	46	-	43
+12:45	Shot > Max Hisatake > Free Throw > Missed
+12:45	REBOUND DEADB by TEAM
+IIT	2	12:45	22 Max Hisatake > Non Possession > Free Throw	46	-	43
+12:45	Shot > Max Hisatake > Free Throw > Missed
+12:45	Misc Stat > Defensive Rebound > Matt Mohr
+NP	2	12:39	1 Matt Szuba > Spot-Up > Drives Right > Dribble Jumper > Long/3pt > Miss 3 Pts	46	-	43
+12:39	Shot > Matt Szuba > Any Type > 3 Point Attempt > Miss 3 Pts
+12:39	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	12:19	2 Anthony Mosley > ISO > Left > Drives Left > Foul	46	-	43
+12:19	Personal Foul > Defensive - Any > Toby Marek
+IIT	2	12:19	2 Anthony Mosley > Non Possession > Free Throw	46	-	43
+12:19	Shot > Anthony Mosley > Free Throw > Missed
+12:19	Player Movement > Sub Out > Away Player > Malik Howze
+12:19	Misc Stat > Defensive Rebound > Jack Gurvey
+12:19	Player Movement > Sub Out > Away Player > Max Hisatake
+12:19	Player Movement > Sub Out > Home Player > Toby Marek
+12:19	Player Movement > Sub In > Away Player > Jake Bruns
+12:19	Player Movement > Sub In > Home Player > Jack Gurvey
+12:19	Player Movement > Sub In > Away Player > Jake Digiorgio
+NP	2	12:10	23 Billy Kirby > Non Possession > Non Shooting Foul	46	-	43
+12:10	Personal Foul > Defensive - Any > Kohl Linder
+NP	2	11:57	15 Matt Mohr > Spot-Up > Drives Right > Turnover	46	-	43
+11:57	Turnover > Any Type > Matt Mohr
+IIT	2	11:19	2 Anthony Mosley > Hand Off > From Stationary > Top > Dribble Jumper > Long/3pt > Miss 3 Pts	46	-	43
+11:19	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	11:19	35 Kohl Linder > Offensive Rebound > Short > Run Offense	46	-	43
+11:19	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	2	11:08	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:08	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	11:08	10 Jake Bruns > Offensive Rebound > Long > Turnover	46	-	43
+11:08	Misc Stat > Offensive Rebound > Jake Bruns
+11:05	Turnover > Any Type > Jake Bruns
+11:04	Misc Stat > Steal > Jack Gurvey
+NP	2	11:02	4 Colin Lake > Transition > Right Wing > To Basket > Foul	46	-	43
+11:02	Personal Foul > Defensive - Any > Jake Bruns
+NP	2	11:02	4 Colin Lake > Non Possession > Free Throw	46	-	43
+11:02	Shot > Colin Lake > Free Throw > Missed
+11:02	REBOUND DEADB by TEAM
+NP	2	11:02	4 Colin Lake > Non Possession > Free Throw	46	-	44
+11:02	Shot > Colin Lake > Free Throw > Made
+11:02	Player Movement > Sub Out > Away Player > Kohl Linder
+11:02	Player Movement > Sub In > Away Player > Calvin Schmitz
+11:02	Player Movement > Sub Out > Home Player > Billy Kirby
+11:02	Player Movement > Sub In > Home Player > Aaron Reed
+IIT	2	10:45	21 Jake Digiorgio > Post-Up > Right Block > Face-up > Drive Middle > Make 2 Pts Foul > 1 Pts	48	-	44
+10:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+10:45	Personal Foul > Defensive - Any > Matt Szuba
+10:45	Misc Stat > Assist > Jake Bruns
+IIT	2	10:45	21 Jake Digiorgio > Non Possession > Free Throw	49	-	44
+10:45	Shot > Jake Digiorgio > Free Throw > Made
+NP	2	10:30	1 Matt Szuba > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	49	-	47
+10:30	Shot > Matt Szuba > Any Type > 3 Point Attempt > Make 3 Pts
+10:30	Misc Stat > Assist > Matt Mohr
+IIT	2	10:10	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	49	-	47
+10:10	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+10:10	REBOUND DEADB by TEAM
+NP	2	10:09	4 Colin Lake > No Play Type > Foul	49	-	47
+10:09	Personal Foul > Defensive - Any > Jake Bruns
+NP	2	10:09	4 Colin Lake > Non Possession > Free Throw	49	-	47
+10:09	Shot > Colin Lake > Free Throw > Missed
+10:09	Player Movement > Sub In > Home Player > Billy Kirby
+10:09	Misc Stat > Defensive Rebound > Jake Digiorgio
+10:09	Player Movement > Sub Out > Home Player > Matt Szuba
+IIT	2	10:02	2 Anthony Mosley > Transition > Ballhandler > Turnover	49	-	47
+10:02	Turnover > Any Type > Anthony Mosley
+10:00	Misc Stat > Steal > Aaron Reed
+NP	2	09:51	15 Matt Mohr > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+09:51	Shot > Billy Kirby > Any Type > 2 Point Attempt > Miss 2 Pts
+09:51	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	09:41	21 Jake Digiorgio > Post-Up > Right Block > Foul	49	-	47
+09:41	Personal Foul > Defensive - Any > Matt Mohr
+IIT	2	09:41	21 Jake Digiorgio > Non Possession > Free Throw	49	-	47
+09:41	Shot > Jake Digiorgio > Free Throw > Missed
+09:41	Misc Stat > Defensive Rebound > Matt Mohr
+NP	2	09:19	4 Colin Lake > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Foul	49	-	47
+09:19	Personal Foul > Defensive - Any > Calvin Schmitz
+NP	2	09:19	4 Colin Lake > Non Possession > Free Throw	49	-	47
+09:19	Shot > Colin Lake > Free Throw > Missed
+09:19	REBOUND DEADB by TEAM
+NP	2	09:19	4 Colin Lake > Non Possession > Free Throw	49	-	48
+09:19	Shot > Colin Lake > Free Throw > Made
+09:19	Player Movement > Sub Out > Away Player > Jake Bruns
+09:19	Player Movement > Sub Out > Home Player > Matt Mohr
+09:19	Player Movement > Sub In > Away Player > Malik Howze
+09:19	Player Movement > Sub In > Home Player > Dyron Woods
+09:19	Player Movement > Sub In > Away Player > Max Hisatake
+09:19	Player Movement > Sub Out > Away Player > Capriest Gardner
+IIT	2	09:08	2 Anthony Mosley > No Play Type > Turnover	49	-	48
+09:08	Turnover > Any Type > Anthony Mosley
+09:07	Misc Stat > Steal > Dyron Woods
+NP	2	09:05	30 Dyron Woods > Transition > Ballhandler > To Basket > Make 2 Pts	49	-	50
+09:05	Shot > Dyron Woods > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	08:51	2 Anthony Mosley > ISO > Right > Drives Left > Defense Commits 
+08:51	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+NP	2	08:39	23 Billy Kirby > No Play Type > Foul	52	-	50
+08:39	Personal Foul > Defensive - Any > Malik Howze
+NP	2	08:39	23 Billy Kirby > Non Possession > Free Throw	52	-	51
+08:39	Shot > Billy Kirby > Free Throw > Made
+NP	2	08:39	23 Billy Kirby > Non Possession > Free Throw	52	-	52
+08:39	Shot > Billy Kirby > Free Throw > Made
+IIT	2	08:23	21 Jake Digiorgio > ISO > Right > Drives Left > To Basket > Make 2 Pts	54	-	52
+08:23	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+NP	2	07:59	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	54	-	55
+07:59	Shot > Colin Lake > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	07:46	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Foul	54	-	55
+07:46	Personal Foul > Defensive - Any > Dyron Woods
+IIT	2	07:46	2 Anthony Mosley > Non Possession > Free Throw	55	-	55
+07:46	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	07:46	2 Anthony Mosley > Non Possession > Free Throw	55	-	55
+07:46	Shot > Anthony Mosley > Free Throw > Missed
+07:46	Player Movement > Sub In > Away Player > Parker Joncus
+07:46	Misc Stat > Offensive Rebound > Jake Digiorgio
+07:46	Player Movement > Sub Out > Away Player > Calvin Schmitz
+IIT	2	07:43	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	55	-	55
+07:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	07:43	21 Jake Digiorgio > Offensive Rebound > Short > Foul	55	-	55
+07:43	Personal Foul > Defensive - Any > Billy Kirby
+07:43	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	07:43	21 Jake Digiorgio > Non Possession > Free Throw	56	-	55
+07:43	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	07:43	21 Jake Digiorgio > Non Possession > Free Throw	57	-	55
+07:43	Shot > Jake Digiorgio > Free Throw > Made
+NP	2	07:16	4 Colin Lake > ISO > Right > Drives Left > Defense Commits 
+07:16	Personal Foul > Defensive - Any > Max Hisatake
+NP	2	07:16	30 Dyron Woods > Non Possession > Free Throw	57	-	56
+07:16	Shot > Dyron Woods > Free Throw > Made
+NP	2	07:16	30 Dyron Woods > Non Possession > Free Throw	57	-	56
+07:16	Shot > Dyron Woods > Free Throw > Missed
+07:16	Player Movement > Sub Out > Home Player > Jack Gurvey
+07:16	Player Movement > Sub In > Home Player > Toby Marek
+07:16	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	07:09	2 Anthony Mosley > Transition > Right Wing > To Basket > Make 2 Pts	59	-	56
+07:09	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+NP	2	06:47	4 Colin Lake > Hand Off > From Dribble > Right > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	59	-	56
+06:47	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+06:47	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	06:22	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > No Dribble Move > To Basket > Miss 2 Pts	59	-	56
+06:22	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	06:22	21 Jake Digiorgio > Offensive Rebound > Short > Foul	59	-	56
+06:22	Personal Foul > Defensive - Any > Dyron Woods
+06:22	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	06:22	21 Jake Digiorgio > Non Possession > Free Throw	59	-	56
+06:22	Shot > Jake Digiorgio > Free Throw > Missed
+06:22	REBOUND DEADB by TEAM
+IIT	2	06:22	21 Jake Digiorgio > Non Possession > Free Throw	60	-	56
+06:22	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	06:03	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	60	-	56
+06:03	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:03	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	06:01	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	62	-	56
+06:01	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+NP	2	05:41	23 Billy Kirby > Spot-Up > Drives Right > To Basket > Miss 2 Pts	62	-	56
+05:41	Shot > Billy Kirby > Any Type > 2 Point Attempt > Miss 2 Pts
+05:41	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	05:26	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Drive Baseline > Foul	62	-	56
+05:26	Personal Foul > Defensive - Any > Dyron Woods
+IIT	2	05:26	21 Jake Digiorgio > Non Possession > Free Throw	62	-	56
+05:26	Shot > Jake Digiorgio > Free Throw > Missed
+05:26	REBOUND DEADB by TEAM
+IIT	2	05:26	21 Jake Digiorgio > Non Possession > Free Throw	63	-	56
+05:26	Shot > Jake Digiorgio > Free Throw > Made
+05:26	Player Movement > Sub Out > Home Player > Dyron Woods
+05:26	Player Movement > Sub In > Home Player > Matt Szuba
+NP	2	05:12	0 Toby Marek > Spot-Up > Drives Right > Foul	63	-	56
+05:12	Personal Foul > Defensive - Any > Jake Digiorgio
+NP	2	05:12	0 Toby Marek > Non Possession > Free Throw	63	-	57
+05:12	Shot > Toby Marek > Free Throw > Made
+NP	2	05:12	0 Toby Marek > Non Possession > Free Throw	63	-	58
+05:12	Shot > Toby Marek > Free Throw > Made
+05:12	Player Movement > Sub Out > Home Player > Aaron Reed
+05:12	Player Movement > Sub In > Home Player > Matt Mohr
+IIT	2	04:58	22 Max Hisatake > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits > Turnover	63	-	58
+04:58	Turnover > Any Type > Max Hisatake
+NP	2	04:39	1 Matt Szuba > Hand Off > From Dribble > Top > To Basket > Miss 2 Pts	63	-	58
+04:39	Shot > Matt Szuba > Any Type > 2 Point Attempt > Miss 2 Pts
+04:39	Misc Stat > Defensive Rebound > Malik Howze
+04:39	Misc Stat > Block > Max Hisatake
+IIT	2	04:27	32 Parker Joncus > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	63	-	58
+04:27	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+04:27	Misc Stat > Defensive Rebound > Colin Lake
+NP	2	04:22	4 Colin Lake > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	63	-	58
+04:22	Personal Foul > Defensive - Any > Jake Digiorgio
+NP	2	04:22	4 Colin Lake > Non Possession > Free Throw	63	-	59
+04:22	Shot > Colin Lake > Free Throw > Made
+NP	2	04:22	4 Colin Lake > Non Possession > Free Throw	63	-	60
+04:22	Shot > Colin Lake > Free Throw > Made
+04:22	Player Movement > Sub Out > Away Player > Jake Digiorgio
+04:22	Player Movement > Sub In > Away Player > Capriest Gardner
+IIT	2	04:03	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > Turnover	63	-	60
+04:03	Turnover > Any Type > Max Hisatake
+04:03	Personal Foul > Defensive - Any > Max Hisatake
+NP	2	03:42	23 Billy Kirby > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	63	-	60
+03:42	Shot > Billy Kirby > Any Type > 3 Point Attempt > Miss 3 Pts
+03:42	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	03:42	22 Max Hisatake > No Play Type > Foul	63	-	60
+03:42	Personal Foul > Defensive - Any > Toby Marek
+IIT	2	03:42	22 Max Hisatake > Non Possession > Free Throw	63	-	60
+03:42	Shot > Max Hisatake > Free Throw > Missed
+03:42	REBOUND DEADB by TEAM
+IIT	2	03:42	22 Max Hisatake > Non Possession > Free Throw	63	-	60
+03:42	Shot > Max Hisatake > Free Throw > Missed
+03:42	Misc Stat > Defensive Rebound > Matt Szuba
+NP	2	03:41	1 Matt Szuba > No Play Type > Foul	63	-	60
+03:41	Personal Foul > Defensive - Any > Capriest Gardner
+NP	2	03:41	1 Matt Szuba > Non Possession > Free Throw	63	-	60
+03:41	Shot > Matt Szuba > Free Throw > Missed
+03:41	REBOUND DEADB by TEAM
+NP	2	03:41	1 Matt Szuba > Non Possession > Free Throw	63	-	61
+03:41	Shot > Matt Szuba > Free Throw > Made
+IIT	2	03:24	2 Anthony Mosley > ISO > Top > Early Jumper > Medium/17' to <3p > Miss 2 Pts	63	-	61
+03:24	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	03:24	2 Anthony Mosley > Offensive Rebound > Long > Run Offense	63	-	61
+03:24	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	2	03:08	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	65	-	61
+03:08	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+03:08	Misc Stat > Assist > Anthony Mosley
+NP	2	02:50	23 Billy Kirby > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	65	-	63
+02:50	Shot > Billy Kirby > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:37	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	65	-	63
+02:37	Turnover > Any Type > Max Hisatake
+02:36	Misc Stat > Steal > Toby Marek
+NP	2	02:33	4 Colin Lake > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	65	-	63
+02:33	Shot > Colin Lake > Any Type > 3 Point Attempt > Miss 3 Pts
+02:33	Misc Stat > Offensive Rebound > Matt Mohr
+NP	2	02:29	15 Matt Mohr > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	65	-	65
+02:29	Shot > Matt Mohr > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:10	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	68	-	65
+02:10	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+02:10	Misc Stat > Assist > Max Hisatake
+NP	2	01:35	15 Matt Mohr > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	68	-	65
+01:35	Shot > Matt Mohr > Any Type > 3 Point Attempt > Miss 3 Pts
+NP	2	01:35	1 Matt Szuba > Offensive Rebound > Long > Run Offense	68	-	65
+01:35	Misc Stat > Offensive Rebound > Matt Szuba
+NP	2	01:12	23 Billy Kirby > ISO > Right > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	68	-	65
+01:12	Shot > Billy Kirby > Any Type > 3 Point Attempt > Miss 3 Pts
+01:12	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	00:44	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:44	Turnover > Any Type > Max Hisatake
+00:43	Misc Stat > Steal > Billy Kirby
+NP	2	00:38	4 Colin Lake > Off Screen > To Shooter's Left > Straight > Foul	68	-	65
+00:38	Personal Foul > Defensive - Any > Anthony Mosley
+NP	2	00:38	4 Colin Lake > Non Possession > Free Throw	68	-	66
+00:38	Shot > Colin Lake > Free Throw > Made
+NP	2	00:38	4 Colin Lake > Non Possession > Free Throw	68	-	67
+00:38	Shot > Colin Lake > Free Throw > Made
+00:38	Player Movement > Sub In > Away Player > Jake Digiorgio
+00:38	Player Movement > Sub Out > Away Player > Capriest Gardner
+IIT	2	00:26	22 Max Hisatake > No Play Type > Foul	68	-	67
+00:26	Personal Foul > Defensive - Any > Matt Mohr
+IIT	2	00:26	22 Max Hisatake > Non Possession > Free Throw	68	-	67
+00:26	Shot > Max Hisatake > Free Throw > Missed
+00:26	REBOUND DEADB by TEAM
+IIT	2	00:26	22 Max Hisatake > Non Possession > Free Throw	68	-	67
+00:26	Shot > Max Hisatake > Free Throw > Missed
+00:26	Misc Stat > Defensive Rebound > Matt Mohr
+NP	2	00:11	23 Billy Kirby > Off Screen > To Shooter's Left > Flare > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	68	-	69
+00:11	Shot > Billy Kirby > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	00:05	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts	70	-	69
+00:05	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts

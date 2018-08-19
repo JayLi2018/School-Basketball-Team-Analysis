@@ -1,0 +1,761 @@
+CAR	1	19:48	54 Brad Perry > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts			
+19:48	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+19:48	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	19:37	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	0	-	2
+19:37	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	1	19:13	4 Jordan Thomas > Off Screen > To Shooter's Right > Straight > To Basket > Foul	0	-	2
+19:13	Personal Foul > Defensive - Any > Anthony Mosley
+CAR	1	19:13	4 Jordan Thomas > Non Possession > Free Throw	0	-	2
+19:13	Shot > Jordan Thomas > Free Throw > Missed
+CAR	1	19:13	4 Jordan Thomas > Non Possession > Free Throw	1	-	2
+19:13	Shot > Jordan Thomas > Free Throw > Made
+IIT	1	18:56	2 Anthony Mosley > P&R Ball Handler > High P&R > Split > Defense Commits 
+18:56	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+18:56	Misc Stat > Assist > Anthony Mosley
+CAR	1	18:33	25 Brad Kruse > ISO > Top > Drives Left > To Basket > Make 2 Pts	3	-	5
+18:33	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	18:07	22 Max Hisatake > Cut > Flash > Turnover	3	-	5
+18:07	Turnover > Any Type > Max Hisatake
+CAR	1	17:52	4 Jordan Thomas > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	3	-	5
+17:52	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+17:52	Misc Stat > Block > Max Hisatake
+17:50	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	17:41	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	3	-	8
+17:41	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+17:41	Misc Stat > Assist > Anthony Mosley
+CAR	1	17:23	54 Brad Perry > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	3	-	8
+17:23	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+17:23	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	17:13	22 Max Hisatake > Transition > First Middle > To Basket > Turnover	3	-	8
+17:13	Turnover > Any Type > Max Hisatake
+CAR	1	17:03	54 Brad Perry > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Turnover	3	-	8
+17:03	Turnover > Any Type > Brad Perry
+IIT	1	16:46	22 Max Hisatake > Cut > Basket > Make 2 Pts	3	-	10
+16:46	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+16:46	Misc Stat > Assist > Jake Digiorgio
+CAR	1	16:27	21 Kamal Shasi > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	3	-	10
+16:27	Shot > Kamal Shasi > Any Type > 3 Point Attempt > Miss 3 Pts
+16:27	Misc Stat > Defensive Rebound > Malik Howze
+16:01	Player Movement > Sub Out > Home Player > Jake Digiorgio
+16:01	Player Movement > Sub In > Home Player > Capriest Gardner
+16:01	Player Movement > Sub Out > Home Player > Malik Howze
+16:01	Player Movement > Sub In > Home Player > Jake Bruns
+IIT	1	15:53	2 Anthony Mosley > ISO > Left > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	3	-	10
+15:53	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	15:49	22 Max Hisatake > Cut > Flash > Make 2 Pts	3	-	12
+15:49	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+15:49	Misc Stat > Assist > Jake Bruns
+CAR	1	15:28	5 Derek Mason II > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	3	-	12
+15:28	Shot > Derek Mason II > Any Type > 2 Point Attempt > Miss 2 Pts
+15:28	Misc Stat > Block > Max Hisatake
+IIT	1	15:18	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	3	-	12
+15:18	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+15:18	Misc Stat > Defensive Rebound > Brad Perry
+CAR	1	15:09	5 Derek Mason II > Transition > Right Wing > Turnover	3	-	12
+15:09	Turnover > Any Type > Derek Mason II
+15:09	Player Movement > Sub Out > Home Player > Max Hisatake
+15:09	Player Movement > Sub In > Home Player > Jake Digiorgio
+IIT	1	14:42	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Defense Commits 
+14:42	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+14:42	Misc Stat > Defensive Rebound > Kamal Shasi
+CAR	1	14:36	4 Jordan Thomas > Transition > Right Wing > To Basket > Miss 2 Pts	3	-	12
+14:36	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+14:36	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	14:33	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	3	-	12
+14:33	Shot > Brad Kruse > Any Type > 2 Point Attempt > Miss 2 Pts
+CAR	1	14:33	25 Brad Kruse > Offensive Rebound > Short > Run Offense	3	-	12
+14:33	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	14:26	4 Jordan Thomas > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	3	-	12
+14:26	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+CAR	1	14:26	21 Kamal Shasi > Offensive Rebound > Long > Run Offense	3	-	12
+14:26	Misc Stat > Offensive Rebound > Kamal Shasi
+CAR	1	14:21	25 Brad Kruse > Cut > Basket > Miss 2 Pts	3	-	12
+14:21	Shot > Brad Kruse > Any Type > 2 Point Attempt > Miss 2 Pts
+14:21	Misc Stat > Block > Jake Digiorgio
+14:20	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	13:59	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:59	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+13:59	Misc Stat > Block > Brad Kruse
+13:58	Misc Stat > Defensive Rebound > Brad Kruse
+CAR	1	13:47	5 Derek Mason II > Spot-Up > Drives Left > To Basket > Miss 2 Pts	3	-	12
+13:47	Shot > Derek Mason II > Any Type > 2 Point Attempt > Miss 2 Pts
+13:47	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	13:32	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	3	-	14
+13:32	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	1	13:32	54 Brad Perry > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits > Turnover	3	-	14
+13:32	Player Movement > Sub In > Home Player > Malik Howze
+13:32	Player Movement > Sub In > Home Player > Calvin Schmitz
+13:32	Player Movement > Sub Out > Home Player > Parker Joncus
+13:32	Player Movement > Sub Out > Home Player > Anthony Mosley
+13:19	Turnover > Any Type > Brad Perry
+13:18	Misc Stat > Steal > Capriest Gardner
+IIT	1	13:15	15 Capriest Gardner > Transition > Ballhandler > To Basket > Miss 2 Pts	3	-	14
+13:15	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:15	Misc Stat > Block > Brad Kruse
+IIT	1	13:14	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	3	-	14
+13:14	Personal Foul > Defensive - Any > Kamal Shasi
+13:14	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	13:14	21 Jake Digiorgio > Non Possession > Free Throw	3	-	14
+13:14	Shot > Jake Digiorgio > Free Throw > Missed
+IIT	1	13:14	21 Jake Digiorgio > Non Possession > Free Throw	3	-	14
+13:14	Shot > Jake Digiorgio > Free Throw > Missed
+13:14	Player Movement > Sub In > Away Player > Mike Canady
+13:14	Player Movement > Sub In > Away Player > Sean Johnson
+13:14	Player Movement > Sub Out > Away Player > Brad Perry
+13:14	Player Movement > Sub Out > Away Player > Derek Mason II
+IIT	1	13:14	15 Capriest Gardner > Offensive Rebound > Short > Run Offense	3	-	14
+13:14	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	12:47	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > No Dribble Move > To Basket > Miss 2 Pts	3	-	14
+12:47	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	12:47	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	3	-	14
+12:47	Personal Foul > Defensive - Any > Jordan Thomas
+12:47	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	12:47	21 Jake Digiorgio > Non Possession > Free Throw	3	-	15
+12:47	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	12:47	21 Jake Digiorgio > Non Possession > Free Throw	3	-	16
+12:47	Shot > Jake Digiorgio > Free Throw > Made
+CAR	1	12:31	21 Kamal Shasi > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+12:31	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	12:15	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	5	-	18
+12:15	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+12:15	Misc Stat > Assist > Malik Howze
+CAR	1	11:48	4 Jordan Thomas > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	5	-	18
+11:48	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+CAR	1	11:48	25 Brad Kruse > Offensive Rebound > Long > Run Offense	5	-	18
+11:48	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	11:38	34 Sean Johnson > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	5	-	18
+11:38	Turnover > Any Type > Sean Johnson
+11:36	Misc Stat > Steal > Capriest Gardner
+IIT	1	11:32	21 Jake Digiorgio > Transition > First Middle > To Basket > Foul	5	-	18
+11:32	Personal Foul > Defensive - Any > Sean Johnson
+IIT	1	11:32	21 Jake Digiorgio > Non Possession > Free Throw	5	-	19
+11:32	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	11:32	21 Jake Digiorgio > Non Possession > Free Throw	5	-	20
+11:32	Shot > Jake Digiorgio > Free Throw > Made
+11:32	Player Movement > Sub In > Home Player > Max Hisatake
+11:32	Player Movement > Sub In > Home Player > Anthony Mosley
+11:32	Player Movement > Sub Out > Home Player > Jake Digiorgio
+11:32	Player Movement > Sub Out > Home Player > Capriest Gardner
+CAR	1	11:21	21 Kamal Shasi > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:21	Shot > Sean Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+11:21	Misc Stat > Offensive Rebound > Sean Johnson
+CAR	1	11:20	34 Sean Johnson > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	5	-	20
+11:20	Shot > Sean Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+CAR	1	11:20	34 Sean Johnson > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	5	-	20
+11:20	Misc Stat > Offensive Rebound > Sean Johnson
+11:18	Personal Foul > Defensive - Any > Max Hisatake
+CAR	1	11:18	34 Sean Johnson > Non Possession > Free Throw	6	-	20
+11:18	Shot > Sean Johnson > Free Throw > Made
+CAR	1	11:18	34 Sean Johnson > Non Possession > Free Throw	6	-	20
+11:18	Shot > Sean Johnson > Free Throw > Missed
+CAR	1	11:18	25 Brad Kruse > Offensive Rebound > Short > Run Offense	6	-	20
+11:18	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	11:02	15 Mike Canady > Hand Off > From Dribble > Right > To Basket > Miss 2 Pts	6	-	20
+11:02	Shot > Mike Canady > Any Type > 2 Point Attempt > Miss 2 Pts
+11:02	Misc Stat > Block > Max Hisatake
+11:01	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	10:57	13 Calvin Schmitz > Transition > Left Wing > To Basket > Miss 2 Pts	6	-	20
+10:57	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+10:57	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	10:55	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	6	-	20
+10:55	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+10:55	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	1	10:27	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	8	-	20
+10:27	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:13	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Turnover	8	-	20
+10:13	Turnover > Any Type > Max Hisatake
+CAR	1	10:13	4 Jordan Thomas > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+10:13	Player Movement > Sub Out > Home Player > Calvin Schmitz
+10:13	Player Movement > Sub In > Home Player > Parker Joncus
+10:13	Player Movement > Sub Out > Away Player > Kamal Shasi
+10:13	Player Movement > Sub In > Away Player > Derek Mason II
+10:02	Misc Stat > Steal > Malik Howze
+10:02	Turnover > Any Type > Sean Johnson
+IIT	1	09:47	3 Malik Howze > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	8	-	20
+09:47	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+09:47	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	1	09:15	34 Sean Johnson > Cut > Flash > Make 2 Pts	10	-	20
+09:15	Shot > Sean Johnson > Any Type > 2 Point Attempt > Make 2 Pts
+09:15	Misc Stat > Assist > Derek Mason II
+IIT	1	09:05	22 Max Hisatake > Transition > First Middle > To Basket > Foul	10	-	20
+09:05	Personal Foul > Defensive - Any > Derek Mason II
+IIT	1	09:05	22 Max Hisatake > Non Possession > Free Throw	10	-	20
+09:05	Shot > Max Hisatake > Free Throw > Missed
+IIT	1	09:05	22 Max Hisatake > Non Possession > Free Throw	10	-	20
+09:05	Shot > Max Hisatake > Free Throw > Missed
+09:05	Player Movement > Sub Out > Away Player > Sean Johnson
+09:05	Player Movement > Sub In > Away Player > Brad Perry
+09:05	Player Movement > Sub Out > Home Player > Jake Bruns
+09:05	Player Movement > Sub In > Home Player > Jake Digiorgio
+IIT	1	09:05	22 Max Hisatake > Offensive Rebound > Long > Run Offense	10	-	20
+09:05	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	08:49	32 Parker Joncus > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	10	-	23
+08:49	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+08:49	Misc Stat > Assist > Anthony Mosley
+CAR	1	08:30	5 Derek Mason II > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	10	-	23
+08:30	Shot > Derek Mason II > Any Type > 3 Point Attempt > Miss 3 Pts
+08:30	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	08:20	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+08:20	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	08:20	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	10	-	23
+08:20	Misc Stat > Offensive Rebound > Jake Digiorgio
+08:18	Personal Foul > Defensive - Any > Brad Kruse
+08:18	Player Movement > Sub Out > Away Player > Mike Canady
+08:18	Player Movement > Sub In > Away Player > Tj Best
+IIT	1	08:15	22 Max Hisatake > Cut > Screen > Make 2 Pts	10	-	25
+08:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+08:15	Misc Stat > Assist > Parker Joncus
+CAR	1	07:58	25 Brad Kruse > ISO > Top > Drives Right > To Basket > Foul	10	-	25
+07:58	Personal Foul > Defensive - Any > Jake Digiorgio
+CAR	1	07:58	25 Brad Kruse > Non Possession > Free Throw	11	-	25
+07:58	Shot > Brad Kruse > Free Throw > Made
+CAR	1	07:58	25 Brad Kruse > Non Possession > Free Throw	12	-	25
+07:58	Shot > Brad Kruse > Free Throw > Made
+07:58	Player Movement > Sub In > Away Player > Steve Leazer
+07:58	Player Movement > Sub Out > Away Player > Brad Kruse
+IIT	1	07:43	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts	12	-	25
+07:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+07:43	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	07:39	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts Foul > 1 Pts	12	-	27
+07:39	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+07:38	Personal Foul > Defensive - Any > Brad Perry
+IIT	1	07:38	21 Jake Digiorgio > Non Possession > Free Throw	12	-	28
+07:38	Shot > Jake Digiorgio > Free Throw > Made
+07:30	Player Movement > Sub In > Home Player > Capriest Gardner
+07:30	Player Movement > Sub Out > Home Player > Max Hisatake
+CAR	1	07:17	54 Brad Perry > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	14	-	28
+07:17	Shot > Brad Perry > Any Type > 2 Point Attempt > Make 2 Pts
+07:17	Misc Stat > Assist > Tj Best
+IIT	1	07:03	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+07:03	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+07:03	Misc Stat > Assist > Anthony Mosley
+CAR	1	06:45	4 Jordan Thomas > Off Screen > To Shooter's Right > Straight > To Basket > Miss 2 Pts	14	-	30
+06:45	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+06:45	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	06:24	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+06:24	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+06:24	Misc Stat > Assist > Anthony Mosley
+CAR	1	06:09	10 Tj Best > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	16	-	32
+06:09	Shot > Tj Best > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:01	21 Jake Digiorgio > Transition > Left Wing > To Basket > Miss 2 Pts	16	-	32
+06:01	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:01	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	05:58	15 Capriest Gardner > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	16	-	32
+05:58	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+05:58	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	1	05:54	32 Steve Leazer > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	19	-	32
+05:54	Shot > Steve Leazer > Any Type > 3 Point Attempt > Make 3 Pts
+05:54	Misc Stat > Assist > Derek Mason II
+IIT	1	05:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	19	-	32
+05:33	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+05:33	Misc Stat > Defensive Rebound > Steve Leazer
+CAR	1	05:21	5 Derek Mason II > Hand Off > From Dribble > Left > Dribble Jumper > Long/3pt > Make 3 Pts	22	-	32
+05:21	Shot > Derek Mason II > Any Type > 3 Point Attempt > Make 3 Pts
+05:20	Player Movement > Sub In > Home Player > Max Hisatake
+05:20	Player Movement > Sub Out > Away Player > Jordan Thomas
+05:20	Player Movement > Sub In > Away Player > Kamal Shasi
+05:20	Player Movement > Sub Out > Home Player > Jake Digiorgio
+IIT	1	05:05	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	22	-	34
+05:05	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	1	04:37	32 Steve Leazer > Non Possession > Non Shooting Foul	22	-	34
+04:37	Personal Foul > Defensive - Any > Anthony Mosley
+CAR	1	04:21	21 Kamal Shasi > Non Possession > Non Shooting Foul	22	-	34
+04:21	Personal Foul > Defensive - Any > Capriest Gardner
+CAR	1	04:08	54 Brad Perry > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+04:08	Shot > Kamal Shasi > Any Type > 2 Point Attempt > Miss 2 Pts
+04:08	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	03:48	22 Max Hisatake > Spot-Up > Drives Right > To Basket > Make 2 Pts	22	-	36
+03:48	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+03:48	Misc Stat > Assist > Parker Joncus
+CAR	1	03:24	5 Derek Mason II > Non Possession > Non Shooting Foul	22	-	36
+03:24	Personal Foul > Defensive - Any > Max Hisatake
+03:24	Player Movement > Sub In > Away Player > Jordan Thomas
+03:24	Player Movement > Sub Out > Home Player > Max Hisatake
+03:24	Player Movement > Sub In > Home Player > Jake Digiorgio
+03:24	Player Movement > Sub Out > Away Player > Tj Best
+CAR	1	03:14	4 Jordan Thomas > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+03:14	Shot > Brad Perry > Any Type > 2 Point Attempt > Make 2 Pts
+03:14	Misc Stat > Assist > Jordan Thomas
+IIT	1	02:50	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	24	-	36
+02:50	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+02:50	Misc Stat > Defensive Rebound > Kamal Shasi
+CAR	1	02:44	5 Derek Mason II > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	27	-	36
+02:44	Shot > Derek Mason II > Any Type > 3 Point Attempt > Make 3 Pts
+02:44	Misc Stat > Assist > Kamal Shasi
+IIT	1	02:22	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Jumper > Miss 2 Pts	27	-	36
+02:22	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:22	Misc Stat > Defensive Rebound > Kamal Shasi
+CAR	1	02:09	54 Brad Perry > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	27	-	36
+02:09	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+02:09	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:58	21 Jake Digiorgio > No Play Type > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	27	-	36
+01:58	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+01:58	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	01:54	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	27	-	36
+01:54	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+01:54	Misc Stat > Block > Brad Perry
+IIT	1	01:53	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	27	-	36
+01:53	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	01:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	27	-	36
+01:33	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+01:33	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	1	01:23	5 Derek Mason II > Transition > Left Wing > To Basket > Miss 2 Pts	27	-	36
+01:23	Shot > Derek Mason II > Any Type > 2 Point Attempt > Miss 2 Pts
+01:23	Misc Stat > Block > Malik Howze
+CAR	1	01:23	5 Derek Mason II > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	27	-	36
+01:23	Personal Foul > Defensive - Any > Parker Joncus
+01:23	Misc Stat > Offensive Rebound > Derek Mason II
+CAR	1	01:23	5 Derek Mason II > Non Possession > Free Throw	27	-	36
+01:23	Shot > Derek Mason II > Free Throw > Missed
+CAR	1	01:23	5 Derek Mason II > Non Possession > Free Throw	28	-	36
+01:23	Shot > Derek Mason II > Free Throw > Made
+01:23	Player Movement > Sub Out > Away Player > Brad Perry
+01:23	Player Movement > Sub In > Away Player > Brad Kruse
+01:23	Player Movement > Sub Out > Home Player > Capriest Gardner
+01:23	Player Movement > Sub In > Home Player > Calvin Schmitz
+IIT	1	01:10	32 Parker Joncus > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	28	-	36
+01:10	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+01:10	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	1	01:01	5 Derek Mason II > Transition > Right Wing > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	28	-	36
+01:01	Shot > Derek Mason II > Any Type > 2 Point Attempt > Miss 2 Pts
+01:01	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	00:57	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	30	-	36
+00:57	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	00:40	21 Jake Digiorgio > Post-Up > Left Block > Post Pin > Defense Commits > Turnover	30	-	36
+00:40	Turnover > Any Type > Jake Digiorgio
+00:38	Misc Stat > Steal > Derek Mason II
+CAR	1	00:32	21 Kamal Shasi > Transition > Ballhandler > Turnover	30	-	36
+00:32	Turnover > Any Type > Kamal Shasi
+00:31	Misc Stat > Steal > Calvin Schmitz
+IIT	1	00:30	2 Anthony Mosley > Transition > Right Wing > To Basket > Make 2 Pts	30	-	38
+00:30	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+00:30	Misc Stat > Assist > Malik Howze
+CAR	1	00:03	21 Kamal Shasi > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:03	Shot > Steve Leazer > Any Type > 3 Point Attempt > Miss 3 Pts
+00:03	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	1	00:00	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	30	-	38
+00:00	Shot > Brad Kruse > Any Type > 2 Point Attempt > Miss 2 Pts
+00:00	Misc Stat > Defensive Rebound > Jake Digiorgio
+CAR	2	19:50	25 Brad Kruse > ISO > Top > Drives Right > To Basket > Miss 2 Pts	30	-	38
+19:50	Shot > Brad Kruse > Any Type > 2 Point Attempt > Miss 2 Pts
+19:50	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	19:33	22 Max Hisatake > Non Possession > Non Shooting Foul	30	-	38
+19:33	Personal Foul > Defensive - Any > Brad Kruse
+IIT	2	19:20	22 Max Hisatake > No Play Type > Turnover	30	-	38
+19:20	Personal Foul > Defensive - Any > Max Hisatake
+19:20	Turnover > Any Type > Max Hisatake
+CAR	2	18:59	21 Kamal Shasi > ISO > Right > Drives Left > Defense Commits 
+18:59	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+18:59	Misc Stat > Block > Anthony Mosley
+CAR	2	18:58	4 Jordan Thomas > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	30	-	38
+18:58	Personal Foul > Defensive - Any > Jake Digiorgio
+18:58	Misc Stat > Offensive Rebound > Jordan Thomas
+CAR	2	18:58	4 Jordan Thomas > Non Possession > Free Throw	30	-	38
+18:58	Shot > Jordan Thomas > Free Throw > Missed
+CAR	2	18:58	4 Jordan Thomas > Non Possession > Free Throw	31	-	38
+18:58	Shot > Jordan Thomas > Free Throw > Made
+18:58	Player Movement > Sub In > Home Player > Kohl Linder
+IIT	2	18:36	32 Parker Joncus > Non Possession > Non Shooting Foul	31	-	38
+18:36	Personal Foul > Defensive - Any > Derek Mason II
+IIT	2	18:25	32 Parker Joncus > Cut > Screen > Miss 2 Pts	31	-	38
+18:25	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+18:25	Misc Stat > Defensive Rebound > Kamal Shasi
+CAR	2	18:19	21 Kamal Shasi > Transition > Ballhandler > To Basket > Miss 2 Pts	31	-	38
+18:19	Shot > Kamal Shasi > Any Type > 2 Point Attempt > Miss 2 Pts
+18:17	Personal Foul > Defensive - Any > Brad Kruse
+IIT	2	17:52	2 Anthony Mosley > Spot-Up > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	31	-	38
+17:52	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	17:52	35 Kohl Linder > Offensive Rebound > Short > Run Offense	31	-	38
+17:52	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	2	17:46	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	31	-	41
+17:46	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+17:46	Misc Stat > Assist > Anthony Mosley
+CAR	2	17:27	54 Brad Perry > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	31	-	41
+17:27	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+17:27	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	17:19	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	31	-	41
+17:19	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+17:19	Misc Stat > Defensive Rebound > Kamal Shasi
+CAR	2	17:08	4 Jordan Thomas > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	31	-	41
+17:08	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+CAR	2	16:58	21 Kamal Shasi > Off Screen > To Shooter's Left > Curl > To Basket > Miss 2 Pts	31	-	41
+16:58	Shot > Kamal Shasi > Any Type > 2 Point Attempt > Miss 2 Pts
+CAR	2	16:58	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	31	-	41
+16:58	Misc Stat > Offensive Rebound > Brad Kruse
+16:56	Personal Foul > Defensive - Any > Parker Joncus
+CAR	2	16:56	25 Brad Kruse > Non Possession > Free Throw	31	-	41
+16:56	Shot > Brad Kruse > Free Throw > Missed
+CAR	2	16:56	25 Brad Kruse > Non Possession > Free Throw	32	-	41
+16:56	Shot > Brad Kruse > Free Throw > Made
+16:56	Player Movement > Sub Out > Home Player > Parker Joncus
+16:56	Player Movement > Sub In > Home Player > Capriest Gardner
+IIT	2	16:26	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	32	-	43
+16:26	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	16:16	54 Brad Perry > Non Possession > Non Shooting Foul	32	-	43
+16:16	Personal Foul > Defensive - Any > Kohl Linder
+CAR	2	16:13	5 Derek Mason II > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	32	-	43
+16:13	Shot > Derek Mason II > Any Type > 2 Point Attempt > Miss 2 Pts
+16:13	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	15:53	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	32	-	45
+15:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+15:53	Misc Stat > Assist > Kohl Linder
+CAR	2	15:37	54 Brad Perry > Non Possession > Non Shooting Foul	32	-	45
+15:37	Personal Foul > Defensive - Any > Kohl Linder
+15:37	Player Movement > Sub Out > Home Player > Malik Howze
+15:37	Player Movement > Sub In > Home Player > Jake Bruns
+CAR	2	15:29	5 Derek Mason II > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts Foul > 1 Pts	34	-	45
+15:29	Shot > Derek Mason II > Any Type > 2 Point Attempt > Make 2 Pts
+15:29	Misc Stat > Assist > Brad Kruse
+15:29	Personal Foul > Defensive - Any > Jake Bruns
+CAR	2	15:29	5 Derek Mason II > Non Possession > Free Throw	35	-	45
+15:29	Shot > Derek Mason II > Free Throw > Made
+15:29	Player Movement > Sub In > Away Player > Sean Johnson
+15:29	Player Movement > Sub Out > Home Player > Kohl Linder
+15:29	Player Movement > Sub Out > Away Player > Brad Perry
+IIT	2	15:04	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	35	-	48
+15:04	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+15:04	Misc Stat > Assist > Anthony Mosley
+CAR	2	14:46	5 Derek Mason II > ISO > Right > Early Jumper > Long/3pt > Miss 3 Pts	35	-	48
+14:46	Shot > Derek Mason II > Any Type > 3 Point Attempt > Miss 3 Pts
+14:46	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	14:24	2 Anthony Mosley > Non Possession > Non Shooting Foul	35	-	48
+14:24	Personal Foul > Defensive - Any > Jordan Thomas
+14:24	Player Movement > Sub Out > Home Player > Jake Digiorgio
+14:24	Player Movement > Sub In > Home Player > Calvin Schmitz
+IIT	2	14:15	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	35	-	50
+14:15	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	13:54	34 Sean Johnson > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+13:54	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Make 3 Pts
+13:54	Misc Stat > Assist > Sean Johnson
+IIT	2	13:40	15 Capriest Gardner > Non Possession > Non Shooting Foul	38	-	50
+13:40	Personal Foul > Defensive - Any > Derek Mason II
+13:40	Player Movement > Sub Out > Away Player > Kamal Shasi
+13:40	Player Movement > Sub In > Away Player > Mike Canady
+IIT	2	13:32	2 Anthony Mosley > ISO > Left > Drives Left > To Basket > Make 2 Pts	38	-	52
+13:32	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	13:13	5 Derek Mason II > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+13:13	Shot > Brad Kruse > Any Type > 3 Point Attempt > Miss 3 Pts
+13:13	Misc Stat > Offensive Rebound > Sean Johnson
+CAR	2	13:08	34 Sean Johnson > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	40	-	52
+13:08	Shot > Sean Johnson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	12:55	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	40	-	52
+12:55	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+12:55	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	12:52	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	40	-	54
+12:52	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	12:35	15 Mike Canady > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+12:35	Shot > Brad Kruse > Any Type > 3 Point Attempt > Make 3 Pts
+12:35	Misc Stat > Assist > Mike Canady
+IIT	2	12:10	13 Calvin Schmitz > Non Possession > Non Shooting Foul	43	-	54
+12:10	Personal Foul > Defensive - Any > Derek Mason II
+12:10	Player Movement > Sub In > Home Player > Jake Digiorgio
+12:10	Player Movement > Sub Out > Home Player > Capriest Gardner
+12:10	Player Movement > Sub Out > Away Player > Derek Mason II
+12:10	Player Movement > Sub Out > Home Player > Calvin Schmitz
+12:10	Player Movement > Sub In > Away Player > Tj Best
+12:10	Player Movement > Sub In > Home Player > Parker Joncus
+IIT	2	12:01	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	43	-	54
+12:01	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+12:01	Misc Stat > Defensive Rebound > Sean Johnson
+CAR	2	11:47	15 Mike Canady > Spot-Up > Drives Left > To Basket > Miss 2 Pts	43	-	54
+11:47	Shot > Mike Canady > Any Type > 2 Point Attempt > Miss 2 Pts
+11:47	Misc Stat > Block > Parker Joncus
+11:45	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	11:41	2 Anthony Mosley > Transition > Ballhandler > Turnover	43	-	54
+11:41	Turnover > Any Type > Anthony Mosley
+11:40	Misc Stat > Steal > Brad Kruse
+CAR	2	11:31	15 Mike Canady > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	43	-	54
+11:31	Shot > Mike Canady > Any Type > 3 Point Attempt > Miss 3 Pts
+11:31	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	11:23	10 Jake Bruns > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	43	-	54
+11:23	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	11:23	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	43	-	54
+11:23	Misc Stat > Offensive Rebound > Jake Digiorgio
+11:19	Personal Foul > Defensive - Any > Sean Johnson
+IIT	2	11:19	21 Jake Digiorgio > Non Possession > Free Throw	43	-	55
+11:19	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	11:19	21 Jake Digiorgio > Non Possession > Free Throw	43	-	55
+11:19	Shot > Jake Digiorgio > Free Throw > Missed
+11:19	Player Movement > Sub In > Away Player > Derek Mason II
+11:19	Player Movement > Sub Out > Home Player > Anthony Mosley
+11:19	Misc Stat > Defensive Rebound > Sean Johnson
+11:19	Player Movement > Sub In > Home Player > Malik Howze
+11:19	Player Movement > Sub Out > Away Player > Mike Canady
+CAR	2	11:03	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	43	-	55
+11:03	Personal Foul > Defensive - Any > Jake Bruns
+CAR	2	11:03	4 Jordan Thomas > Non Possession > Free Throw	44	-	55
+11:03	Shot > Jordan Thomas > Free Throw > Made
+CAR	2	11:03	4 Jordan Thomas > Non Possession > Free Throw	45	-	55
+11:03	Shot > Jordan Thomas > Free Throw > Made
+IIT	2	10:38	3 Malik Howze > Off Screen > To Shooter's Right > Fade > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	45	-	55
+10:38	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+CAR	2	10:25	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	47	-	55
+10:25	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	10:04	22 Max Hisatake > Cut > Basket > Miss 2 Pts	47	-	55
+10:04	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	10:04	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	47	-	55
+10:04	Misc Stat > Offensive Rebound > Max Hisatake
+10:02	Personal Foul > Defensive - Any > Sean Johnson
+IIT	2	10:02	22 Max Hisatake > Non Possession > Free Throw	47	-	56
+10:02	Shot > Max Hisatake > Free Throw > Made
+IIT	2	10:02	22 Max Hisatake > Non Possession > Free Throw	47	-	57
+10:02	Shot > Max Hisatake > Free Throw > Made
+10:02	Player Movement > Sub Out > Home Player > Jake Bruns
+10:02	Player Movement > Sub In > Home Player > Anthony Mosley
+CAR	2	09:50	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:50	Personal Foul > Defensive - Any > Max Hisatake
+CAR	2	09:50	25 Brad Kruse > Non Possession > Free Throw	47	-	57
+09:50	Shot > Brad Kruse > Free Throw > Missed
+CAR	2	09:50	25 Brad Kruse > Non Possession > Free Throw	48	-	57
+09:50	Shot > Brad Kruse > Free Throw > Made
+09:50	Player Movement > Sub Out > Home Player > Max Hisatake
+09:50	Player Movement > Sub Out > Away Player > Sean Johnson
+09:50	Player Movement > Sub Out > Home Player > Jake Digiorgio
+09:50	Player Movement > Sub In > Away Player > Brad Perry
+09:50	Player Movement > Sub In > Home Player > Calvin Schmitz
+09:50	Player Movement > Sub In > Home Player > Kohl Linder
+IIT	2	09:47	13 Calvin Schmitz > No Play Type > Turnover	48	-	57
+09:47	Misc Stat > Steal > Derek Mason II
+09:47	Turnover > Any Type > Calvin Schmitz
+CAR	2	09:47	4 Jordan Thomas > No Play Type > To Basket > Foul	48	-	57
+09:47	Personal Foul > Defensive - Any > Calvin Schmitz
+CAR	2	09:47	4 Jordan Thomas > Non Possession > Free Throw	49	-	57
+09:47	Shot > Jordan Thomas > Free Throw > Made
+CAR	2	09:47	4 Jordan Thomas > Non Possession > Free Throw	50	-	57
+09:47	Shot > Jordan Thomas > Free Throw > Made
+IIT	2	09:34	3 Malik Howze > P&R Ball Handler > High P&R > Takes Early Jump Shot > Long/3pt > Miss 3 Pts	50	-	57
+09:34	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+09:34	Misc Stat > Defensive Rebound > Brad Perry
+CAR	2	09:19	54 Brad Perry > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	52	-	57
+09:19	Shot > Brad Perry > Any Type > 2 Point Attempt > Make 2 Pts
+09:19	Misc Stat > Assist > Brad Kruse
+IIT	2	09:06	3 Malik Howze > No Play Type > Turnover	52	-	57
+09:06	Turnover > Any Type > Malik Howze
+09:06	Player Movement > Sub Out > Home Player > Calvin Schmitz
+09:06	Player Movement > Sub In > Home Player > Jake Bruns
+CAR	2	08:56	54 Brad Perry > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	54	-	57
+08:56	Shot > Brad Perry > Any Type > 2 Point Attempt > Make 2 Pts
+08:56	Misc Stat > Assist > Brad Kruse
+IIT	2	08:31	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	54	-	57
+08:31	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+08:31	Misc Stat > Block > Brad Kruse
+08:29	Misc Stat > Defensive Rebound > Jordan Thomas
+08:21	Player Movement > Sub In > Home Player > Jake Digiorgio
+08:21	Player Movement > Sub Out > Home Player > Kohl Linder
+CAR	2	08:18	4 Jordan Thomas > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	54	-	57
+08:18	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+08:18	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	08:09	3 Malik Howze > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Foul	54	-	57
+08:09	Personal Foul > Defensive - Any > Derek Mason II
+IIT	2	08:09	3 Malik Howze > Non Possession > Free Throw	54	-	58
+08:09	Shot > Malik Howze > Free Throw > Made
+IIT	2	08:09	3 Malik Howze > Non Possession > Free Throw	54	-	59
+08:09	Shot > Malik Howze > Free Throw > Made
+08:09	Player Movement > Sub Out > Away Player > Derek Mason II
+08:09	Player Movement > Sub In > Away Player > Steve Leazer
+CAR	2	08:01	4 Jordan Thomas > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+08:01	Shot > Tj Best > Any Type > 3 Point Attempt > Miss 3 Pts
+08:01	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	07:47	2 Anthony Mosley > P&R Ball Handler > High P&R > Split > Defense Commits 
+07:47	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	07:47	21 Jake Digiorgio > Offensive Rebound > Short > Turnover	54	-	59
+07:47	Misc Stat > Offensive Rebound > Jake Digiorgio
+07:42	Turnover > Any Type > Jake Digiorgio
+07:41	Misc Stat > Steal > Brad Perry
+CAR	2	07:34	4 Jordan Thomas > Transition > Ballhandler > To Basket > Foul	54	-	59
+07:34	Personal Foul > Defensive - Any > Jake Digiorgio
+CAR	2	07:34	4 Jordan Thomas > Non Possession > Free Throw	55	-	59
+07:34	Shot > Jordan Thomas > Free Throw > Made
+CAR	2	07:34	4 Jordan Thomas > Non Possession > Free Throw	56	-	59
+07:34	Shot > Jordan Thomas > Free Throw > Made
+IIT	2	07:08	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	56	-	59
+07:08	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+07:08	Misc Stat > Defensive Rebound > Brad Kruse
+CAR	2	06:51	25 Brad Kruse > Post-Up > Left Block > Defense Commits > Turnover	56	-	59
+06:51	Turnover > Any Type > Brad Kruse
+06:50	Misc Stat > Steal > Anthony Mosley
+IIT	2	06:48	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	56	-	61
+06:48	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	06:20	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	59	-	61
+06:20	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	06:04	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	59	-	61
+06:04	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	06:04	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts Foul > 1 Pts	59	-	63
+06:04	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+06:04	Personal Foul > Defensive - Any > Brad Kruse
+06:04	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	06:04	21 Jake Digiorgio > Non Possession > Free Throw	59	-	64
+06:04	Shot > Jake Digiorgio > Free Throw > Made
+06:04	Player Movement > Sub Out > Home Player > Jake Bruns
+06:04	Player Movement > Sub In > Home Player > Max Hisatake
+CAR	2	05:51	4 Jordan Thomas > ISO > Top > Drives Left > To Basket > Miss 2 Pts	59	-	64
+05:51	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+05:51	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	2	05:47	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	61	-	64
+05:47	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	05:19	3 Malik Howze > Cut > Flash > Turnover	61	-	64
+05:19	Turnover > Any Type > Malik Howze
+05:18	Misc Stat > Steal > Brad Perry
+CAR	2	05:13	25 Brad Kruse > Transition > Right Wing > To Basket > Make 2 Pts	63	-	64
+05:13	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+05:13	Misc Stat > Assist > Jordan Thomas
+IIT	2	04:47	3 Malik Howze > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	63	-	64
+04:47	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	04:47	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	63	-	64
+04:47	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	04:27	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	63	-	66
+04:27	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	04:16	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	63	-	66
+04:16	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+CAR	2	04:16	25 Brad Kruse > Offensive Rebound > Short > Run Offense	63	-	66
+04:16	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	2	04:06	54 Brad Perry > Cut > Basket > Miss 2 Pts	63	-	66
+04:06	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+04:06	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	03:50	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	63	-	68
+03:50	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	03:35	4 Jordan Thomas > ISO > Top > Drives Left > To Basket > Miss 2 Pts	63	-	68
+03:35	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+03:35	Misc Stat > Block > Max Hisatake
+CAR	2	03:24	25 Brad Kruse > Spot-Up > Drives Right > To Basket > Foul	63	-	68
+03:24	Personal Foul > Defensive - Any > Max Hisatake
+CAR	2	03:24	25 Brad Kruse > Non Possession > Free Throw	63	-	68
+03:24	Shot > Brad Kruse > Free Throw > Missed
+CAR	2	03:24	25 Brad Kruse > Non Possession > Free Throw	64	-	68
+03:24	Shot > Brad Kruse > Free Throw > Made
+03:24	Player Movement > Sub Out > Home Player > Max Hisatake
+03:24	Player Movement > Sub In > Home Player > Jake Bruns
+IIT	2	02:57	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	64	-	68
+02:57	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+02:57	Misc Stat > Defensive Rebound > Brad Perry
+CAR	2	02:41	54 Brad Perry > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	64	-	68
+02:41	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+CAR	2	02:41	54 Brad Perry > Offensive Rebound > Short > Foul	64	-	68
+02:41	Misc Stat > Offensive Rebound > Brad Perry
+02:40	Personal Foul > Defensive - Any > Malik Howze
+CAR	2	02:40	54 Brad Perry > Non Possession > Free Throw	65	-	68
+02:40	Shot > Brad Perry > Free Throw > Made
+CAR	2	02:40	54 Brad Perry > Non Possession > Free Throw	66	-	68
+02:40	Shot > Brad Perry > Free Throw > Made
+IIT	2	02:28	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	66	-	70
+02:28	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	02:13	54 Brad Perry > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	66	-	70
+02:13	Shot > Brad Perry > Any Type > 2 Point Attempt > Miss 2 Pts
+02:13	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	01:45	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts	66	-	72
+01:45	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	2	01:25	4 Jordan Thomas > Off Screen > To Shooter's Left > Straight > Foul	66	-	72
+01:25	Personal Foul > Defensive - Any > Anthony Mosley
+CAR	2	01:25	4 Jordan Thomas > Non Possession > Free Throw	67	-	72
+01:25	Shot > Jordan Thomas > Free Throw > Made
+CAR	2	01:25	4 Jordan Thomas > Non Possession > Free Throw	68	-	72
+01:25	Shot > Jordan Thomas > Free Throw > Made
+01:25	Player Movement > Sub Out > Away Player > Brad Perry
+01:25	Player Movement > Sub In > Away Player > Sean Johnson
+IIT	2	01:03	2 Anthony Mosley > ISO > Top > Drives Right > Defense Commits 
+01:03	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+01:03	Misc Stat > Defensive Rebound > Jordan Thomas
+CAR	2	00:57	25 Brad Kruse > Transition > Leak Outs > To Basket > Make 2 Pts	70	-	72
+00:57	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+00:57	Misc Stat > Assist > Jordan Thomas
+IIT	2	00:36	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	70	-	72
+00:36	Turnover > Any Type > Malik Howze
+CAR	2	00:25	4 Jordan Thomas > ISO > Top > Drives Right > To Basket > Make 2 Pts	72	-	72
+00:25	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	00:00	2 Anthony Mosley > ISO > Top > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	72	-	72
+00:00	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts05:00	Player Movement > Sub In > Away Player > Tj Best
+IIT	3	05:00	Player Movement > Sub Out > Home Player > Max Hisatake
+05:00	Player Movement > Sub Out > Away Player > Derek Mason II
+05:00	Player Movement > Sub In > Home Player > Jake Bruns
+05:00	Player Movement > Sub In > Away Player > Steve Leazer
+05:00	Player Movement > Sub Out > Away Player > Brad Perry
+05:00	Player Movement > Sub In > Away Player > Sean Johnson
+05:00	Player Movement > Sub Out > Away Player > Kamal Shasi
+CAR	3	04:46	4 Jordan Thomas > ISO > Top > Early Jumper > Medium/17' to <3p > Miss 2 Pts	72	-	72
+04:46	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+CAR	3	04:26	4 Jordan Thomas > ISO > Top > Drives Left > To Basket > Miss 2 Pts	72	-	72
+04:26	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+04:26	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	3	04:18	3 Malik Howze > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	72	-	75
+04:18	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+04:18	Misc Stat > Assist > Anthony Mosley
+CAR	3	03:58	4 Jordan Thomas > ISO > Right > Drives Left > To Basket > Make 2 Pts	74	-	75
+03:58	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	3	03:25	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > No Dribble Move > To Basket > Make 2 Pts	74	-	77
+03:25	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+03:25	Misc Stat > Assist > Malik Howze
+CAR	3	03:03	4 Jordan Thomas > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Foul	74	-	77
+03:03	Personal Foul > Defensive - Any > Anthony Mosley
+CAR	3	03:03	4 Jordan Thomas > Non Possession > Free Throw	75	-	77
+03:03	Shot > Jordan Thomas > Free Throw > Made
+CAR	3	03:03	4 Jordan Thomas > Non Possession > Free Throw	76	-	77
+03:03	Shot > Jordan Thomas > Free Throw > Made
+IIT	3	02:36	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+02:36	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	3	02:36	2 Anthony Mosley > Offensive Rebound > Long > Run Offense	76	-	77
+02:36	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	3	02:18	21 Jake Digiorgio > Post-Up > Left Block > Foul	76	-	77
+02:18	Personal Foul > Defensive - Any > Sean Johnson
+IIT	3	02:18	21 Jake Digiorgio > Non Possession > Free Throw	76	-	77
+02:18	Shot > Jake Digiorgio > Free Throw > Missed
+IIT	3	02:18	21 Jake Digiorgio > Non Possession > Free Throw	76	-	78
+02:18	Shot > Jake Digiorgio > Free Throw > Made
+02:18	Player Movement > Sub Out > Home Player > Jake Bruns
+02:18	Player Movement > Sub In > Home Player > Capriest Gardner
+CAR	3	02:02	4 Jordan Thomas > ISO > Top > Drives Right > To Basket > Miss 2 Pts	76	-	78
+02:02	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+02:02	Misc Stat > Block > Parker Joncus
+02:01	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	3	01:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+01:33	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	3	01:33	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	76	-	78
+01:33	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	3	01:03	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Miss 2 Pts	76	-	78
+01:03	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+01:03	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	3	01:01	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	76	-	80
+01:01	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+CAR	3	00:43	4 Jordan Thomas > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	76	-	80
+00:43	Shot > Jordan Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+00:41	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	3	00:41	21 Jake Digiorgio > No Play Type > Foul	76	-	80
+00:41	Personal Foul > Defensive - Any > Jordan Thomas
+IIT	3	00:41	21 Jake Digiorgio > Non Possession > Free Throw	76	-	81
+00:41	Shot > Jake Digiorgio > Free Throw > Made
+IIT	3	00:41	21 Jake Digiorgio > Non Possession > Free Throw	76	-	82
+00:41	Shot > Jake Digiorgio > Free Throw > Made
+00:41	Player Movement > Sub Out > Away Player > Sean Johnson
+00:41	Player Movement > Sub In > Away Player > Brad Perry
+CAR	3	00:32	54 Brad Perry > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	78	-	82
+00:32	Shot > Brad Perry > Any Type > 2 Point Attempt > Make 2 Pts
+00:32	Misc Stat > Assist > Brad Kruse
+IIT	3	00:32	32 Parker Joncus > No Play Type > Foul	78	-	82
+00:32	Player Movement > Sub Out > Away Player > Brad Perry
+00:32	Player Movement > Sub In > Away Player > Sean Johnson
+00:32	Player Movement > Sub Out > Home Player > Capriest Gardner
+00:32	Player Movement > Sub In > Home Player > Jake Bruns
+00:28	Personal Foul > Defensive - Any > Steve Leazer
+IIT	3	00:28	32 Parker Joncus > Non Possession > Free Throw	78	-	83
+00:28	Shot > Parker Joncus > Free Throw > Made
+IIT	3	00:28	32 Parker Joncus > Non Possession > Free Throw	78	-	84
+00:28	Shot > Parker Joncus > Free Throw > Made
+00:28	Player Movement > Sub Out > Home Player > Jake Bruns
+00:28	Player Movement > Sub In > Home Player > Capriest Gardner
+CAR	3	00:15	25 Brad Kruse > Spot-Up > Drives Left > To Basket > Miss 2 Pts	78	-	84
+00:15	Shot > Brad Kruse > Any Type > 2 Point Attempt > Miss 2 Pts
+00:15	Misc Stat > Offensive Rebound > Brad Kruse
+CAR	3	00:14	25 Brad Kruse > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	80	-	84
+00:14	Shot > Brad Kruse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	3	00:14	2 Anthony Mosley > No Play Type > Foul	80	-	84
+00:14	Player Movement > Sub Out > Home Player > Capriest Gardner
+00:14	Player Movement > Sub In > Home Player > Jake Bruns
+00:12	Personal Foul > Defensive - Any > Jordan Thomas
+IIT	3	00:12	2 Anthony Mosley > Non Possession > Free Throw	80	-	85
+00:12	Shot > Anthony Mosley > Free Throw > Made
+IIT	3	00:12	2 Anthony Mosley > Non Possession > Free Throw	80	-	86
+00:12	Shot > Anthony Mosley > Free Throw > Made
+00:12	Player Movement > Sub Out > Home Player > Jake Bruns
+00:12	Player Movement > Sub In > Home Player > Capriest Gardner
+CAR	3	00:04	4 Jordan Thomas > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	80	-	86
+00:04	Shot > Jordan Thomas > Any Type > 3 Point Attempt > Miss 3 Pts
+00:04	Misc Stat > Defensive Rebound > Malik Howze

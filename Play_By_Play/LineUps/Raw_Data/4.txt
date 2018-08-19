@@ -1,0 +1,561 @@
+IIT	1	19:45	22 Max Hisatake > Non Possession > Non Shooting Foul			
+19:45	Personal Foul > Defensive - Any > Keynan Carter
+IIT	1	19:40	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts			
+19:40	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+19:40	Misc Stat > Defensive Rebound > Keynan Carter
+MBI	1	19:14	2 Keynan Carter > Spot-Up > Drives Left > To Basket > Miss 2 Pts			
+19:14	Shot > Keynan Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+19:14	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:47	22 Max Hisatake > Non Possession > Non Shooting Foul			
+18:47	Personal Foul > Defensive - Any > David Arabis
+MBI	1	18:25	2 Keynan Carter > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts			
+18:25	Shot > Keynan Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+18:25	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	18:15	22 Max Hisatake > Transition > First Middle > To Basket > Miss 2 Pts			
+18:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:15	Misc Stat > Defensive Rebound > Keynan Carter
+MBI	1	17:59	22 David Arabis > ISO > Top > Drives Left > Defense Commits > Turnover			
+17:59	Turnover > Any Type > David Arabis
+17:59	Misc Stat > Steal > Max Hisatake
+IIT	1	17:50	32 Parker Joncus > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	0	-	3
+17:50	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+17:50	Misc Stat > Assist > Calvin Schmitz
+MBI	1	17:32	22 David Arabis > Hand Off > From Dribble > Top > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	3	-	3
+17:32	Shot > David Arabis > Any Type > 3 Point Attempt > Make 3 Pts
+17:32	Misc Stat > Assist > Keynan Carter
+IIT	1	17:16	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+17:16	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+17:16	Misc Stat > Assist > Jake Bruns
+MBI	1	16:56	11 Jonah Wilson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	6	-	6
+16:56	Shot > Jonah Wilson > Any Type > 3 Point Attempt > Make 3 Pts
+16:56	Misc Stat > Assist > Levi Miller
+IIT	1	16:40	32 Parker Joncus > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	6	-	6
+16:40	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+16:40	Misc Stat > Defensive Rebound > Levi Miller
+MBI	1	16:20	22 David Arabis > Hand Off > From Dribble > Right > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	6	-	6
+16:20	Shot > David Arabis > Any Type > 3 Point Attempt > Miss 3 Pts
+16:20	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	15:55	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	6	-	6
+15:55	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	15:55	32 Parker Joncus > Offensive Rebound > Long > Run Offense	6	-	6
+15:55	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	1	15:41	32 Parker Joncus > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	6	-	9
+15:41	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+15:41	Misc Stat > Assist > Jake Bruns
+MBI	1	15:31	5 Levi Miller > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	9	-	9
+15:31	Shot > Levi Miller > Any Type > 3 Point Attempt > Make 3 Pts
+15:31	Misc Stat > Assist > Keynan Carter
+IIT	1	15:10	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+15:10	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+15:10	Misc Stat > Defensive Rebound > Levi Miller
+MBI	1	14:50	33 Joshua Wedeven > Spot-Up > Drives Left > To Basket > Miss 2 Pts	9	-	9
+14:50	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Miss 2 Pts
+14:50	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	14:39	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+14:39	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+14:39	Misc Stat > Defensive Rebound > Keynan Carter
+MBI	1	14:33	33 Joshua Wedeven > Transition > Left Wing > To Basket > Make 2 Pts	11	-	9
+14:33	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Make 2 Pts
+14:33	Misc Stat > Assist > Keynan Carter
+14:30	Time Event > Full Time Out > Home Team
+IIT	1	14:30	15 Capriest Gardner > ISO > Right > Drives Right > Turnover	11	-	9
+14:30	Player Movement > Sub Out > Home Player > Jake Digiorgio
+14:30	Player Movement > Sub In > Home Player > Capriest Gardner
+14:30	Player Movement > Sub In > Home Player > Kohl Linder
+14:30	Player Movement > Sub Out > Home Player > Max Hisatake
+14:22	Misc Stat > Steal > Jonah Wilson
+14:22	Turnover > Any Type > Capriest Gardner
+MBI	1	14:11	33 Joshua Wedeven > Hand Off > From Dribble > Top > Turnover	11	-	9
+14:11	Turnover > Any Type > Joshua Wedeven
+14:09	Misc Stat > Steal > Kohl Linder
+IIT	1	13:52	13 Calvin Schmitz > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	11	-	9
+13:52	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+13:52	Misc Stat > Defensive Rebound > Jonah Wilson
+MBI	1	13:29	33 Joshua Wedeven > ISO > Right > Drives Left > Defense Commits 
+13:29	Shot > Jonah Wilson > Any Type > 3 Point Attempt > Miss 3 Pts
+13:29	Misc Stat > Defensive Rebound > Capriest Gardner
+13:20	Player Movement > Sub Out > Home Player > Calvin Schmitz
+13:20	Player Movement > Sub In > Home Player > Brinden Carlson
+IIT	1	13:15	32 Parker Joncus > Off Screen > To Shooter's Right > Fade > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	11	-	9
+13:15	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+13:15	Misc Stat > Team Offensive Rebound > Home
+IIT	1	13:08	15 Capriest Gardner > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts	11	-	9
+13:08	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:08	Misc Stat > Block > Joshua Wedeven
+13:03	Misc Stat > Defensive Rebound > David Arabis
+MBI	1	12:58	5 Levi Miller > Cut > Flash > Miss 2 Pts	11	-	9
+12:58	Shot > Levi Miller > Any Type > 2 Point Attempt > Miss 2 Pts
+12:58	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	12:32	15 Capriest Gardner > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+12:32	Shot > Brinden Carlson > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	12:32	35 Kohl Linder > Offensive Rebound > Long > Run Offense	11	-	9
+12:32	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	12:11	15 Capriest Gardner > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+12:11	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+12:11	Misc Stat > Assist > Capriest Gardner
+IIT	1	11:58	10 Jake Bruns > Non Possession > Kicked Ball	11	-	12
+11:58	Player Movement > Sub In > Home Player > Max Hisatake
+11:58	Player Movement > Sub Out > Home Player > Parker Joncus
+11:58	Player Movement > Sub Out > Home Player > Kohl Linder
+11:58	Player Movement > Sub In > Home Player > Jake Digiorgio
+IIT	1	11:40	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	11	-	14
+11:40	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+11:40	Misc Stat > Assist > Jake Bruns
+MBI	1	11:18	2 Keynan Carter > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	13	-	14
+11:18	Shot > Keynan Carter > Any Type > 2 Point Attempt > Make 2 Pts
+10:59	Player Movement > Sub In > Home Player > Parker Joncus
+10:59	Player Movement > Sub Out > Away Player > Keynan Carter
+10:59	Player Movement > Sub In > Away Player > Jacob Kim
+10:59	Player Movement > Sub Out > Home Player > Brinden Carlson
+IIT	1	10:49	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+10:49	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+10:49	Misc Stat > Assist > Parker Joncus
+MBI	1	10:39	22 David Arabis > Transition > Ballhandler > Dribble Jumper > Long/3pt > Make 3 Pts	16	-	16
+10:39	Shot > David Arabis > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	10:21	15 Capriest Gardner > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	16	-	18
+10:21	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	1	10:05	23 Jacob Kim > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	19	-	18
+10:05	Shot > Jacob Kim > Any Type > 3 Point Attempt > Make 3 Pts
+10:05	Misc Stat > Assist > Levi Miller
+10:03	Time Event > Full Time Out > Home Team
+IIT	1	09:57	22 Max Hisatake > No Play Type > Turnover	19	-	18
+09:57	Turnover > Any Type > Max Hisatake
+09:57	Personal Foul > Defensive - Any > Max Hisatake
+MBI	1	09:45	11 Jonah Wilson > Off Screen > To Shooter's Right > Straight > Turnover	19	-	18
+09:45	Turnover > Any Type > Jonah Wilson
+IIT	1	09:26	32 Parker Joncus > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	19	-	18
+09:26	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+09:26	Misc Stat > Defensive Rebound > Levi Miller
+MBI	1	08:53	11 Jonah Wilson > Non Possession > Shot Clock Violation	19	-	18
+08:53	Turnover > Any Type > Team
+IIT	1	08:42	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:42	Misc Stat > Steal > Joshua Wedeven
+08:42	Turnover > Any Type > Jake Digiorgio
+MBI	1	08:23	33 Joshua Wedeven > Off Screen > To Shooter's Right > Straight > Turnover	19	-	18
+08:23	Misc Stat > Steal > Parker Joncus
+08:23	Turnover > Any Type > Joshua Wedeven
+IIT	1	08:23	22 Max Hisatake > Post-Up > Flash Middle > Turnover	19	-	18
+08:23	Player Movement > Sub Out > Home Player > Capriest Gardner
+08:23	Player Movement > Sub In > Home Player > Calvin Schmitz
+08:10	Turnover > Any Type > Max Hisatake
+08:10	Personal Foul > Defensive - Any > Max Hisatake
+MBI	1	07:48	23 Jacob Kim > Spot-Up > Drives Right > Turnover	19	-	18
+07:48	Turnover > Any Type > Jacob Kim
+07:47	Misc Stat > Steal > Jake Digiorgio
+IIT	1	07:41	21 Jake Digiorgio > Transition > First Middle > Turnover	19	-	18
+07:41	Time Event > Full Time Out > Away Team
+07:41	Misc Stat > Steal > Jonah Wilson
+07:41	Turnover > Any Type > Jake Digiorgio
+MBI	1	07:41	2 Keynan Carter > Off Screen > To Shooter's Right > Straight > Turnover	19	-	18
+07:41	Player Movement > Sub Out > Away Player > Jonah Wilson
+07:41	Player Movement > Sub Out > Away Player > Jacob Kim
+07:41	Player Movement > Sub Out > Home Player > Max Hisatake
+07:41	Player Movement > Sub In > Away Player > Joseph Shidler
+07:41	Player Movement > Sub In > Home Player > Kohl Linder
+07:41	Player Movement > Sub In > Away Player > Keynan Carter
+07:25	Turnover > Any Type > Keynan Carter
+IIT	1	06:59	13 Calvin Schmitz > Non Possession > Non Shooting Foul	19	-	18
+06:59	Personal Foul > Defensive - Any > Joseph Shidler
+IIT	1	06:57	21 Jake Digiorgio > Cut > Basket > Miss 2 Pts	19	-	18
+06:57	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:57	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	06:54	35 Kohl Linder > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Make 2 Pts	19	-	20
+06:54	Shot > Kohl Linder > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	1	06:43	22 David Arabis > No Play Type > Turnover	19	-	20
+06:43	Turnover > Any Type > David Arabis
+06:43	Personal Foul > Defensive - Any > David Arabis
+IIT	1	06:31	10 Jake Bruns > Hand Off > From Dribble > Top > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	19	-	20
+06:31	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+06:31	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	06:20	35 Kohl Linder > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	19	-	22
+06:20	Shot > Kohl Linder > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	1	06:13	2 Keynan Carter > Spot-Up > Drives Right > Turnover	19	-	22
+06:13	Misc Stat > Steal > Jake Digiorgio
+06:13	Turnover > Any Type > Keynan Carter
+IIT	1	06:04	21 Jake Digiorgio > Cut > Flash > Make 2 Pts	19	-	24
+06:04	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+06:04	Misc Stat > Assist > Jake Bruns
+05:56	Player Movement > Sub Out > Home Player > Jake Bruns
+05:56	Player Movement > Sub In > Home Player > Brett Ott
+MBI	1	05:52	5 Levi Miller > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	22	-	24
+05:52	Shot > Levi Miller > Any Type > 3 Point Attempt > Make 3 Pts
+05:52	Misc Stat > Assist > David Arabis
+IIT	1	05:41	32 Parker Joncus > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	22	-	27
+05:41	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+05:41	Misc Stat > Assist > Brett Ott
+MBI	1	05:12	22 David Arabis > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	25	-	27
+05:12	Shot > David Arabis > Any Type > 3 Point Attempt > Make 3 Pts
+05:12	Misc Stat > Assist > Keynan Carter
+IIT	1	04:53	20 Brett Ott > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	25	-	27
+04:53	Shot > Brett Ott > Any Type > 3 Point Attempt > Miss 3 Pts
+04:53	Misc Stat > Team Defensive Rebound > Away
+MBI	1	04:48	22 David Arabis > No Play Type > Turnover	25	-	27
+04:48	Player Movement > Sub In > Home Player > Jake Bruns
+04:48	Player Movement > Sub Out > Home Player > Calvin Schmitz
+04:48	Player Movement > Sub Out > Home Player > Kohl Linder
+04:48	Player Movement > Sub In > Home Player > Capriest Gardner
+04:43	Turnover > Any Type > David Arabis
+04:42	Misc Stat > Steal > Parker Joncus
+04:40	Player Movement > Sub In > Away Player > Jonah Wilson
+04:40	Player Movement > Sub Out > Away Player > David Arabis
+IIT	1	04:25	20 Brett Ott > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	25	-	30
+04:25	Shot > Brett Ott > Any Type > 3 Point Attempt > Make 3 Pts
+04:25	Misc Stat > Assist > Jake Bruns
+MBI	1	04:02	2 Keynan Carter > ISO > Top > Drives Left > Defense Commits 
+04:02	Shot > Joseph Shidler > Any Type > 2 Point Attempt > Miss 2 Pts
+04:02	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	03:42	20 Brett Ott > Spot-Up > Drives Left > To Basket > Miss 2 Pts	25	-	30
+03:42	Shot > Brett Ott > Any Type > 2 Point Attempt > Miss 2 Pts
+03:42	Misc Stat > Defensive Rebound > Joshua Wedeven
+03:41	Personal Foul > Defensive - Any > Jake Digiorgio
+03:41	Player Movement > Sub Out > Home Player > Brett Ott
+03:41	Player Movement > Sub In > Home Player > Calvin Schmitz
+MBI	1	03:27	11 Jonah Wilson > Spot-Up > Drives Left > To Basket > Miss 2 Pts	25	-	30
+03:27	Shot > Jonah Wilson > Any Type > 2 Point Attempt > Miss 2 Pts
+03:27	Misc Stat > Block > Jake Digiorgio
+MBI	1	03:25	33 Joshua Wedeven > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	25	-	30
+03:25	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Miss 2 Pts
+03:25	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	03:16	15 Capriest Gardner > Transition > First Middle > Turnover	25	-	30
+03:16	Turnover > Any Type > Capriest Gardner
+03:14	Misc Stat > Steal > Levi Miller
+MBI	1	03:11	12 Joseph Shidler > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	25	-	30
+03:11	Shot > Joseph Shidler > Any Type > 3 Point Attempt > Miss 3 Pts
+MBI	1	03:11	33 Joshua Wedeven > Offensive Rebound > Short > Run Offense	25	-	30
+03:11	Misc Stat > Offensive Rebound > Joshua Wedeven
+03:06	Personal Foul > Defensive - Any > Parker Joncus
+MBI	1	03:06	12 Joseph Shidler > No Play Type > Turnover	25	-	30
+03:06	Misc Stat > Steal > Capriest Gardner
+03:06	Turnover > Any Type > Joseph Shidler
+IIT	1	03:06	15 Capriest Gardner > Transition > Ballhandler > To Basket > Miss 2 Pts	25	-	30
+03:06	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	03:06	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	25	-	30
+03:06	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+03:06	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	03:06	32 Parker Joncus > Offensive Rebound > Short > Run Offense	25	-	30
+03:06	Misc Stat > Offensive Rebound > Parker Joncus
+03:04	Personal Foul > Defensive - Any > Joseph Shidler
+IIT	1	02:53	21 Jake Digiorgio > Cut > Basket > Miss 2 Pts	25	-	30
+02:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:53	Misc Stat > Defensive Rebound > Jonah Wilson
+02:53	Misc Stat > Block > Keynan Carter
+MBI	1	02:44	5 Levi Miller > Spot-Up > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	25	-	30
+02:44	Shot > Levi Miller > Any Type > 2 Point Attempt > Miss 2 Pts
+02:44	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	02:19	21 Jake Digiorgio > Post-Up > Right Block > Defense Commits 
+02:19	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+02:19	Misc Stat > Assist > Jake Digiorgio
+MBI	1	02:04	2 Keynan Carter > Off Screen > To Shooter's Left > Straight > To Basket > Make 2 Pts	27	-	32
+02:04	Shot > Keynan Carter > Any Type > 2 Point Attempt > Make 2 Pts
+02:04	Misc Stat > Assist > Levi Miller
+IIT	1	01:51	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	27	-	32
+01:51	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	01:51	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	27	-	32
+01:51	Misc Stat > Offensive Rebound > Jake Digiorgio
+01:48	Personal Foul > Defensive - Any > Joshua Wedeven
+IIT	1	01:42	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	27	-	32
+01:42	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	01:42	10 Jake Bruns > Offensive Rebound > Short > Turnover	27	-	32
+01:42	Misc Stat > Offensive Rebound > Jake Bruns
+01:41	Turnover > Any Type > Jake Bruns
+MBI	1	01:22	33 Joshua Wedeven > ISO > Left > Drives Left > Turnover	27	-	32
+01:22	Turnover > Any Type > Joshua Wedeven
+01:21	Misc Stat > Steal > Calvin Schmitz
+IIT	1	01:16	10 Jake Bruns > Transition > Left Wing > Turnover	27	-	32
+01:16	Turnover > Any Type > Jake Bruns
+01:15	Misc Stat > Steal > Jonah Wilson
+MBI	1	00:53	2 Keynan Carter > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	27	-	32
+00:53	Shot > Keynan Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+00:53	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	00:39	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:39	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+00:39	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	00:35	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	27	-	32
+00:35	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+00:35	Misc Stat > Defensive Rebound > Levi Miller
+MBI	1	00:09	33 Joshua Wedeven > ISO > Top > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	27	-	32
+00:09	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Miss 2 Pts
+00:09	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	00:00	10 Jake Bruns > Transition > Ballhandler > To Basket > Make 2 Pts	27	-	34
+00:00	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	19:45	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	27	-	34
+19:45	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	19:45	22 Max Hisatake > Offensive Rebound > Short > Run Offense	27	-	34
+19:45	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	19:23	10 Jake Bruns > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	27	-	34
+19:23	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	19:23	32 Parker Joncus > Offensive Rebound > Long > Run Offense	27	-	34
+19:23	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	2	19:10	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > Dribble Move > To Basket > Foul	27	-	34
+19:10	Personal Foul > Defensive - Any > Jonah Wilson
+IIT	2	19:10	22 Max Hisatake > Non Possession > Free Throw	27	-	35
+19:10	Shot > Max Hisatake > Free Throw > Made
+IIT	2	19:10	22 Max Hisatake > Non Possession > Free Throw	27	-	36
+19:10	Shot > Max Hisatake > Free Throw > Made
+MBI	2	18:48	2 Keynan Carter > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits > Turnover	27	-	36
+18:48	Turnover > Any Type > Keynan Carter
+18:47	Misc Stat > Steal > Jake Digiorgio
+IIT	2	18:43	21 Jake Digiorgio > Transition > Ballhandler > To Basket > Make 2 Pts	27	-	38
+18:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	2	18:29	11 Jonah Wilson > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	27	-	38
+18:29	Shot > Jonah Wilson > Any Type > 3 Point Attempt > Miss 3 Pts
+18:29	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	18:07	21 Jake Digiorgio > Non Possession > Non Shooting Foul	27	-	38
+18:07	Personal Foul > Defensive - Any > David Arabis
+IIT	2	18:05	22 Max Hisatake > Cut > Basket > Make 2 Pts	27	-	40
+18:05	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+18:05	Misc Stat > Assist > Parker Joncus
+MBI	2	17:46	22 David Arabis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+17:46	Shot > Levi Miller > Any Type > 3 Point Attempt > Make 3 Pts
+17:46	Misc Stat > Assist > David Arabis
+IIT	2	17:17	22 Max Hisatake > Cut > Flash > Miss 2 Pts	30	-	40
+17:17	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	17:17	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	30	-	40
+17:17	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	17:15	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	30	-	43
+17:15	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Make 3 Pts
+17:15	Misc Stat > Assist > Jake Digiorgio
+MBI	2	17:00	22 David Arabis > No Play Type > Turnover	30	-	43
+17:00	Misc Stat > Steal > Parker Joncus
+IIT	2	16:45	10 Jake Bruns > Transition > Right Wing > Dribble Jumper > Short to < 17' > Miss 2 Pts	30	-	43
+16:45	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+16:45	Misc Stat > Offensive Rebound > Calvin Schmitz
+IIT	2	16:43	13 Calvin Schmitz > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	30	-	45
+16:43	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	2	16:20	22 David Arabis > No Play Type > Turnover	30	-	45
+16:20	Misc Stat > Steal > Calvin Schmitz
+16:20	Turnover > Any Type > David Arabis
+IIT	2	16:15	22 Max Hisatake > Transition > Leak Outs > To Basket > Make 2 Pts	30	-	47
+16:15	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+16:15	Misc Stat > Assist > Calvin Schmitz
+MBI	2	16:04	2 Keynan Carter > Hand Off > From Dribble > Top > To Basket > Make 2 Pts	32	-	47
+16:04	Shot > Keynan Carter > Any Type > 2 Point Attempt > Make 2 Pts
+16:04	Time Event > Full Time Out > Away Team
+IIT	2	16:04	21 Jake Digiorgio > No Play Type > Turnover	32	-	47
+16:04	Player Movement > Sub Out > Home Player > Jake Bruns
+16:04	Player Movement > Sub In > Home Player > Jason Morris
+15:57	Turnover > Any Type > Jake Digiorgio
+15:56	Misc Stat > Steal > Keynan Carter
+MBI	2	15:52	2 Keynan Carter > Transition > Ballhandler > To Basket > Make 2 Pts	34	-	47
+15:52	Shot > Keynan Carter > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	15:25	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Hook > Make 2 Pts	34	-	49
+15:25	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+15:25	Misc Stat > Assist > Jason Morris
+MBI	2	15:08	22 David Arabis > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	34	-	49
+15:08	Shot > David Arabis > Any Type > 3 Point Attempt > Miss 3 Pts
+MBI	2	15:08	22 David Arabis > Offensive Rebound > Short > Run Offense	34	-	49
+15:08	Misc Stat > Offensive Rebound > David Arabis
+15:04	Player Movement > Sub Out > Home Player > Jake Digiorgio
+15:04	Player Movement > Sub In > Home Player > Kohl Linder
+MBI	2	14:59	33 Joshua Wedeven > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	34	-	49
+14:59	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Miss 2 Pts
+14:59	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	14:38	11 Jason Morris > No Play Type > Turnover	34	-	49
+14:38	Turnover > Any Type > Jason Morris
+MBI	2	14:30	5 Levi Miller > Hand Off > From Dribble > Right > To Basket > Foul	34	-	49
+14:30	Personal Foul > Defensive - Any > Calvin Schmitz
+MBI	2	14:30	5 Levi Miller > Non Possession > Free Throw	35	-	49
+14:30	Shot > Levi Miller > Free Throw > Made
+MBI	2	14:30	5 Levi Miller > Non Possession > Free Throw	36	-	49
+14:30	Shot > Levi Miller > Free Throw > Made
+IIT	2	14:09	22 Max Hisatake > Cut > Screen > Miss 2 Pts	36	-	49
+14:09	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+14:09	Personal Foul > Defensive - Any > Kohl Linder
+14:09	Misc Stat > Team Defensive Rebound > Away
+14:09	Player Movement > Sub In > Home Player > Jake Bruns
+14:09	Player Movement > Sub Out > Home Player > Max Hisatake
+14:09	Player Movement > Sub Out > Home Player > Calvin Schmitz
+14:09	Player Movement > Sub In > Home Player > Capriest Gardner
+MBI	2	13:58	22 David Arabis > ISO > Top > Drives Left > To Basket > Miss 2 Pts	36	-	49
+13:58	Shot > David Arabis > Any Type > 2 Point Attempt > Miss 2 Pts
+13:58	Misc Stat > Block > Capriest Gardner
+IIT	2	13:28	15 Capriest Gardner > ISO > Right > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	36	-	49
+13:28	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:28	Misc Stat > Defensive Rebound > Levi Miller
+MBI	2	13:16	5 Levi Miller > Hand Off > From Dribble > Top > Turnover	36	-	49
+13:16	Turnover > Any Type > Levi Miller
+13:14	Misc Stat > Steal > Kohl Linder
+IIT	2	12:52	35 Kohl Linder > Cut > Screen > Foul	36	-	49
+12:52	Personal Foul > Defensive - Any > Jonah Wilson
+IIT	2	12:52	35 Kohl Linder > Non Possession > Free Throw	36	-	50
+12:52	Shot > Kohl Linder > Free Throw > Made
+IIT	2	12:52	35 Kohl Linder > Non Possession > Free Throw	36	-	51
+12:51	Shot > Kohl Linder > Free Throw > Made
+12:51	Player Movement > Sub In > Home Player > Calvin Schmitz
+12:51	Player Movement > Sub In > Home Player > Jake Digiorgio
+12:51	Player Movement > Sub Out > Home Player > Parker Joncus
+12:51	Player Movement > Sub Out > Home Player > Kohl Linder
+MBI	2	12:24	5 Levi Miller > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	36	-	51
+12:24	Shot > Levi Miller > Any Type > 3 Point Attempt > Miss 3 Pts
+12:24	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	12:14	10 Jake Bruns > Transition > Left Wing > To Basket > Make 2 Pts	36	-	53
+12:14	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+12:14	Misc Stat > Assist > Capriest Gardner
+MBI	2	11:56	33 Joshua Wedeven > Non Possession > Non Shooting Foul	36	-	53
+11:56	Personal Foul > Defensive - Any > Jake Bruns
+11:56	Player Movement > Sub In > Home Player > Max Hisatake
+11:56	Player Movement > Sub Out > Home Player > Jason Morris
+MBI	2	11:43	5 Levi Miller > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	39	-	53
+11:43	Shot > Levi Miller > Any Type > 3 Point Attempt > Make 3 Pts
+11:43	Misc Stat > Assist > David Arabis
+IIT	2	11:13	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	39	-	53
+11:13	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+11:13	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	11:09	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	39	-	53
+11:09	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+11:09	Misc Stat > Block > Keynan Carter
+11:08	Misc Stat > Defensive Rebound > Keynan Carter
+MBI	2	10:59	5 Levi Miller > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	42	-	53
+10:59	Shot > Levi Miller > Any Type > 3 Point Attempt > Make 3 Pts
+10:59	Misc Stat > Assist > David Arabis
+IIT	2	10:39	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	42	-	56
+10:39	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+10:39	Misc Stat > Assist > Capriest Gardner
+MBI	2	10:13	22 David Arabis > Hand Off > From Dribble > Top > To Basket > Miss 2 Pts	42	-	56
+10:13	Shot > David Arabis > Any Type > 2 Point Attempt > Miss 2 Pts
+10:13	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	09:51	21 Jake Digiorgio > Cut > Flash > Miss 2 Pts	42	-	56
+09:51	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+09:51	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	09:48	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	42	-	56
+09:48	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+09:48	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	09:45	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	42	-	58
+09:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	2	09:20	33 Joshua Wedeven > ISO > Top > Drives Right > To Basket > Foul	42	-	58
+09:20	Personal Foul > Defensive - Any > Capriest Gardner
+MBI	2	09:20	33 Joshua Wedeven > Non Possession > Free Throw	42	-	58
+09:20	Shot > Joshua Wedeven > Free Throw > Missed
+09:20	TEAM deadball rebound
+MBI	2	09:20	33 Joshua Wedeven > Non Possession > Free Throw	43	-	58
+09:20	Shot > Joshua Wedeven > Free Throw > Made
+09:20	Player Movement > Sub In > Home Player > Parker Joncus
+09:20	Player Movement > Sub Out > Home Player > Calvin Schmitz
+09:20	Player Movement > Sub Out > Away Player > Keynan Carter
+09:20	Player Movement > Sub Out > Home Player > Capriest Gardner
+09:20	Player Movement > Sub In > Away Player > Jacob Kim
+09:20	Player Movement > Sub In > Home Player > Brett Ott
+IIT	2	09:02	20 Brett Ott > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	43	-	61
+09:02	Shot > Brett Ott > Any Type > 3 Point Attempt > Make 3 Pts
+09:02	Misc Stat > Assist > Jake Digiorgio
+MBI	2	08:44	33 Joshua Wedeven > Hand Off > From Dribble > Top > To Basket > Foul	43	-	61
+08:44	Personal Foul > Defensive - Any > Max Hisatake
+08:44	Technical Foul > Technical Foul - Any > Home Team Player > Max Hisatake
+08:44	Personal Foul > Defensive - Any > Parker Joncus
+MBI	2	08:44	5 Levi Miller > Non Possession > Free Throw	44	-	61
+08:44	Shot > Levi Miller > Free Throw > Made
+MBI	2	08:44	5 Levi Miller > Non Possession > Free Throw	45	-	61
+08:44	Shot > Levi Miller > Free Throw > Made
+MBI	2	08:44	33 Joshua Wedeven > Non Possession > Free Throw	46	-	61
+08:44	Shot > Joshua Wedeven > Free Throw > Made
+MBI	2	08:44	33 Joshua Wedeven > Non Possession > Free Throw	47	-	61
+08:44	Shot > Joshua Wedeven > Free Throw > Made
+08:44	Player Movement > Sub In > Home Player > Kohl Linder
+08:44	Player Movement > Sub Out > Home Player > Max Hisatake
+IIT	2	08:32	20 Brett Ott > No Play Type > Turnover	47	-	61
+08:32	Turnover > Any Type > Brett Ott
+MBI	2	08:05	5 Levi Miller > Cut > Basket > Miss 2 Pts	47	-	61
+08:05	Shot > Levi Miller > Any Type > 2 Point Attempt > Miss 2 Pts
+08:05	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	07:42	32 Parker Joncus > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+07:42	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+07:42	Misc Stat > Defensive Rebound > David Arabis
+MBI	2	07:17	22 David Arabis > ISO > Top > Drives Left > Foul	47	-	61
+07:17	Personal Foul > Defensive - Any > Brett Ott
+MBI	2	07:17	22 David Arabis > Non Possession > Free Throw	47	-	61
+07:17	Shot > David Arabis > Free Throw > Missed
+07:17	Player Movement > Sub In > Away Player > Joseph Shidler
+07:17	Player Movement > Sub Out > Home Player > Kohl Linder
+07:17	Misc Stat > Defensive Rebound > Jake Digiorgio
+07:17	Player Movement > Sub In > Home Player > Max Hisatake
+07:17	Player Movement > Sub Out > Away Player > Levi Miller
+IIT	2	06:59	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	47	-	61
+06:59	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+06:59	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	06:49	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	47	-	61
+06:49	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+06:49	Misc Stat > Defensive Rebound > Joshua Wedeven
+MBI	2	06:38	22 David Arabis > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+06:38	Shot > Jonah Wilson > Any Type > 2 Point Attempt > Miss 2 Pts
+06:38	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	06:31	13 Calvin Schmitz > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	47	-	61
+06:31	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+06:31	Misc Stat > Defensive Rebound > Joshua Wedeven
+MBI	2	06:04	22 David Arabis > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits 
+06:04	Shot > Jacob Kim > Any Type > 2 Point Attempt > Miss 2 Pts
+06:04	Misc Stat > Block > Calvin Schmitz
+06:02	Misc Stat > Defensive Rebound > Jake Bruns
+05:54	Player Movement > Sub Out > Home Player > Brett Ott
+05:54	Player Movement > Sub In > Home Player > Calvin Schmitz
+IIT	2	05:43	22 Max Hisatake > Post-Up > Left Block > Defense Commits 
+05:43	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+05:43	Misc Stat > Assist > Max Hisatake
+MBI	2	05:29	33 Joshua Wedeven > Hand Off > From Dribble > Top > To Basket > Make 2 Pts	49	-	64
+05:29	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	05:08	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > No Dribble Move > To Hook > Miss 2 Pts	49	-	64
+05:08	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+05:08	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	05:05	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	49	-	66
+05:05	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+MBI	2	04:52	22 David Arabis > ISO > Top > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	49	-	66
+04:52	Shot > David Arabis > Any Type > 2 Point Attempt > Miss 2 Pts
+04:52	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	04:46	32 Parker Joncus > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	49	-	66
+04:46	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+04:46	Misc Stat > Defensive Rebound > Joshua Wedeven
+MBI	2	04:37	12 Joseph Shidler > Transition > Right Wing > Dribble Jumper > Long/3pt > Miss 3 Pts	49	-	66
+04:37	Shot > Joseph Shidler > Any Type > 3 Point Attempt > Miss 3 Pts
+04:37	Misc Stat > Team Defensive Rebound > Home
+04:35	Player Movement > Sub Out > Away Player > Jonah Wilson
+04:35	Player Movement > Sub In > Away Player > Levi Miller
+IIT	2	04:09	10 Jake Bruns > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	49	-	66
+04:09	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+04:09	Misc Stat > Defensive Rebound > David Arabis
+MBI	2	04:03	22 David Arabis > No Play Type > Turnover	49	-	66
+04:03	Turnover > Any Type > David Arabis
+04:02	Misc Stat > Steal > Calvin Schmitz
+IIT	2	03:43	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	49	-	66
+03:43	Misc Stat > Defensive Rebound > David Arabis
+MBI	2	03:24	33 Joshua Wedeven > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	51	-	66
+03:24	Shot > Joshua Wedeven > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:58	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	51	-	66
+02:58	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+02:58	Misc Stat > Defensive Rebound > David Arabis
+MBI	2	02:49	33 Joshua Wedeven > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	51	-	66
+02:49	Shot > Joshua Wedeven > Any Type > 3 Point Attempt > Miss 3 Pts
+MBI	2	02:49	23 Jacob Kim > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	51	-	66
+02:49	Misc Stat > Offensive Rebound > Jacob Kim
+02:45	Personal Foul > Defensive - Any > Jake Digiorgio
+MBI	2	02:45	23 Jacob Kim > Non Possession > Free Throw	51	-	66
+02:45	Shot > Jacob Kim > Free Throw > Missed
+02:45	TEAM deadball rebound
+MBI	2	02:45	23 Jacob Kim > Non Possession > Free Throw	51	-	66
+02:45	Shot > Jacob Kim > Free Throw > Missed
+02:45	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	02:26	21 Jake Digiorgio > Cut > Basket > Miss 2 Pts	51	-	66
+02:26	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:26	Misc Stat > Defensive Rebound > Joshua Wedeven
+MBI	2	02:20	5 Levi Miller > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	51	-	66
+02:20	Shot > Levi Miller > Any Type > 3 Point Attempt > Miss 3 Pts
+02:20	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	01:56	13 Calvin Schmitz > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	51	-	66
+01:56	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+01:56	Misc Stat > Defensive Rebound > Joshua Wedeven
+MBI	2	01:34	33 Joshua Wedeven > ISO > Top > Drives Left > Defense Commits 
+01:34	Shot > Jacob Kim > Any Type > 3 Point Attempt > Miss 3 Pts
+01:34	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	01:06	21 Jake Digiorgio > No Play Type > Turnover	51	-	66
+01:06	Turnover > Any Type > Jake Digiorgio
+01:06	Player Movement > Sub Out > Away Player > Jacob Kim
+01:06	Player Movement > Sub Out > Home Player > Max Hisatake
+01:06	Player Movement > Sub In > Away Player > Jeremiah Ransom
+01:06	Player Movement > Sub In > Home Player > Kohl Linder
+01:06	Player Movement > Sub Out > Home Player > Jake Digiorgio
+01:06	Player Movement > Sub In > Home Player > Brinden Carlson
+01:06	Player Movement > Sub Out > Home Player > Jake Bruns
+MBI	2	00:48	12 Joseph Shidler > ISO > Right > Drives Left > To Basket > Miss 2 Pts	51	-	66
+00:48	Shot > Joseph Shidler > Any Type > 2 Point Attempt > Miss 2 Pts
+00:48	Misc Stat > Offensive Rebound > Joseph Shidler
+MBI	2	00:46	12 Joseph Shidler > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	51	-	66
+00:46	Shot > Joseph Shidler > Any Type > 2 Point Attempt > Miss 2 Pts
+00:46	Misc Stat > Defensive Rebound > Kohl Linder

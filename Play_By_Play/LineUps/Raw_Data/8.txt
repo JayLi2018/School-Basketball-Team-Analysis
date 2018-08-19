@@ -1,0 +1,521 @@
+IIT	1	19:44	22 Max Hisatake > Post-Up > Left Block > Face-up > Drive Baseline > Miss 2 Pts			
+19:44	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+19:44	Misc Stat > Defensive Rebound > Harrison Hallstrom
+WAB	1	19:29	33 Harrison Hallstrom > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	2	-	0
+19:29	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	19:17	32 Parker Joncus > ISO > Right > Early Jumper > Medium/17' to <3p > Make 2 Pts	2	-	2
+19:17	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	18:52	32 Logan White > No Play Type > Turnover	2	-	2
+18:52	Turnover > Any Type > Logan White
+IIT	1	18:39	32 Parker Joncus > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	2	-	2
+18:39	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+18:39	Misc Stat > Defensive Rebound > Logan White
+WAB	1	18:24	3 Jack Davidson > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+18:24	Turnover > Any Type > Alex Eberhard
+IIT	1	18:15	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	2	-	2
+18:15	Misc Stat > Defensive Rebound > Harrison Hallstrom
+WAB	1	17:55	3 Jack Davidson > Hand Off > From Dribble > Left > To Basket > Make 2 Pts	4	-	2
+17:55	Shot > Jack Davidson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	17:35	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+17:35	Turnover > Any Type > Malik Howze
+17:34	Misc Stat > Steal > Colten Garland
+WAB	1	17:24	3 Jack Davidson > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	4	-	2
+17:24	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+17:24	Misc Stat > Defensive Rebound > Malik Howze
+WAB	1	16:31	12 Colten Garland > Hand Off > From Dribble > Right > Dribble Jumper > Short to < 17' > Make 2 Pts	6	-	4
+16:31	Shot > Colten Garland > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	16:05	2 Anthony Mosley > ISO > Right > Drives Left > Dribble Jumper > Medium/17' to <3p > Foul	6	-	4
+16:05	Personal Foul > Defensive - Any > Jack Davidson
+WAB	1	15:44	12 Colten Garland > Hand Off > From Dribble > Right > Dribble Jumper > Long/3pt > Miss 3 Pts	6	-	6
+15:44	Shot > Colten Garland > Any Type > 3 Point Attempt > Miss 3 Pts
+15:44	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	15:35	3 Malik Howze > Transition > Ballhandler > To Basket > Miss 2 Pts	6	-	6
+15:35	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+15:35	Misc Stat > Defensive Rebound > Alex Eberhard
+15:33	Personal Foul > Defensive - Any > Jake Digiorgio
+WAB	1	15:27	3 Jack Davidson > P&R Ball Handler > High P&R > Dribble Off Pick > Turnover	6	-	6
+15:27	Player Movement > Sub Out > Away Player > Jack Davidson
+15:27	Player Movement > Sub In > Away Player > Connor Rotterman
+15:27	Personal Foul > Defensive - Any > Jack Davidson
+IIT	1	15:13	3 Malik Howze > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	6	-	6
+15:13	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+15:13	Misc Stat > Defensive Rebound > Logan White
+WAB	1	15:05	0 Connor Rotterman > Transition > Ballhandler > Turnover	6	-	6
+15:05	Turnover > Any Type > Connor Rotterman
+15:04	Misc Stat > Steal > Parker Joncus
+IIT	1	14:53	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	6	-	6
+14:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+14:53	Misc Stat > Defensive Rebound > Logan White
+WAB	1	14:42	32 Logan White > No Play Type > Turnover	6	-	6
+14:42	Player Movement > Sub In > Away Player > Max Kurkowski
+14:42	Player Movement > Sub In > Home Player > Kohl Linder
+14:42	Personal Foul > Defensive - Any > Logan White
+14:42	Player Movement > Sub In > Home Player > Jake Bruns
+14:42	Player Movement > Sub Out > Home Player > Jake Digiorgio
+14:42	Player Movement > Sub Out > Away Player > Logan White
+14:42	Player Movement > Sub Out > Home Player > Malik Howze
+IIT	1	14:33	32 Parker Joncus > Cut > Screen > Make 2 Pts	6	-	8
+14:33	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+14:33	Misc Stat > Assist > Max Hisatake
+WAB	1	14:17	41 Alex Eberhard > Hand Off > From Dribble > Left > To Basket > Make 2 Pts	8	-	8
+14:17	Shot > Alex Eberhard > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	13:56	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts	8	-	10
+13:56	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+13:56	Misc Stat > Assist > Kohl Linder
+WAB	1	13:43	12 Colten Garland > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Long/3pt > Make 3 Pts	11	-	10
+13:43	Shot > Colten Garland > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	13:32	22 Max Hisatake > Transition > First Middle > Turnover	11	-	10
+13:32	Turnover > Any Type > Max Hisatake
+WAB	1	13:19	0 Connor Rotterman > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	13	-	10
+13:19	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	12:55	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+12:55	Personal Foul > Defensive - Any > Max Kurkowski
+IIT	1	12:55	22 Max Hisatake > Non Possession > Free Throw	13	-	11
+12:55	Shot > Max Hisatake > Free Throw > Made
+IIT	1	12:55	22 Max Hisatake > Non Possession > Free Throw	13	-	12
+12:55	Shot > Max Hisatake > Free Throw > Made
+12:55	Player Movement > Sub In > Home Player > Calvin Schmitz
+12:55	Player Movement > Sub In > Away Player > Rhett Helt
+12:55	Player Movement > Sub Out > Away Player > Alex Eberhard
+12:55	Player Movement > Sub In > Away Player > Dalton Vachon
+12:55	Player Movement > Sub Out > Away Player > Harrison Hallstrom
+12:55	Player Movement > Sub In > Away Player > Duncan Roy
+12:55	Player Movement > Sub Out > Home Player > Parker Joncus
+12:55	Player Movement > Sub Out > Away Player > Max Kurkowski
+WAB	1	12:45	0 Connor Rotterman > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	13	-	12
+12:45	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Miss 2 Pts
+12:45	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	12:27	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:27	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+12:27	Misc Stat > Team Offensive Rebound > Home
+12:27	Player Movement > Sub In > Home Player > Malik Howze
+IIT	1	12:25	3 Malik Howze > No Play Type > Turnover	13	-	12
+12:25	Turnover > Any Type > Malik Howze
+12:24	Misc Stat > Steal > Duncan Roy
+WAB	1	12:00	0 Connor Rotterman > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+12:00	Shot > Rhett Helt > Any Type > 3 Point Attempt > Miss 3 Pts
+12:00	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	11:24	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:24	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+11:24	Misc Stat > Defensive Rebound > Connor Rotterman
+WAB	1	11:10	12 Colten Garland > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	13	-	12
+11:10	Shot > Colten Garland > Any Type > 2 Point Attempt > Miss 2 Pts
+11:10	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	11:00	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	13	-	14
+11:00	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	10:32	0 Connor Rotterman > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	15	-	14
+10:32	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:26	3 Malik Howze > Transition > Ballhandler > Turnover	15	-	14
+10:26	Turnover > Any Type > Malik Howze
+10:25	Misc Stat > Steal > Rhett Helt
+WAB	1	10:19	0 Connor Rotterman > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	18	-	14
+10:19	Shot > Connor Rotterman > Any Type > 3 Point Attempt > Make 3 Pts
+10:19	Misc Stat > Assist > Colten Garland
+10:15	Time Event > Full Time Out > Home Team
+IIT	1	10:03	3 Malik Howze > ISO > Right > Early Jumper > Medium/17' to <3p > Make 2 Pts	18	-	16
+10:03	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	09:40	12 Colten Garland > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	18	-	16
+09:40	Turnover > Any Type > Colten Garland
+09:39	Misc Stat > Steal > Jake Digiorgio
+IIT	1	09:21	3 Malik Howze > ISO > Right > Drives Right > To Basket > Miss 2 Pts	18	-	16
+09:21	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+09:21	Misc Stat > Defensive Rebound > Duncan Roy
+WAB	1	09:15	34 Dalton Vachon > Non Possession > Non Shooting Foul	18	-	16
+09:15	Player Movement > Sub Out > Away Player > Dalton Vachon
+09:15	Personal Foul > Defensive - Any > Kohl Linder
+09:15	Player Movement > Sub Out > Home Player > Kohl Linder
+09:15	Player Movement > Sub Out > Away Player > Duncan Roy
+09:15	Player Movement > Sub Out > Home Player > Quentin Forberg
+09:15	Player Movement > Sub In > Away Player > Logan White
+09:15	Player Movement > Sub In > Home Player > Max Hisatake
+09:15	Player Movement > Sub In > Away Player > Harrison Hallstrom
+WAB	1	08:55	0 Connor Rotterman > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > To Basket > Foul	18	-	16
+08:55	Personal Foul > Defensive - Any > Max Hisatake
+WAB	1	08:55	0 Connor Rotterman > Non Possession > Free Throw	19	-	16
+08:55	Shot > Connor Rotterman > Free Throw > Made
+08:55	Player Movement > Sub Out > Away Player > Rhett Helt
+08:55	Player Movement > Sub In > Away Player > Alex Eberhard
+08:55	Player Movement > Sub Out > Home Player > Calvin Schmitz
+08:55	Player Movement > Sub In > Home Player > Parker Joncus
+WAB	1	08:55	0 Connor Rotterman > Non Possession > Free Throw	19	-	16
+08:55	Shot > Connor Rotterman > Free Throw > Missed
+08:55	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	08:50	22 Max Hisatake > Non Possession > Non Shooting Foul	19	-	16
+08:50	Player Movement > Sub Out > Away Player > Logan White
+08:50	Player Movement > Sub In > Away Player > Max Kurkowski
+08:50	Personal Foul > Defensive - Any > Logan White
+IIT	1	08:37	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Basket > Make 2 Pts	19	-	18
+08:37	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+08:37	Misc Stat > Assist > Malik Howze
+WAB	1	08:16	33 Harrison Hallstrom > Post-Up > Left Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	19	-	18
+08:16	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Miss 2 Pts
+08:16	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	07:48	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	19	-	18
+07:48	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	07:48	3 Malik Howze > Offensive Rebound > Short > Run Offense	19	-	18
+07:48	Misc Stat > Offensive Rebound > Malik Howze
+IIT	1	07:40	22 Max Hisatake > No Play Type > Turnover	19	-	18
+07:40	Turnover > Any Type > Max Hisatake
+WAB	1	07:27	12 Colten Garland > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+07:27	Shot > Alex Eberhard > Any Type > 3 Point Attempt > Make 3 Pts
+07:27	Misc Stat > Assist > Harrison Hallstrom
+IIT	1	06:52	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Drive Baseline > Make 2 Pts	22	-	20
+06:52	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	06:33	12 Colten Garland > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+06:33	Shot > Alex Eberhard > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:11	32 Parker Joncus > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	24	-	23
+06:11	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+06:11	Misc Stat > Assist > Anthony Mosley
+WAB	1	05:49	33 Harrison Hallstrom > Spot-Up > Drives Left > Turnover	24	-	23
+05:49	Turnover > Any Type > Harrison Hallstrom
+05:48	Misc Stat > Steal > Malik Howze
+IIT	1	05:42	22 Max Hisatake > Transition > First Middle > To Basket > Miss 2 Pts	24	-	23
+05:42	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+05:42	Misc Stat > Block > Harrison Hallstrom
+05:41	Misc Stat > Defensive Rebound > Connor Rotterman
+WAB	1	05:36	41 Alex Eberhard > Transition > Left Wing > Dribble Jumper > Long/3pt > Make 3 Pts	27	-	23
+05:36	Shot > Alex Eberhard > Any Type > 3 Point Attempt > Make 3 Pts
+05:36	Misc Stat > Assist > Harrison Hallstrom
+IIT	1	05:21	2 Anthony Mosley > No Play Type > Turnover	27	-	23
+05:21	Turnover > Any Type > Anthony Mosley
+05:18	Misc Stat > Steal > Harrison Hallstrom
+WAB	1	05:16	0 Connor Rotterman > Transition > First Middle > To Basket > Make 2 Pts	29	-	23
+05:16	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Make 2 Pts
+05:16	Misc Stat > Assist > Harrison Hallstrom
+WAB	1	04:33	12 Colten Garland > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Miss 2 Pts	29	-	25
+04:33	Shot > Colten Garland > Any Type > 2 Point Attempt > Miss 2 Pts
+WAB	1	04:33	31 Max Kurkowski > Offensive Rebound > Short > Run Offense	29	-	25
+04:33	Misc Stat > Offensive Rebound > Max Kurkowski
+WAB	1	04:07	12 Colten Garland > ISO > Right > Drives Right > Defense Commits 
+04:07	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Miss 2 Pts
+04:07	Misc Stat > Block > Max Hisatake
+04:06	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	03:50	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	29	-	25
+03:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+03:50	Misc Stat > Defensive Rebound > Connor Rotterman
+WAB	1	03:31	0 Connor Rotterman > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	29	-	25
+03:31	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Miss 2 Pts
+03:31	Misc Stat > Offensive Rebound > Max Kurkowski
+WAB	1	03:28	31 Max Kurkowski > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	31	-	25
+03:28	Shot > Max Kurkowski > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	03:11	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:11	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+03:11	Misc Stat > Defensive Rebound > Colten Garland
+WAB	1	03:02	31 Max Kurkowski > Spot-Up > Drives Left > Turnover	31	-	25
+03:02	Player Movement > Sub In > Away Player > Dalton Vachon
+03:02	Turnover > Any Type > Max Kurkowski
+03:02	Player Movement > Sub Out > Away Player > Max Kurkowski
+IIT	1	02:47	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+02:47	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:47	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	02:45	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	31	-	25
+02:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:45	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	02:43	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	31	-	25
+02:43	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:43	Misc Stat > Defensive Rebound > Colten Garland
+WAB	1	02:34	12 Colten Garland > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	34	-	25
+02:34	Shot > Colten Garland > Any Type > 3 Point Attempt > Make 3 Pts
+02:34	Misc Stat > Assist > Harrison Hallstrom
+IIT	1	02:17	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+02:17	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+02:17	Misc Stat > Defensive Rebound > Connor Rotterman
+WAB	1	02:09	0 Connor Rotterman > Transition > Ballhandler > Dribble Jumper > Short to < 17' > Miss 2 Pts	34	-	25
+02:09	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Miss 2 Pts
+02:09	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:55	21 Jake Digiorgio > Transition > Trailer > To Basket > Miss 2 Pts	34	-	25
+01:55	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+01:55	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	01:52	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	34	-	27
+01:52	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	01:21	41 Alex Eberhard > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits 
+01:21	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Miss 2 Pts
+01:21	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	01:12	3 Malik Howze > P&R Ball Handler > Right P&R > Baseline > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	34	-	27
+01:12	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+01:12	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	1	00:50	0 Connor Rotterman > ISO > Left > Drives Left > To Basket > Make 2 Pts	36	-	27
+00:50	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	1	00:02	0 Connor Rotterman > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	36	-	29
+00:02	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Miss 2 Pts
+00:02	Misc Stat > Block > Anthony Mosley
+00:01	Misc Stat > Defensive Rebound > Jake Digiorgio
+WAB	2	19:35	33 Harrison Hallstrom > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+19:35	Shot > Colten Garland > Any Type > 2 Point Attempt > Miss 2 Pts
+19:35	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	19:10	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	36	-	29
+19:10	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+19:10	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	2	18:49	33 Harrison Hallstrom > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+18:49	Shot > Alex Eberhard > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	2	18:09	32 Logan White > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	38	-	31
+18:09	Shot > Logan White > Any Type > 2 Point Attempt > Miss 2 Pts
+18:09	Misc Stat > Offensive Rebound > Harrison Hallstrom
+WAB	2	18:07	33 Harrison Hallstrom > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	38	-	31
+18:07	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Miss 2 Pts
+18:07	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	18:00	22 Max Hisatake > Non Possession > Non Shooting Foul	38	-	31
+18:00	Personal Foul > Defensive - Any > Alex Eberhard
+IIT	2	17:54	2 Anthony Mosley > ISO > Right > Early Jumper > Long/3pt > Miss 3 Pts	38	-	31
+17:54	Misc Stat > Defensive Rebound > Harrison Hallstrom
+WAB	2	17:45	3 Jack Davidson > No Play Type > Turnover	38	-	31
+17:45	Turnover > Any Type > Jack Davidson
+17:44	Misc Stat > Steal > Anthony Mosley
+IIT	2	17:44	2 Anthony Mosley > Non Possession > Non Shooting Foul	38	-	31
+17:44	Personal Foul > Defensive - Any > Harrison Hallstrom
+IIT	2	17:34	3 Malik Howze > ISO > Left > Drives Left > To Basket > Make 2 Pts	38	-	33
+17:34	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	2	17:04	3 Jack Davidson > Spot-Up > Drives Left > To Basket > Miss 2 Pts	38	-	33
+17:04	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+17:04	Misc Stat > Block > Anthony Mosley
+17:03	Misc Stat > Offensive Rebound > Alex Eberhard
+WAB	2	17:01	41 Alex Eberhard > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	38	-	33
+17:01	Shot > Alex Eberhard > Any Type > 2 Point Attempt > Miss 2 Pts
+WAB	2	17:01	33 Harrison Hallstrom > Offensive Rebound > Long > Run Offense	38	-	33
+17:01	Misc Stat > Offensive Rebound > Harrison Hallstrom
+WAB	2	16:56	3 Jack Davidson > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	41	-	33
+16:56	Shot > Jack Davidson > Any Type > 3 Point Attempt > Make 3 Pts
+16:56	Misc Stat > Assist > Harrison Hallstrom
+IIT	2	16:38	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts Foul > 1 Pts	41	-	36
+16:38	Personal Foul > Defensive - Any > Harrison Hallstrom
+16:38	Player Movement > Sub Out > Home Player > Parker Joncus
+16:38	Player Movement > Sub In > Home Player > Calvin Schmitz
+WAB	2	16:22	33 Harrison Hallstrom > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	41	-	36
+16:22	Shot > Harrison Hallstrom > Any Type > 2 Point Attempt > Miss 2 Pts
+16:22	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	16:05	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+16:05	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+16:05	Player Movement > Sub In > Away Player > Dalton Vachon
+16:05	Personal Foul > Defensive - Any > Harrison Hallstrom
+16:05	Misc Stat > Assist > Malik Howze
+16:05	Player Movement > Sub Out > Away Player > Harrison Hallstrom
+IIT	2	16:05	21 Jake Digiorgio > Non Possession > Free Throw	41	-	38
+16:05	Shot > Jake Digiorgio > Free Throw > Missed
+16:03	Player Movement > Sub In > Away Player > Max Kurkowski
+16:03	Misc Stat > Defensive Rebound > Logan White
+16:03	Player Movement > Sub Out > Away Player > Dalton Vachon
+WAB	2	15:50	31 Max Kurkowski > Non Possession > Non Shooting Foul	41	-	38
+15:50	Personal Foul > Defensive - Any > Max Hisatake
+WAB	2	15:37	32 Logan White > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	43	-	38
+15:37	Shot > Logan White > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	15:16	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+15:16	Personal Foul > Defensive - Any > Max Kurkowski
+IIT	2	15:16	22 Max Hisatake > Non Possession > Free Throw	43	-	39
+15:16	Shot > Max Hisatake > Free Throw > Made
+IIT	2	15:16	22 Max Hisatake > Non Possession > Free Throw	43	-	40
+15:16	Shot > Max Hisatake > Free Throw > Made
+WAB	2	14:53	32 Logan White > Non Possession > Non Shooting Foul	43	-	40
+14:53	Personal Foul > Defensive - Any > Calvin Schmitz
+14:53	Player Movement > Sub Out > Away Player > Colten Garland
+14:53	Player Movement > Sub In > Away Player > Connor Rotterman
+WAB	2	14:39	3 Jack Davidson > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:39	Shot > Max Kurkowski > Any Type > 2 Point Attempt > Miss 2 Pts
+14:39	Misc Stat > Block > Max Hisatake
+14:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	14:29	3 Malik Howze > ISO > Left > Drives Right > To Basket > Make 2 Pts Foul > 1 Pts	43	-	42
+14:29	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+14:29	Personal Foul > Defensive - Any > Connor Rotterman
+IIT	2	14:29	3 Malik Howze > Non Possession > Free Throw	43	-	43
+14:29	Shot > Malik Howze > Free Throw > Made
+WAB	2	14:14	3 Jack Davidson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	43	-	43
+14:14	Shot > Jack Davidson > Any Type > 3 Point Attempt > Miss 3 Pts
+14:14	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	13:59	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits > Turnover	43	-	43
+13:59	Turnover > Any Type > Anthony Mosley
+13:58	Misc Stat > Steal > Logan White
+WAB	2	13:29	3 Jack Davidson > Spot-Up > Drives Left > To Basket > Make 2 Pts	45	-	43
+13:29	Shot > Jack Davidson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	13:09	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Turnover	45	-	43
+13:09	Player Movement > Sub In > Home Player > Kohl Linder
+13:09	Turnover > Any Type > Anthony Mosley
+13:09	Player Movement > Sub Out > Home Player > Max Hisatake
+WAB	2	12:52	0 Connor Rotterman > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	48	-	43
+12:52	Shot > Connor Rotterman > Any Type > 3 Point Attempt > Make 3 Pts
+12:52	Misc Stat > Assist > Jack Davidson
+WAB	2	12:12	0 Connor Rotterman > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	50	-	46
+12:12	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Make 2 Pts
+WAB	2	11:30	34 Dalton Vachon > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	50	-	48
+11:30	Shot > Dalton Vachon > Any Type > 2 Point Attempt > Miss 2 Pts
+11:30	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	11:20	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	50	-	48
+11:20	Player Movement > Sub Out > Home Player > Jake Digiorgio
+11:20	Player Movement > Sub In > Home Player > Max Hisatake
+WAB	2	10:51	32 Logan White > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	52	-	50
+10:51	Shot > Logan White > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	10:37	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	52	-	50
+10:37	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	2	10:18	32 Logan White > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	52	-	50
+10:18	Shot > Logan White > Any Type > 2 Point Attempt > Miss 2 Pts
+10:18	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	10:06	13 Calvin Schmitz > Spot-Up > Drives Left > Turnover	52	-	50
+10:06	Turnover > Any Type > Calvin Schmitz
+10:05	Misc Stat > Steal > Alex Eberhard
+WAB	2	09:54	3 Jack Davidson > Cut > Flash > Make 2 Pts	54	-	50
+09:54	Shot > Jack Davidson > Any Type > 2 Point Attempt > Make 2 Pts
+09:54	Misc Stat > Assist > Logan White
+IIT	2	09:24	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+09:24	Shot > Quentin Forberg > Any Type > 2 Point Attempt > Miss 2 Pts
+09:24	Misc Stat > Defensive Rebound > Rhett Helt
+WAB	2	09:02	3 Jack Davidson > Non Possession > Non Shooting Foul	54	-	50
+09:02	Personal Foul > Defensive - Any > Kohl Linder
+WAB	2	08:51	3 Jack Davidson > Spot-Up > Drives Right > To Basket > Miss 2 Pts	54	-	50
+08:51	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+WAB	2	08:51	33 Harrison Hallstrom > Offensive Rebound > Short > Run Offense	54	-	50
+08:51	Misc Stat > Offensive Rebound > Harrison Hallstrom
+WAB	2	08:30	0 Connor Rotterman > Spot-Up > Drives Right > Turnover	54	-	50
+08:30	Turnover > Any Type > Connor Rotterman
+08:29	Misc Stat > Steal > Jake Digiorgio
+IIT	2	08:25	3 Malik Howze > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	54	-	53
+08:25	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+08:25	Player Movement > Sub In > Away Player > Logan White
+08:25	Player Movement > Sub In > Home Player > Max Hisatake
+08:25	Player Movement > Sub In > Away Player > Colten Garland
+08:25	Player Movement > Sub Out > Away Player > Duncan Roy
+08:25	Personal Foul > Defensive - Any > Duncan Roy
+08:25	Player Movement > Sub Out > Home Player > Quentin Forberg
+08:25	Player Movement > Sub Out > Away Player > Connor Rotterman
+08:25	Player Movement > Sub Out > Home Player > Kohl Linder
+IIT	2	08:25	3 Malik Howze > Non Possession > Free Throw	54	-	53
+08:25	Shot > Malik Howze > Free Throw > Made
+WAB	2	08:02	3 Jack Davidson > P&R Ball Handler > Right P&R > Side > Split > To Basket > Make 2 Pts Foul > 1 Pts	56	-	53
+08:02	Shot > Jack Davidson > Any Type > 2 Point Attempt > Make 2 Pts
+08:02	Personal Foul > Defensive - Any > Max Hisatake
+WAB	2	08:02	3 Jack Davidson > Non Possession > Free Throw	57	-	53
+08:02	Shot > Jack Davidson > Free Throw > Made
+IIT	2	07:55	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Turnover	57	-	53
+07:55	Personal Foul > Defensive - Any > Malik Howze
+07:55	Player Movement > Sub Out > Away Player > Rhett Helt
+07:55	Player Movement > Sub In > Away Player > Alex Eberhard
+WAB	2	07:33	3 Jack Davidson > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	59	-	53
+07:33	Shot > Jack Davidson > Any Type > 2 Point Attempt > Make 2 Pts
+07:33	Misc Stat > Assist > Harrison Hallstrom
+IIT	2	07:11	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits 
+07:11	Turnover > Any Type > Anthony Mosley
+07:09	Misc Stat > Steal > Jack Davidson
+WAB	2	07:03	3 Jack Davidson > Non Possession > Non Shooting Foul	59	-	53
+07:03	Personal Foul > Defensive - Any > Anthony Mosley
+WAB	2	06:52	3 Jack Davidson > ISO > Top > Drives Right > Defense Commits 
+06:52	Shot > Colten Garland > Any Type > 3 Point Attempt > Miss 3 Pts
+WAB	2	06:52	32 Logan White > Offensive Rebound > Short > Run Offense	59	-	53
+06:52	Misc Stat > Offensive Rebound > Logan White
+WAB	2	06:34	3 Jack Davidson > ISO > Top > Drives Right > To Basket > Miss 2 Pts	59	-	53
+06:34	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+06:34	Misc Stat > Block > Anthony Mosley
+06:30	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	06:21	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	59	-	53
+06:21	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+06:21	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	2	06:01	12 Colten Garland > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	59	-	53
+06:01	Shot > Colten Garland > Any Type > 3 Point Attempt > Miss 3 Pts
+WAB	2	06:01	32 Logan White > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	59	-	53
+06:01	Misc Stat > Offensive Rebound > Logan White
+05:56	Personal Foul > Defensive - Any > Parker Joncus
+WAB	2	05:56	32 Logan White > Non Possession > Free Throw	59	-	53
+05:56	Shot > Logan White > Free Throw > Missed
+05:56	TEAM deadball rebound
+WAB	2	05:56	32 Logan White > Non Possession > Free Throw	59	-	53
+05:56	Shot > Logan White > Free Throw > Missed
+05:56	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	05:38	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts Foul > 1 Pts	59	-	55
+05:38	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+05:38	Personal Foul > Defensive - Any > Colten Garland
+IIT	2	05:38	3 Malik Howze > Non Possession > Free Throw	59	-	56
+05:38	Shot > Malik Howze > Free Throw > Made
+WAB	2	05:27	41 Alex Eberhard > Hand Off > From Dribble > Top > Foul	59	-	56
+05:27	Personal Foul > Defensive - Any > Parker Joncus
+WAB	2	05:27	41 Alex Eberhard > Non Possession > Free Throw	61	-	56
+05:27	Shot > Alex Eberhard > Free Throw > Made
+05:27	Player Movement > Sub Out > Home Player > Parker Joncus
+05:27	Player Movement > Sub In > Home Player > Calvin Schmitz
+WAB	2	05:27	41 Alex Eberhard > Non Possession > Free Throw	61	-	56
+05:27	Shot > Alex Eberhard > Free Throw > Made
+IIT	2	05:06	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+05:06	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+05:06	Misc Stat > Defensive Rebound > Harrison Hallstrom
+WAB	2	04:32	12 Colten Garland > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	61	-	56
+04:32	Shot > Colten Garland > Any Type > 2 Point Attempt > Miss 2 Pts
+04:32	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	04:20	2 Anthony Mosley > ISO > Right > Drives Right > To Basket > Miss 2 Pts	61	-	56
+04:20	Misc Stat > Defensive Rebound > Jack Davidson
+WAB	2	04:11	3 Jack Davidson > Transition > Ballhandler > Dribble Jumper > Long/3pt > Foul	61	-	56
+04:11	Personal Foul > Defensive - Any > Max Hisatake
+WAB	2	04:11	3 Jack Davidson > Non Possession > Free Throw	61	-	56
+04:11	Shot > Jack Davidson > Free Throw > Missed
+04:11	TEAM deadball rebound
+WAB	2	04:11	3 Jack Davidson > Non Possession > Free Throw	62	-	56
+04:11	Shot > Jack Davidson > Free Throw > Missed
+04:11	Player Movement > Sub Out > Home Player > Calvin Schmitz
+04:11	Player Movement > Sub In > Home Player > Parker Joncus
+04:11	TEAM deadball rebound
+WAB	2	04:11	3 Jack Davidson > Non Possession > Free Throw	62	-	56
+04:11	Shot > Jack Davidson > Free Throw > Made
+IIT	2	03:52	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Jumper > Miss 2 Pts	62	-	56
+03:52	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+03:52	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	2	03:30	33 Harrison Hallstrom > No Play Type > Turnover	62	-	56
+03:30	Turnover > Any Type > Harrison Hallstrom
+03:28	Misc Stat > Steal > Anthony Mosley
+IIT	2	03:26	2 Anthony Mosley > Transition > Ballhandler > To Basket > Foul	62	-	56
+03:26	Personal Foul > Defensive - Any > Harrison Hallstrom
+IIT	2	03:26	2 Anthony Mosley > Non Possession > Free Throw	62	-	57
+03:26	Player Movement > Sub In > Away Player > Connor Rotterman
+03:26	Player Movement > Sub In > Away Player > Dalton Vachon
+03:26	Player Movement > Sub Out > Away Player > Harrison Hallstrom
+03:26	TEAM deadball rebound
+03:26	Player Movement > Sub Out > Away Player > Colten Garland
+WAB	2	03:03	3 Jack Davidson > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	62	-	57
+03:03	Shot > Jack Davidson > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	03:00	2 Anthony Mosley > No Play Type > Foul	62	-	57
+03:00	Personal Foul > Defensive - Any > Alex Eberhard
+WAB	2	02:46	41 Alex Eberhard > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	62	-	59
+02:46	Shot > Alex Eberhard > Any Type > 2 Point Attempt > Miss 2 Pts
+02:46	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	02:29	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	62	-	59
+02:29	Misc Stat > Defensive Rebound > Connor Rotterman
+WAB	2	02:02	3 Jack Davidson > P&R Ball Handler > Right P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	62	-	59
+02:02	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+02:02	Misc Stat > Offensive Rebound > Jack Davidson
+WAB	2	01:59	3 Jack Davidson > Offensive Rebound > Long > Scoring Attempt > Short to < 17' > Miss 2 Pts	62	-	59
+01:59	Shot > Jack Davidson > Any Type > 2 Point Attempt > Miss 2 Pts
+01:59	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	01:56	21 Jake Digiorgio > No Play Type > Foul	62	-	59
+01:56	Personal Foul > Defensive - Any > Dalton Vachon
+IIT	2	01:56	21 Jake Digiorgio > Non Possession > Free Throw	62	-	60
+01:56	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	01:56	21 Jake Digiorgio > Non Possession > Free Throw	62	-	60
+01:56	Shot > Jake Digiorgio > Free Throw > Missed
+01:56	Misc Stat > Defensive Rebound > Dalton Vachon
+WAB	2	01:37	32 Logan White > No Play Type > Turnover	62	-	60
+01:37	Turnover > Any Type > Logan White
+01:37	Misc Stat > Steal > Jake Digiorgio
+IIT	2	01:37	21 Jake Digiorgio > Transition > Ballhandler > Foul	62	-	60
+01:37	Personal Foul > Defensive - Any > Logan White
+IIT	2	01:37	21 Jake Digiorgio > Non Possession > Free Throw	62	-	61
+01:37	Shot > Jake Digiorgio > Free Throw > Missed
+01:37	TEAM deadball rebound
+01:37	Player Movement > Sub Out > Away Player > Dalton Vachon
+01:37	Player Movement > Sub In > Away Player > Harrison Hallstrom
+IIT	2	01:37	21 Jake Digiorgio > Non Possession > Free Throw	62	-	61
+01:37	Shot > Jake Digiorgio > Free Throw > Made
+WAB	2	01:08	41 Alex Eberhard > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+01:08	Shot > Connor Rotterman > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	00:43	21 Jake Digiorgio > Cut > Basket > Foul	64	-	61
+00:43	Personal Foul > Defensive - Any > Harrison Hallstrom
+IIT	2	00:43	21 Jake Digiorgio > Non Possession > Free Throw	64	-	61
+00:43	Shot > Jake Digiorgio > Free Throw > Missed
+00:43	Player Movement > Sub In > Away Player > Dalton Vachon
+00:43	TEAM deadball rebound
+00:43	Player Movement > Sub Out > Away Player > Harrison Hallstrom
+IIT	2	00:43	21 Jake Digiorgio > Non Possession > Free Throw	64	-	61
+00:43	Shot > Jake Digiorgio > Free Throw > Missed
+00:43	Misc Stat > Defensive Rebound > Dalton Vachon
+WAB	2	00:15	3 Jack Davidson > P&R Ball Handler > Right P&R > Baseline > Go Away from Pick > Turnover	64	-	61
+00:15	Time Event > Full Time Out > Away Team
+00:15	Time Event > Full Time Out > Home Team
+00:15	Turnover > Any Type > Jack Davidson
+IIT	2	00:06	2 Anthony Mosley > Hand Off > From Dribble > Right > Dribble Jumper > Long/3pt > Miss 3 Pts	64	-	61
+00:06	Misc Stat > Defensive Rebound > Alex Eberhard
+WAB	2	00:03	41 Alex Eberhard > Non Possession > Free Throw	65	-	61
+00:03	Shot > Alex Eberhard > Free Throw > Made
+WAB	2	00:03	41 Alex Eberhard > Non Possession > Free Throw	66	-	61
+00:03	Shot > Alex Eberhard > Free Throw > Made

@@ -1,0 +1,664 @@
+MSE	1	19:49	50 Tegan Miles > Spot-Up > Drives Right > To Basket > Miss 2 Pts			
+19:49	Shot > Tegan Miles > Any Type > 2 Point Attempt > Miss 2 Pts
+19:49	Misc Stat > Defensive Rebound > Max Hisatake
+MSE	1	18:58	3 Jason Palesse > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+18:58	Shot > Nolan Henton > Any Type > 3 Point Attempt > Miss 3 Pts
+MSE	1	18:58	23 Matthew Kirmse > Offensive Rebound > Long > Run Offense			
+18:58	Misc Stat > Offensive Rebound > Matthew Kirmse
+MSE	1	18:47	23 Matthew Kirmse > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	0	-	3
+18:47	Shot > Matthew Kirmse > Any Type > 3 Point Attempt > Make 3 Pts
+18:47	Misc Stat > Assist > Jason Palesse
+IIT	1	18:15	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+18:15	Turnover > Any Type > Jake Digiorgio
+MSE	1	17:57	3 Jason Palesse > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+17:57	Shot > Gabe Wear > Any Type > 3 Point Attempt > Miss 3 Pts
+MSE	1	17:57	23 Matthew Kirmse > Offensive Rebound > Long > Run Offense	0	-	3
+17:57	Misc Stat > Offensive Rebound > Matthew Kirmse
+MSE	1	17:48	3 Jason Palesse > Cut > Basket > Make 2 Pts	0	-	5
+17:48	Shot > Jason Palesse > Any Type > 2 Point Attempt > Make 2 Pts
+17:48	Misc Stat > Assist > Tegan Miles
+IIT	1	17:27	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Dribble Jumper > Long/3pt > Make 3 Pts	3	-	5
+17:27	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+MSE	1	17:08	3 Jason Palesse > Off Screen > To Shooter's Left > Straight > Turnover	3	-	5
+17:08	Misc Stat > Steal > Jake Bruns
+17:08	Turnover > Any Type > Jason Palesse
+IIT	1	17:08	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	3	-	5
+17:08	Player Movement > Sub In > Home Player > Jake Gebert
+17:08	Player Movement > Sub Out > Home Player > Nolan Henton
+16:54	Misc Stat > Steal > Jason Palesse
+16:54	Turnover > Any Type > Malik Howze
+MSE	1	16:52	3 Jason Palesse > Transition > Ballhandler > To Basket > Foul	3	-	5
+16:52	Personal Foul > Defensive - Any > Malik Howze
+MSE	1	16:52	3 Jason Palesse > Non Possession > Free Throw	3	-	6
+16:52	Shot > Jason Palesse > Free Throw > Made
+MSE	1	16:52	3 Jason Palesse > Non Possession > Free Throw	3	-	7
+16:52	Shot > Jason Palesse > Free Throw > Made
+16:52	Player Movement > Sub In > Away Player > Anthony Mosley
+16:52	Player Movement > Sub Out > Away Player > Malik Howze
+IIT	1	16:38	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits > Turnover	3	-	7
+16:38	Turnover > Any Type > Anthony Mosley
+MSE	1	16:18	35 Jake Gebert > Post-Up > Left Block > Face-up > Jumper > Miss 2 Pts	3	-	7
+16:18	Shot > Jake Gebert > Any Type > 2 Point Attempt > Miss 2 Pts
+16:18	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	1	16:07	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Long/3pt > Make 3 Pts	6	-	7
+16:07	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+MSE	1	15:48	3 Jason Palesse > Non Possession > Non Shooting Foul	6	-	7
+15:48	Personal Foul > Defensive - Any > Calvin Schmitz
+15:48	Player Movement > Sub In > Away Player > Parker Joncus
+15:48	Player Movement > Sub Out > Home Player > Gabe Wear
+15:48	Player Movement > Sub In > Home Player > Travis Ballard
+15:48	Player Movement > Sub Out > Away Player > Calvin Schmitz
+MSE	1	15:41	23 Matthew Kirmse > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:41	Shot > Travis Ballard > Any Type > 2 Point Attempt > Make 2 Pts
+15:41	Misc Stat > Assist > Jason Palesse
+IIT	1	15:17	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+15:17	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	15:17	21 Jake Digiorgio > Offensive Rebound > Short > Turnover	6	-	9
+15:17	Misc Stat > Offensive Rebound > Jake Digiorgio
+15:14	Turnover > Any Type > Jake Digiorgio
+MSE	1	14:51	23 Matthew Kirmse > Spot-Up > Drives Right > To Basket > Make 2 Pts	6	-	11
+14:51	Shot > Matthew Kirmse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	14:33	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	8	-	11
+14:33	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	14:18	50 Tegan Miles > Non Possession > Non Shooting Foul	8	-	11
+14:18	Personal Foul > Defensive - Any > Max Hisatake
+14:18	Player Movement > Sub In > Home Player > Brian Dorn
+14:18	Player Movement > Sub Out > Home Player > Jason Palesse
+14:18	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:18	Player Movement > Sub Out > Home Player > Tegan Miles
+14:18	Player Movement > Sub In > Home Player > Travis Ballard
+14:18	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+14:18	Player Movement > Sub In > Away Player > Capriest Gardner
+14:18	Player Movement > Sub In > Home Player > Luke Nelson
+14:18	Player Movement > Sub In > Home Player > Tegan Miles
+14:18	Player Movement > Sub Out > Home Player > Nolan Henton
+14:18	Player Movement > Sub In > Away Player > Malik Howze
+14:18	Player Movement > Sub In > Home Player > Bailey Mcdaniel
+14:18	Player Movement > Sub Out > Away Player > Jake Bruns
+14:18	Player Movement > Sub Out > Home Player > Gabe Wear
+MSE	1	14:04	50 Tegan Miles > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+14:04	Shot > Brian Dorn > Any Type > 3 Point Attempt > Miss 3 Pts
+MSE	1	14:04	5 Luke Nelson > Offensive Rebound > Short > Run Offense	8	-	11
+14:04	Misc Stat > Offensive Rebound > Luke Nelson
+MSE	1	13:53	5 Luke Nelson > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+13:53	Shot > Travis Ballard > Any Type > 2 Point Attempt > Miss 2 Pts
+13:53	Misc Stat > Defensive Rebound > Max Hisatake
+13:49	Personal Foul > Defensive - Any > Luke Nelson
+IIT	1	13:39	2 Anthony Mosley > Non Possession > Non Shooting Foul	8	-	11
+13:39	Personal Foul > Defensive - Any > Luke Nelson
+13:39	Player Movement > Sub In > Home Player > Sammy Linn
+13:39	Player Movement > Sub Out > Home Player > Tegan Miles
+IIT	1	13:25	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:25	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	13:25	22 Max Hisatake > Offensive Rebound > Long > Run Offense	8	-	11
+13:25	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	13:20	2 Anthony Mosley > Non Possession > Non Shooting Foul	8	-	11
+13:20	Personal Foul > Defensive - Any > Sammy Linn
+IIT	1	13:16	15 Capriest Gardner > Post-Up > Right Block > Left Shoulder > Dribble Move > To Jumper > Make 2 Pts	10	-	11
+13:16	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	13:00	5 Luke Nelson > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	10	-	13
+13:00	Shot > Luke Nelson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	12:41	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+12:41	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+12:41	Misc Stat > Assist > Max Hisatake
+MSE	1	12:26	34 Sammy Linn > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	13	-	13
+12:26	Shot > Sammy Linn > Any Type > 3 Point Attempt > Miss 3 Pts
+MSE	1	12:26	5 Luke Nelson > Offensive Rebound > Short > Run Offense	13	-	13
+12:26	Misc Stat > Offensive Rebound > Luke Nelson
+MSE	1	12:22	11 Bailey Mcdaniel > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	13	-	13
+12:22	Shot > Bailey Mcdaniel > Any Type > 3 Point Attempt > Miss 3 Pts
+12:22	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	12:13	3 Malik Howze > Transition > Ballhandler > To Basket > Make 2 Pts	15	-	13
+12:13	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	12:00	23 Matthew Kirmse > Non Possession > Non Shooting Foul	15	-	13
+12:00	Player Movement > Sub In > Home Player > Nolan Henton
+12:00	Player Movement > Sub Out > Home Player > Jason Palesse
+12:00	Player Movement > Sub In > Away Player > Jake Digiorgio
+12:00	Player Movement > Sub Out > Home Player > Tegan Miles
+12:00	Player Movement > Sub In > Home Player > Sammy Linn
+12:00	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+12:00	Player Movement > Sub In > Home Player > Jason Palesse
+12:00	Player Movement > Sub In > Home Player > Tegan Miles
+12:00	Player Movement > Sub Out > Home Player > Nolan Henton
+12:00	Player Movement > Sub In > Home Player > Matthew Kirmse
+12:00	Player Movement > Sub Out > Away Player > Max Hisatake
+12:00	Player Movement > Sub Out > Home Player > Gabe Wear
+11:52	Personal Foul > Defensive - Any > Parker Joncus
+MSE	1	11:42	3 Jason Palesse > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:42	Turnover > Any Type > Sammy Linn
+IIT	1	11:27	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	15	-	13
+11:27	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+11:27	Misc Stat > Defensive Rebound > Jason Palesse
+MSE	1	11:17	50 Tegan Miles > Transition > First Middle > To Basket > Miss 2 Pts	15	-	13
+11:17	Shot > Tegan Miles > Any Type > 2 Point Attempt > Miss 2 Pts
+11:17	Misc Stat > Defensive Rebound > Capriest Gardner
+10:58	Player Movement > Sub Out > Home Player > Sammy Linn
+10:58	Player Movement > Sub In > Home Player > Gabe Wear
+IIT	1	10:52	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	17	-	13
+10:52	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	10:38	50 Tegan Miles > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	17	-	15
+10:38	Shot > Tegan Miles > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:27	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	17	-	15
+10:27	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+10:27	Misc Stat > Defensive Rebound > Nolan Henton
+MSE	1	10:08	25 Nolan Henton > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover	17	-	15
+10:08	Turnover > Any Type > Nolan Henton
+IIT	1	10:08	22 Max Hisatake > No Play Type > Turnover	17	-	15
+10:08	Player Movement > Sub In > Away Player > Jake Bruns
+10:08	Player Movement > Sub Out > Away Player > Max Hisatake
+10:08	Player Movement > Sub In > Away Player > Jake Digiorgio
+10:08	Player Movement > Sub Out > Away Player > Anthony Mosley
+10:08	Player Movement > Sub Out > Away Player > Parker Joncus
+10:08	Player Movement > Sub In > Away Player > Max Hisatake
+10:08	Player Movement > Sub Out > Away Player > Jake Bruns
+10:08	Player Movement > Sub In > Away Player > Malik Howze
+10:08	Player Movement > Sub In > Away Player > Parker Joncus
+10:08	Player Movement > Sub Out > Away Player > Jake Digiorgio
+09:45	Turnover > Any Type > Max Hisatake
+09:44	Misc Stat > Steal > Tegan Miles
+MSE	1	09:34	3 Jason Palesse > Spot-Up > Drives Right > To Basket > Miss 2 Pts	17	-	15
+09:34	Shot > Jason Palesse > Any Type > 2 Point Attempt > Miss 2 Pts
+09:34	Misc Stat > Block > Max Hisatake
+MSE	1	09:34	3 Jason Palesse > Offensive Rebound > Long > Turnover	17	-	15
+09:34	Misc Stat > Offensive Rebound > Jason Palesse
+09:29	Turnover > Any Type > Jason Palesse
+09:27	Misc Stat > Steal > Jake Bruns
+IIT	1	09:01	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	17	-	15
+09:01	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+09:01	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	08:57	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	19	-	15
+08:57	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	08:38	50 Tegan Miles > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+08:38	Shot > Gabe Wear > Any Type > 2 Point Attempt > Miss 2 Pts
+08:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	08:16	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	19	-	15
+08:16	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+08:16	Misc Stat > Defensive Rebound > Tegan Miles
+MSE	1	08:04	23 Matthew Kirmse > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	19	-	15
+08:04	Shot > Matthew Kirmse > Any Type > 2 Point Attempt > Miss 2 Pts
+08:02	Personal Foul > Defensive - Any > Malik Howze
+MSE	1	08:02	33 Gabe Wear > Off Screen > To Shooter's Left > Curl > To Basket > Foul	19	-	15
+08:02	Player Movement > Sub Out > Home Player > Nolan Henton
+08:02	Player Movement > Sub In > Away Player > Anthony Mosley
+08:02	Player Movement > Sub In > Home Player > Jake Gebert
+08:02	Player Movement > Sub In > Away Player > Calvin Schmitz
+08:02	Player Movement > Sub Out > Away Player > Malik Howze
+08:02	Player Movement > Sub Out > Away Player > Parker Joncus
+07:48	Personal Foul > Defensive - Any > Jake Digiorgio
+MSE	1	07:48	33 Gabe Wear > Non Possession > Free Throw	19	-	16
+07:48	Shot > Gabe Wear > Free Throw > Made
+MSE	1	07:48	33 Gabe Wear > Non Possession > Free Throw	19	-	17
+07:48	Shot > Gabe Wear > Free Throw > Made
+IIT	1	07:19	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+07:19	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	07:04	50 Tegan Miles > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+07:04	Shot > Jake Gebert > Any Type > 3 Point Attempt > Make 3 Pts
+07:04	Misc Stat > Assist > Gabe Wear
+IIT	1	06:31	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	21	-	20
+06:31	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:31	Misc Stat > Defensive Rebound > Tegan Miles
+MSE	1	06:12	35 Jake Gebert > Post-Up > Left Block > Defense Commits 
+06:12	Personal Foul > Defensive - Any > Anthony Mosley
+MSE	1	06:12	23 Matthew Kirmse > Non Possession > Free Throw	21	-	21
+06:12	Shot > Matthew Kirmse > Free Throw > Made
+MSE	1	06:12	23 Matthew Kirmse > Non Possession > Free Throw	21	-	22
+06:12	Shot > Matthew Kirmse > Free Throw > Made
+MSE	1	06:12	23 Matthew Kirmse > Non Possession > Free Throw	21	-	23
+06:12	Shot > Matthew Kirmse > Free Throw > Made
+06:12	Player Movement > Sub In > Home Player > Matthew Kirmse
+06:12	Player Movement > Sub Out > Away Player > Jake Digiorgio
+06:12	Player Movement > Sub Out > Home Player > Gabe Wear
+06:12	Player Movement > Sub In > Home Player > Sammy Linn
+06:12	Player Movement > Sub Out > Home Player > Jason Palesse
+06:12	Player Movement > Sub In > Away Player > Capriest Gardner
+06:12	Player Movement > Sub Out > Home Player > Tegan Miles
+06:12	Player Movement > Sub In > Home Player > Jake Gebert
+06:12	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+06:12	Player Movement > Sub In > Home Player > Jason Palesse
+06:12	Player Movement > Sub In > Home Player > Travis Ballard
+06:12	Player Movement > Sub Out > Home Player > Nolan Henton
+IIT	1	05:54	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+05:54	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+05:54	Misc Stat > Assist > Capriest Gardner
+MSE	1	05:38	35 Jake Gebert > Spot-Up > Drives Right > To Basket > Make 2 Pts	24	-	25
+05:38	Shot > Jake Gebert > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	05:24	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+05:24	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	05:07	3 Jason Palesse > Off Screen > To Shooter's Right > Flare > To Basket > Make 2 Pts	26	-	27
+05:07	Shot > Jason Palesse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	05:01	10 Jake Bruns > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	26	-	27
+05:01	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+05:01	Misc Stat > Defensive Rebound > Jake Gebert
+MSE	1	04:46	23 Matthew Kirmse > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	26	-	27
+04:46	Shot > Matthew Kirmse > Any Type > 3 Point Attempt > Miss 3 Pts
+04:42	Player Movement > Sub In > Home Player > Travis Ballard
+04:42	Player Movement > Sub Out > Home Player > Nolan Henton
+04:42	Player Movement > Sub In > Home Player > Brian Dorn
+04:42	Player Movement > Sub Out > Away Player > Calvin Schmitz
+04:42	Player Movement > Sub Out > Home Player > Gabe Wear
+04:42	Player Movement > Sub In > Home Player > Nolan Henton
+04:42	Player Movement > Sub Out > Home Player > Jason Palesse
+04:42	Player Movement > Sub In > Away Player > Malik Howze
+04:42	Player Movement > Sub Out > Home Player > Tegan Miles
+04:42	Player Movement > Sub In > Home Player > Sammy Linn
+04:42	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+04:42	Player Movement > Sub In > Home Player > Luke Nelson
+IIT	1	04:23	2 Anthony Mosley > ISO > Right > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	28	-	27
+04:23	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	04:02	34 Sammy Linn > Post-Up > Right Block > Defense Commits 
+04:02	Shot > Brian Dorn > Any Type > 2 Point Attempt > Make 2 Pts
+04:02	Misc Stat > Assist > Sammy Linn
+IIT	1	03:41	2 Anthony Mosley > ISO > Right > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	30	-	29
+03:41	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	1	03:25	45 Travis Ballard > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	30	-	32
+03:25	Shot > Travis Ballard > Any Type > 3 Point Attempt > Make 3 Pts
+03:25	Misc Stat > Assist > Luke Nelson
+IIT	1	03:06	2 Anthony Mosley > Non Possession > Non Shooting Foul	30	-	32
+03:06	Personal Foul > Defensive - Any > Brian Dorn
+IIT	1	03:06	2 Anthony Mosley > ISO > Top > Drives Right > Turnover	30	-	32
+03:06	Player Movement > Sub In > Away Player > Jake Digiorgio
+03:06	Player Movement > Sub Out > Home Player > Brian Dorn
+03:06	Player Movement > Sub In > Home Player > Jason Palesse
+03:06	Player Movement > Sub Out > Away Player > Max Hisatake
+02:58	Turnover > Any Type > Anthony Mosley
+02:56	Misc Stat > Steal > Sammy Linn
+MSE	1	02:54	25 Nolan Henton > Transition > Leak Outs > To Basket > Make 2 Pts	30	-	34
+02:54	Shot > Nolan Henton > Any Type > 2 Point Attempt > Make 2 Pts
+02:54	Misc Stat > Assist > Sammy Linn
+IIT	1	02:24	15 Capriest Gardner > Post-Up > Left Block > Face-up > Jumper > Miss 2 Pts	30	-	34
+02:24	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	02:24	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	30	-	34
+02:24	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	02:16	2 Anthony Mosley > Spot-Up > Drives Left > To Basket > Make 2 Pts Foul > 1 Pts	32	-	34
+02:16	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+02:16	Personal Foul > Defensive - Any > Travis Ballard
+IIT	1	02:16	2 Anthony Mosley > Non Possession > Free Throw	33	-	34
+02:16	Shot > Anthony Mosley > Free Throw > Made
+02:16	Player Movement > Sub Out > Home Player > Luke Nelson
+02:16	Player Movement > Sub In > Home Player > Matthew Kirmse
+MSE	1	02:01	23 Matthew Kirmse > Off Screen > To Shooter's Left > Curl > Dribble Jumper > Short to < 17' > Miss 2 Pts	33	-	34
+02:01	Shot > Matthew Kirmse > Any Type > 2 Point Attempt > Miss 2 Pts
+02:01	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:49	15 Capriest Gardner > Transition > First Middle > To Basket > Make 2 Pts	35	-	34
+01:49	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+01:49	Misc Stat > Assist > Anthony Mosley
+MSE	1	01:26	34 Sammy Linn > Spot-Up > Drives Left > Turnover	35	-	34
+01:26	Misc Stat > Steal > Capriest Gardner
+01:26	Turnover > Any Type > Sammy Linn
+IIT	1	01:10	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+01:10	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+01:10	Misc Stat > Defensive Rebound > Sammy Linn
+MSE	1	00:54	50 Tegan Miles > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits > Foul	35	-	34
+00:54	Personal Foul > Defensive - Any > Capriest Gardner
+MSE	1	00:54	50 Tegan Miles > Non Possession > Free Throw	35	-	34
+00:54	Shot > Tegan Miles > Free Throw > Missed
+MSE	1	00:54	23 Matthew Kirmse > Offensive Rebound > Short > Turnover	35	-	34
+00:54	Player Movement > Sub In > Home Player > Gabe Wear
+00:54	Misc Stat > Offensive Rebound > Matthew Kirmse
+00:54	Player Movement > Sub In > Home Player > Tegan Miles
+00:54	Player Movement > Sub Out > Home Player > Sammy Linn
+00:54	Player Movement > Sub Out > Away Player > Capriest Gardner
+00:54	Player Movement > Sub Out > Home Player > Travis Ballard
+00:54	Player Movement > Sub In > Away Player > Max Hisatake
+00:52	Turnover > Any Type > Matthew Kirmse
+IIT	1	00:32	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits > Turnover	35	-	34
+00:32	Turnover > Any Type > Malik Howze
+00:31	Misc Stat > Steal > Tegan Miles
+MSE	1	00:00	3 Jason Palesse > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	35	-	36
+00:00	Shot > Jason Palesse > Any Type > 2 Point Attempt > Make 2 Pts
+20:00	Player Movement > Sub In > Away Player > Anthony Mosley
+20:00	Player Movement > Sub Out > Away Player > Calvin Schmitz
+MSE	2	19:32	50 Tegan Miles > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	35	-	36
+19:32	Shot > Tegan Miles > Any Type > 2 Point Attempt > Miss 2 Pts
+19:32	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	19:13	22 Max Hisatake > Cut > Screen > Make 2 Pts	37	-	36
+19:13	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+19:13	Misc Stat > Assist > Jake Digiorgio
+MSE	2	18:52	3 Jason Palesse > Non Possession > Non Shooting Foul	37	-	36
+18:52	Personal Foul > Defensive - Any > Max Hisatake
+MSE	2	18:46	50 Tegan Miles > Post-Up > Left Block > Defense Commits > Turnover	37	-	36
+18:46	Turnover > Any Type > Tegan Miles
+18:45	Misc Stat > Steal > Max Hisatake
+IIT	2	18:25	21 Jake Digiorgio > Non Possession > Non Shooting Foul	37	-	36
+18:25	Personal Foul > Defensive - Any > Gabe Wear
+IIT	2	18:22	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	40	-	36
+18:22	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+18:22	Misc Stat > Assist > Max Hisatake
+MSE	2	18:10	23 Matthew Kirmse > Non Possession > Non Shooting Foul	40	-	36
+18:10	Personal Foul > Defensive - Any > Jake Bruns
+MSE	2	17:59	3 Jason Palesse > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+17:59	Shot > Matthew Kirmse > Any Type > 2 Point Attempt > Make 2 Pts
+17:59	Misc Stat > Assist > Jason Palesse
+IIT	2	17:36	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	42	-	38
+17:36	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	2	17:17	33 Gabe Wear > Spot-Up > Drives Left > Turnover	42	-	38
+17:17	Turnover > Any Type > Gabe Wear
+17:17	Player Movement > Sub In > Home Player > Sammy Linn
+17:17	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+17:17	Player Movement > Sub In > Home Player > Jason Palesse
+17:17	Player Movement > Sub In > Home Player > Tegan Miles
+17:17	Player Movement > Sub Out > Home Player > Nolan Henton
+17:17	Player Movement > Sub In > Home Player > Bailey Mcdaniel
+17:17	Player Movement > Sub Out > Home Player > Gabe Wear
+17:17	Player Movement > Sub In > Home Player > Matthew Kirmse
+17:17	Player Movement > Sub Out > Home Player > Jason Palesse
+17:17	Player Movement > Sub Out > Home Player > Tegan Miles
+IIT	2	16:56	2 Anthony Mosley > ISO > Right > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	42	-	38
+16:56	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	16:56	21 Jake Digiorgio > Offensive Rebound > Short > Turnover	42	-	38
+16:56	Misc Stat > Offensive Rebound > Jake Digiorgio
+16:50	Turnover > Any Type > Jake Digiorgio
+16:49	Misc Stat > Steal > Jason Palesse
+MSE	2	16:32	50 Tegan Miles > Cut > Basket > Foul	42	-	38
+16:32	Personal Foul > Defensive - Any > Max Hisatake
+MSE	2	16:32	50 Tegan Miles > Non Possession > Free Throw	42	-	39
+16:32	Shot > Tegan Miles > Free Throw > Made
+MSE	2	16:32	50 Tegan Miles > Non Possession > Free Throw	42	-	40
+16:32	Shot > Tegan Miles > Free Throw > Made
+16:32	Player Movement > Sub Out > Away Player > Anthony Mosley
+16:32	Player Movement > Sub Out > Away Player > Parker Joncus
+16:32	Player Movement > Sub Out > Home Player > Tegan Miles
+16:32	Player Movement > Sub In > Away Player > Jake Digiorgio
+16:32	Player Movement > Sub Out > Away Player > Jake Bruns
+16:32	Player Movement > Sub In > Away Player > Anthony Mosley
+16:32	Player Movement > Sub In > Home Player > Jake Gebert
+16:32	Player Movement > Sub In > Away Player > Parker Joncus
+16:32	Player Movement > Sub Out > Away Player > Jake Digiorgio
+16:32	Player Movement > Sub In > Away Player > Jake Bruns
+16:32	Player Movement > Sub In > Home Player > Travis Ballard
+16:32	Player Movement > Sub Out > Away Player > Max Hisatake
+16:32	Player Movement > Sub Out > Home Player > Matthew Kirmse
+16:32	Player Movement > Sub In > Away Player > Capriest Gardner
+IIT	2	16:17	10 Jake Bruns > Off Screen > To Shooter's Right > Turnover	42	-	40
+16:17	Turnover > Any Type > Jake Bruns
+MSE	2	16:02	45 Travis Ballard > Post-Up > Flash Middle > Defense Commits > Turnover	42	-	40
+16:02	Turnover > Any Type > Travis Ballard
+16:00	Misc Stat > Steal > Jake Bruns
+IIT	2	15:56	2 Anthony Mosley > Non Possession > Non Shooting Foul	42	-	40
+15:56	Personal Foul > Defensive - Any > Jason Palesse
+IIT	2	15:52	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	42	-	40
+15:52	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+15:52	Misc Stat > Defensive Rebound > Jake Gebert
+MSE	2	15:29	3 Jason Palesse > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	42	-	40
+15:29	Shot > Jason Palesse > Any Type > 3 Point Attempt > Miss 3 Pts
+15:29	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	15:17	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	45	-	40
+15:17	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+15:17	Misc Stat > Assist > Anthony Mosley
+MSE	2	15:03	35 Jake Gebert > P&R Ball Handler > Left P&R > Side > Defense Commits 
+15:03	Shot > Sammy Linn > Any Type > 2 Point Attempt > Make 2 Pts
+15:03	Misc Stat > Assist > Jake Gebert
+IIT	2	14:49	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits > Turnover	45	-	42
+14:49	Turnover > Any Type > Anthony Mosley
+14:48	Misc Stat > Steal > Travis Ballard
+MSE	2	14:43	11 Bailey Mcdaniel > Transition > Right Wing > Dribble Jumper > Short to < 17' > Miss 2 Pts	45	-	42
+14:43	Shot > Bailey Mcdaniel > Any Type > 2 Point Attempt > Miss 2 Pts
+14:43	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	14:37	15 Capriest Gardner > Transition > Ballhandler > Turnover	45	-	42
+14:37	Turnover > Any Type > Capriest Gardner
+14:37	Misc Stat > Steal > Sammy Linn
+MSE	2	14:37	34 Sammy Linn > Non Possession > Non Shooting Foul	45	-	42
+14:37	Personal Foul > Defensive - Any > Capriest Gardner
+14:37	Player Movement > Sub Out > Away Player > Jake Bruns
+14:37	Player Movement > Sub Out > Home Player > Tegan Miles
+14:37	Player Movement > Sub In > Away Player > Malik Howze
+14:37	Player Movement > Sub In > Home Player > Jake Gebert
+14:37	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+14:37	Player Movement > Sub In > Away Player > Kohl Linder
+14:37	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:37	Player Movement > Sub In > Home Player > Brian Dorn
+14:37	Player Movement > Sub In > Away Player > Calvin Schmitz
+14:37	Player Movement > Sub In > Home Player > Travis Ballard
+14:37	Player Movement > Sub Out > Home Player > Nolan Henton
+14:37	Player Movement > Sub Out > Away Player > Max Hisatake
+14:37	Player Movement > Sub In > Home Player > Matthew Kirmse
+14:37	Player Movement > Sub In > Away Player > Jake Digiorgio
+14:37	Player Movement > Sub Out > Away Player > Anthony Mosley
+14:37	Player Movement > Sub Out > Home Player > Gabe Wear
+14:37	Player Movement > Sub Out > Away Player > Parker Joncus
+14:37	Player Movement > Sub In > Home Player > Sammy Linn
+14:37	Player Movement > Sub Out > Home Player > Jason Palesse
+14:37	Player Movement > Sub In > Away Player > Parker Joncus
+MSE	2	14:22	45 Travis Ballard > Post-Up > Flash Middle > Left Shoulder > Dribble Move > Defense Commits 
+14:22	Shot > Sammy Linn > Any Type > 3 Point Attempt > Miss 3 Pts
+14:22	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	2	14:10	3 Malik Howze > Transition > Ballhandler > Turnover	45	-	42
+14:10	Turnover > Any Type > Malik Howze
+14:08	Misc Stat > Steal > Sammy Linn
+MSE	2	14:06	34 Sammy Linn > Transition > Ballhandler > To Basket > Make 2 Pts	45	-	44
+14:06	Shot > Sammy Linn > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	13:46	35 Kohl Linder > Non Possession > Non Shooting Foul	45	-	44
+13:46	Personal Foul > Defensive - Any > Sammy Linn
+13:46	Player Movement > Sub Out > Home Player > Jake Gebert
+13:46	Player Movement > Sub In > Home Player > Luke Nelson
+IIT	2	13:33	13 Calvin Schmitz > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	47	-	44
+13:33	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	2	13:07	12 Brian Dorn > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Foul	47	-	44
+13:07	Personal Foul > Defensive - Any > Kohl Linder
+MSE	2	13:07	12 Brian Dorn > Non Possession > Free Throw	47	-	45
+13:07	Shot > Brian Dorn > Free Throw > Made
+MSE	2	13:07	12 Brian Dorn > Non Possession > Free Throw	47	-	46
+13:07	Shot > Brian Dorn > Free Throw > Made
+13:07	Player Movement > Sub Out > Home Player > Gabe Wear
+13:07	Player Movement > Sub In > Home Player > Nolan Henton
+13:07	Player Movement > Sub Out > Home Player > Jason Palesse
+13:07	Player Movement > Sub In > Away Player > Max Hisatake
+13:07	Player Movement > Sub Out > Home Player > Tegan Miles
+13:07	Player Movement > Sub In > Home Player > Gabe Wear
+13:07	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+13:07	Player Movement > Sub In > Home Player > Brian Dorn
+13:07	Player Movement > Sub In > Home Player > Tegan Miles
+13:07	Player Movement > Sub Out > Home Player > Nolan Henton
+13:07	Player Movement > Sub In > Home Player > Matthew Kirmse
+13:07	Player Movement > Sub Out > Away Player > Jake Digiorgio
+IIT	2	12:56	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	47	-	46
+12:56	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+12:56	Misc Stat > Defensive Rebound > Brian Dorn
+MSE	2	12:37	12 Brian Dorn > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+12:37	Shot > Gabe Wear > Any Type > 3 Point Attempt > Miss 3 Pts
+12:37	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	12:17	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	47	-	46
+12:17	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+12:17	Misc Stat > Defensive Rebound > Gabe Wear
+12:14	Personal Foul > Defensive - Any > Kohl Linder
+12:14	Player Movement > Sub In > Away Player > Jake Bruns
+12:14	Player Movement > Sub In > Home Player > Jason Palesse
+12:14	Player Movement > Sub Out > Away Player > Max Hisatake
+12:14	Player Movement > Sub In > Away Player > Capriest Gardner
+12:14	Player Movement > Sub Out > Away Player > Anthony Mosley
+12:14	Player Movement > Sub Out > Away Player > Parker Joncus
+12:14	Player Movement > Sub In > Away Player > Max Hisatake
+12:14	Player Movement > Sub Out > Away Player > Jake Bruns
+12:14	Player Movement > Sub In > Away Player > Malik Howze
+12:14	Player Movement > Sub Out > Home Player > Brian Dorn
+12:14	Player Movement > Sub In > Away Player > Parker Joncus
+12:14	Player Movement > Sub Out > Away Player > Jake Digiorgio
+MSE	2	11:52	50 Tegan Miles > Post-Up > Left Block > Defense Commits 
+11:52	Shot > Jason Palesse > Any Type > 2 Point Attempt > Make 2 Pts
+11:52	Misc Stat > Assist > Tegan Miles
+IIT	2	11:32	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	47	-	48
+11:32	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+11:32	Misc Stat > Defensive Rebound > Nolan Henton
+MSE	2	11:21	25 Nolan Henton > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	47	-	48
+11:21	Shot > Nolan Henton > Any Type > 3 Point Attempt > Miss 3 Pts
+11:21	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	10:51	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	47	-	48
+10:51	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	10:51	22 Max Hisatake > Offensive Rebound > Short > Run Offense	47	-	48
+10:51	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	10:37	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+10:37	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+10:37	Misc Stat > Defensive Rebound > Matthew Kirmse
+MSE	2	10:13	3 Jason Palesse > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	47	-	48
+10:13	Turnover > Any Type > Jason Palesse
+10:12	Misc Stat > Steal > Max Hisatake
+IIT	2	10:03	3 Malik Howze > Transition > Ballhandler > To Basket > Miss 2 Pts	47	-	48
+10:03	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+10:03	Misc Stat > Block > Jason Palesse
+10:03	Player Movement > Sub In > Away Player > Jake Digiorgio
+10:03	Player Movement > Sub Out > Away Player > Anthony Mosley
+10:03	Player Movement > Sub Out > Away Player > Parker Joncus
+10:03	Player Movement > Sub In > Away Player > Max Hisatake
+10:03	Player Movement > Sub Out > Away Player > Jake Bruns
+10:03	Player Movement > Sub In > Away Player > Anthony Mosley
+10:03	Player Movement > Sub In > Away Player > Parker Joncus
+10:03	Player Movement > Sub Out > Away Player > Jake Digiorgio
+10:03	Player Movement > Sub In > Away Player > Jake Bruns
+10:03	Player Movement > Sub Out > Away Player > Max Hisatake
+MSE	2	09:39	3 Jason Palesse > Cut > Basket > Miss 2 Pts	47	-	48
+09:39	Shot > Jason Palesse > Any Type > 2 Point Attempt > Miss 2 Pts
+MSE	2	09:39	50 Tegan Miles > Offensive Rebound > Long > Run Offense	47	-	48
+09:39	Misc Stat > Offensive Rebound > Tegan Miles
+MSE	2	09:26	50 Tegan Miles > Cut > Basket > Turnover	47	-	48
+09:26	Turnover > Any Type > Tegan Miles
+IIT	2	09:26	22 Max Hisatake > Cut > Basket > Turnover	47	-	48
+09:26	Player Movement > Sub Out > Home Player > Nolan Henton
+09:26	Player Movement > Sub Out > Home Player > Gabe Wear
+09:26	Player Movement > Sub In > Home Player > Bailey Mcdaniel
+09:26	Player Movement > Sub In > Home Player > Sammy Linn
+09:14	Turnover > Any Type > Max Hisatake
+MSE	2	08:57	23 Matthew Kirmse > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	47	-	48
+08:57	Shot > Matthew Kirmse > Any Type > 2 Point Attempt > Miss 2 Pts
+08:57	Misc Stat > Offensive Rebound > Tegan Miles
+MSE	2	08:55	50 Tegan Miles > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	47	-	50
+08:55	Shot > Tegan Miles > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	08:31	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > Turnover	47	-	50
+08:31	Turnover > Any Type > Jake Bruns
+MSE	2	08:19	3 Jason Palesse > Off Screen > To Shooter's Left > Straight > Foul	47	-	50
+08:19	Personal Foul > Defensive - Any > Jake Digiorgio
+MSE	2	08:19	3 Jason Palesse > Non Possession > Free Throw	47	-	50
+08:19	Shot > Jason Palesse > Free Throw > Missed
+08:19	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	07:50	10 Jake Bruns > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	47	-	50
+07:50	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+07:50	Misc Stat > Defensive Rebound > Sammy Linn
+MSE	2	07:24	3 Jason Palesse > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	47	-	52
+07:24	Shot > Jason Palesse > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	07:04	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	47	-	52
+07:04	Turnover > Any Type > Anthony Mosley
+07:04	Personal Foul > Defensive - Any > Anthony Mosley
+07:04	Player Movement > Sub In > Home Player > Brian Dorn
+07:04	Player Movement > Sub Out > Home Player > Jason Palesse
+MSE	2	06:45	23 Matthew Kirmse > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+06:45	Shot > Bailey Mcdaniel > Any Type > 2 Point Attempt > Miss 2 Pts
+06:45	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	06:20	2 Anthony Mosley > ISO > Right > Drives Right > Defense Commits > Turnover	47	-	52
+06:20	Turnover > Any Type > Anthony Mosley
+06:18	Misc Stat > Steal > Sammy Linn
+MSE	2	06:16	34 Sammy Linn > No Play Type > Turnover	47	-	52
+06:16	Turnover > Any Type > Sammy Linn
+06:15	Misc Stat > Steal > Anthony Mosley
+IIT	2	06:14	22 Max Hisatake > No Play Type > To Basket > Miss 2 Pts	47	-	52
+06:14	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:14	Misc Stat > Defensive Rebound > Tegan Miles
+MSE	2	06:06	12 Brian Dorn > Transition > Ballhandler > To Basket > Foul	47	-	52
+06:06	Personal Foul > Defensive - Any > Anthony Mosley
+MSE	2	06:06	12 Brian Dorn > Non Possession > Free Throw	47	-	52
+06:06	Shot > Brian Dorn > Free Throw > Missed
+MSE	2	06:06	12 Brian Dorn > Non Possession > Free Throw	47	-	52
+06:06	Shot > Brian Dorn > Free Throw > Missed
+06:06	Player Movement > Sub In > Home Player > Gabe Wear
+06:06	Player Movement > Sub Out > Home Player > Jason Palesse
+06:06	Player Movement > Sub In > Away Player > Malik Howze
+06:06	Player Movement > Sub Out > Home Player > Tegan Miles
+06:06	Player Movement > Sub In > Home Player > Jake Gebert
+06:06	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+06:06	Misc Stat > Defensive Rebound > Parker Joncus
+06:06	Player Movement > Sub In > Home Player > Brian Dorn
+06:06	Player Movement > Sub In > Home Player > Travis Ballard
+06:06	Player Movement > Sub Out > Home Player > Nolan Henton
+06:06	Player Movement > Sub In > Home Player > Matthew Kirmse
+06:06	Player Movement > Sub Out > Away Player > Jake Digiorgio
+06:06	Player Movement > Sub Out > Home Player > Gabe Wear
+IIT	2	05:56	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	47	-	52
+05:56	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	05:56	22 Max Hisatake > Offensive Rebound > Short > Run Offense	47	-	52
+05:56	Misc Stat > Offensive Rebound > Max Hisatake
+05:52	Personal Foul > Defensive - Any > Travis Ballard
+05:52	Player Movement > Sub In > Home Player > Nolan Henton
+05:52	Player Movement > Sub Out > Home Player > Matthew Kirmse
+IIT	2	05:48	22 Max Hisatake > Cut > Screen > Make 2 Pts	49	-	52
+05:48	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	2	05:20	35 Jake Gebert > Post-Up > Flash Middle > Face-up > Jumper > Miss 2 Pts	49	-	52
+05:20	Shot > Jake Gebert > Any Type > 2 Point Attempt > Miss 2 Pts
+MSE	2	05:20	33 Gabe Wear > Offensive Rebound > Long > Run Offense	49	-	52
+05:20	Misc Stat > Offensive Rebound > Gabe Wear
+05:12	Player Movement > Sub In > Home Player > Gabe Wear
+05:12	Player Movement > Sub Out > Home Player > Jason Palesse
+05:12	Player Movement > Sub Out > Home Player > Tegan Miles
+05:12	Player Movement > Sub In > Home Player > Jake Gebert
+05:12	Player Movement > Sub Out > Home Player > Bailey Mcdaniel
+05:12	Player Movement > Sub In > Home Player > Jason Palesse
+05:12	Player Movement > Sub In > Home Player > Travis Ballard
+05:12	Player Movement > Sub Out > Home Player > Nolan Henton
+05:12	Player Movement > Sub In > Home Player > Nolan Henton
+05:12	Player Movement > Sub Out > Home Player > Gabe Wear
+MSE	2	04:58	35 Jake Gebert > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+04:58	Shot > Travis Ballard > Any Type > 2 Point Attempt > Make 2 Pts
+04:58	Misc Stat > Assist > Jake Gebert
+IIT	2	04:35	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	49	-	54
+04:35	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+MSE	2	04:33	35 Jake Gebert > No Play Type > Foul	49	-	54
+04:33	Player Movement > Sub In > Home Player > Tegan Miles
+04:33	Player Movement > Sub Out > Away Player > Jake Bruns
+04:33	Player Movement > Sub In > Away Player > Jake Digiorgio
+04:33	Player Movement > Sub Out > Home Player > Travis Ballard
+04:21	Personal Foul > Defensive - Any > Parker Joncus
+MSE	2	04:21	35 Jake Gebert > Non Possession > Free Throw	49	-	55
+04:21	Shot > Jake Gebert > Free Throw > Made
+MSE	2	04:21	35 Jake Gebert > Non Possession > Free Throw	49	-	56
+04:21	Shot > Jake Gebert > Free Throw > Made
+IIT	2	04:06	2 Anthony Mosley > Hand Off > From Dribble > Top > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	49	-	56
+04:06	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+MSE	2	03:50	25 Nolan Henton > Off Screen > To Shooter's Left > Curl > Turnover	49	-	56
+03:50	Turnover > Any Type > Nolan Henton
+03:48	Misc Stat > Steal > Parker Joncus
+IIT	2	03:40	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	51	-	56
+03:40	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+03:40	Misc Stat > Assist > Malik Howze
+MSE	2	03:11	3 Jason Palesse > No Play Type > Foul	51	-	56
+03:11	Personal Foul > Defensive - Any > Malik Howze
+MSE	2	03:11	3 Jason Palesse > Non Possession > Free Throw	51	-	57
+03:11	Shot > Jason Palesse > Free Throw > Made
+MSE	2	03:11	3 Jason Palesse > Non Possession > Free Throw	51	-	57
+03:11	Shot > Jason Palesse > Free Throw > Missed
+03:11	Player Movement > Sub In > Away Player > Jake Bruns
+03:11	Misc Stat > Defensive Rebound > Max Hisatake
+03:11	Player Movement > Sub Out > Away Player > Malik Howze
+IIT	2	02:41	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	53	-	57
+02:41	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+MSE	2	02:17	33 Gabe Wear > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	53	-	60
+02:17	Shot > Gabe Wear > Any Type > 3 Point Attempt > Make 3 Pts
+02:17	Misc Stat > Assist > Jake Gebert
+02:14	Player Movement > Sub Out > Home Player > Jake Gebert
+02:14	Player Movement > Sub In > Home Player > Matthew Kirmse
+IIT	2	02:01	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	56	-	60
+02:01	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+02:01	Misc Stat > Assist > Anthony Mosley
+MSE	2	01:35	23 Matthew Kirmse > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	56	-	63
+01:35	Shot > Matthew Kirmse > Any Type > 3 Point Attempt > Make 3 Pts
+01:35	Misc Stat > Assist > Jason Palesse
+IIT	2	01:12	3 Malik Howze > Non Possession > Non Shooting Foul	56	-	63
+01:12	Personal Foul > Defensive - Any > Jason Palesse
+01:12	Player Movement > Sub Out > Home Player > Matthew Kirmse
+01:12	Player Movement > Sub In > Home Player > Bailey Mcdaniel
+IIT	2	00:59	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	59	-	63
+00:59	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+MSE	2	00:48	3 Jason Palesse > Non Possession > Shot Clock Violation	59	-	63
+00:48	Player Movement > Sub Out > Home Player > Gabe Wear
+00:48	Player Movement > Sub In > Home Player > Matthew Kirmse
+00:27	Player Movement > Sub Out > Home Player > Matthew Kirmse
+00:27	Player Movement > Sub In > Home Player > Gabe Wear
+IIT	2	00:15	10 Jake Bruns > No Play Type > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	59	-	63
+00:15	Misc Stat > Defensive Rebound > Bailey Mcdaniel
+MSE	2	00:11	11 Bailey Mcdaniel > No Play Type > Foul	59	-	63
+00:11	Personal Foul > Defensive - Any > Max Hisatake
+MSE	2	00:11	11 Bailey Mcdaniel > Non Possession > Free Throw	59	-	64
+00:11	Shot > Bailey Mcdaniel > Free Throw > Made
+MSE	2	00:11	11 Bailey Mcdaniel > Non Possession > Free Throw	59	-	65
+00:11	Shot > Bailey Mcdaniel > Free Throw > Made
+IIT	2	00:05	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	59	-	65
+00:05	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+00:05	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	00:01	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	59	-	65
+00:01	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts

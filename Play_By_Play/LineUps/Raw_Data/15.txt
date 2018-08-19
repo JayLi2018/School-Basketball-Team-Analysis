@@ -1,0 +1,743 @@
+OLI	1	19:46	10 Tracy Edmond > P&R Ball Handler > High P&R > Split > Defense Commits 
+19:46	Shot > Diangelo Carlton > Any Type > 2 Point Attempt > Miss 2 Pts
+19:46	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	19:27	32 Parker Joncus > Off Screen > To Shooter's Right > Straight > Turnover			
+19:27	Turnover > Any Type > Parker Joncus
+19:26	Misc Stat > Steal > Jalen Adams
+OLI	1	19:25	14 Jalen Adams > Transition > Ballhandler > To Basket > Make 2 Pts	2	-	0
+19:25	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	19:05	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	2	-	0
+19:05	Turnover > Any Type > Max Hisatake
+19:04	Misc Stat > Steal > Diangelo Carlton
+OLI	1	19:01	35 Eldridge Mason > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	5	-	0
+19:01	Shot > Eldridge Mason > Any Type > 3 Point Attempt > Make 3 Pts
+19:01	Misc Stat > Assist > Diangelo Carlton
+18:56	Time Event > Full Time Out > Home Team
+IIT	1	18:36	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+18:36	Misc Stat > Assist > Malik Howze
+OLI	1	18:20	35 Eldridge Mason > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Short to < 17' > Make 2 Pts	7	-	0
+18:20	Shot > Eldridge Mason > Any Type > 2 Point Attempt > Make 2 Pts
+18:20	Misc Stat > Assist > Sirafino Davis
+IIT	1	18:01	3 Malik Howze > ISO > Left > Drives Right > To Basket > Foul	7	-	0
+18:01	Personal Foul > Defensive - Any > Diangelo Carlton
+IIT	1	18:01	3 Malik Howze > Non Possession > Free Throw	7	-	1
+18:01	Shot > Malik Howze > Free Throw > Made
+IIT	1	18:01	3 Malik Howze > Non Possession > Free Throw	7	-	1
+18:01	Shot > Malik Howze > Free Throw > Missed
+18:01	Player Movement > Sub Out > Away Player > Sirafino Davis
+18:01	Player Movement > Sub In > Away Player > Blake Siersma
+18:01	Misc Stat > Defensive Rebound > Diangelo Carlton
+OLI	1	17:51	10 Tracy Edmond > Transition > Trailer > Turnover	7	-	1
+17:51	Turnover > Any Type > Tracy Edmond
+IIT	1	17:33	22 Max Hisatake > Non Possession > Non Shooting Foul	7	-	1
+17:33	Personal Foul > Defensive - Any > Blake Siersma
+IIT	1	17:19	32 Parker Joncus > Hand Off > From Dribble > Right > Dribble Jumper > Long/3pt > Make 3 Pts	7	-	4
+17:19	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+OLI	1	17:11	14 Jalen Adams > Transition > Left Wing > Dribble Jumper > Long/3pt > Make 3 Pts	10	-	4
+17:11	Shot > Jalen Adams > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	16:49	2 Anthony Mosley > ISO > Top > Drives Right > Defense Commits 
+16:49	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+16:49	Personal Foul > Defensive - Any > Blake Siersma
+16:49	Misc Stat > Assist > Anthony Mosley
+IIT	1	16:49	22 Max Hisatake > Non Possession > Free Throw	10	-	7
+16:49	Shot > Max Hisatake > Free Throw > Made
+16:49	Player Movement > Sub Out > Away Player > Blake Siersma
+16:49	Player Movement > Sub In > Away Player > Sirafino Davis
+OLI	1	16:41	10 Tracy Edmond > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	12	-	7
+16:41	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	16:16	3 Malik Howze > ISO > Right > Drives Right > Defense Commits 
+16:16	Personal Foul > Defensive - Any > Sirafino Davis
+IIT	1	16:16	22 Max Hisatake > Non Possession > Free Throw	12	-	8
+16:16	Shot > Max Hisatake > Free Throw > Made
+IIT	1	16:16	22 Max Hisatake > Non Possession > Free Throw	12	-	9
+16:16	Shot > Max Hisatake > Free Throw > Made
+OLI	1	16:08	10 Tracy Edmond > Spot-Up > Drives Right > To Basket > Make 2 Pts	14	-	9
+16:08	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	15:57	22 Max Hisatake > No Play Type > Turnover	14	-	9
+15:57	Misc Stat > Steal > Tracy Edmond
+15:57	Turnover > Any Type > Max Hisatake
+OLI	1	15:55	10 Tracy Edmond > Transition > Ballhandler > To Basket > Miss 2 Pts	14	-	9
+15:55	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Miss 2 Pts
+15:55	Misc Stat > Block > Max Hisatake
+15:55	Misc Stat > Offensive Rebound > Jalen Adams
+OLI	1	15:48	14 Jalen Adams > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	16	-	9
+15:48	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	15:32	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	16	-	9
+15:32	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+15:32	Misc Stat > Defensive Rebound > Diangelo Carlton
+OLI	1	15:26	10 Tracy Edmond > Non Possession > Non Shooting Foul	16	-	9
+15:26	Personal Foul > Defensive - Any > Anthony Mosley
+OLI	1	15:11	35 Eldridge Mason > Spot-Up > Drives Straight > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	16	-	9
+15:11	Shot > Eldridge Mason > Any Type > 2 Point Attempt > Miss 2 Pts
+15:11	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	15:01	32 Parker Joncus > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	16	-	12
+15:01	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+15:01	Misc Stat > Assist > Anthony Mosley
+14:31	Player Movement > Sub Out > Away Player > Eldridge Mason
+14:31	Player Movement > Sub In > Away Player > Griffin Lewis
+14:31	Player Movement > Sub In > Away Player > Chase Brocker
+14:31	Player Movement > Sub Out > Away Player > Diangelo Carlton
+OLI	1	14:28	14 Jalen Adams > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	18	-	12
+14:28	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+14:28	Misc Stat > Assist > Tracy Edmond
+IIT	1	14:05	21 Jake Digiorgio > No Play Type > Turnover	18	-	12
+14:05	Turnover > Any Type > Jake Digiorgio
+14:05	Player Movement > Sub Out > Home Player > Jake Digiorgio
+14:05	Player Movement > Sub In > Home Player > Kohl Linder
+OLI	1	13:55	14 Jalen Adams > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	18	-	12
+13:55	Shot > Jalen Adams > Any Type > 2 Point Attempt > Miss 2 Pts
+13:55	Misc Stat > Block > Max Hisatake
+13:55	Misc Stat > Offensive Rebound > Jalen Adams
+OLI	1	13:52	14 Jalen Adams > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	18	-	12
+13:52	Shot > Jalen Adams > Any Type > 2 Point Attempt > Miss 2 Pts
+13:52	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	13:43	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	18	-	14
+13:43	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	1	13:36	11 Chase Brocker > Transition > Right Wing > Dribble Jumper > Short to < 17' > Make 2 Pts	20	-	14
+13:36	Shot > Chase Brocker > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	13:25	22 Max Hisatake > Post-Up > Flash Middle > Defense Commits 
+13:25	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+13:25	Misc Stat > Defensive Rebound > Griffin Lewis
+OLI	1	13:12	44 Griffin Lewis > Transition > Trailer > Turnover	20	-	14
+13:12	Turnover > Any Type > Griffin Lewis
+IIT	1	13:12	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+13:12	Player Movement > Sub In > Home Player > Jake Digiorgio
+13:12	Player Movement > Sub Out > Home Player > Max Hisatake
+13:12	Player Movement > Sub Out > Home Player > Parker Joncus
+13:12	Player Movement > Sub In > Home Player > Capriest Gardner
+12:52	Turnover > Any Type > Malik Howze
+12:52	Player Movement > Sub Out > Home Player > Malik Howze
+12:52	Player Movement > Sub In > Home Player > Jake Bruns
+OLI	1	12:39	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:39	Shot > Jalen Adams > Any Type > 3 Point Attempt > Make 3 Pts
+12:39	Misc Stat > Assist > Tracy Edmond
+IIT	1	12:09	2 Anthony Mosley > Non Possession > Non Shooting Foul	23	-	14
+12:09	Player Movement > Sub Out > Away Player > Griffin Lewis
+12:09	Player Movement > Sub In > Away Player > Eldridge Mason
+12:08	Personal Foul > Defensive - Any > Chase Brocker
+IIT	1	11:58	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	23	-	14
+11:58	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+11:58	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	1	11:54	35 Kohl Linder > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	23	-	14
+11:54	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+11:54	Misc Stat > Team Offensive Rebound > Home
+11:53	Personal Foul > Defensive - Any > Eldridge Mason
+IIT	1	11:48	21 Jake Digiorgio > Cut > Flash > Miss 2 Pts	23	-	14
+11:48	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+11:48	Misc Stat > Block > Sirafino Davis
+IIT	1	11:48	21 Jake Digiorgio > Offensive Rebound > Long > Run Offense	23	-	14
+11:48	Misc Stat > Offensive Rebound > Jake Digiorgio
+OLI	1	11:40	11 Chase Brocker > Non Possession > Non Shooting Foul	23	-	14
+11:40	Personal Foul > Defensive - Any > Capriest Gardner
+11:40	Player Movement > Sub Out > Home Player > Kohl Linder
+11:40	Player Movement > Sub In > Home Player > Max Hisatake
+OLI	1	11:28	11 Chase Brocker > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Make 2 Pts	25	-	14
+11:28	Shot > Chase Brocker > Any Type > 2 Point Attempt > Make 2 Pts
+11:28	Misc Stat > Assist > Sirafino Davis
+IIT	1	11:01	15 Capriest Gardner > No Play Type > Turnover	25	-	14
+11:01	Turnover > Any Type > Capriest Gardner
+11:00	Misc Stat > Steal > Eldridge Mason
+OLI	1	10:57	14 Jalen Adams > Transition > Right Wing > To Basket > Make 2 Pts	27	-	14
+10:57	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:48	2 Anthony Mosley > Transition > Ballhandler > Turnover	27	-	14
+10:48	Turnover > Any Type > Anthony Mosley
+10:47	Misc Stat > Steal > Tracy Edmond
+OLI	1	10:43	10 Tracy Edmond > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	29	-	14
+10:43	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+10:42	Time Event > Full Time Out > Home Team
+10:42	Personal Foul > Defensive - Any > Jake Bruns
+OLI	1	10:42	10 Tracy Edmond > Non Possession > Free Throw	30	-	14
+10:42	Shot > Tracy Edmond > Free Throw > Made
+10:42	Player Movement > Sub In > Home Player > Malik Howze
+10:42	Player Movement > Sub In > Home Player > Quentin Forberg
+10:42	Player Movement > Sub Out > Home Player > Anthony Mosley
+10:42	Player Movement > Sub Out > Home Player > Jake Bruns
+IIT	1	10:14	15 Capriest Gardner > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	30	-	14
+10:14	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+10:14	Misc Stat > Offensive Rebound > Malik Howze
+IIT	1	10:08	3 Malik Howze > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	30	-	14
+10:08	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+10:08	Misc Stat > Block > Sirafino Davis
+10:08	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	10:05	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	30	-	14
+10:05	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+10:05	Misc Stat > Defensive Rebound > Chase Brocker
+OLI	1	09:59	11 Chase Brocker > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	33	-	14
+09:59	Shot > Chase Brocker > Any Type > 3 Point Attempt > Make 3 Pts
+09:59	Misc Stat > Assist > Tracy Edmond
+09:46	Player Movement > Sub Out > Home Player > Quentin Forberg
+09:46	Player Movement > Sub In > Home Player > Anthony Mosley
+IIT	1	09:41	15 Capriest Gardner > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	33	-	14
+09:41	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+09:41	Misc Stat > Defensive Rebound > Chase Brocker
+OLI	1	09:35	10 Tracy Edmond > Transition > Ballhandler > To Basket > Make 2 Pts	35	-	14
+09:35	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	09:09	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:09	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	09:09	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	35	-	14
+09:09	Misc Stat > Offensive Rebound > Max Hisatake
+09:04	Personal Foul > Defensive - Any > Chase Brocker
+IIT	1	09:04	22 Max Hisatake > Non Possession > Free Throw	35	-	15
+09:04	Shot > Max Hisatake > Free Throw > Made
+IIT	1	09:04	22 Max Hisatake > Non Possession > Free Throw	35	-	16
+09:04	Shot > Max Hisatake > Free Throw > Made
+09:04	Player Movement > Sub Out > Home Player > Capriest Gardner
+09:04	Player Movement > Sub In > Home Player > Parker Joncus
+OLI	1	08:48	14 Jalen Adams > ISO > Left > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	35	-	16
+08:48	Shot > Jalen Adams > Any Type > 2 Point Attempt > Miss 2 Pts
+08:48	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	08:27	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+08:27	Personal Foul > Defensive - Any > Eldridge Mason
+IIT	1	08:27	21 Jake Digiorgio > Non Possession > Free Throw	35	-	17
+08:27	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	08:27	21 Jake Digiorgio > Non Possession > Free Throw	35	-	18
+08:27	Shot > Jake Digiorgio > Free Throw > Made
+OLI	1	08:05	10 Tracy Edmond > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	38	-	18
+08:05	Shot > Tracy Edmond > Any Type > 3 Point Attempt > Make 3 Pts
+08:05	Misc Stat > Assist > Jalen Adams
+IIT	1	07:52	32 Parker Joncus > No Play Type > Turnover	38	-	18
+07:52	Turnover > Any Type > Parker Joncus
+07:50	Misc Stat > Steal > Chase Brocker
+OLI	1	07:46	35 Eldridge Mason > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	38	-	18
+07:46	Shot > Eldridge Mason > Any Type > 3 Point Attempt > Miss 3 Pts
+07:46	Misc Stat > Team Offensive Rebound > Away
+07:42	Player Movement > Sub In > Home Player > Calvin Schmitz
+07:42	Player Movement > Sub Out > Home Player > Parker Joncus
+OLI	1	07:39	11 Chase Brocker > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	41	-	18
+07:39	Shot > Chase Brocker > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	07:17	13 Calvin Schmitz > Spot-Up > Drives Left > To Basket > Miss 2 Pts	41	-	18
+07:17	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+07:17	Misc Stat > Defensive Rebound > Tracy Edmond
+OLI	1	07:10	14 Jalen Adams > Transition > Left Wing > To Basket > Foul	41	-	18
+07:10	Personal Foul > Defensive - Any > Max Hisatake
+OLI	1	07:10	14 Jalen Adams > Non Possession > Free Throw	42	-	18
+07:10	Shot > Jalen Adams > Free Throw > Made
+OLI	1	07:10	14 Jalen Adams > Non Possession > Free Throw	43	-	18
+07:10	Shot > Jalen Adams > Free Throw > Made
+07:10	Player Movement > Sub Out > Away Player > Chase Brocker
+07:10	Player Movement > Sub Out > Away Player > Sirafino Davis
+07:10	Player Movement > Sub In > Away Player > Diangelo Carlton
+07:10	Player Movement > Sub In > Away Player > Blake Siersma
+OLI	1	06:36	35 Eldridge Mason > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	43	-	18
+06:36	Shot > Eldridge Mason > Any Type > 3 Point Attempt > Miss 3 Pts
+OLI	1	06:36	5 Diangelo Carlton > Offensive Rebound > Long > Run Offense	43	-	18
+06:36	Misc Stat > Offensive Rebound > Diangelo Carlton
+OLI	1	06:23	10 Tracy Edmond > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits > Turnover	43	-	18
+06:23	Turnover > Any Type > Tracy Edmond
+06:22	Misc Stat > Steal > Malik Howze
+IIT	1	06:20	22 Max Hisatake > Transition > Leak Outs > To Basket > Miss 2 Pts	43	-	18
+06:20	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:20	Misc Stat > Defensive Rebound > Blake Siersma
+OLI	1	06:10	14 Jalen Adams > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits > Turnover	43	-	18
+06:10	Turnover > Any Type > Jalen Adams
+06:08	Misc Stat > Steal > Max Hisatake
+IIT	1	06:05	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	43	-	20
+06:05	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+06:00	Time Event > Full Time Out > Away Team
+06:00	Player Movement > Sub Out > Home Player > Jake Digiorgio
+06:00	Player Movement > Sub In > Home Player > Kohl Linder
+OLI	1	05:47	5 Diangelo Carlton > Off Screen > To Shooter's Right > Straight > To Basket > Miss 2 Pts	43	-	20
+05:47	Shot > Diangelo Carlton > Any Type > 2 Point Attempt > Miss 2 Pts
+05:47	Misc Stat > Block > Max Hisatake
+05:47	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	05:41	13 Calvin Schmitz > Transition > Right Wing > Turnover	43	-	20
+05:41	Turnover > Any Type > Calvin Schmitz
+05:40	Player Movement > Sub In > Away Player > Chase Brocker
+05:40	Player Movement > Sub In > Away Player > Griffin Lewis
+05:40	Player Movement > Sub Out > Away Player > Diangelo Carlton
+05:40	Player Movement > Sub Out > Away Player > Eldridge Mason
+OLI	1	05:16	40 Blake Siersma > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	45	-	20
+05:16	Shot > Blake Siersma > Any Type > 2 Point Attempt > Make 2 Pts
+05:16	Misc Stat > Assist > Tracy Edmond
+IIT	1	05:00	35 Kohl Linder > No Play Type > Turnover	45	-	20
+05:00	Turnover > Any Type > Kohl Linder
+04:59	Misc Stat > Steal > Jalen Adams
+OLI	1	04:57	14 Jalen Adams > Transition > Right Wing > To Basket > Make 2 Pts	47	-	20
+04:57	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+04:57	Misc Stat > Assist > Tracy Edmond
+IIT	1	04:34	22 Max Hisatake > Cut > Basket > Foul	47	-	20
+04:34	Personal Foul > Defensive - Any > Griffin Lewis
+IIT	1	04:34	22 Max Hisatake > Non Possession > Free Throw	47	-	21
+04:34	Shot > Max Hisatake > Free Throw > Made
+IIT	1	04:34	22 Max Hisatake > Non Possession > Free Throw	47	-	22
+04:34	Shot > Max Hisatake > Free Throw > Made
+04:34	Player Movement > Sub Out > Home Player > Kohl Linder
+04:34	Player Movement > Sub In > Home Player > Jake Digiorgio
+OLI	1	04:04	10 Tracy Edmond > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits > Turnover	47	-	22
+04:04	Turnover > Any Type > Tracy Edmond
+IIT	1	03:47	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+03:47	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+03:47	Misc Stat > Defensive Rebound > Chase Brocker
+OLI	1	03:27	14 Jalen Adams > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Make 2 Pts	49	-	22
+03:27	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+03:27	Misc Stat > Assist > Griffin Lewis
+IIT	1	02:59	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	49	-	22
+02:59	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	02:59	13 Calvin Schmitz > Offensive Rebound > Short > Run Offense	49	-	22
+02:59	Misc Stat > Offensive Rebound > Calvin Schmitz
+02:55	Player Movement > Sub In > Away Player > Eldridge Mason
+02:55	Player Movement > Sub Out > Home Player > Calvin Schmitz
+02:55	Player Movement > Sub In > Home Player > Parker Joncus
+02:55	Player Movement > Sub Out > Away Player > Griffin Lewis
+IIT	1	02:54	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	49	-	24
+02:54	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	1	02:41	10 Tracy Edmond > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+02:41	Shot > Eldridge Mason > Any Type > 2 Point Attempt > Make 2 Pts
+02:41	Misc Stat > Assist > Tracy Edmond
+IIT	1	02:27	2 Anthony Mosley > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+02:27	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+02:27	Misc Stat > Assist > Malik Howze
+OLI	1	01:52	10 Tracy Edmond > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	51	-	27
+01:52	Shot > Tracy Edmond > Any Type > 3 Point Attempt > Miss 3 Pts
+01:52	Misc Stat > Team Defensive Rebound > Home
+IIT	1	01:52	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Split > Defense Commits 
+01:52	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+01:52	Player Movement > Sub Out > Away Player > Jalen Adams
+01:52	Player Movement > Sub In > Away Player > Quintin Way
+01:52	Player Movement > Sub In > Away Player > Mike Williams
+01:52	Player Movement > Sub Out > Away Player > Chase Brocker
+IIT	1	01:52	32 Parker Joncus > Offensive Rebound > Long > Run Offense	51	-	27
+01:52	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	1	01:52	21 Jake Digiorgio > Spot-Up > Drives Right > To Basket > Miss 2 Pts	51	-	27
+01:52	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+01:52	Misc Stat > Defensive Rebound > Mike Williams
+OLI	1	01:52	10 Tracy Edmond > Transition > Ballhandler > To Basket > Make 2 Pts	53	-	27
+01:52	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	00:59	21 Jake Digiorgio > Cut > Flash > Turnover	53	-	27
+00:59	Turnover > Any Type > Jake Digiorgio
+00:58	Misc Stat > Steal > Mike Williams
+OLI	1	00:55	20 Mike Williams > Transition > Ballhandler > Turnover	53	-	27
+00:55	Time Event > Full Time Out > Away Team
+00:55	Turnover > Any Type > Mike Williams
+00:55	Personal Foul > Defensive - Any > Mike Williams
+IIT	1	00:55	21 Jake Digiorgio > Cut > Basket > Foul	53	-	27
+00:55	Player Movement > Sub In > Away Player > Angus Bennett
+00:55	Player Movement > Sub Out > Away Player > Eldridge Mason
+00:46	Personal Foul > Defensive - Any > Mike Williams
+IIT	1	00:46	21 Jake Digiorgio > Non Possession > Free Throw	53	-	28
+00:46	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	00:46	21 Jake Digiorgio > Non Possession > Free Throw	53	-	29
+00:46	Shot > Jake Digiorgio > Free Throw > Made
+OLI	1	00:39	10 Tracy Edmond > Non Possession > Non Shooting Foul	53	-	29
+00:39	Personal Foul > Defensive - Any > Max Hisatake
+OLI	1	00:29	30 Quintin Way > ISO > Left > Early Jumper > Long/3pt > Make 3 Pts	56	-	29
+00:29	Shot > Quintin Way > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	00:22	32 Parker Joncus > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	56	-	29
+00:22	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+00:22	Misc Stat > Team Defensive Rebound > Away
+OLI	1	00:03	10 Tracy Edmond > P&R Ball Handler > High P&R > Split > Defense Commits > Foul	56	-	29
+00:03	Personal Foul > Defensive - Any > Max Hisatake
+OLI	1	00:03	10 Tracy Edmond > Non Possession > Free Throw	56	-	29
+00:03	Shot > Tracy Edmond > Free Throw > Missed
+00:03	Misc Stat > Defensive Rebound > Parker Joncus
+OLI	2	19:44	14 Jalen Adams > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+19:44	Shot > Sirafino Davis > Any Type > 2 Point Attempt > Miss 2 Pts
+19:44	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	19:31	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	56	-	29
+19:31	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+19:31	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	19:26	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	56	-	31
+19:26	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	2	19:14	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	56	-	31
+19:14	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Miss 2 Pts
+19:14	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	19:09	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	56	-	31
+19:09	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	19:09	22 Max Hisatake > Offensive Rebound > Short > Run Offense	56	-	31
+19:09	Misc Stat > Offensive Rebound > Max Hisatake
+19:04	Player Movement > Sub In > Away Player > Chase Brocker
+19:04	Player Movement > Sub Out > Away Player > Diangelo Carlton
+19:04	Player Movement > Sub Out > Away Player > Sirafino Davis
+19:04	Player Movement > Sub In > Away Player > Blake Siersma
+IIT	2	18:53	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+18:53	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	18:53	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	56	-	31
+18:53	Misc Stat > Offensive Rebound > Jake Digiorgio
+18:45	Personal Foul > Defensive - Any > Eldridge Mason
+IIT	2	18:45	21 Jake Digiorgio > Non Possession > Free Throw	56	-	31
+18:45	Shot > Jake Digiorgio > Free Throw > Missed
+18:45	Misc Stat > Team Defensive Rebound > Home
+IIT	2	18:45	21 Jake Digiorgio > Non Possession > Free Throw	56	-	32
+18:45	Shot > Jake Digiorgio > Free Throw > Made
+OLI	2	18:40	10 Tracy Edmond > Transition > Ballhandler > To Basket > Miss 2 Pts	56	-	32
+18:40	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Miss 2 Pts
+18:40	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	18:26	21 Jake Digiorgio > Cut > Flash > Make 2 Pts	56	-	34
+18:26	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+18:26	Misc Stat > Assist > Malik Howze
+OLI	2	18:02	14 Jalen Adams > Hand Off > From Dribble > Top > Dribble Jumper > Short to < 17' > Make 2 Pts	58	-	34
+18:02	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:45	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	58	-	34
+17:45	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	17:45	32 Parker Joncus > Offensive Rebound > Long > Run Offense	58	-	34
+17:45	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	2	17:39	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	58	-	34
+17:39	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+17:39	Misc Stat > Team Defensive Rebound > Away
+17:36	Player Movement > Sub Out > Away Player > Blake Siersma
+17:36	Player Movement > Sub In > Away Player > Sirafino Davis
+17:36	Player Movement > Sub In > Away Player > John Mcadoo
+17:36	Player Movement > Sub Out > Away Player > Eldridge Mason
+OLI	2	17:29	33 John Mcadoo > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	61	-	34
+17:29	Shot > John Mcadoo > Any Type > 3 Point Attempt > Make 3 Pts
+17:29	Misc Stat > Assist > Tracy Edmond
+IIT	2	17:13	22 Max Hisatake > Cut > Basket > Miss 2 Pts	61	-	34
+17:13	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+17:13	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	17:10	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	61	-	34
+17:10	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:10	Misc Stat > Block > Sirafino Davis
+17:10	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	17:06	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	61	-	34
+17:06	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:06	Misc Stat > Team Offensive Rebound > Home
+17:06	Misc Stat > Block > Sirafino Davis
+IIT	2	16:58	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+16:58	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	16:58	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	61	-	34
+16:58	Misc Stat > Offensive Rebound > Jake Digiorgio
+16:55	Personal Foul > Defensive - Any > Chase Brocker
+16:55	Player Movement > Sub In > Away Player > Griffin Lewis
+16:55	Player Movement > Sub Out > Away Player > Chase Brocker
+IIT	2	16:41	22 Max Hisatake > Post-Up > Left Block > Defense Commits 
+16:41	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+16:41	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	16:39	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	61	-	34
+16:39	Time Event > Full Time Out > Away Team
+16:39	Personal Foul > Defensive - Any > Griffin Lewis
+IIT	2	16:39	22 Max Hisatake > Non Possession > Free Throw	61	-	34
+16:39	Shot > Max Hisatake > Free Throw > Missed
+16:39	Misc Stat > Team Defensive Rebound > Home
+IIT	2	16:39	22 Max Hisatake > Non Possession > Free Throw	61	-	35
+16:39	Shot > Max Hisatake > Free Throw > Made
+OLI	2	16:28	14 Jalen Adams > Non Possession > Non Shooting Foul	61	-	35
+16:28	Personal Foul > Defensive - Any > Parker Joncus
+OLI	2	16:26	14 Jalen Adams > Cut > Screen > Turnover	61	-	35
+16:26	Turnover > Any Type > Jalen Adams
+IIT	2	16:16	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > No Dribble Move > To Basket > Miss 2 Pts	61	-	35
+16:16	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+16:16	Misc Stat > Defensive Rebound > Sirafino Davis
+16:16	Misc Stat > Block > Sirafino Davis
+OLI	2	16:08	33 John Mcadoo > Transition > Right Wing > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	61	-	35
+16:08	Shot > John Mcadoo > Any Type > 2 Point Attempt > Miss 2 Pts
+OLI	2	16:08	32 Sirafino Davis > Offensive Rebound > Short > Run Offense	61	-	35
+16:08	Misc Stat > Offensive Rebound > Sirafino Davis
+OLI	2	16:02	44 Griffin Lewis > Cut > Flash > Miss 2 Pts	61	-	35
+16:02	Shot > Griffin Lewis > Any Type > 2 Point Attempt > Miss 2 Pts
+16:02	Misc Stat > Offensive Rebound > Jalen Adams
+OLI	2	15:59	14 Jalen Adams > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	63	-	35
+15:59	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+15:55	Player Movement > Sub Out > Away Player > Griffin Lewis
+15:55	Player Movement > Sub In > Away Player > Quintin Way
+IIT	2	15:40	3 Malik Howze > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	63	-	35
+15:40	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+15:40	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	15:38	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	63	-	37
+15:38	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	2	15:22	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:22	Shot > Sirafino Davis > Any Type > 2 Point Attempt > Miss 2 Pts
+15:22	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	15:11	21 Jake Digiorgio > Cut > Basket > Miss 2 Pts	63	-	37
+15:11	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+15:11	Misc Stat > Defensive Rebound > Jalen Adams
+OLI	2	14:57	14 Jalen Adams > ISO > Right > Drives Right > To Basket > Foul	63	-	37
+14:57	Personal Foul > Defensive - Any > Parker Joncus
+OLI	2	14:57	14 Jalen Adams > Non Possession > Free Throw	64	-	37
+14:57	Shot > Jalen Adams > Free Throw > Made
+OLI	2	14:57	14 Jalen Adams > Non Possession > Free Throw	65	-	37
+14:57	Shot > Jalen Adams > Free Throw > Made
+14:57	Player Movement > Sub Out > Away Player > John Mcadoo
+14:57	Player Movement > Sub Out > Home Player > Jake Digiorgio
+14:57	Player Movement > Sub In > Away Player > Chase Brocker
+14:57	Player Movement > Sub In > Home Player > Kohl Linder
+14:57	Player Movement > Sub In > Home Player > Jake Bruns
+14:57	Player Movement > Sub Out > Home Player > Malik Howze
+IIT	2	14:38	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	65	-	37
+14:38	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+14:38	Misc Stat > Team Offensive Rebound > Home
+IIT	2	14:34	32 Parker Joncus > Cut > Basket > Turnover	65	-	37
+14:34	Player Movement > Sub In > Away Player > Angus Bennett
+14:34	Player Movement > Sub Out > Away Player > Sirafino Davis
+14:32	Turnover > Any Type > Parker Joncus
+OLI	2	14:17	14 Jalen Adams > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+14:17	Shot > Chase Brocker > Any Type > 3 Point Attempt > Miss 3 Pts
+14:17	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	14:10	10 Jake Bruns > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	65	-	40
+14:10	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+14:10	Misc Stat > Assist > Anthony Mosley
+OLI	2	13:53	10 Tracy Edmond > Cut > Flash > Miss 2 Pts	65	-	40
+13:53	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Miss 2 Pts
+13:53	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	13:47	2 Anthony Mosley > Non Possession > Non Shooting Foul	65	-	40
+13:47	Personal Foul > Defensive - Any > Quintin Way
+IIT	2	13:47	Player Movement > Sub Out > Home Player > Parker Joncus
+13:47	Player Movement > Sub In > Home Player > Capriest Gardner
+IIT	2	13:35	22 Max Hisatake > Offensive Rebound > Long > Run Offense	65	-	40
+13:35	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	13:28	15 Capriest Gardner > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	65	-	40
+13:28	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+13:28	Misc Stat > Defensive Rebound > Jalen Adams
+OLI	2	13:01	10 Tracy Edmond > ISO > Top > Drives Right > To Basket > Make 2 Pts Foul > 0 Pts	67	-	40
+13:01	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+13:01	Personal Foul > Defensive - Any > Max Hisatake
+OLI	2	13:01	10 Tracy Edmond > Non Possession > Free Throw	67	-	40
+13:01	Shot > Tracy Edmond > Free Throw > Missed
+13:01	Player Movement > Sub Out > Home Player > Max Hisatake
+13:01	Player Movement > Sub In > Home Player > Jake Digiorgio
+13:01	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	12:59	2 Anthony Mosley > Non Possession > Non Shooting Foul	67	-	40
+12:59	Personal Foul > Defensive - Any > Quintin Way
+IIT	2	12:49	21 Jake Digiorgio > Spot-Up > Drives Straight > To Basket > Foul	67	-	40
+12:49	Personal Foul > Defensive - Any > Angus Bennett
+IIT	2	12:49	21 Jake Digiorgio > Non Possession > Free Throw	67	-	41
+12:49	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	12:49	21 Jake Digiorgio > Non Possession > Free Throw	67	-	42
+12:49	Shot > Jake Digiorgio > Free Throw > Made
+OLI	2	12:23	14 Jalen Adams > Non Possession > Non Shooting Foul	67	-	42
+12:23	Personal Foul > Defensive - Any > Capriest Gardner
+OLI	2	12:22	30 Quintin Way > No Play Type > Turnover	67	-	42
+12:22	Turnover > Any Type > Quintin Way
+12:21	Misc Stat > Steal > Anthony Mosley
+IIT	2	12:19	2 Anthony Mosley > Transition > Ballhandler > To Basket > Miss 2 Pts	67	-	42
+12:19	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+12:19	Misc Stat > Block > Chase Brocker
+12:19	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	12:14	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	67	-	44
+12:14	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	2	11:56	14 Jalen Adams > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+11:56	Shot > Chase Brocker > Any Type > 3 Point Attempt > Make 3 Pts
+11:56	Misc Stat > Assist > Jalen Adams
+IIT	2	11:38	10 Jake Bruns > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	70	-	47
+11:38	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+11:38	Misc Stat > Assist > Jake Digiorgio
+OLI	2	11:13	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:13	Shot > Angus Bennett > Any Type > 3 Point Attempt > Miss 3 Pts
+11:13	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	11:04	10 Jake Bruns > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	70	-	47
+11:04	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+11:04	Misc Stat > Defensive Rebound > Angus Bennett
+OLI	2	10:55	14 Jalen Adams > Transition > Trailer > To Basket > Make 2 Pts	72	-	47
+10:55	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+10:55	Misc Stat > Assist > Tracy Edmond
+IIT	2	10:31	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+10:31	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	2	10:18	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+10:18	Shot > Chase Brocker > Any Type > 3 Point Attempt > Miss 3 Pts
+10:18	Misc Stat > Offensive Rebound > Angus Bennett
+OLI	2	10:15	50 Angus Bennett > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	74	-	49
+10:15	Shot > Angus Bennett > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	09:58	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > To Basket > Foul	74	-	49
+09:58	Time Event > Full Time Out > Home Team
+09:58	Personal Foul > Defensive - Any > Angus Bennett
+IIT	2	09:58	2 Anthony Mosley > Non Possession > Free Throw	74	-	50
+09:58	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	09:58	2 Anthony Mosley > Non Possession > Free Throw	74	-	51
+09:58	Shot > Anthony Mosley > Free Throw > Made
+09:58	Player Movement > Sub Out > Away Player > Angus Bennett
+09:58	Player Movement > Sub In > Home Player > Calvin Schmitz
+09:58	Player Movement > Sub In > Away Player > Sirafino Davis
+09:58	Player Movement > Sub In > Home Player > Quentin Forberg
+09:58	Player Movement > Sub In > Away Player > Eldridge Mason
+09:58	Player Movement > Sub Out > Home Player > Capriest Gardner
+09:58	Player Movement > Sub Out > Away Player > Quintin Way
+09:58	Player Movement > Sub Out > Home Player > Anthony Mosley
+OLI	2	09:48	10 Tracy Edmond > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	74	-	51
+09:48	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Miss 2 Pts
+09:48	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	09:25	10 Jake Bruns > No Play Type > Turnover	74	-	51
+09:25	Turnover > Any Type > Jake Bruns
+09:24	Misc Stat > Steal > Sirafino Davis
+OLI	2	09:17	35 Eldridge Mason > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	74	-	51
+09:17	Shot > Eldridge Mason > Any Type > 3 Point Attempt > Miss 3 Pts
+09:17	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	09:08	21 Jake Digiorgio > Transition > Right Wing > To Basket > Miss 2 Pts	74	-	51
+09:08	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+09:08	Misc Stat > Defensive Rebound > Tracy Edmond
+OLI	2	09:01	35 Eldridge Mason > Transition > Right Wing > To Basket > Foul	74	-	51
+09:01	Personal Foul > Defensive - Any > Calvin Schmitz
+OLI	2	09:01	35 Eldridge Mason > Non Possession > Free Throw	75	-	51
+09:01	Shot > Eldridge Mason > Free Throw > Made
+OLI	2	09:01	35 Eldridge Mason > Non Possession > Free Throw	76	-	51
+09:01	Shot > Eldridge Mason > Free Throw > Made
+09:01	Player Movement > Sub In > Home Player > Malik Howze
+09:01	Player Movement > Sub In > Home Player > Max Hisatake
+09:01	Player Movement > Sub Out > Home Player > Jake Bruns
+09:01	Player Movement > Sub Out > Away Player > Eldridge Mason
+09:01	Player Movement > Sub Out > Home Player > Kohl Linder
+09:01	Player Movement > Sub In > Away Player > Brent Davis
+IIT	2	08:37	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:37	Turnover > Any Type > Jake Digiorgio
+08:36	Misc Stat > Steal > Brent Davis
+OLI	2	08:19	10 Tracy Edmond > ISO > Top > Drives Right > To Basket > Make 2 Pts	78	-	51
+08:19	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	08:09	3 Malik Howze > Transition > Ballhandler > To Basket > Foul	78	-	51
+08:09	Personal Foul > Defensive - Any > Sirafino Davis
+IIT	2	08:09	3 Malik Howze > Non Possession > Free Throw	78	-	51
+08:09	Shot > Malik Howze > Free Throw > Missed
+08:09	Misc Stat > Team Defensive Rebound > Home
+IIT	2	08:09	3 Malik Howze > Non Possession > Free Throw	78	-	52
+08:09	Shot > Malik Howze > Free Throw > Made
+08:09	Player Movement > Sub Out > Home Player > Calvin Schmitz
+08:09	Player Movement > Sub In > Home Player > Anthony Mosley
+OLI	2	07:44	14 Jalen Adams > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	78	-	52
+07:44	Shot > Jalen Adams > Any Type > 2 Point Attempt > Miss 2 Pts
+07:44	Misc Stat > Defensive Rebound > Jake Digiorgio
+07:19	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+07:19	Misc Stat > Assist > Anthony Mosley
+06:58	Player Movement > Sub In > Away Player > Blake Siersma
+06:58	Player Movement > Sub Out > Away Player > Chase Brocker
+06:58	Player Movement > Sub Out > Away Player > Sirafino Davis
+06:58	Player Movement > Sub In > Away Player > John Mcadoo
+IIT	2	06:53	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+06:53	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+06:53	Misc Stat > Defensive Rebound > Jalen Adams
+OLI	2	06:45	14 Jalen Adams > Transition > Right Wing > To Basket > Make 2 Pts	80	-	55
+06:45	Shot > Jalen Adams > Any Type > 2 Point Attempt > Make 2 Pts
+06:45	Misc Stat > Assist > Tracy Edmond
+IIT	2	06:30	22 Max Hisatake > Post-Up > Left Block > Defense Commits 
+06:30	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+06:30	Misc Stat > Defensive Rebound > Brent Davis
+OLI	2	06:23	40 Blake Siersma > Transition > First Middle > To Basket > Make 2 Pts	82	-	55
+06:23	Shot > Blake Siersma > Any Type > 2 Point Attempt > Make 2 Pts
+06:23	Misc Stat > Assist > Tracy Edmond
+IIT	2	06:08	21 Jake Digiorgio > Spot-Up > Drives Right > To Basket > Make 2 Pts	82	-	57
+06:08	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+OLI	2	05:44	40 Blake Siersma > No Play Type > Turnover	82	-	57
+05:44	Misc Stat > Steal > Jake Digiorgio
+05:44	Turnover > Any Type > Blake Siersma
+IIT	2	05:44	21 Jake Digiorgio > No Play Type > Foul	82	-	57
+05:44	Personal Foul > Defensive - Any > Tracy Edmond
+IIT	2	05:44	21 Jake Digiorgio > Non Possession > Free Throw	82	-	58
+05:44	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	05:44	21 Jake Digiorgio > Non Possession > Free Throw	82	-	59
+05:44	Shot > Jake Digiorgio > Free Throw > Made
+05:44	Player Movement > Sub In > Away Player > Angus Bennett
+05:44	Player Movement > Sub Out > Away Player > Blake Siersma
+OLI	2	05:39	10 Tracy Edmond > Non Possession > Non Shooting Foul	82	-	59
+05:39	Personal Foul > Defensive - Any > Quentin Forberg
+OLI	2	05:23	10 Tracy Edmond > ISO > Top > Drives Right > Foul	82	-	59
+05:23	Personal Foul > Defensive - Any > Malik Howze
+OLI	2	05:23	10 Tracy Edmond > Non Possession > Free Throw	83	-	59
+05:23	Shot > Tracy Edmond > Free Throw > Made
+OLI	2	05:23	10 Tracy Edmond > Non Possession > Free Throw	84	-	59
+05:23	Shot > Tracy Edmond > Free Throw > Made
+IIT	2	05:14	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	84	-	59
+05:14	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:14	Misc Stat > Team Offensive Rebound > Home
+IIT	2	05:04	4 Quentin Forberg > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Foul	84	-	59
+05:04	Personal Foul > Defensive - Any > John Mcadoo
+IIT	2	05:04	4 Quentin Forberg > Non Possession > Free Throw	84	-	60
+05:04	Shot > Quentin Forberg > Free Throw > Made
+IIT	2	05:04	4 Quentin Forberg > Non Possession > Free Throw	84	-	60
+05:04	Shot > Quentin Forberg > Free Throw > Missed
+05:04	Misc Stat > Defensive Rebound > John Mcadoo
+IIT	2	05:04	21 Jake Digiorgio > Transition > Leak Outs > To Basket > Make 2 Pts	84	-	62
+05:04	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+05:04	Misc Stat > Assist > Max Hisatake
+OLI	2	05:04	14 Jalen Adams > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	87	-	62
+05:04	Shot > Jalen Adams > Any Type > 3 Point Attempt > Make 3 Pts
+05:04	Misc Stat > Assist > Brent Davis
+IIT	2	05:04	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+05:04	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:04	Misc Stat > Defensive Rebound > Jalen Adams
+OLI	2	05:04	33 John Mcadoo > Transition > Leak Outs > To Basket > Make 2 Pts	89	-	62
+05:04	Shot > John Mcadoo > Any Type > 2 Point Attempt > Make 2 Pts
+05:04	Misc Stat > Assist > Jalen Adams
+IIT	2	03:47	2 Anthony Mosley > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	89	-	62
+03:47	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+03:47	Misc Stat > Defensive Rebound > Jalen Adams
+OLI	2	03:42	14 Jalen Adams > No Play Type > Turnover	89	-	62
+03:42	Turnover > Any Type > Jalen Adams
+03:42	Player Movement > Sub Out > Home Player > Jake Digiorgio
+03:42	Player Movement > Sub In > Home Player > Parker Joncus
+03:42	Player Movement > Sub In > Home Player > Jake Bruns
+03:42	Player Movement > Sub Out > Home Player > Quentin Forberg
+IIT	2	03:34	2 Anthony Mosley > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	89	-	65
+03:34	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Make 3 Pts
+03:34	Misc Stat > Assist > Max Hisatake
+OLI	2	03:21	23 Brent Davis > Transition > First Middle > To Basket > Miss 2 Pts	89	-	65
+03:21	Shot > Brent Davis > Any Type > 2 Point Attempt > Miss 2 Pts
+03:21	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	03:12	3 Malik Howze > Transition > Ballhandler > To Basket > Miss 2 Pts	89	-	65
+03:12	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+03:12	Misc Stat > Defensive Rebound > John Mcadoo
+OLI	2	03:05	10 Tracy Edmond > Transition > Right Wing > To Basket > Make 2 Pts	91	-	65
+03:05	Shot > Tracy Edmond > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:56	10 Jake Bruns > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	91	-	68
+02:56	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+02:56	Misc Stat > Assist > Malik Howze
+OLI	2	02:47	10 Tracy Edmond > Transition > Ballhandler > Foul	91	-	68
+02:47	Time Event > Full Time Out > Home Team
+02:47	Player Movement > Sub Out > Away Player > John Mcadoo
+02:47	Player Movement > Sub Out > Home Player > Malik Howze
+02:47	Player Movement > Sub In > Away Player > Mike Williams
+02:47	Player Movement > Sub In > Home Player > Kohl Linder
+02:47	Player Movement > Sub Out > Away Player > Angus Bennett
+02:47	Player Movement > Sub Out > Home Player > Max Hisatake
+02:47	Player Movement > Sub In > Away Player > Blake Siersma
+02:47	Player Movement > Sub Out > Away Player > Jalen Adams
+02:47	Player Movement > Sub In > Away Player > Chase Brocker
+02:47	Player Movement > Sub In > Home Player > Brett Ott
+02:47	Player Movement > Sub Out > Away Player > Brent Davis
+02:47	Player Movement > Sub Out > Home Player > Anthony Mosley
+02:47	Player Movement > Sub In > Away Player > Diangelo Carlton
+02:47	Player Movement > Sub In > Home Player > Calvin Schmitz
+02:43	Personal Foul > Defensive - Any > Calvin Schmitz
+OLI	2	02:43	10 Tracy Edmond > Non Possession > Free Throw	91	-	68
+02:43	Shot > Tracy Edmond > Free Throw > Missed
+02:43	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	02:30	10 Jake Bruns > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	91	-	71
+02:30	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+02:30	Misc Stat > Assist > Parker Joncus
+OLI	2	02:10	10 Tracy Edmond > ISO > Top > Drives Right > Defense Commits 
+02:10	Shot > Blake Siersma > Any Type > 2 Point Attempt > Miss 2 Pts
+02:10	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	01:57	35 Kohl Linder > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts	91	-	71
+01:57	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+01:57	Misc Stat > Defensive Rebound > Blake Siersma
+OLI	2	01:52	10 Tracy Edmond > Transition > Ballhandler > Turnover	91	-	71
+01:52	Turnover > Any Type > Tracy Edmond
+01:51	Misc Stat > Steal > Brett Ott
+IIT	2	01:49	10 Jake Bruns > Transition > Right Wing > Dribble Jumper > Long/3pt > Make 3 Pts	91	-	74
+01:49	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+01:49	Misc Stat > Assist > Brett Ott
+OLI	2	01:37	40 Blake Siersma > Cut > Basket > Foul	91	-	74
+01:37	Player Movement > Sub In > Away Player > Delbert Redfield
+01:37	Player Movement > Sub Out > Away Player > Tracy Edmond
+01:28	Personal Foul > Defensive - Any > Jake Bruns
+OLI	2	01:28	40 Blake Siersma > Non Possession > Free Throw	91	-	74
+01:28	Shot > Blake Siersma > Free Throw > Missed
+01:28	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	01:16	13 Calvin Schmitz > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	91	-	74
+01:16	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+01:16	Misc Stat > Defensive Rebound > Delbert Redfield
+OLI	2	01:04	40 Blake Siersma > Cut > Basket > Foul	91	-	74
+01:04	Player Movement > Sub In > Away Player > Eldridge Mason
+01:04	Player Movement > Sub Out > Away Player > Diangelo Carlton
+01:04	Player Movement > Sub Out > Away Player > Delbert Redfield
+01:04	Player Movement > Sub In > Away Player > Tracy Edmond
+00:59	Personal Foul > Defensive - Any > Kohl Linder
+IIT	2	00:59	10 Jake Bruns > Non Possession > Free Throw	91	-	74
+00:59	Shot > Jake Bruns > Free Throw > Missed
+00:59	Misc Stat > Team Defensive Rebound > Home
+IIT	2	00:59	10 Jake Bruns > Non Possession > Free Throw	91	-	75
+00:59	Shot > Jake Bruns > Free Throw > Made
+OLI	2	00:59	40 Blake Siersma > Non Possession > Free Throw	91	-	75
+00:59	Shot > Blake Siersma > Free Throw > Missed
+00:59	Misc Stat > Team Defensive Rebound > Away
+OLI	2	00:59	40 Blake Siersma > Non Possession > Free Throw	92	-	75
+00:59	Shot > Blake Siersma > Free Throw > Made
+IIT	2	00:46	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	92	-	75
+00:46	Turnover > Any Type > Jake Bruns
+00:45	Misc Stat > Steal > Tracy Edmond
+OLI	2	00:35	11 Chase Brocker > ISO > Right > Drives Right > To Basket > Make 2 Pts	94	-	75
+00:35	Shot > Chase Brocker > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	00:18	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:18	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	00:18	32 Parker Joncus > Offensive Rebound > Short > Foul	94	-	75
+00:18	Misc Stat > Offensive Rebound > Parker Joncus
+00:15	Personal Foul > Defensive - Any > Eldridge Mason
+IIT	2	00:15	32 Parker Joncus > Non Possession > Free Throw	94	-	76
+00:15	Shot > Parker Joncus > Free Throw > Made
+IIT	2	00:15	32 Parker Joncus > Non Possession > Free Throw	94	-	77
+00:15	Shot > Parker Joncus > Free Throw > Made

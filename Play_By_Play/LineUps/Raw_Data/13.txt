@@ -1,0 +1,725 @@
+IIT	1	19:38	21 Jake Digiorgio > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	2	-	0
+19:38	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	1	19:23	4 Corey Wheeler > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+19:23	Shot > Quinton Armstrong > Any Type > 3 Point Attempt > Miss 3 Pts
+19:23	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	18:55	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > Turnover	2	-	0
+18:55	Turnover > Any Type > Jake Bruns
+ALB	1	18:49	4 Corey Wheeler > Non Possession > Non Shooting Foul	2	-	0
+18:49	Personal Foul > Defensive - Any > Quentin Forberg
+ALB	1	18:34	54 Ryan Lowe > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+18:34	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Miss 2 Pts
+18:34	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	18:12	4 Quentin Forberg > Non Possession > Non Shooting Foul	2	-	0
+18:12	Personal Foul > Defensive - Any > Robert Ryan
+IIT	1	17:53	21 Jake Digiorgio > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	2	-	0
+17:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:53	Misc Stat > Defensive Rebound > Robert Ryan
+ALB	1	17:40	44 Quinton Armstrong > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	2	-	2
+17:40	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	17:17	4 Quentin Forberg > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	5	-	2
+17:17	Shot > Quentin Forberg > Any Type > 3 Point Attempt > Make 3 Pts
+17:17	Misc Stat > Assist > Parker Joncus
+ALB	1	16:55	54 Ryan Lowe > Non Possession > Non Shooting Foul	5	-	2
+16:55	Personal Foul > Defensive - Any > Max Hisatake
+ALB	1	16:52	4 Corey Wheeler > Non Possession > Non Shooting Foul	5	-	2
+16:52	Personal Foul > Defensive - Any > Quentin Forberg
+ALB	1	16:38	54 Ryan Lowe > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+16:38	Shot > Corey Wheeler > Any Type > 3 Point Attempt > Make 3 Pts
+16:38	Misc Stat > Assist > Robert Ryan
+IIT	1	16:21	10 Jake Bruns > No Play Type > Turnover	5	-	5
+16:21	Turnover > Any Type > Jake Bruns
+16:21	Personal Foul > Defensive - Any > Jake Bruns
+16:21	Player Movement > Sub Out > Home Player > Ryan Lowe
+16:21	Player Movement > Sub In > Home Player > Caden Ebeling
+ALB	1	16:07	44 Quinton Armstrong > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	5	-	5
+16:07	Shot > Quinton Armstrong > Any Type > 3 Point Attempt > Miss 3 Pts
+16:07	Misc Stat > Offensive Rebound > Quinton Armstrong
+ALB	1	16:02	44 Quinton Armstrong > Offensive Rebound > Long > Scoring Attempt > At Basket > Miss 2 Pts	5	-	5
+16:02	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Miss 2 Pts
+16:02	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	15:54	22 Max Hisatake > Non Possession > Non Shooting Foul	5	-	5
+15:54	Personal Foul > Defensive - Any > Caden Ebeling
+IIT	1	15:51	32 Parker Joncus > No Play Type > Turnover	5	-	5
+15:51	Misc Stat > Steal > Robert Ryan
+15:48	Turnover > Any Type > Parker Joncus
+ALB	1	15:48	3 Robert Ryan > Non Possession > Non Shooting Foul	5	-	5
+15:48	Personal Foul > Defensive - Any > Jake Bruns
+15:48	Player Movement > Sub In > Away Player > Capriest Gardner
+15:48	Player Movement > Sub Out > Home Player > Robert Ryan
+15:48	Player Movement > Sub In > Home Player > Arshawn Parker
+15:48	Player Movement > Sub Out > Away Player > Parker Joncus
+ALB	1	15:45	4 Corey Wheeler > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:45	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Miss 2 Pts
+15:45	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	15:26	Player Movement > Sub In > Away Player > Malik Howze
+15:26	Player Movement > Sub Out > Away Player > Quentin Forberg
+15:26	Player Movement > Sub In > Away Player > Kohl Linder
+15:26	Player Movement > Sub Out > Away Player > Max Hisatake
+IIT	1	15:23	21 Jake Digiorgio > Non Possession > Non Shooting Foul	5	-	5
+15:23	Personal Foul > Defensive - Any > Dylan Bennett
+IIT	1	15:20	35 Kohl Linder > No Play Type > Turnover	5	-	5
+15:20	Personal Foul > Defensive - Any > Kohl Linder
+15:20	Turnover > Any Type > Kohl Linder
+ALB	1	15:03	42 Caden Ebeling > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	5	-	7
+15:03	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Make 2 Pts
+15:03	Misc Stat > Assist > Aquavius Burks
+IIT	1	14:30	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:30	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+14:30	Misc Stat > Defensive Rebound > Aquavius Burks
+ALB	1	14:27	24 Aquavius Burks > Transition > First Middle > To Basket > Make 2 Pts Foul > 0 Pts	5	-	9
+14:27	Shot > Aquavius Burks > Any Type > 2 Point Attempt > Make 2 Pts
+14:27	Time Event > Full Time Out > Away Team
+14:27	Misc Stat > Assist > Dylan Bennett
+14:27	Personal Foul > Defensive - Any > Kohl Linder
+ALB	1	14:27	24 Aquavius Burks > Non Possession > Free Throw	5	-	9
+14:27	Shot > Aquavius Burks > Free Throw > Missed
+14:27	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	14:07	15 Capriest Gardner > ISO > Right > Drives Left > Defense Commits > Turnover	5	-	9
+14:07	Turnover > Any Type > Capriest Gardner
+14:06	Misc Stat > Steal > Arshawn Parker
+ALB	1	14:04	10 Arshawn Parker > Transition > Leak Outs > To Basket > Make 2 Pts	5	-	11
+14:04	Shot > Arshawn Parker > Any Type > 2 Point Attempt > Make 2 Pts
+14:04	Misc Stat > Assist > Corey Wheeler
+IIT	1	13:39	15 Capriest Gardner > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	5	-	11
+13:39	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:39	Misc Stat > Defensive Rebound > Caden Ebeling
+ALB	1	13:28	24 Aquavius Burks > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	5	-	13
+13:28	Shot > Aquavius Burks > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	13:08	10 Jake Bruns > ISO > Left > Drives Left > Turnover	5	-	13
+13:08	Turnover > Any Type > Jake Bruns
+13:08	Player Movement > Sub Out > Away Player > Jake Bruns
+13:08	Player Movement > Sub In > Away Player > Parker Joncus
+13:08	Player Movement > Sub Out > Away Player > Capriest Gardner
+13:08	Player Movement > Sub In > Away Player > Quentin Forberg
+13:08	Player Movement > Sub Out > Away Player > Kohl Linder
+13:08	Player Movement > Sub In > Away Player > Max Hisatake
+13:05	Player Movement > Sub In > Home Player > Ryan Lowe
+13:05	Player Movement > Sub Out > Home Player > Dylan Bennett
+13:05	Player Movement > Sub In > Home Player > Nathaniel Collins
+13:05	Player Movement > Sub Out > Home Player > Caden Ebeling
+13:05	Player Movement > Sub In > Home Player > Jaylen Fordham
+13:05	Player Movement > Sub Out > Home Player > Corey Wheeler
+ALB	1	12:56	54 Ryan Lowe > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	5	-	15
+12:56	Shot > Ryan Lowe > Any Type > 2 Point Attempt > Make 2 Pts
+12:56	Misc Stat > Assist > Aquavius Burks
+IIT	1	12:48	3 Malik Howze > Non Possession > Non Shooting Foul	5	-	15
+12:48	Personal Foul > Defensive - Any > Jaylen Fordham
+IIT	1	12:32	3 Malik Howze > Spot-Up > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	5	-	15
+12:32	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+12:32	Misc Stat > Defensive Rebound > Jaylen Fordham
+ALB	1	12:14	54 Ryan Lowe > Post-Up > Right Block > Defense Commits 
+12:14	Shot > Nathaniel Collins > Any Type > 3 Point Attempt > Miss 3 Pts
+12:14	Misc Stat > Defensive Rebound > Quentin Forberg
+IIT	1	12:04	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Long/3pt > Make 3 Pts	8	-	15
+12:04	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+ALB	1	11:42	54 Ryan Lowe > No Play Type > Turnover	8	-	15
+11:42	Turnover > Any Type > Ryan Lowe
+11:42	Personal Foul > Defensive - Any > Ryan Lowe
+11:42	Player Movement > Sub In > Home Player > Quinton Armstrong
+11:42	Player Movement > Sub In > Home Player > Robert Ryan
+11:42	Player Movement > Sub Out > Home Player > Arshawn Parker
+11:42	Player Movement > Sub Out > Home Player > Aquavius Burks
+IIT	1	11:29	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	8	-	15
+11:29	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+11:29	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	11:21	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	10	-	15
+11:21	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	1	11:10	54 Ryan Lowe > Post-Up > Right Block > Defense Commits > Turnover	10	-	15
+11:10	Turnover > Any Type > Ryan Lowe
+11:08	Misc Stat > Steal > Max Hisatake
+IIT	1	11:03	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	12	-	15
+11:03	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	1	10:35	54 Ryan Lowe > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+10:35	Shot > Robert Ryan > Any Type > 2 Point Attempt > Miss 2 Pts
+10:35	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	10:22	22 Max Hisatake > Non Possession > Non Shooting Foul	12	-	15
+10:22	Personal Foul > Defensive - Any > Nathaniel Collins
+10:22	Player Movement > Sub In > Home Player > Corey Wheeler
+10:22	Player Movement > Sub Out > Home Player > Nathaniel Collins
+10:22	Player Movement > Sub In > Home Player > Caden Ebeling
+10:22	Player Movement > Sub Out > Home Player > Ryan Lowe
+10:22	Player Movement > Sub In > Home Player > Dylan Bennett
+10:22	Player Movement > Sub Out > Home Player > Jaylen Fordham
+IIT	1	10:19	22 Max Hisatake > Cut > Screen > Make 2 Pts	14	-	15
+10:19	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+10:19	Misc Stat > Assist > Malik Howze
+ALB	1	10:00	3 Robert Ryan > ISO > Right > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	14	-	15
+10:00	Shot > Robert Ryan > Any Type > 2 Point Attempt > Miss 2 Pts
+ALB	1	10:00	3 Robert Ryan > Offensive Rebound > Long > Run Offense	14	-	15
+10:00	Misc Stat > Offensive Rebound > Robert Ryan
+ALB	1	09:52	44 Quinton Armstrong > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Turnover	14	-	15
+09:52	Turnover > Any Type > Quinton Armstrong
+09:52	Personal Foul > Defensive - Any > Quinton Armstrong
+09:52	Player Movement > Sub In > Away Player > Calvin Schmitz
+09:52	Player Movement > Sub Out > Away Player > Malik Howze
+09:40	Player Movement > Sub Out > Away Player > Quentin Forberg
+09:40	Player Movement > Sub In > Away Player > Malik Howze
+IIT	1	09:36	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	16	-	15
+09:36	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	1	09:15	44 Quinton Armstrong > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	16	-	15
+09:15	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Miss 2 Pts
+09:15	Misc Stat > Offensive Rebound > Quinton Armstrong
+ALB	1	09:13	44 Quinton Armstrong > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Make 2 Pts	16	-	17
+09:13	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	09:05	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	16	-	17
+09:05	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+09:05	Misc Stat > Defensive Rebound > Quinton Armstrong
+ALB	1	08:50	42 Caden Ebeling > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	16	-	17
+08:50	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Miss 2 Pts
+08:50	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	08:35	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Foul	16	-	17
+08:35	Personal Foul > Defensive - Any > Robert Ryan
+IIT	1	08:35	3 Malik Howze > Non Possession > Free Throw	17	-	17
+08:35	Shot > Malik Howze > Free Throw > Made
+IIT	1	08:35	3 Malik Howze > Non Possession > Free Throw	18	-	17
+08:35	Shot > Malik Howze > Free Throw > Made
+08:35	Player Movement > Sub In > Home Player > Arshawn Parker
+08:35	Player Movement > Sub Out > Away Player > Jake Digiorgio
+08:35	Player Movement > Sub In > Away Player > Kohl Linder
+08:35	Player Movement > Sub Out > Home Player > Robert Ryan
+ALB	1	08:20	10 Arshawn Parker > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:20	Shot > Caden Ebeling > Any Type > 3 Point Attempt > Make 3 Pts
+08:20	Misc Stat > Assist > Arshawn Parker
+IIT	1	07:57	13 Calvin Schmitz > No Play Type > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	18	-	20
+07:57	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+07:57	Misc Stat > Defensive Rebound > Quinton Armstrong
+ALB	1	07:44	44 Quinton Armstrong > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	18	-	22
+07:44	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Make 2 Pts
+07:44	Misc Stat > Assist > Dylan Bennett
+IIT	1	07:13	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Foul	18	-	22
+07:13	Personal Foul > Defensive - Any > Quinton Armstrong
+IIT	1	07:13	22 Max Hisatake > Non Possession > Free Throw	19	-	22
+07:13	Shot > Max Hisatake > Free Throw > Made
+IIT	1	07:13	22 Max Hisatake > Non Possession > Free Throw	20	-	22
+07:13	Shot > Max Hisatake > Free Throw > Made
+07:13	Player Movement > Sub In > Away Player > Jake Digiorgio
+07:13	Player Movement > Sub Out > Home Player > Quinton Armstrong
+07:13	Player Movement > Sub In > Home Player > Aquavius Burks
+07:13	Player Movement > Sub Out > Away Player > Kohl Linder
+ALB	1	07:05	42 Caden Ebeling > Post-Up > Left Block > Turnover	20	-	22
+07:05	Personal Foul > Defensive - Any > Caden Ebeling
+07:05	Turnover > Any Type > Caden Ebeling
+IIT	1	06:46	21 Jake Digiorgio > No Play Type > Turnover	20	-	22
+06:46	Misc Stat > Steal > Arshawn Parker
+ALB	1	06:44	24 Aquavius Burks > Transition > Leak Outs > To Basket > Make 2 Pts	20	-	24
+06:44	Shot > Aquavius Burks > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:22	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Basket > Make 2 Pts	22	-	24
+06:22	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+06:22	Misc Stat > Assist > Malik Howze
+ALB	1	06:04	42 Caden Ebeling > Post-Up > Right Block > Right Shoulder > Dribble Move > To Up and Under > Miss 2 Pts	22	-	24
+06:04	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Miss 2 Pts
+06:04	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	05:55	3 Malik Howze > No Play Type > Turnover	22	-	24
+05:55	Turnover > Any Type > Malik Howze
+05:53	Misc Stat > Steal > Aquavius Burks
+ALB	1	05:50	4 Corey Wheeler > Transition > Ballhandler > To Basket > Miss 2 Pts	22	-	24
+05:50	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Miss 2 Pts
+05:50	Misc Stat > Offensive Rebound > Caden Ebeling
+ALB	1	05:45	42 Caden Ebeling > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	22	-	26
+05:45	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	05:24	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	22	-	26
+05:24	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+05:24	Misc Stat > Defensive Rebound > Caden Ebeling
+ALB	1	05:14	24 Aquavius Burks > Post-Up > Flash Middle > Right Shoulder > Dribble Move > Defense Commits > Turnover	22	-	26
+05:14	Turnover > Any Type > Aquavius Burks
+05:14	Player Movement > Sub Out > Away Player > Calvin Schmitz
+05:14	Player Movement > Sub In > Away Player > Brett Ott
+05:12	Player Movement > Sub Out > Home Player > Caden Ebeling
+05:12	Player Movement > Sub In > Home Player > Jaylen Fordham
+IIT	1	04:48	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+04:48	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+04:48	Misc Stat > Block > Corey Wheeler
+IIT	1	04:48	22 Max Hisatake > Offensive Rebound > Long > Foul	22	-	26
+04:48	Personal Foul > Defensive - Any > Jaylen Fordham
+IIT	1	04:48	22 Max Hisatake > Non Possession > Free Throw	22	-	26
+04:48	Shot > Max Hisatake > Free Throw > Missed
+04:48	TEAM deadball rebound
+IIT	1	04:48	22 Max Hisatake > Non Possession > Free Throw	22	-	26
+04:48	Shot > Max Hisatake > Free Throw > Missed
+04:48	Misc Stat > Defensive Rebound > Ryan Lowe
+04:45	Player Movement > Sub Out > Home Player > Jaylen Fordham
+04:45	Player Movement > Sub In > Home Player > Nathaniel Collins
+ALB	1	04:31	4 Corey Wheeler > ISO > Right > Drives Left > Defense Commits 
+04:31	Shot > Arshawn Parker > Any Type > 3 Point Attempt > Make 3 Pts
+04:31	Misc Stat > Assist > Corey Wheeler
+IIT	1	04:13	20 Brett Ott > Off Screen > To Shooter's Left > Straight > Turnover	22	-	29
+04:13	Turnover > Any Type > Brett Ott
+04:11	Misc Stat > Steal > Arshawn Parker
+ALB	1	04:10	30 Nathaniel Collins > Transition > Left Wing > To Basket > Miss 2 Pts	22	-	29
+04:10	Shot > Nathaniel Collins > Any Type > 2 Point Attempt > Miss 2 Pts
+04:10	Misc Stat > Offensive Rebound > Corey Wheeler
+ALB	1	04:07	4 Corey Wheeler > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	22	-	31
+04:07	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	03:41	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Hook > Make 2 Pts	24	-	31
+03:41	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+03:41	Misc Stat > Assist > Malik Howze
+ALB	1	03:22	54 Ryan Lowe > Post-Up > Left Block > Foul	24	-	31
+03:22	Personal Foul > Defensive - Any > Max Hisatake
+ALB	1	03:22	54 Ryan Lowe > Non Possession > Free Throw	24	-	32
+03:22	Shot > Ryan Lowe > Free Throw > Made
+ALB	1	03:22	54 Ryan Lowe > Non Possession > Free Throw	24	-	33
+03:22	Shot > Ryan Lowe > Free Throw > Made
+03:22	Player Movement > Sub Out > Home Player > Ryan Lowe
+03:22	Player Movement > Sub In > Away Player > Jake Bruns
+03:22	Player Movement > Sub In > Home Player > Nathan Kellum
+03:22	Player Movement > Sub In > Away Player > Kohl Linder
+03:22	Player Movement > Sub Out > Away Player > Brett Ott
+03:22	Player Movement > Sub Out > Away Player > Max Hisatake
+IIT	1	02:53	21 Jake Digiorgio > Post-Up > Left Block > Post Pin > No Dribble Move > To Basket > Miss 2 Pts	24	-	33
+02:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:53	Misc Stat > Defensive Rebound > Aquavius Burks
+02:53	Misc Stat > Block > Nathan Kellum
+IIT	1	02:36	10 Jake Bruns > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	27	-	33
+02:36	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	02:05	32 Parker Joncus > Off Screen > To Shooter's Left > Fade > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	30	-	35
+02:05	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+02:05	Misc Stat > Assist > Jake Bruns
+ALB	1	01:47	40 Nathan Kellum > No Play Type > Foul	30	-	35
+01:47	Personal Foul > Defensive - Any > Kohl Linder
+ALB	1	01:47	40 Nathan Kellum > Non Possession > Free Throw	30	-	35
+01:47	Shot > Nathan Kellum > Free Throw > Missed
+01:47	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:38	3 Malik Howze > No Play Type > Foul	30	-	35
+01:38	Personal Foul > Defensive - Any > Nathaniel Collins
+IIT	1	01:38	3 Malik Howze > Non Possession > Free Throw	31	-	35
+01:38	Shot > Malik Howze > Free Throw > Made
+IIT	1	01:38	3 Malik Howze > Non Possession > Free Throw	32	-	35
+01:38	Shot > Malik Howze > Free Throw > Made
+01:38	Player Movement > Sub In > Home Player > Dylan Bennett
+01:38	Player Movement > Sub Out > Home Player > Nathaniel Collins
+ALB	1	01:21	40 Nathan Kellum > No Play Type > Turnover	32	-	35
+01:21	Turnover > Any Type > Nathan Kellum
+01:21	Personal Foul > Defensive - Any > Nathan Kellum
+01:21	Player Movement > Sub In > Home Player > Ryan Lowe
+01:21	Player Movement > Sub Out > Home Player > Nathan Kellum
+IIT	1	01:10	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	32	-	35
+01:10	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	01:10	15 Capriest Gardner > Offensive Rebound > Short > Run Offense	32	-	35
+01:10	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	1	01:05	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	32	-	35
+01:05	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	01:05	32 Parker Joncus > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	32	-	35
+01:05	Misc Stat > Defensive Rebound > Ryan Lowe
+ALB	1	00:55	24 Aquavius Burks > Post-Up > Left Block > Foul	32	-	35
+00:55	Personal Foul > Defensive - Any > Jake Digiorgio
+ALB	1	00:55	24 Aquavius Burks > Non Possession > Free Throw	32	-	35
+00:55	Shot > Aquavius Burks > Free Throw > Missed
+00:55	TEAM deadball rebound
+ALB	1	00:55	24 Aquavius Burks > Non Possession > Free Throw	32	-	36
+00:55	Shot > Aquavius Burks > Free Throw > Made
+IIT	1	00:38	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	34	-	36
+00:38	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	1	00:23	54 Ryan Lowe > Post-Up > Flash Middle > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	34	-	38
+00:23	Shot > Ryan Lowe > Any Type > 2 Point Attempt > Make 2 Pts
+00:23	Misc Stat > Assist > Aquavius Burks
+00:20	Player Movement > Sub Out > Away Player > Kohl Linder
+00:20	Player Movement > Sub In > Away Player > Max Hisatake
+00:20	Player Movement > Sub Out > Home Player > Ryan Lowe
+00:20	Player Movement > Sub In > Home Player > Nathan Kellum
+IIT	1	00:04	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:04	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+00:04	Misc Stat > Assist > Malik Howze
+ALB	1	00:00	10 Arshawn Parker > No Play Type > Dribble Jumper > Long/3pt > Miss 3 Pts	37	-	38
+00:00	Shot > Arshawn Parker > Any Type > 3 Point Attempt > Miss 3 Pts
+00:00	TEAM deadball rebound
+ALB	2	19:47	44 Quinton Armstrong > Cut > Screen > Make 2 Pts	37	-	40
+19:47	Shot > Quinton Armstrong > Any Type > 2 Point Attempt > Make 2 Pts
+19:47	Misc Stat > Assist > Dylan Bennett
+IIT	2	19:17	22 Max Hisatake > Off Screen > To Shooter's Left > Straight > Turnover	37	-	40
+19:17	Turnover > Any Type > Max Hisatake
+19:15	Misc Stat > Steal > Corey Wheeler
+ALB	2	19:14	3 Robert Ryan > Transition > Ballhandler > To Basket > Foul	37	-	40
+19:14	Personal Foul > Defensive - Any > Jake Bruns
+ALB	2	19:14	3 Robert Ryan > Non Possession > Free Throw	37	-	41
+19:14	Shot > Robert Ryan > Free Throw > Made
+ALB	2	19:14	3 Robert Ryan > Non Possession > Free Throw	37	-	42
+19:14	Shot > Robert Ryan > Free Throw > Made
+19:14	Player Movement > Sub In > Away Player > Malik Howze
+19:14	Player Movement > Sub Out > Away Player > Parker Joncus
+19:00	Player Movement > Sub Out > Away Player > Max Hisatake
+19:00	Player Movement > Sub In > Away Player > Parker Joncus
+IIT	2	18:50	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+18:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:50	Misc Stat > Defensive Rebound > Ryan Lowe
+18:50	Misc Stat > Block > Ryan Lowe
+ALB	2	18:40	44 Quinton Armstrong > Post-Up > Right Block > Turnover	37	-	42
+18:40	Personal Foul > Defensive - Any > Quinton Armstrong
+18:40	Turnover > Any Type > Quinton Armstrong
+IIT	2	18:30	Player Movement > Sub Out > Away Player > Quentin Forberg
+18:30	Player Movement > Sub In > Away Player > Max Hisatake
+IIT	2	18:29	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+18:29	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+18:29	Misc Stat > Assist > Malik Howze
+ALB	2	18:07	54 Ryan Lowe > Non Possession > Non Shooting Foul	39	-	42
+18:07	Personal Foul > Defensive - Any > Max Hisatake
+ALB	2	18:07	44 Quinton Armstrong > No Play Type > Turnover	39	-	42
+18:03	Turnover > Any Type > Quinton Armstrong
+18:02	Misc Stat > Steal > Jake Digiorgio
+IIT	2	18:00	21 Jake Digiorgio > Transition > Ballhandler > Turnover	39	-	42
+18:00	Turnover > Any Type > Jake Digiorgio
+17:59	Misc Stat > Steal > Corey Wheeler
+ALB	2	17:54	4 Corey Wheeler > Transition > Right Wing > To Basket > Make 2 Pts Foul > 1 Pts	39	-	44
+17:54	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts
+17:54	Personal Foul > Defensive - Any > Jake Digiorgio
+ALB	2	17:54	4 Corey Wheeler > Non Possession > Free Throw	39	-	45
+17:54	Shot > Corey Wheeler > Free Throw > Made
+17:54	Player Movement > Sub In > Home Player > Aquavius Burks
+17:54	Player Movement > Sub Out > Home Player > Quinton Armstrong
+IIT	2	17:25	21 Jake Digiorgio > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Basket > Make 2 Pts	41	-	45
+17:25	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+17:25	Misc Stat > Assist > Max Hisatake
+ALB	2	17:05	4 Corey Wheeler > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	41	-	45
+17:05	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Miss 2 Pts
+17:05	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	16:52	22 Max Hisatake > Post-Up > Left Block > Defense Commits 
+16:52	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+ALB	2	16:50	4 Corey Wheeler > Non Possession > Non Shooting Foul	44	-	45
+16:50	Player Movement > Sub In > Home Player > Caden Ebeling
+16:50	Player Movement > Sub Out > Home Player > Ryan Lowe
+16:48	Personal Foul > Defensive - Any > Jake Digiorgio
+16:40	Player Movement > Sub Out > Away Player > Max Hisatake
+16:40	Player Movement > Sub In > Away Player > Kohl Linder
+ALB	2	16:24	3 Robert Ryan > ISO > Right > Drives Left > To Basket > Miss 2 Pts	44	-	45
+16:24	Shot > Robert Ryan > Any Type > 2 Point Attempt > Miss 2 Pts
+ALB	2	16:24	3 Robert Ryan > Offensive Rebound > Short > Run Offense	44	-	45
+16:24	Misc Stat > Offensive Rebound > Robert Ryan
+ALB	2	16:04	42 Caden Ebeling > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Foul	44	-	45
+16:04	Personal Foul > Defensive - Any > Kohl Linder
+ALB	2	16:04	42 Caden Ebeling > Non Possession > Free Throw	44	-	46
+16:04	Shot > Caden Ebeling > Free Throw > Made
+ALB	2	16:04	42 Caden Ebeling > Non Possession > Free Throw	44	-	47
+16:04	Shot > Caden Ebeling > Free Throw > Made
+16:04	Player Movement > Sub Out > Away Player > Kohl Linder
+16:04	Player Movement > Sub In > Away Player > Max Hisatake
+IIT	2	15:47	22 Max Hisatake > Post-Up > Left Block > Post Pin > No Dribble Move > To Basket > Make 2 Pts	46	-	47
+15:47	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+15:47	Misc Stat > Assist > Jake Bruns
+ALB	2	15:29	24 Aquavius Burks > No Play Type > Turnover	46	-	47
+15:29	Turnover > Any Type > Aquavius Burks
+15:29	Personal Foul > Defensive - Any > Aquavius Burks
+IIT	2	15:21	10 Jake Bruns > Non Possession > Non Shooting Foul	46	-	47
+15:21	Personal Foul > Defensive - Any > Robert Ryan
+IIT	2	15:12	32 Parker Joncus > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Medium/17' to <3p > Foul	46	-	47
+15:12	Personal Foul > Defensive - Any > Dylan Bennett
+IIT	2	15:12	32 Parker Joncus > Non Possession > Free Throw	47	-	47
+15:12	Shot > Parker Joncus > Free Throw > Made
+IIT	2	15:12	32 Parker Joncus > Non Possession > Free Throw	48	-	47
+15:12	Shot > Parker Joncus > Free Throw > Made
+15:12	Player Movement > Sub Out > Home Player > Robert Ryan
+15:12	Player Movement > Sub In > Home Player > Jaylen Fordham
+15:12	Player Movement > Sub In > Home Player > Arshawn Parker
+15:12	Player Movement > Sub Out > Home Player > Dylan Bennett
+ALB	2	14:52	42 Caden Ebeling > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	48	-	47
+14:52	Turnover > Any Type > Caden Ebeling
+IIT	2	14:34	22 Max Hisatake > Cut > Screen > Make 2 Pts	50	-	47
+14:34	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+14:34	Misc Stat > Assist > Jake Bruns
+ALB	2	14:07	24 Aquavius Burks > ISO > Right > Drives Left > Dribble Jumper > Long/3pt > Make 3 Pts	50	-	50
+14:07	Shot > Aquavius Burks > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	13:42	3 Malik Howze > No Play Type > Turnover	50	-	50
+13:42	Turnover > Any Type > Malik Howze
+13:40	Misc Stat > Steal > Aquavius Burks
+ALB	2	13:38	24 Aquavius Burks > Transition > Ballhandler > To Basket > Foul	50	-	50
+13:38	Personal Foul > Defensive - Any > Max Hisatake
+ALB	2	13:38	24 Aquavius Burks > Non Possession > Free Throw	50	-	51
+13:38	Shot > Aquavius Burks > Free Throw > Made
+13:38	Time Event > Full Time Out > Away Team
+ALB	2	13:38	24 Aquavius Burks > Non Possession > Free Throw	50	-	52
+13:38	Shot > Aquavius Burks > Free Throw > Made
+13:38	Player Movement > Sub In > Home Player > Quinton Armstrong
+13:38	Player Movement > Sub Out > Home Player > Caden Ebeling
+13:38	Player Movement > Sub Out > Away Player > Max Hisatake
+13:38	Player Movement > Sub Out > Home Player > Aquavius Burks
+13:38	Player Movement > Sub In > Away Player > Kohl Linder
+13:38	Player Movement > Sub In > Home Player > Ryan Lowe
+IIT	2	13:07	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Turnover	50	-	52
+13:07	Turnover > Any Type > Malik Howze
+ALB	2	12:48	54 Ryan Lowe > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Turnover	50	-	52
+12:48	Turnover > Any Type > Ryan Lowe
+IIT	2	12:34	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	50	-	52
+12:34	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+12:34	Misc Stat > Defensive Rebound > Ryan Lowe
+ALB	2	12:22	4 Corey Wheeler > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	50	-	52
+12:22	Shot > Corey Wheeler > Any Type > 3 Point Attempt > Miss 3 Pts
+12:22	Misc Stat > Team Defensive Rebound > Away
+IIT	2	11:59	32 Parker Joncus > Off Screen > To Shooter's Left > Curl > No Dribble Jumper > Open > Short to < 17' > Foul	50	-	52
+11:59	Personal Foul > Defensive - Any > Jaylen Fordham
+IIT	2	11:59	32 Parker Joncus > Non Possession > Free Throw	50	-	52
+11:59	Shot > Parker Joncus > Free Throw > Missed
+11:59	TEAM deadball rebound
+IIT	2	11:59	32 Parker Joncus > Non Possession > Free Throw	51	-	52
+11:59	Shot > Parker Joncus > Free Throw > Made
+ALB	2	11:32	54 Ryan Lowe > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	51	-	52
+11:32	Shot > Ryan Lowe > Any Type > 2 Point Attempt > Miss 2 Pts
+11:32	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	11:22	3 Malik Howze > ISO > Top > Drives Right > Defense Commits > Turnover	51	-	52
+11:22	Turnover > Any Type > Malik Howze
+11:20	Misc Stat > Steal > Corey Wheeler
+ALB	2	11:17	10 Arshawn Parker > Transition > Left Wing > To Basket > Make 2 Pts	51	-	54
+11:17	Shot > Arshawn Parker > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	10:48	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Split > Turnover	51	-	54
+10:48	Turnover > Any Type > Malik Howze
+10:45	Misc Stat > Steal > Jaylen Fordham
+ALB	2	10:45	20 Jaylen Fordham > Transition > Ballhandler > Foul	51	-	54
+10:45	Personal Foul > Defensive - Any > Malik Howze
+ALB	2	10:45	20 Jaylen Fordham > Non Possession > Free Throw	51	-	54
+10:45	Shot > Jaylen Fordham > Free Throw > Missed
+10:45	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	10:45	35 Kohl Linder > No Play Type > Turnover	51	-	54
+10:45	Player Movement > Sub Out > Away Player > Jake Bruns
+10:45	Player Movement > Sub In > Home Player > Robert Ryan
+10:45	Player Movement > Sub In > Away Player > Capriest Gardner
+10:45	Player Movement > Sub Out > Home Player > Arshawn Parker
+10:45	Player Movement > Sub In > Home Player > Dylan Bennett
+10:45	Player Movement > Sub Out > Home Player > Corey Wheeler
+10:45	Player Movement > Sub In > Home Player > Aquavius Burks
+10:45	Player Movement > Sub Out > Home Player > Ryan Lowe
+10:40	Player Movement > Sub In > Away Player > Jake Bruns
+10:40	Player Movement > Sub Out > Away Player > Parker Joncus
+10:34	Turnover > Any Type > Kohl Linder
+10:34	Personal Foul > Defensive - Any > Kohl Linder
+10:34	Player Movement > Sub In > Away Player > Max Hisatake
+10:34	Player Movement > Sub Out > Away Player > Kohl Linder
+ALB	2	10:15	24 Aquavius Burks > ISO > Right > Early Jumper > Medium/17' to <3p > Miss 2 Pts	51	-	54
+10:15	Shot > Aquavius Burks > Any Type > 2 Point Attempt > Miss 2 Pts
+10:15	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	10:02	22 Max Hisatake > Post-Up > Right Block > Face-up > Drive Baseline > Miss 2 Pts	51	-	54
+10:02	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+10:02	Personal Foul > Defensive - Any > Quinton Armstrong
+10:02	Misc Stat > Team Offensive Rebound > Away
+10:02	Player Movement > Sub In > Home Player > Caden Ebeling
+10:02	Player Movement > Sub Out > Home Player > Quinton Armstrong
+IIT	2	09:57	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > To Basket > Make 2 Pts	53	-	54
+09:57	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+09:57	Misc Stat > Assist > Malik Howze
+ALB	2	09:34	12 Dylan Bennett > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+09:34	Turnover > Any Type > Aquavius Burks
+09:32	Misc Stat > Steal > Jake Digiorgio
+IIT	2	09:21	22 Max Hisatake > No Play Type > Foul	53	-	54
+09:21	Personal Foul > Defensive - Any > Caden Ebeling
+IIT	2	09:21	22 Max Hisatake > Non Possession > Free Throw	54	-	54
+09:21	Shot > Max Hisatake > Free Throw > Made
+IIT	2	09:21	22 Max Hisatake > Non Possession > Free Throw	54	-	54
+09:21	Shot > Max Hisatake > Free Throw > Missed
+09:21	Misc Stat > Defensive Rebound > Dylan Bennett
+ALB	2	08:58	42 Caden Ebeling > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	54	-	54
+08:58	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Miss 2 Pts
+08:58	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	08:57	22 Max Hisatake > No Play Type > Foul	54	-	54
+08:57	Personal Foul > Defensive - Any > Aquavius Burks
+IIT	2	08:57	22 Max Hisatake > Non Possession > Free Throw	55	-	54
+08:57	Shot > Max Hisatake > Free Throw > Made
+IIT	2	08:57	22 Max Hisatake > Non Possession > Free Throw	56	-	54
+08:57	Shot > Max Hisatake > Free Throw > Made
+08:56	Player Movement > Sub Out > Away Player > Max Hisatake
+08:56	Player Movement > Sub In > Away Player > Parker Joncus
+ALB	2	08:34	42 Caden Ebeling > Post-Up > Left Block > Defense Commits 
+08:34	Shot > Jaylen Fordham > Any Type > 3 Point Attempt > Make 3 Pts
+08:34	Misc Stat > Assist > Robert Ryan
+IIT	2	08:01	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:01	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+ALB	2	07:53	42 Caden Ebeling > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+07:53	Shot > Dylan Bennett > Any Type > 3 Point Attempt > Miss 3 Pts
+07:53	Misc Stat > Offensive Rebound > Caden Ebeling
+ALB	2	07:49	42 Caden Ebeling > Offensive Rebound > Long > Scoring Attempt > Short to < 17' > Miss 2 Pts	59	-	57
+07:49	Shot > Caden Ebeling > Any Type > 2 Point Attempt > Miss 2 Pts
+07:49	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	07:26	32 Parker Joncus > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	59	-	57
+07:26	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+07:26	Misc Stat > Defensive Rebound > Robert Ryan
+ALB	2	07:24	3 Robert Ryan > No Play Type > Foul	59	-	57
+07:24	Personal Foul > Defensive - Any > Jake Bruns
+ALB	2	07:24	3 Robert Ryan > Non Possession > Free Throw	59	-	57
+07:24	Shot > Robert Ryan > Free Throw > Missed
+07:24	Player Movement > Sub Out > Home Player > Dylan Bennett
+07:24	Misc Stat > Defensive Rebound > Jake Digiorgio
+07:24	Player Movement > Sub In > Home Player > Corey Wheeler
+07:24	Player Movement > Sub Out > Away Player > Jake Bruns
+07:24	Player Movement > Sub In > Away Player > Quentin Forberg
+IIT	2	07:17	32 Parker Joncus > Transition > Right Wing > To Basket > Make 2 Pts	61	-	57
+07:17	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+07:17	Misc Stat > Assist > Malik Howze
+07:10	Player Movement > Sub In > Home Player > Arshawn Parker
+07:10	Player Movement > Sub Out > Home Player > Robert Ryan
+ALB	2	06:57	4 Corey Wheeler > Post-Up > Flash Middle > Face-up > Drives Right > Miss 2 Pts	61	-	57
+06:57	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Miss 2 Pts
+06:57	Misc Stat > Team Offensive Rebound > Home
+06:57	Misc Stat > Block > Max Hisatake
+06:56	Player Movement > Sub In > Home Player > Ryan Lowe
+06:56	Player Movement > Sub Out > Away Player > Parker Joncus
+06:56	Player Movement > Sub In > Away Player > Max Hisatake
+06:56	Player Movement > Sub Out > Home Player > Caden Ebeling
+ALB	2	06:50	4 Corey Wheeler > Post-Up > Flash Middle > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	61	-	59
+06:50	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts
+06:50	Misc Stat > Assist > Ryan Lowe
+IIT	2	06:36	4 Quentin Forberg > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+06:36	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+06:36	Misc Stat > Assist > Malik Howze
+ALB	2	06:22	54 Ryan Lowe > No Play Type > Turnover	63	-	59
+06:22	Turnover > Any Type > Ryan Lowe
+06:22	Personal Foul > Defensive - Any > Ryan Lowe
+IIT	2	06:09	4 Quentin Forberg > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	63	-	59
+06:09	Turnover > Any Type > Quentin Forberg
+ALB	2	05:59	10 Arshawn Parker > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+05:59	Shot > Aquavius Burks > Any Type > 3 Point Attempt > Miss 3 Pts
+ALB	2	05:59	20 Jaylen Fordham > Offensive Rebound > Long > Run Offense	63	-	59
+05:59	Misc Stat > Offensive Rebound > Jaylen Fordham
+ALB	2	05:43	42 Caden Ebeling > Post-Up > Left Block > Defense Commits 
+05:43	Shot > Aquavius Burks > Any Type > 3 Point Attempt > Make 3 Pts
+05:43	Misc Stat > Assist > Ryan Lowe
+IIT	2	05:27	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Foul	63	-	62
+05:27	Personal Foul > Defensive - Any > Corey Wheeler
+IIT	2	05:27	3 Malik Howze > Non Possession > Free Throw	64	-	62
+05:27	Shot > Malik Howze > Free Throw > Made
+IIT	2	05:27	3 Malik Howze > Non Possession > Free Throw	65	-	62
+05:27	Shot > Malik Howze > Free Throw > Made
+05:27	Player Movement > Sub Out > Away Player > Quentin Forberg
+05:27	Player Movement > Sub Out > Home Player > Ryan Lowe
+05:27	Player Movement > Sub In > Away Player > Parker Joncus
+05:27	Player Movement > Sub In > Home Player > Quinton Armstrong
+05:27	Player Movement > Sub In > Away Player > Jake Bruns
+05:27	Player Movement > Sub Out > Away Player > Max Hisatake
+ALB	2	05:03	10 Arshawn Parker > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	65	-	62
+05:03	Shot > Arshawn Parker > Any Type > 3 Point Attempt > Miss 3 Pts
+ALB	2	05:03	44 Quinton Armstrong > Offensive Rebound > Long > Run Offense	65	-	62
+05:03	Misc Stat > Offensive Rebound > Quinton Armstrong
+ALB	2	04:57	24 Aquavius Burks > Spot-Up > Drives Right > Foul	65	-	62
+04:57	Personal Foul > Defensive - Any > Capriest Gardner
+ALB	2	04:57	24 Aquavius Burks > Non Possession > Free Throw	65	-	63
+04:57	Shot > Aquavius Burks > Free Throw > Made
+ALB	2	04:57	24 Aquavius Burks > Non Possession > Free Throw	65	-	64
+04:57	Shot > Aquavius Burks > Free Throw > Made
+04:57	Player Movement > Sub In > Home Player > Robert Ryan
+04:57	Player Movement > Sub Out > Away Player > Capriest Gardner
+04:57	Player Movement > Sub In > Away Player > Max Hisatake
+04:57	Player Movement > Sub Out > Home Player > Arshawn Parker
+IIT	2	04:34	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Foul	65	-	64
+04:34	Personal Foul > Defensive - Any > Quinton Armstrong
+IIT	2	04:34	3 Malik Howze > Non Possession > Free Throw	66	-	64
+04:34	Shot > Malik Howze > Free Throw > Made
+IIT	2	04:34	3 Malik Howze > Non Possession > Free Throw	67	-	64
+04:34	Shot > Malik Howze > Free Throw > Made
+04:34	Player Movement > Sub Out > Home Player > Quinton Armstrong
+04:34	Player Movement > Sub In > Home Player > Caden Ebeling
+ALB	2	04:22	4 Corey Wheeler > P&R Ball Handler > High P&R > Dribble Off Pick > Foul	67	-	64
+04:22	Personal Foul > Defensive - Any > Malik Howze
+ALB	2	04:22	4 Corey Wheeler > Non Possession > Free Throw	67	-	65
+04:22	Shot > Corey Wheeler > Free Throw > Made
+ALB	2	04:22	4 Corey Wheeler > Non Possession > Free Throw	67	-	66
+04:22	Shot > Corey Wheeler > Free Throw > Made
+IIT	2	04:11	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	67	-	66
+04:11	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+04:11	Misc Stat > Defensive Rebound > Caden Ebeling
+ALB	2	03:51	24 Aquavius Burks > Post-Up > Left Block > Foul	67	-	66
+03:51	Personal Foul > Defensive - Any > Max Hisatake
+ALB	2	03:51	24 Aquavius Burks > Non Possession > Free Throw	67	-	66
+03:51	Shot > Aquavius Burks > Free Throw > Missed
+03:51	TEAM deadball rebound
+ALB	2	03:51	24 Aquavius Burks > Non Possession > Free Throw	67	-	66
+03:51	Shot > Aquavius Burks > Free Throw > Missed
+03:51	Player Movement > Sub In > Away Player > Capriest Gardner
+03:51	Misc Stat > Defensive Rebound > Jake Digiorgio
+03:51	Player Movement > Sub Out > Away Player > Max Hisatake
+IIT	2	03:31	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	70	-	66
+03:31	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+03:17	Player Movement > Sub Out > Home Player > Robert Ryan
+03:17	Player Movement > Sub In > Home Player > Dylan Bennett
+ALB	2	03:11	4 Corey Wheeler > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	70	-	68
+03:11	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts
+03:11	Misc Stat > Assist > Dylan Bennett
+03:10	Time Event > Full Time Out > Home Team
+IIT	2	03:10	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+03:10	Player Movement > Sub Out > Home Player > Dylan Bennett
+03:10	Player Movement > Sub In > Home Player > Robert Ryan
+03:01	Personal Foul > Defensive - Any > Robert Ryan
+IIT	2	03:01	21 Jake Digiorgio > Non Possession > Free Throw	71	-	68
+03:01	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	03:01	21 Jake Digiorgio > Non Possession > Free Throw	71	-	68
+03:01	Shot > Jake Digiorgio > Free Throw > Missed
+03:01	Player Movement > Sub In > Home Player > Ryan Lowe
+03:01	Misc Stat > Defensive Rebound > Ryan Lowe
+03:01	Player Movement > Sub Out > Home Player > Caden Ebeling
+ALB	2	02:49	4 Corey Wheeler > Post-Up > Left Block > Foul	71	-	68
+02:49	Personal Foul > Defensive - Any > Malik Howze
+ALB	2	02:49	4 Corey Wheeler > Non Possession > Free Throw	71	-	69
+02:49	Shot > Corey Wheeler > Free Throw > Made
+ALB	2	02:49	4 Corey Wheeler > Non Possession > Free Throw	71	-	70
+02:49	Shot > Corey Wheeler > Free Throw > Made
+02:49	Player Movement > Sub Out > Home Player > Ryan Lowe
+02:49	Player Movement > Sub In > Home Player > Caden Ebeling
+IIT	2	02:36	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Foul	71	-	70
+02:36	Personal Foul > Defensive - Any > Corey Wheeler
+IIT	2	02:36	3 Malik Howze > Non Possession > Free Throw	71	-	70
+02:36	Shot > Malik Howze > Free Throw > Missed
+02:36	TEAM deadball rebound
+IIT	2	02:36	3 Malik Howze > Non Possession > Free Throw	72	-	70
+02:36	Shot > Malik Howze > Free Throw > Made
+02:36	Player Movement > Sub In > Home Player > Ryan Lowe
+02:36	Player Movement > Sub Out > Home Player > Caden Ebeling
+ALB	2	02:19	24 Aquavius Burks > No Play Type > Turnover	72	-	70
+02:19	Turnover > Any Type > Aquavius Burks
+02:17	Misc Stat > Steal > Jake Digiorgio
+IIT	2	02:04	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+02:04	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+02:04	Misc Stat > Assist > Malik Howze
+ALB	2	01:45	54 Ryan Lowe > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	74	-	72
+01:45	Shot > Ryan Lowe > Any Type > 2 Point Attempt > Make 2 Pts
+01:45	Misc Stat > Assist > Jaylen Fordham
+01:43	Time Event > Full Time Out > Home Team
+01:43	Player Movement > Sub Out > Home Player > Ryan Lowe
+01:43	Player Movement > Sub In > Home Player > Caden Ebeling
+IIT	2	01:26	15 Capriest Gardner > Cut > Flash > Miss 2 Pts	74	-	72
+01:26	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+01:26	Misc Stat > Offensive Rebound > Jake Bruns
+IIT	2	01:22	10 Jake Bruns > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	76	-	72
+01:22	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+ALB	2	01:01	4 Corey Wheeler > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+01:01	Shot > Jaylen Fordham > Any Type > 3 Point Attempt > Miss 3 Pts
+01:01	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	00:37	3 Malik Howze > Spot-Up > Drives Left > Foul	76	-	72
+00:37	Personal Foul > Defensive - Any > Jaylen Fordham
+IIT	2	00:37	3 Malik Howze > Non Possession > Free Throw	77	-	72
+00:37	Shot > Malik Howze > Free Throw > Made
+IIT	2	00:37	3 Malik Howze > Non Possession > Free Throw	78	-	72
+00:37	Shot > Malik Howze > Free Throw > Made
+ALB	2	00:35	24 Aquavius Burks > No Play Type > Turnover	78	-	72
+00:35	Turnover > Any Type > Aquavius Burks
+00:34	Misc Stat > Steal > Malik Howze
+IIT	2	00:32	3 Malik Howze > No Play Type > Foul	78	-	72
+00:32	Personal Foul > Defensive - Any > Robert Ryan
+IIT	2	00:32	3 Malik Howze > Non Possession > Free Throw	79	-	72
+00:32	Shot > Malik Howze > Free Throw > Made
+IIT	2	00:32	3 Malik Howze > Non Possession > Free Throw	80	-	72
+00:32	Shot > Malik Howze > Free Throw > Made
+00:32	Player Movement > Sub Out > Home Player > Robert Ryan
+00:32	Player Movement > Sub In > Home Player > Arshawn Parker
+ALB	2	00:30	20 Jaylen Fordham > Transition > Right Wing > Dribble Jumper > Long/3pt > Miss 3 Pts	80	-	72
+00:30	Shot > Jaylen Fordham > Any Type > 3 Point Attempt > Miss 3 Pts
+ALB	2	00:30	42 Caden Ebeling > Offensive Rebound > Short > Foul	80	-	72
+00:30	Misc Stat > Offensive Rebound > Caden Ebeling
+00:27	Personal Foul > Defensive - Any > Capriest Gardner
+ALB	2	00:27	42 Caden Ebeling > Non Possession > Free Throw	80	-	73
+00:27	Shot > Caden Ebeling > Free Throw > Made
+ALB	2	00:27	42 Caden Ebeling > Non Possession > Free Throw	80	-	74
+00:27	Shot > Caden Ebeling > Free Throw > Made
+IIT	2	00:16	32 Parker Joncus > No Play Type > Foul	80	-	74
+00:16	Personal Foul > Defensive - Any > Aquavius Burks
+IIT	2	00:16	32 Parker Joncus > Non Possession > Free Throw	81	-	74
+00:16	Shot > Parker Joncus > Free Throw > Made
+IIT	2	00:16	32 Parker Joncus > Non Possession > Free Throw	81	-	74
+00:16	Shot > Parker Joncus > Free Throw > Missed
+00:16	Misc Stat > Defensive Rebound > Caden Ebeling
+ALB	2	00:10	4 Corey Wheeler > Transition > Ballhandler > To Basket > Make 2 Pts	81	-	76
+00:10	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts
+00:10	Time Event > Full Time Out > Home Team
+IIT	2	00:10	3 Malik Howze > No Play Type > Foul	81	-	76
+00:10	Player Movement > Sub Out > Home Player > Arshawn Parker
+00:10	Player Movement > Sub In > Home Player > Dylan Bennett
+00:06	Personal Foul > Defensive - Any > Dylan Bennett
+IIT	2	00:06	3 Malik Howze > Non Possession > Free Throw	82	-	76
+00:06	Shot > Malik Howze > Free Throw > Made
+IIT	2	00:06	3 Malik Howze > Non Possession > Free Throw	83	-	76
+00:06	Shot > Malik Howze > Free Throw > Made
+ALB	2	00:04	4 Corey Wheeler > Transition > Ballhandler > To Basket > Make 2 Pts	83	-	78
+00:04	Shot > Corey Wheeler > Any Type > 2 Point Attempt > Make 2 Pts

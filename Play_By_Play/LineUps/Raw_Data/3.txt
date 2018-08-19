@@ -1,0 +1,562 @@
+IIT	1	19:42	22 Max Hisatake > Cut > Screen > Turnover			
+19:42	Turnover > Any Type > Max Hisatake
+19:41	Misc Stat > Steal > Andrew Wojcik
+Dom	1	19:36	33 Connor Dartt > Transition > Right Wing > To Basket > Turnover			
+19:36	Turnover > Any Type > Connor Dartt
+19:36	Personal Foul > Defensive - Any > Connor Dartt
+IIT	1	19:23	22 Max Hisatake > Non Possession > Non Shooting Foul			
+19:23	Player Movement > Sub In > Away Player > Rory Cunningham
+19:23	Personal Foul > Defensive - Any > Connor Dartt
+19:23	Player Movement > Sub Out > Away Player > Connor Dartt
+IIT	1	19:05	10 Jake Bruns > Hand Off > From Dribble > Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts			
+19:05	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+19:05	Misc Stat > Defensive Rebound > Rory Cunningham
+Dom	1	19:00	20 Rory Cunningham > No Play Type > Turnover			
+19:00	Turnover > Any Type > Rory Cunningham
+IIT	1	18:49	22 Max Hisatake > No Play Type > Turnover			
+18:49	Personal Foul > Defensive - Any > Max Hisatake
+18:49	Turnover > Any Type > Max Hisatake
+Dom	1	18:41	10 Andrew Wojcik > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+18:41	Shot > Nick Lavere > Any Type > 3 Point Attempt > Miss 3 Pts
+18:41	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	18:28	13 Calvin Schmitz > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+18:28	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+18:28	Misc Stat > Assist > Calvin Schmitz
+18:28	Personal Foul > Defensive - Any > Andrew Wojcik
+IIT	1	18:28	22 Max Hisatake > Non Possession > Free Throw	0	-	2
+18:28	Shot > Max Hisatake > Free Throw > Missed
+18:28	Misc Stat > Defensive Rebound > Nick Lavere
+Dom	1	18:13	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+18:13	Shot > Rory Cunningham > Any Type > 2 Point Attempt > Miss 2 Pts
+18:13	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	17:50	13 Calvin Schmitz > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+17:50	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:50	Misc Stat > Defensive Rebound > Jonny Woolf
+Dom	1	17:42	3 Nick LaVere > Transition > Ballhandler > To Basket > Foul	0	-	2
+17:42	Personal Foul > Defensive - Any > Max Hisatake
+Dom	1	17:42	3 Nick LaVere > Non Possession > Free Throw	1	-	2
+17:42	Shot > Nick Lavere > Free Throw > Made
+Dom	1	17:42	3 Nick LaVere > Non Possession > Free Throw	2	-	2
+17:42	Shot > Nick Lavere > Free Throw > Made
+17:42	Player Movement > Sub Out > Home Player > Max Hisatake
+17:42	Player Movement > Sub In > Home Player > Capriest Gardner
+IIT	1	17:24	21 Jake Digiorgio > ISO > Right > Drives Left > Defense Commits > Turnover	2	-	2
+17:24	Misc Stat > Steal > Jonny Woolf
+17:24	Turnover > Any Type > Jake Digiorgio
+Dom	1	17:20	24 Tim Robertson > Transition > Left Wing > To Basket > Miss 2 Pts	2	-	2
+17:20	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+17:20	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	17:01	21 Jake Digiorgio > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Hook > Make 2 Pts	2	-	4
+17:01	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+17:01	Misc Stat > Assist > Parker Joncus
+Dom	1	16:38	24 Tim Robertson > Spot-Up > Drives Right > To Basket > Miss 2 Pts	2	-	4
+16:38	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+16:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	16:26	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Takes Early Jump Shot > Long/3pt > Make 3 Pts	2	-	7
+16:26	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+Dom	1	16:02	3 Nick LaVere > Spot-Up > Drives Right > To Basket > Miss 2 Pts	2	-	7
+16:02	Shot > Nick Lavere > Any Type > 2 Point Attempt > Miss 2 Pts
+16:02	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	15:49	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Turnover	2	-	7
+15:49	Turnover > Any Type > Jake Bruns
+15:49	Player Movement > Sub Out > Home Player > Calvin Schmitz
+15:49	Player Movement > Sub In > Home Player > Malik Howze
+15:49	Personal Foul > Defensive - Any > Jake Bruns
+Dom	1	15:31	24 Tim Robertson > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits 
+15:31	Shot > Rory Cunningham > Any Type > 2 Point Attempt > Make 2 Pts
+15:31	Misc Stat > Assist > Tim Robertson
+IIT	1	15:14	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	4	-	9
+15:14	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	1	14:53	1 Jonny Woolf > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	4	-	9
+14:53	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Miss 3 Pts
+14:53	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	14:30	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	4	-	9
+14:30	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+14:30	Misc Stat > Defensive Rebound > Nick Lavere
+Dom	1	14:03	10 Andrew Wojcik > P&R Ball Handler > Left P&R > Baseline > Split > Defense Commits 
+14:03	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Miss 3 Pts
+14:03	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	13:46	15 Capriest Gardner > No Play Type > Turnover	4	-	9
+13:46	Turnover > Any Type > Capriest Gardner
+13:46	Player Movement > Sub In > Home Player > Kohl Linder
+13:46	Player Movement > Sub In > Away Player > Jackson Smith
+13:46	Player Movement > Sub In > Home Player > Brett Ott
+13:46	Player Movement > Sub In > Away Player > Dennis Handy
+13:46	Player Movement > Sub Out > Home Player > Jake Digiorgio
+13:46	Player Movement > Sub Out > Away Player > Nick Lavere
+13:46	Personal Foul > Defensive - Any > Capriest Gardner
+13:46	Player Movement > Sub Out > Home Player > Jake Bruns
+13:46	Player Movement > Sub Out > Away Player > Jonny Woolf
+Dom	1	13:33	24 Tim Robertson > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	6	-	9
+13:33	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	13:17	15 Capriest Gardner > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	6	-	9
+13:17	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:14	Personal Foul > Defensive - Any > Capriest Gardner
+Dom	1	12:50	10 Andrew Wojcik > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	6	-	9
+12:50	Turnover > Any Type > Andrew Wojcik
+IIT	1	12:34	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	6	-	9
+12:34	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+12:34	Misc Stat > Defensive Rebound > Tim Robertson
+Dom	1	12:26	20 Rory Cunningham > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	9	-	9
+12:26	Shot > Rory Cunningham > Any Type > 3 Point Attempt > Make 3 Pts
+12:26	Misc Stat > Assist > Tim Robertson
+IIT	1	12:06	35 Kohl Linder > No Play Type > Turnover	9	-	9
+12:06	Turnover > Any Type > Kohl Linder
+12:06	Player Movement > Sub Out > Home Player > Capriest Gardner
+12:06	Player Movement > Sub Out > Away Player > Tim Robertson
+12:06	Player Movement > Sub Out > Home Player > Kohl Linder
+12:06	Player Movement > Sub In > Away Player > Isaac Moore
+12:06	Player Movement > Sub In > Home Player > Calvin Schmitz
+12:06	Personal Foul > Defensive - Any > Kohl Linder
+12:06	Player Movement > Sub In > Home Player > Jake Digiorgio
+Dom	1	11:58	22 Isaac Moore > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	12	-	9
+11:58	Shot > Isaac Moore > Any Type > 3 Point Attempt > Make 3 Pts
+11:58	Misc Stat > Assist > Rory Cunningham
+IIT	1	11:31	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > To Basket > Foul	12	-	9
+11:31	Personal Foul > Defensive - Any > Dennis Handy
+IIT	1	11:31	3 Malik Howze > Non Possession > Free Throw	12	-	10
+11:31	Shot > Malik Howze > Free Throw > Made
+IIT	1	11:31	3 Malik Howze > Non Possession > Free Throw	12	-	10
+11:31	Shot > Malik Howze > Free Throw > Missed
+11:31	Misc Stat > Defensive Rebound > Isaac Moore
+11:31	Player Movement > Sub Out > Home Player > Brett Ott
+11:31	Player Movement > Sub In > Home Player > Jake Bruns
+11:31	Player Movement > Sub In > Home Player > Capriest Gardner
+11:31	Player Movement > Sub Out > Home Player > Parker Joncus
+Dom	1	11:12	10 Andrew Wojcik > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:12	Shot > Jackson Smith > Any Type > 2 Point Attempt > Miss 2 Pts
+11:12	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	11:05	3 Malik Howze > Transition > Ballhandler > To Basket > Make 2 Pts Foul > 1 Pts	12	-	12
+11:05	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+11:05	Personal Foul > Defensive - Any > Rory Cunningham
+IIT	1	11:05	3 Malik Howze > Non Possession > Free Throw	12	-	13
+11:05	Shot > Malik Howze > Free Throw > Made
+Dom	1	10:46	10 Andrew Wojcik > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+10:46	Shot > Dennis Handy > Any Type > 2 Point Attempt > Miss 2 Pts
+10:46	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	10:33	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits > Turnover	12	-	13
+10:33	Player Movement > Sub Out > Away Player > Rory Cunningham
+10:33	Player Movement > Sub In > Away Player > Tim Robertson
+10:33	Player Movement > Sub Out > Away Player > Andrew Wojcik
+10:33	Player Movement > Sub In > Away Player > Domenic Aiello
+10:33	Player Movement > Sub Out > Away Player > Jackson Smith
+10:33	Turnover > Any Type > Jake Bruns
+10:33	Player Movement > Sub In > Away Player > Jonny Woolf
+Dom	1	10:11	24 Tim Robertson > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Make 2 Pts	14	-	13
+10:11	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	09:56	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+09:56	Turnover > Any Type > Jake Digiorgio
+09:53	Misc Stat > Steal > Dennis Handy
+Dom	1	09:49	22 Isaac Moore > Hand Off > From Dribble > Top > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	17	-	13
+09:49	Shot > Isaac Moore > Any Type > 3 Point Attempt > Make 3 Pts
+09:49	Misc Stat > Assist > Jonny Woolf
+IIT	1	09:37	10 Jake Bruns > Transition > Ballhandler > Turnover	17	-	13
+09:37	Turnover > Any Type > Jake Bruns
+09:37	Misc Stat > Steal > Domenic Aiello
+Dom	1	09:33	24 Tim Robertson > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	17	-	13
+09:33	Shot > Tim Robertson > Any Type > 3 Point Attempt > Miss 3 Pts
+Dom	1	09:33	1 Jonny Woolf > Offensive Rebound > Short > Run Offense	17	-	13
+09:33	Misc Stat > Offensive Rebound > Jonny Woolf
+Dom	1	09:10	5 Dennis Handy > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	19	-	13
+09:10	Shot > Dennis Handy > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	08:46	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	19	-	15
+08:46	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	1	08:24	24 Tim Robertson > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	21	-	15
+08:24	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	08:06	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+08:06	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+08:06	Misc Stat > Assist > Malik Howze
+Dom	1	07:46	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+07:46	Shot > Isaac Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+07:46	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	07:36	3 Malik Howze > Transition > Ballhandler > To Basket > Miss 2 Pts	21	-	17
+07:36	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+07:36	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	07:34	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	21	-	19
+07:34	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+07:32	Player Movement > Sub In > Home Player > Parker Joncus
+07:32	Player Movement > Sub In > Away Player > Nick Lavere
+07:32	Player Movement > Sub Out > Away Player > Isaac Moore
+07:32	Player Movement > Sub Out > Away Player > Dennis Handy
+07:32	Player Movement > Sub Out > Home Player > Calvin Schmitz
+07:32	Player Movement > Sub In > Away Player > Rory Cunningham
+Dom	1	07:25	24 Tim Robertson > No Play Type > Turnover	21	-	19
+07:25	Turnover > Any Type > Tim Robertson
+IIT	1	07:13	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > No Dribble Move > To Basket > Make 2 Pts	21	-	21
+07:13	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+07:13	Misc Stat > Assist > Malik Howze
+Dom	1	07:02	12 Domenic Aiello > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	21	-	21
+07:02	Shot > Domenic Aiello > Any Type > 3 Point Attempt > Miss 3 Pts
+07:02	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	06:52	10 Jake Bruns > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	21	-	24
+06:52	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+06:52	Misc Stat > Assist > Malik Howze
+Dom	1	06:36	1 Jonny Woolf > Hand Off > From Dribble > Top > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	24	-	24
+06:36	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Make 3 Pts
+06:36	Misc Stat > Assist > Tim Robertson
+IIT	1	06:14	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	24	-	26
+06:14	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	1	05:56	1 Jonny Woolf > ISO > Right > Early Jumper > Long/3pt > Miss 3 Pts	24	-	26
+05:56	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Miss 3 Pts
+05:56	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	05:48	15 Capriest Gardner > Non Possession > Non Shooting Foul	24	-	26
+05:48	Player Movement > Sub Out > Away Player > Domenic Aiello
+05:48	Player Movement > Sub In > Away Player > Andrew Wojcik
+05:48	Player Movement > Sub In > Away Player > Isaac Moore
+05:48	Player Movement > Sub Out > Away Player > Tim Robertson
+05:48	Personal Foul > Defensive - Any > Domenic Aiello
+IIT	1	05:37	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	24	-	26
+05:37	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+05:37	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	05:34	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	24	-	28
+05:34	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	1	05:17	1 Jonny Woolf > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+05:17	Shot > Rory Cunningham > Any Type > 3 Point Attempt > Miss 3 Pts
+05:17	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	05:08	15 Capriest Gardner > Transition > Ballhandler > Turnover	24	-	28
+05:08	Player Movement > Sub In > Home Player > Calvin Schmitz
+05:08	Personal Foul > Defensive - Any > Capriest Gardner
+05:08	Turnover > Any Type > Capriest Gardner
+05:08	Player Movement > Sub Out > Home Player > Capriest Gardner
+Dom	1	04:42	22 Isaac Moore > Spot-Up > Drives Left > Turnover	24	-	28
+04:42	Turnover > Any Type > Isaac Moore
+IIT	1	04:21	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	24	-	28
+04:21	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+04:21	Misc Stat > Defensive Rebound > Jonny Woolf
+Dom	1	04:07	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	24	-	28
+04:07	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Miss 2 Pts
+04:07	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	03:52	3 Malik Howze > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	24	-	28
+03:52	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+03:52	Misc Stat > Block > Isaac Moore
+03:51	Misc Stat > Defensive Rebound > Isaac Moore
+Dom	1	03:31	1 Jonny Woolf > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	24	-	28
+03:31	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Miss 3 Pts
+03:29	Player Movement > Sub Out > Away Player > Isaac Moore
+03:29	Player Movement > Sub In > Away Player > Tim Robertson
+IIT	1	03:19	10 Jake Bruns > No Play Type > Turnover	24	-	28
+03:19	Turnover > Any Type > Jake Bruns
+Dom	1	03:01	24 Tim Robertson > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	26	-	28
+03:01	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	02:39	21 Jake Digiorgio > Post-Up > Left Block > Face-up > Drive Middle > Miss 2 Pts	26	-	28
+02:39	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:39	Misc Stat > Defensive Rebound > Jonny Woolf
+Dom	1	02:32	24 Tim Robertson > Transition > First Middle > Dribble Jumper > Short to < 17' > Make 2 Pts	28	-	28
+02:32	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+02:32	Misc Stat > Assist > Jonny Woolf
+IIT	1	02:06	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	28	-	28
+02:06	Turnover > Any Type > Jake Bruns
+02:06	Player Movement > Sub Out > Away Player > Nick Lavere
+02:06	Player Movement > Sub In > Away Player > Dennis Handy
+02:06	Personal Foul > Defensive - Any > Jake Bruns
+Dom	1	01:53	24 Tim Robertson > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+01:53	Shot > Rory Cunningham > Any Type > 3 Point Attempt > Miss 3 Pts
+01:53	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	01:39	13 Calvin Schmitz > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	28	-	31
+01:39	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Make 3 Pts
+01:39	Misc Stat > Assist > Parker Joncus
+Dom	1	01:37	20 Rory Cunningham > No Play Type > Foul	28	-	31
+01:37	Personal Foul > Defensive - Any > Jake Digiorgio
+Dom	1	01:37	20 Rory Cunningham > Non Possession > Free Throw	29	-	31
+01:37	Shot > Rory Cunningham > Free Throw > Made
+Dom	1	01:37	20 Rory Cunningham > Non Possession > Free Throw	29	-	31
+01:37	Shot > Rory Cunningham > Free Throw > Missed
+IIT	1	01:08	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	29	-	34
+01:08	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+01:08	Misc Stat > Assist > Malik Howze
+Dom	1	00:48	24 Tim Robertson > Post-Up > Left Block > Defense Commits 
+00:48	Shot > Rory Cunningham > Any Type > 2 Point Attempt > Miss 2 Pts
+00:48	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	1	00:28	10 Jake Bruns > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	29	-	34
+00:28	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+00:28	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	00:24	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	29	-	34
+00:24	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+00:24	Misc Stat > Defensive Rebound > Rory Cunningham
+Dom	1	00:01	24 Tim Robertson > ISO > Top > Drives Left > Defense Commits 
+00:01	Shot > Rory Cunningham > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	20:00	Shot > Rory Cunningham > Any Type > 3 Point Attempt > Miss 3 Pts
+20:00	Player Movement > Sub Out > Home Player > Calvin Schmitz
+20:00	Player Movement > Sub In > Home Player > Malik Howze
+20:00	Player Movement > Sub Out > Away Player > Connor Dartt
+20:00	Player Movement > Sub In > Away Player > Rory Cunningham
+Dom	2	19:36	24 Tim Robertson > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	29	-	34
+19:36	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+Dom	2	19:36	1 Jonny Woolf > Offensive Rebound > Short > Run Offense	29	-	34
+19:36	Misc Stat > Offensive Rebound > Jonny Woolf
+Dom	2	19:27	3 Nick LaVere > Spot-Up > Drives Left > To Basket > Make 2 Pts	31	-	34
+19:27	Shot > Nick Lavere > Any Type > 2 Point Attempt > Make 2 Pts
+19:21	Misc Stat > Assist > Jonny Woolf
+IIT	2	19:01	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	31	-	36
+19:01	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+19:01	Misc Stat > Assist > Jake Bruns
+Dom	2	18:34	24 Tim Robertson > Post-Up > Right Block > Left Shoulder > Dribble Move > Defense Commits 
+18:34	Shot > Rory Cunningham > Any Type > 2 Point Attempt > Miss 2 Pts
+18:34	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	18:11	10 Jake Bruns > No Play Type > To Basket > Miss 2 Pts	31	-	36
+18:11	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	18:11	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	31	-	36
+18:11	Misc Stat > Defensive Rebound > Jonny Woolf
+Dom	2	17:54	20 Rory Cunningham > Post-Up > Left Block > Defense Commits 
+17:54	Shot > Andrew Wojcik > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:17	22 Max Hisatake > Cut > Screen > Make 2 Pts	33	-	38
+17:17	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+17:17	Misc Stat > Assist > Parker Joncus
+Dom	2	17:03	10 Andrew Wojcik > Hand Off > From Stationary > Left > Dribble Jumper > Long/3pt > Miss 3 Pts	33	-	38
+17:03	Shot > Andrew Wojcik > Any Type > 3 Point Attempt > Miss 3 Pts
+17:03	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	16:53	10 Jake Bruns > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	33	-	41
+16:53	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+16:53	Misc Stat > Assist > Malik Howze
+Dom	2	16:19	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	35	-	41
+16:19	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	16:05	3 Malik Howze > ISO > Right > Drives Left > To Basket > Foul	35	-	41
+16:05	Personal Foul > Defensive - Any > Nick Lavere
+IIT	2	16:05	3 Malik Howze > Non Possession > Free Throw	35	-	42
+16:05	Shot > Malik Howze > Free Throw > Made
+IIT	2	16:05	3 Malik Howze > Non Possession > Free Throw	35	-	42
+16:05	Shot > Malik Howze > Free Throw > Missed
+16:05	Player Movement > Sub In > Away Player > Domenic Aiello
+16:05	Player Movement > Sub In > Away Player > Isaac Moore
+16:05	Player Movement > Sub Out > Away Player > Rory Cunningham
+16:05	Misc Stat > Defensive Rebound > Tim Robertson
+16:05	Player Movement > Sub Out > Away Player > Andrew Wojcik
+Dom	2	15:57	1 Jonny Woolf > Transition > Left Wing > To Basket > Miss 2 Pts	35	-	42
+15:57	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Miss 2 Pts
+15:57	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	15:50	22 Max Hisatake > Transition > First Middle > To Basket > Make 2 Pts	35	-	44
+15:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+15:50	Misc Stat > Assist > Malik Howze
+Dom	2	15:41	24 Tim Robertson > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Short to < 17' > Make 2 Pts	37	-	44
+15:41	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+15:41	Misc Stat > Assist > Domenic Aiello
+IIT	2	15:21	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+15:21	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	15:21	22 Max Hisatake > Offensive Rebound > Long > Run Offense	37	-	44
+15:21	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	15:13	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Make 2 Pts	37	-	46
+15:13	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	14:53	12 Domenic Aiello > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+14:53	Shot > Isaac Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+14:53	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	14:45	10 Jake Bruns > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	37	-	46
+14:45	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+14:45	Misc Stat > Defensive Rebound > Tim Robertson
+Dom	2	14:37	12 Domenic Aiello > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	37	-	46
+14:37	Shot > Domenic Aiello > Any Type > 3 Point Attempt > Miss 3 Pts
+14:37	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	14:23	22 Max Hisatake > Non Possession > Non Shooting Foul	37	-	46
+14:23	Personal Foul > Defensive - Any > Dennis Handy
+IIT	2	14:14	10 Jake Bruns > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	37	-	48
+14:14	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	13:58	22 Isaac Moore > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	40	-	48
+13:58	Shot > Isaac Moore > Any Type > 3 Point Attempt > Make 3 Pts
+13:58	Misc Stat > Assist > Dennis Handy
+IIT	2	13:48	3 Malik Howze > Non Possession > Non Shooting Foul	40	-	48
+13:48	Player Movement > Sub Out > Home Player > Jake Bruns
+13:48	Player Movement > Sub In > Home Player > Capriest Gardner
+13:48	Player Movement > Sub In > Home Player > Calvin Schmitz
+13:48	Player Movement > Sub Out > Home Player > Jake Digiorgio
+13:48	Personal Foul > Defensive - Any > Dennis Handy
+IIT	2	13:45	15 Capriest Gardner > Cut > Flash > Miss 2 Pts	40	-	48
+13:45	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	13:45	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	40	-	48
+13:45	Misc Stat > Offensive Rebound > Max Hisatake
+13:41	Personal Foul > Defensive - Any > Dennis Handy
+IIT	2	13:41	22 Max Hisatake > Non Possession > Free Throw	40	-	49
+13:41	Shot > Max Hisatake > Free Throw > Made
+IIT	2	13:41	22 Max Hisatake > Non Possession > Free Throw	40	-	49
+13:41	Shot > Max Hisatake > Free Throw > Missed
+13:41	Personal Foul > Defensive - Any > Calvin Schmitz
+13:41	Player Movement > Sub Out > Away Player > Dennis Handy
+13:41	Player Movement > Sub In > Away Player > Jonny Woolf
+Dom	2	13:27	24 Tim Robertson > Non Possession > Non Shooting Foul	40	-	49
+13:27	Personal Foul > Defensive - Any > Calvin Schmitz
+Dom	2	13:20	1 Jonny Woolf > Off Screen > To Shooter's Left > Straight > Turnover	40	-	49
+13:20	Turnover > Any Type > Jonny Woolf
+13:19	Misc Stat > Steal > Max Hisatake
+IIT	2	13:05	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits > Turnover	40	-	49
+13:05	Turnover > Any Type > Malik Howze
+13:04	Misc Stat > Steal > Domenic Aiello
+Dom	2	12:57	1 Jonny Woolf > Transition > Trailer > To Basket > Miss 2 Pts	40	-	49
+12:57	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Miss 2 Pts
+12:57	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	12:36	3 Malik Howze > ISO > Right > Drives Left > To Basket > Miss 2 Pts	40	-	49
+12:36	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+12:36	Misc Stat > Block > Jonny Woolf
+12:35	Misc Stat > Defensive Rebound > Isaac Moore
+Dom	2	12:32	22 Isaac Moore > Transition > Ballhandler > Turnover	40	-	49
+12:32	Turnover > Any Type > Isaac Moore
+12:31	Misc Stat > Steal > Capriest Gardner
+IIT	2	12:25	32 Parker Joncus > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	40	-	49
+12:25	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	12:25	3 Malik Howze > Offensive Rebound > Long > Run Offense	40	-	49
+12:25	Misc Stat > Offensive Rebound > Malik Howze
+IIT	2	12:09	13 Calvin Schmitz > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	40	-	51
+12:09	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	11:42	24 Tim Robertson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	42	-	51
+11:42	Shot > Tim Robertson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	11:26	3 Malik Howze > Non Possession > Non Shooting Foul	42	-	51
+11:26	Player Movement > Sub In > Home Player > Jake Bruns
+11:26	Player Movement > Sub Out > Home Player > Max Hisatake
+11:26	Player Movement > Sub Out > Away Player > Isaac Moore
+11:26	Player Movement > Sub Out > Home Player > Malik Howze
+11:26	Player Movement > Sub In > Away Player > Rory Cunningham
+11:26	Player Movement > Sub In > Home Player > Jake Digiorgio
+11:26	Personal Foul > Defensive - Any > Domenic Aiello
+IIT	2	11:15	15 Capriest Gardner > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	42	-	51
+11:15	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+11:11	Player Movement > Sub Out > Home Player > Capriest Gardner
+11:11	Player Movement > Sub In > Home Player > Kohl Linder
+Dom	2	10:51	12 Domenic Aiello > Non Possession > Non Shooting Foul	42	-	51
+10:51	Personal Foul > Defensive - Any > Jake Bruns
+Dom	2	10:41	12 Domenic Aiello > Spot-Up > Drives Left > Turnover	42	-	51
+10:41	Turnover > Any Type > Domenic Aiello
+10:39	Misc Stat > Steal > Jake Bruns
+IIT	2	10:18	10 Jake Bruns > No Play Type > Turnover	42	-	51
+10:18	Turnover > Any Type > Jake Bruns
+10:18	Player Movement > Sub Out > Home Player > Jake Bruns
+10:18	Player Movement > Sub In > Home Player > Malik Howze
+10:18	Personal Foul > Defensive - Any > Jake Bruns
+Dom	2	10:00	24 Tim Robertson > Post-Up > Right Block > Face-up > Jumper > Miss 2 Pts	42	-	51
+10:00	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+10:00	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	09:40	3 Malik Howze > ISO > Right > Drives Right > Defense Commits 
+09:40	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	09:40	32 Parker Joncus > Offensive Rebound > Long > Run Offense	42	-	51
+09:40	Misc Stat > Offensive Rebound > Parker Joncus
+09:36	Player Movement > Sub In > Home Player > Max Hisatake
+09:36	Player Movement > Sub In > Away Player > Andrew Wojcik
+09:36	Player Movement > Sub Out > Away Player > Domenic Aiello
+09:36	Personal Foul > Defensive - Any > Jonny Woolf
+09:36	Player Movement > Sub Out > Away Player > Jackson Smith
+09:36	Player Movement > Sub Out > Home Player > Kohl Linder
+09:36	Player Movement > Sub In > Away Player > Nick Lavere
+IIT	2	09:24	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	42	-	51
+09:24	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+09:24	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	09:20	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	42	-	53
+09:20	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	09:05	10 Andrew Wojcik > Hand Off > From Stationary > Left > To Basket > Make 2 Pts	44	-	53
+09:05	Shot > Andrew Wojcik > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	08:54	32 Parker Joncus > Transition > Ballhandler > To Basket > Miss 2 Pts	44	-	53
+08:54	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+08:54	Misc Stat > Block > Jonny Woolf
+IIT	2	08:51	22 Max Hisatake > Post-Up > Right Block > Post Pin > No Dribble Move > To Basket > Make 2 Pts	44	-	55
+08:51	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+08:51	Misc Stat > Assist > Parker Joncus
+Dom	2	08:38	3 Nick LaVere > No Play Type > Turnover	44	-	55
+08:38	Turnover > Any Type > Nick Lavere
+08:37	Misc Stat > Steal > Max Hisatake
+IIT	2	08:34	22 Max Hisatake > Transition > Ballhandler > Turnover	44	-	55
+08:34	Player Movement > Sub In > Away Player > Connor Dartt
+08:34	Turnover > Any Type > Max Hisatake
+08:34	Player Movement > Sub Out > Away Player > Rory Cunningham
+Dom	2	08:17	3 Nick LaVere > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+08:17	Shot > Connor Dartt > Any Type > 3 Point Attempt > Make 3 Pts
+08:17	Misc Stat > Assist > Nick Lavere
+IIT	2	07:59	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+07:59	Turnover > Any Type > Jake Digiorgio
+07:57	Misc Stat > Steal > Jonny Woolf
+Dom	2	07:55	1 Jonny Woolf > Transition > Ballhandler > To Basket > Make 2 Pts	49	-	55
+07:55	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	07:24	22 Max Hisatake > ISO > Right > Drives Right > Foul	49	-	55
+07:24	Personal Foul > Defensive - Any > Connor Dartt
+IIT	2	07:24	22 Max Hisatake > Non Possession > Free Throw	49	-	55
+07:24	Shot > Max Hisatake > Free Throw > Missed
+07:24	Player Movement > Sub In > Away Player > Jackson Smith
+07:24	Misc Stat > Defensive Rebound > Connor Dartt
+07:24	Player Movement > Sub Out > Away Player > Jonny Woolf
+Dom	2	07:21	33 Connor Dartt > No Play Type > Turnover	49	-	55
+07:21	Misc Stat > Steal > Max Hisatake
+07:21	Turnover > Any Type > Connor Dartt
+IIT	2	07:17	21 Jake Digiorgio > No Play Type > Turnover	49	-	55
+07:17	Turnover > Any Type > Jake Digiorgio
+Dom	2	07:04	24 Tim Robertson > Post-Up > Right Block > Face-up > Jumper > Miss 2 Pts	49	-	55
+07:04	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+07:04	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	06:51	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	49	-	57
+06:51	Shot > Malik Howze > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	06:33	3 Nick LaVere > Hand Off > From Dribble > Top > To Basket > Miss 2 Pts	49	-	57
+06:33	Shot > Nick Lavere > Any Type > 2 Point Attempt > Miss 2 Pts
+06:33	Misc Stat > Block > Jake Digiorgio
+06:31	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	06:27	3 Malik Howze > Transition > Ballhandler > Foul	49	-	57
+06:27	Personal Foul > Defensive - Any > Andrew Wojcik
+IIT	2	06:27	3 Malik Howze > Non Possession > Free Throw	49	-	58
+06:27	Shot > Malik Howze > Free Throw > Made
+IIT	2	06:27	3 Malik Howze > Non Possession > Free Throw	49	-	59
+06:27	Shot > Malik Howze > Free Throw > Made
+06:27	Player Movement > Sub Out > Away Player > Nick Lavere
+06:27	Player Movement > Sub In > Away Player > Jonny Woolf
+Dom	2	06:08	24 Tim Robertson > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	49	-	59
+06:08	Shot > Tim Robertson > Any Type > 2 Point Attempt > Miss 2 Pts
+06:08	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	05:59	32 Parker Joncus > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	49	-	59
+05:59	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+05:59	Misc Stat > Defensive Rebound > Andrew Wojcik
+Dom	2	05:50	11 Jackson Smith > Transition > Left Wing > To Basket > Make 2 Pts	51	-	59
+05:50	Shot > Jackson Smith > Any Type > 2 Point Attempt > Make 2 Pts
+05:50	Misc Stat > Assist > Connor Dartt
+IIT	2	05:25	3 Malik Howze > Cut > Flash > Turnover	51	-	59
+05:25	Turnover > Any Type > Malik Howze
+05:25	Misc Stat > Steal > Jonny Woolf
+Dom	2	05:07	1 Jonny Woolf > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	53	-	59
+05:07	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	04:47	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	53	-	59
+04:47	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+04:47	Misc Stat > Defensive Rebound > Tim Robertson
+Dom	2	04:39	1 Jonny Woolf > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	56	-	59
+04:39	Shot > Jonny Woolf > Any Type > 3 Point Attempt > Make 3 Pts
+04:39	Misc Stat > Assist > Andrew Wojcik
+IIT	2	04:14	21 Jake Digiorgio > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	56	-	61
+04:14	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+Dom	2	03:58	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:58	Shot > Tim Robertson > Any Type > 3 Point Attempt > Miss 3 Pts
+03:58	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	03:26	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	56	-	61
+03:26	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+03:26	Misc Stat > Defensive Rebound > Jonny Woolf
+Dom	2	03:17	11 Jackson Smith > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	56	-	61
+03:17	Shot > Jackson Smith > Any Type > 3 Point Attempt > Miss 3 Pts
+03:17	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	02:44	22 Max Hisatake > Post-Up > Right Block > Defense Commits 
+02:44	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+02:44	Misc Stat > Defensive Rebound > Connor Dartt
+Dom	2	02:28	1 Jonny Woolf > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	58	-	61
+02:28	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:08	3 Malik Howze > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+02:08	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+02:08	Misc Stat > Assist > Malik Howze
+Dom	2	01:34	10 Andrew Wojcik > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+01:34	Shot > Tim Robertson > Any Type > 3 Point Attempt > Miss 3 Pts
+01:34	Misc Stat > Block > Max Hisatake
+01:33	Player Movement > Sub Out > Away Player > Jackson Smith
+01:33	Player Movement > Sub In > Away Player > Isaac Moore
+IIT	2	01:06	3 Malik Howze > ISO > Right > Drives Right > Defense Commits 
+01:06	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+01:06	Personal Foul > Defensive - Any > Isaac Moore
+01:06	Misc Stat > Assist > Malik Howze
+IIT	2	01:06	22 Max Hisatake > Non Possession > Free Throw	58	-	66
+01:06	Shot > Max Hisatake > Free Throw > Made
+Dom	2	00:42	1 Jonny Woolf > Non Possession > Non Shooting Foul	58	-	66
+00:42	Player Movement > Sub In > Away Player > Jackson Smith
+00:42	Personal Foul > Defensive - Any > Max Hisatake
+00:42	Player Movement > Sub Out > Away Player > Connor Dartt
+Dom	2	00:36	1 Jonny Woolf > Off Screen > To Shooter's Right > Straight > To Basket > Miss 2 Pts	58	-	66
+00:36	Shot > Jonny Woolf > Any Type > 2 Point Attempt > Miss 2 Pts
+00:36	Misc Stat > Block > Max Hisatake
+00:35	Misc Stat > Defensive Rebound > Parker Joncus
+00:29	Player Movement > Sub In > Home Player > Jake Bruns
+00:29	Player Movement > Sub Out > Home Player > Jake Digiorgio
+00:29	Personal Foul > Defensive - Any > Jackson Smith
+00:29	Player Movement > Sub Out > Home Player > Max Hisatake
+00:29	Turnover > Any Type > Jackson Smith
+00:29	Player Movement > Sub In > Home Player > Brett Ott
+IIT	2	00:29	10 Jake Bruns > No Play Type > Foul	58	-	66
+00:29	Personal Foul > Defensive - Any > Jonny Woolf
+IIT	2	00:29	10 Jake Bruns > Non Possession > Free Throw	58	-	67
+00:29	Shot > Jake Bruns > Free Throw > Made
+IIT	2	00:29	10 Jake Bruns > Non Possession > Free Throw	58	-	68
+00:29	Shot > Jake Bruns > Free Throw > Made
+Dom	2	00:19	11 Jackson Smith > No Play Type > Turnover	58	-	68

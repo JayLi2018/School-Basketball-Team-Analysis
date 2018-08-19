@@ -1,0 +1,601 @@
+WHE	1	19:55	3 Kobe Eichelberger > No Play Type > To Basket > Miss 2 Pts			
+19:55	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Miss 2 Pts
+19:55	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	19:25	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts			
+19:25	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+19:25	Misc Stat > Defensive Rebound > Luke Peters
+WHE	1	19:09	34 Luke Peters > Spot-Up > Drives Right > To Basket > Miss 2 Pts			
+19:09	Shot > Luke Peters > Any Type > 2 Point Attempt > Miss 2 Pts
+19:09	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:56	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+18:56	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+18:56	Misc Stat > Defensive Rebound > Kobe Eichelberger
+18:43	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	18:32	32 Parker Joncus > Hand Off > From Dribble > Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts			
+18:32	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+WHE	1	18:16	1 Aston Francis > ISO > Right > Drives Right > Defense Commits 
+18:16	Shot > Ricky Samuelson > Any Type > 3 Point Attempt > Make 3 Pts
+18:16	Misc Stat > Assist > Aston Francis
+IIT	1	17:57	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+17:57	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	17:44	3 Kobe Eichelberger > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	2	-	6
+17:44	Shot > Kobe Eichelberger > Any Type > 3 Point Attempt > Make 3 Pts
+17:44	Misc Stat > Assist > Aston Francis
+IIT	1	17:18	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	2	-	6
+17:18	Misc Stat > Block > Luke Peters
+17:16	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	17:12	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	4	-	6
+17:12	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	16:47	1 Aston Francis > ISO > Right > Drives Right > Defense Commits 
+16:47	Shot > Jay Spencer > Any Type > 3 Point Attempt > Miss 3 Pts
+WHE	1	16:47	34 Luke Peters > Offensive Rebound > Long > Run Offense	4	-	6
+16:47	Misc Stat > Offensive Rebound > Luke Peters
+WHE	1	16:32	1 Aston Francis > No Play Type > To Basket > Miss 2 Pts	4	-	6
+16:32	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+16:32	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	16:25	15 Capriest Gardner > Transition > Left Wing > Dribble Jumper > Short to < 17' > Miss 2 Pts	4	-	6
+16:25	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+16:25	Misc Stat > Defensive Rebound > Kobe Eichelberger
+WHE	1	16:13	34 Luke Peters > ISO > Top > Drives Left > To Basket > Miss 2 Pts	4	-	6
+16:13	Shot > Luke Peters > Any Type > 2 Point Attempt > Miss 2 Pts
+16:13	Player Movement > Sub Out > Home Player > Aston Francis
+16:13	Misc Stat > Block > Capriest Gardner
+16:13	Player Movement > Sub In > Home Player > Zack Kvam
+16:13	Player Movement > Sub Out > Away Player > Capriest Gardner
+16:13	Player Movement > Sub In > Away Player > Jake Bruns
+WHE	1	15:56	25 Jay Spencer > Off Screen > To Shooter's Right > Straight > Turnover	4	-	6
+15:56	Turnover > Any Type > Jay Spencer
+IIT	1	15:43	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits > Turnover	4	-	6
+15:43	Turnover > Any Type > Jake Bruns
+15:41	Misc Stat > Steal > Zack Kvam
+WHE	1	15:22	34 Luke Peters > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	4	-	8
+15:22	Shot > Luke Peters > Any Type > 2 Point Attempt > Make 2 Pts
+15:22	Misc Stat > Assist > Zack Kvam
+IIT	1	14:53	21 Jake Digiorgio > Non Possession > Non Shooting Foul	4	-	8
+14:53	Player Movement > Sub In > Home Player > Aston Francis
+14:53	Player Movement > Sub Out > Home Player > Jay Spencer
+14:53	Personal Foul > Defensive - Any > Zack Kvam
+14:53	Player Movement > Sub Out > Home Player > Ricky Samuelson
+14:53	Player Movement > Sub In > Home Player > Trevor Gunter
+IIT	1	14:51	21 Jake Digiorgio > No Play Type > To Basket > Make 2 Pts	6	-	8
+14:51	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	14:41	1 Aston Francis > Non Possession > Non Shooting Foul	6	-	8
+14:41	Player Movement > Sub Out > Away Player > Jake Digiorgio
+14:41	Player Movement > Sub In > Away Player > Kohl Linder
+14:41	Personal Foul > Defensive - Any > Parker Joncus
+WHE	1	14:36	34 Luke Peters > Off Screen > To Shooter's Right > Straight > To Basket > Foul	6	-	8
+14:36	Personal Foul > Defensive - Any > Max Hisatake
+WHE	1	14:36	34 Luke Peters > Non Possession > Free Throw	6	-	8
+14:36	Shot > Luke Peters > Free Throw > Missed
+WHE	1	14:36	34 Luke Peters > Non Possession > Free Throw	6	-	9
+14:36	Shot > Luke Peters > Free Throw > Made
+14:36	Player Movement > Sub In > Home Player > Spencer Peterson
+14:36	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+IIT	1	14:21	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	9	-	9
+14:21	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+14:21	Misc Stat > Assist > Parker Joncus
+WHE	1	14:06	1 Aston Francis > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	9	-	9
+14:06	Shot > Aston Francis > Any Type > 3 Point Attempt > Miss 3 Pts
+14:06	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	13:57	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	11	-	9
+13:57	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	13:43	35 Spencer Peterson > Cut > Basket > Make 2 Pts	11	-	11
+13:43	Shot > Spencer Peterson > Any Type > 2 Point Attempt > Make 2 Pts
+13:43	Misc Stat > Assist > Trevor Gunter
+IIT	1	13:14	2 Anthony Mosley > Off Screen > To Shooter's Right > Straight > To Basket > Miss 2 Pts	11	-	11
+13:14	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+13:14	Misc Stat > Defensive Rebound > Spencer Peterson
+WHE	1	12:54	12 Zack Kvam > Cut > Basket > Miss 2 Pts	11	-	11
+12:54	Shot > Zack Kvam > Any Type > 2 Point Attempt > Miss 2 Pts
+12:54	Misc Stat > Block > Anthony Mosley
+12:51	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	12:28	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+12:28	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+12:28	Misc Stat > Block > Trevor Gunter
+12:26	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	12:23	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Make 2 Pts	13	-	11
+12:23	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	12:11	1 Aston Francis > Non Possession > Non Shooting Foul	13	-	11
+12:11	Player Movement > Sub In > Home Player > Kobe Eichelberger
+12:11	Player Movement > Sub In > Away Player > Jake Digiorgio
+12:11	Player Movement > Sub In > Home Player > Ricky Samuelson
+12:11	Player Movement > Sub In > Away Player > Capriest Gardner
+12:11	Player Movement > Sub Out > Home Player > Trevor Gunter
+12:11	Player Movement > Sub Out > Away Player > Parker Joncus
+12:11	Personal Foul > Defensive - Any > Parker Joncus
+12:11	Player Movement > Sub Out > Home Player > Luke Peters
+12:11	Player Movement > Sub Out > Away Player > Max Hisatake
+WHE	1	12:04	3 Kobe Eichelberger > Spot-Up > Drives Right > To Basket > Make 2 Pts Foul > 0 Pts	13	-	13
+12:04	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+12:04	Personal Foul > Defensive - Any > Jake Digiorgio
+12:04	Misc Stat > Assist > Zack Kvam
+WHE	1	12:04	3 Kobe Eichelberger > Non Possession > Free Throw	13	-	13
+12:04	Shot > Kobe Eichelberger > Free Throw > Missed
+12:04	Misc Stat > Defensive Rebound > Capriest Gardner
+12:04	Player Movement > Sub Out > Away Player > Anthony Mosley
+12:04	Player Movement > Sub In > Away Player > Jason Morris
+IIT	1	11:42	11 Jason Morris > Spot-Up > Drives Left > Turnover	13	-	13
+11:42	Turnover > Any Type > Jason Morris
+11:40	Misc Stat > Steal > Ricky Samuelson
+WHE	1	11:37	3 Kobe Eichelberger > Transition > Leak Outs > To Basket > Make 2 Pts	13	-	15
+11:37	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+11:37	Misc Stat > Assist > Aston Francis
+IIT	1	11:10	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Miss 2 Pts	13	-	15
+11:10	Shot > Jake Bruns > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	11:10	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	13	-	15
+11:10	Misc Stat > Offensive Rebound > Jake Digiorgio
+11:08	Player Movement > Sub In > Home Player > Luke Peters
+11:08	Player Movement > Sub In > Home Player > Jay Spencer
+11:08	Player Movement > Sub Out > Home Player > Spencer Peterson
+11:08	Player Movement > Sub Out > Away Player > Jason Morris
+11:08	Player Movement > Sub Out > Home Player > Zack Kvam
+11:08	Player Movement > Sub In > Away Player > Anthony Mosley
+IIT	1	10:53	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+10:53	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+10:53	Misc Stat > Assist > Anthony Mosley
+WHE	1	10:33	34 Luke Peters > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	16	-	17
+10:33	Shot > Luke Peters > Any Type > 2 Point Attempt > Make 2 Pts
+10:33	Misc Stat > Assist > Aston Francis
+10:03	Player Movement > Sub Out > Away Player > Capriest Gardner
+10:03	Player Movement > Sub In > Away Player > Max Hisatake
+10:03	Player Movement > Sub In > Away Player > Parker Joncus
+10:03	Player Movement > Sub Out > Away Player > Kohl Linder
+IIT	1	10:01	22 Max Hisatake > Cut > Screen > Make 2 Pts	18	-	17
+10:01	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+10:01	Misc Stat > Assist > Jake Digiorgio
+WHE	1	09:50	1 Aston Francis > ISO > Right > Drives Left > Defense Commits 
+09:50	Shot > Jay Spencer > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	09:32	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	18	-	19
+09:32	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+09:32	Misc Stat > Defensive Rebound > Aston Francis
+WHE	1	09:15	3 Kobe Eichelberger > Spot-Up > Drives Right > To Basket > Make 2 Pts	18	-	21
+09:15	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	08:47	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	21	-	21
+08:47	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Make 3 Pts
+WHE	1	08:23	1 Aston Francis > No Play Type > To Basket > Miss 2 Pts	21	-	21
+08:23	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+08:23	Misc Stat > Block > Max Hisatake
+08:21	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	08:14	2 Anthony Mosley > Transition > Ballhandler > To Basket > Foul	21	-	21
+08:14	Personal Foul > Defensive - Any > Luke Peters
+IIT	1	08:14	2 Anthony Mosley > Non Possession > Free Throw	21	-	21
+08:14	Shot > Anthony Mosley > Free Throw > Missed
+IIT	1	08:14	2 Anthony Mosley > Non Possession > Free Throw	22	-	21
+08:14	Shot > Anthony Mosley > Free Throw > Made
+08:14	Player Movement > Sub Out > Away Player > Jake Digiorgio
+08:14	Player Movement > Sub Out > Home Player > Jay Spencer
+08:14	Player Movement > Sub In > Away Player > Capriest Gardner
+08:14	Player Movement > Sub In > Home Player > Trevor Gunter
+08:14	Player Movement > Sub In > Home Player > Zack Kvam
+08:14	Player Movement > Sub Out > Home Player > Aston Francis
+WHE	1	08:03	3 Kobe Eichelberger > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	22	-	24
+08:03	Shot > Kobe Eichelberger > Any Type > 3 Point Attempt > Make 3 Pts
+08:03	Misc Stat > Assist > Luke Peters
+08:00	Player Movement > Sub Out > Home Player > Ricky Samuelson
+08:00	Player Movement > Sub In > Home Player > Aston Francis
+08:00	Player Movement > Sub In > Home Player > Spencer Peterson
+08:00	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+IIT	1	07:35	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	22	-	24
+07:35	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+07:35	Misc Stat > Defensive Rebound > Trevor Gunter
+WHE	1	07:24	1 Aston Francis > ISO > Right > Early Jumper > Long/3pt > Make 3 Pts	22	-	27
+07:24	Shot > Aston Francis > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	1	06:59	15 Capriest Gardner > ISO > Left > Drives Left > Dribble Jumper > Short to < 17' > Foul	22	-	27
+06:59	Personal Foul > Defensive - Any > Spencer Peterson
+IIT	1	06:59	15 Capriest Gardner > Non Possession > Free Throw	23	-	27
+06:59	Shot > Capriest Gardner > Free Throw > Made
+IIT	1	06:59	15 Capriest Gardner > Non Possession > Free Throw	24	-	27
+06:59	Shot > Capriest Gardner > Free Throw > Made
+06:59	Player Movement > Sub In > Away Player > Jake Digiorgio
+06:59	Player Movement > Sub Out > Away Player > Jake Bruns
+WHE	1	06:48	1 Aston Francis > Off Screen > To Shooter's Left > Straight > Dribble Jumper > Long/3pt > Miss 3 Pts	24	-	27
+06:48	Shot > Aston Francis > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	06:27	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Basket > Miss 2 Pts	24	-	27
+06:27	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:27	Misc Stat > Block > Trevor Gunter
+IIT	1	06:26	22 Max Hisatake > Offensive Rebound > Short > Run Offense	24	-	27
+06:26	Misc Stat > Offensive Rebound > Max Hisatake
+06:25	Personal Foul > Defensive - Any > Luke Peters
+IIT	1	06:23	22 Max Hisatake > No Play Type > Turnover	24	-	27
+06:23	Turnover > Any Type > Max Hisatake
+WHE	1	06:13	1 Aston Francis > P&R Ball Handler > Right P&R > Side > Go Away from Pick > To Basket > Make 2 Pts	24	-	29
+06:13	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:00	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Foul	24	-	29
+06:00	Personal Foul > Defensive - Any > Aston Francis'
+06:00	Shot > Jake Digiorgio > Free Throw > Made
+06:00	Shot > Jake Digiorgio > Free Throw > Made
+WHE	1	05:43	1 Aston Francis > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	26	-	29
+05:43	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+05:43	Misc Stat > Offensive Rebound > Kobe Eichelberger
+WHE	1	05:36	3 Kobe Eichelberger > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	26	-	29
+05:36	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Miss 2 Pts
+05:36	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	05:25	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits 
+05:25	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	04:57	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	28	-	29
+04:57	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	1	04:43	12 Zack Kvam > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits > Turnover	28	-	29
+04:43	Turnover > Any Type > Zack Kvam
+04:43	Player Movement > Sub Out > Away Player > Capriest Gardner
+04:43	Player Movement > Sub In > Away Player > Jake Bruns
+IIT	1	04:27	2 Anthony Mosley > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	28	-	29
+04:27	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	04:27	21 Jake Digiorgio > Offensive Rebound > Short > Turnover	28	-	29
+04:27	Misc Stat > Offensive Rebound > Jake Digiorgio
+04:25	Turnover > Any Type > Jake Digiorgio
+WHE	1	04:11	3 Kobe Eichelberger > Spot-Up > Drives Right > To Basket > Make 2 Pts	28	-	31
+04:11	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+03:54	Player Movement > Sub In > Home Player > Kobe Eichelberger
+03:54	Player Movement > Sub Out > Home Player > Trevor Gunter
+IIT	1	03:50	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	28	-	31
+03:50	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	03:50	22 Max Hisatake > Offensive Rebound > Short > Run Offense	28	-	31
+03:50	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	03:39	2 Anthony Mosley > Spot-Up > Drives Left > To Basket > Make 2 Pts Foul > 1 Pts	30	-	31
+03:39	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+03:39	Personal Foul > Defensive - Any > Jay Spencer
+IIT	1	03:39	2 Anthony Mosley > Non Possession > Free Throw	31	-	31
+03:39	Shot > Anthony Mosley > Free Throw > Made
+WHE	1	03:28	12 Zack Kvam > ISO > Top > Drives Right > Defense Commits > Turnover	31	-	31
+03:28	Misc Stat > Steal > Jake Digiorgio
+03:28	Turnover > Any Type > Zack Kvam
+IIT	1	03:09	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Split > To Basket > Miss 2 Pts	31	-	31
+03:09	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	02:42	2 Anthony Mosley > Cut > Basket > Miss 2 Pts	31	-	31
+02:42	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+02:42	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	02:40	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	31	-	31
+02:40	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:40	Personal Foul > Defensive - Any > Max Hisatake
+02:40	Player Movement > Sub Out > Away Player > Anthony Mosley
+02:40	Misc Stat > Defensive Rebound > Spencer Peterson
+02:40	Player Movement > Sub In > Away Player > Kohl Linder
+02:40	Player Movement > Sub In > Away Player > Capriest Gardner
+02:40	Player Movement > Sub Out > Away Player > Max Hisatake
+WHE	1	02:30	22 Ricky Samuelson > Cut > Basket > Make 2 Pts	31	-	33
+02:30	Shot > Ricky Samuelson > Any Type > 2 Point Attempt > Make 2 Pts
+02:30	Misc Stat > Assist > Aston Francis
+IIT	1	02:01	15 Capriest Gardner > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Turnover	31	-	33
+02:01	Misc Stat > Steal > Zack Kvam
+02:01	Turnover > Any Type > Capriest Gardner
+WHE	1	01:59	3 Kobe Eichelberger > Transition > First Middle > To Basket > Make 2 Pts	31	-	35
+01:59	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+01:59	Misc Stat > Assist > Zack Kvam
+IIT	1	01:40	32 Parker Joncus > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	31	-	35
+01:40	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+01:40	Misc Stat > Block > Ricky Samuelson
+01:37	Misc Stat > Defensive Rebound > Kobe Eichelberger
+WHE	1	01:29	1 Aston Francis > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	31	-	35
+01:29	Shot > Aston Francis > Any Type > 3 Point Attempt > Miss 3 Pts
+WHE	1	01:29	3 Kobe Eichelberger > Offensive Rebound > Long > Run Offense	31	-	35
+01:29	Misc Stat > Offensive Rebound > Kobe Eichelberger
+WHE	1	01:18	22 Ricky Samuelson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	31	-	35
+01:18	Shot > Ricky Samuelson > Any Type > 3 Point Attempt > Miss 3 Pts
+01:18	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:15	21 Jake Digiorgio > No Play Type > Foul	31	-	35
+01:15	Personal Foul > Defensive - Any > Spencer Peterson
+IIT	1	01:15	21 Jake Digiorgio > Non Possession > Free Throw	32	-	35
+01:15	Shot > Jake Digiorgio > Free Throw > Made
+IIT	1	01:15	21 Jake Digiorgio > Non Possession > Free Throw	33	-	35
+01:15	Shot > Jake Digiorgio > Free Throw > Made
+01:15	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+01:15	Player Movement > Sub In > Home Player > Trevor Gunter
+01:15	Player Movement > Sub Out > Home Player > Luke Peters
+01:15	Player Movement > Sub In > Home Player > Jay Spencer
+01:15	Player Movement > Sub Out > Home Player > Spencer Peterson
+01:15	Player Movement > Sub In > Home Player > Ricky Samuelson
+WHE	1	00:59	1 Aston Francis > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	33	-	37
+00:59	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	00:34	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	36	-	37
+00:34	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+WHE	2	19:51	22 Ricky Samuelson > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	36	-	37
+19:51	Shot > Ricky Samuelson > Any Type > 3 Point Attempt > Miss 3 Pts
+19:51	Misc Stat > Offensive Rebound > Luke Peters
+WHE	2	19:46	34 Luke Peters > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	36	-	39
+19:46	Shot > Luke Peters > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	19:23	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	36	-	39
+19:23	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+19:23	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	19:19	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	36	-	39
+19:19	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+19:19	Misc Stat > Block > Jay Spencer
+IIT	2	19:16	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	38	-	39
+19:16	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+19:16	Misc Stat > Assist > Parker Joncus
+WHE	2	19:02	1 Aston Francis > Off Screen > To Shooter's Left > Straight > To Basket > Make 2 Pts	38	-	41
+19:02	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	18:29	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	41	-	41
+18:29	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Make 3 Pts
+WHE	2	18:15	22 Ricky Samuelson > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	41	-	41
+18:15	Shot > Ricky Samuelson > Any Type > 3 Point Attempt > Miss 3 Pts
+18:15	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	18:10	32 Parker Joncus > Transition > Right Wing > To Basket > Foul	41	-	41
+18:10	Personal Foul > Defensive - Any > Ricky Samuelson
+IIT	2	18:10	32 Parker Joncus > Non Possession > Free Throw	41	-	41
+18:10	Shot > Parker Joncus > Free Throw > Missed
+IIT	2	18:10	32 Parker Joncus > Non Possession > Free Throw	42	-	41
+18:10	Shot > Parker Joncus > Free Throw > Made
+WHE	2	18:00	1 Aston Francis > Off Screen > To Shooter's Left > Straight > To Basket > Make 2 Pts	42	-	43
+18:00	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:31	15 Capriest Gardner > ISO > Left > Drives Right > To Basket > Miss 2 Pts	42	-	43
+17:31	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+17:31	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	17:28	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	42	-	43
+17:28	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+17:28	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	17:25	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	44	-	43
+17:25	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	2	17:12	34 Luke Peters > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	44	-	43
+17:12	Shot > Luke Peters > Any Type > 3 Point Attempt > Miss 3 Pts
+WHE	2	17:12	3 Kobe Eichelberger > Offensive Rebound > Long > Run Offense	44	-	43
+17:12	Misc Stat > Offensive Rebound > Kobe Eichelberger
+WHE	2	17:06	34 Luke Peters > Spot-Up > Drives Left > To Basket > Make 2 Pts	44	-	45
+17:06	Shot > Luke Peters > Any Type > 2 Point Attempt > Make 2 Pts
+17:06	Misc Stat > Assist > Kobe Eichelberger
+IIT	2	16:54	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Turnover	44	-	45
+16:54	Player Movement > Sub Out > Home Player > Jay Spencer
+16:54	Player Movement > Sub In > Home Player > Spencer Peterson
+16:54	Turnover > Any Type > Anthony Mosley
+WHE	2	16:42	3 Kobe Eichelberger > P&R Ball Handler > Left P&R > Baseline > Go Away from Pick > Defense Commits 
+16:42	Shot > Luke Peters > Any Type > 2 Point Attempt > Make 2 Pts
+16:42	Misc Stat > Assist > Kobe Eichelberger
+IIT	2	16:31	2 Anthony Mosley > ISO > Top > Drives Left > Turnover	44	-	47
+16:31	Player Movement > Sub Out > Home Player > Ricky Samuelson
+16:31	Turnover > Any Type > Anthony Mosley
+16:31	Player Movement > Sub In > Home Player > Zack Kvam
+16:31	Player Movement > Sub Out > Away Player > Anthony Mosley
+16:31	Player Movement > Sub In > Away Player > Jake Bruns
+WHE	2	16:22	1 Aston Francis > Off Screen > To Shooter's Left > Straight > To Basket > Make 2 Pts	44	-	49
+16:22	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	16:05	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+16:05	Misc Stat > Defensive Rebound > Aston Francis
+WHE	2	15:52	12 Zack Kvam > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+15:52	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+15:52	Misc Stat > Assist > Zack Kvam
+IIT	2	15:19	15 Capriest Gardner > ISO > Top > Early Jumper > Long/3pt > Miss 3 Pts	44	-	51
+15:19	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+15:19	Misc Stat > Defensive Rebound > Luke Peters
+WHE	2	15:06	34 Luke Peters > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+15:06	Shot > Spencer Peterson > Any Type > 2 Point Attempt > Miss 2 Pts
+15:06	Misc Stat > Block > Max Hisatake
+15:04	Misc Stat > Offensive Rebound > Spencer Peterson
+WHE	2	15:01	35 Spencer Peterson > Offensive Rebound > Long > Scoring Attempt > At Basket > Make 2 Pts	44	-	53
+15:01	Shot > Spencer Peterson > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	14:47	22 Max Hisatake > Post-Up > Flash Middle > Post Pin > No Dribble Move > To Basket > Foul	44	-	53
+14:47	Personal Foul > Defensive - Any > Spencer Peterson
+IIT	2	14:47	22 Max Hisatake > Non Possession > Free Throw	44	-	53
+14:47	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	14:47	22 Max Hisatake > Non Possession > Free Throw	44	-	53
+14:47	Shot > Max Hisatake > Free Throw > Missed
+14:47	Misc Stat > Offensive Rebound > Jake Digiorgio
+14:47	Player Movement > Sub In > Home Player > Trevor Gunter
+14:47	Player Movement > Sub Out > Home Player > Spencer Peterson
+14:47	Player Movement > Sub Out > Away Player > Capriest Gardner
+14:47	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+14:47	Player Movement > Sub In > Away Player > Anthony Mosley
+14:47	Player Movement > Sub In > Home Player > Jay Spencer
+14:41	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	14:40	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	44	-	53
+14:40	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+WHE	2	14:18	34 Luke Peters > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	46	-	53
+14:18	Turnover > Any Type > Luke Peters
+IIT	2	13:59	21 Jake Digiorgio > Spot-Up > Drives Right > To Basket > Miss 2 Pts	46	-	53
+13:59	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+13:59	Misc Stat > Block > Jay Spencer
+13:57	Misc Stat > Defensive Rebound > Aston Francis
+WHE	2	13:50	1 Aston Francis > ISO > Left > Drives Right > To Basket > Miss 2 Pts	46	-	53
+13:50	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+WHE	2	13:50	25 Jay Spencer > Offensive Rebound > Long > Run Offense	46	-	53
+13:50	Misc Stat > Offensive Rebound > Jay Spencer
+WHE	2	13:41	1 Aston Francis > No Play Type > Turnover	46	-	53
+13:41	Turnover > Any Type > Aston Francis
+13:41	Personal Foul > Defensive - Any > Aston Francis
+IIT	2	13:26	22 Max Hisatake > No Play Type > Turnover	46	-	53
+13:26	Turnover > Any Type > Max Hisatake
+13:25	Player Movement > Sub Out > Home Player > Aston Francis
+13:25	Player Movement > Sub In > Home Player > Ricky Samuelson
+WHE	2	13:07	25 Jay Spencer > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	46	-	56
+13:07	Shot > Jay Spencer > Any Type > 3 Point Attempt > Make 3 Pts
+13:07	Misc Stat > Assist > Zack Kvam
+IIT	2	12:50	21 Jake Digiorgio > Post-Up > Flash Middle > Post Pin > Dribble Move > Defense Commits > Turnover	46	-	56
+12:50	Turnover > Any Type > Jake Digiorgio
+12:49	Misc Stat > Steal > Trevor Gunter
+WHE	2	12:46	12 Zack Kvam > Transition > Left Wing > To Basket > Make 2 Pts	46	-	58
+12:46	Shot > Zack Kvam > Any Type > 2 Point Attempt > Make 2 Pts
+12:46	Misc Stat > Assist > Luke Peters
+IIT	2	12:32	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	46	-	58
+12:32	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+12:32	Misc Stat > Defensive Rebound > Trevor Gunter
+WHE	2	12:15	34 Luke Peters > Hand Off > From Stationary > Left > To Basket > Turnover	46	-	58
+12:15	Turnover > Any Type > Luke Peters
+12:15	Player Movement > Sub Out > Home Player > Luke Peters
+12:15	Player Movement > Sub In > Home Player > Aston Francis
+IIT	2	11:44	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+11:44	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+11:44	Player Movement > Sub In > Home Player > Kobe Eichelberger
+11:44	Misc Stat > Block > Jay Spencer
+11:44	Player Movement > Sub Out > Home Player > Jay Spencer
+WHE	2	11:36	12 Zack Kvam > Non Possession > Non Shooting Foul	46	-	58
+11:36	Personal Foul > Defensive - Any > Jake Bruns
+WHE	2	11:22	3 Kobe Eichelberger > ISO > Top > Drives Left > Defense Commits 
+11:22	Turnover > Any Type > Zack Kvam
+11:21	Misc Stat > Steal > Jake Digiorgio
+IIT	2	11:04	2 Anthony Mosley > ISO > Top > Drives Right > To Basket > Make 2 Pts	48	-	58
+11:04	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	2	10:48	1 Aston Francis > Spot-Up > Drives Right > To Basket > Miss 2 Pts	48	-	58
+10:48	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+10:48	Misc Stat > Offensive Rebound > Trevor Gunter
+WHE	2	10:43	5 Trevor Gunter > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	48	-	58
+10:43	Shot > Trevor Gunter > Any Type > 2 Point Attempt > Miss 2 Pts
+10:43	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	10:36	22 Max Hisatake > No Play Type > Turnover	48	-	58
+10:36	Turnover > Any Type > Max Hisatake
+10:35	Misc Stat > Steal > Ricky Samuelson
+WHE	2	10:33	1 Aston Francis > Spot-Up > Drives Right > Dribble Jumper > Long/3pt > Make 3 Pts	48	-	61
+10:33	Shot > Aston Francis > Any Type > 3 Point Attempt > Make 3 Pts
+10:33	Misc Stat > Assist > Ricky Samuelson
+IIT	2	10:03	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+10:03	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+10:03	Misc Stat > Defensive Rebound > Kobe Eichelberger
+WHE	2	09:51	1 Aston Francis > Hand Off > From Dribble > Right > To Basket > Foul	48	-	61
+09:51	Personal Foul > Defensive - Any > Anthony Mosley
+WHE	2	09:51	1 Aston Francis > Non Possession > Free Throw	48	-	62
+09:51	Shot > Aston Francis > Free Throw > Made
+WHE	2	09:51	1 Aston Francis > Non Possession > Free Throw	48	-	62
+09:51	Shot > Aston Francis > Free Throw > Missed
+09:51	Misc Stat > Defensive Rebound > Max Hisatake
+09:51	Player Movement > Sub Out > Away Player > Parker Joncus
+09:51	Player Movement > Sub In > Away Player > Calvin Schmitz
+IIT	2	09:40	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Defense Commits 
+09:40	Turnover > Any Type > Max Hisatake
+WHE	2	09:25	34 Luke Peters > Spot-Up > Drives Right > Turnover	48	-	62
+09:25	Turnover > Any Type > Luke Peters
+IIT	2	09:11	21 Jake Digiorgio > No Play Type > To Basket > Miss 2 Pts	48	-	62
+09:11	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+09:11	Misc Stat > Defensive Rebound > Luke Peters
+09:10	Player Movement > Sub In > Away Player > Kohl Linder
+09:10	Personal Foul > Defensive - Any > Max Hisatake
+09:10	Player Movement > Sub Out > Away Player > Jake Digiorgio
+WHE	2	08:52	3 Kobe Eichelberger > Spot-Up > Drives Right > Turnover	48	-	62
+08:52	Turnover > Any Type > Kobe Eichelberger
+IIT	2	08:36	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	48	-	62
+08:36	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+08:36	Misc Stat > Defensive Rebound > Spencer Peterson
+WHE	2	08:29	34 Luke Peters > Transition > Ballhandler > To Basket > Foul	48	-	62
+08:29	Personal Foul > Defensive - Any > Kohl Linder
+WHE	2	08:29	34 Luke Peters > Non Possession > Free Throw	48	-	62
+08:29	Shot > Luke Peters > Free Throw > Missed
+WHE	2	08:29	34 Luke Peters > Non Possession > Free Throw	48	-	62
+08:29	Shot > Luke Peters > Free Throw > Missed
+08:29	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+08:29	Player Movement > Sub In > Home Player > Jay Spencer
+08:29	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	2	08:14	13 Calvin Schmitz > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	48	-	62
+08:14	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+08:14	Misc Stat > Defensive Rebound > Ricky Samuelson
+WHE	2	08:04	35 Spencer Peterson > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Foul	48	-	62
+08:04	Personal Foul > Defensive - Any > Kohl Linder
+WHE	2	08:04	35 Spencer Peterson > Non Possession > Free Throw	48	-	63
+08:04	Shot > Spencer Peterson > Free Throw > Made
+WHE	2	08:04	35 Spencer Peterson > Non Possession > Free Throw	48	-	63
+08:04	Shot > Spencer Peterson > Free Throw > Missed
+08:04	Misc Stat > Defensive Rebound > Max Hisatake
+08:04	Player Movement > Sub Out > Away Player > Kohl Linder
+08:04	Player Movement > Sub In > Away Player > Capriest Gardner
+08:04	Player Movement > Sub In > Away Player > Jake Digiorgio
+08:04	Player Movement > Sub Out > Away Player > Jake Bruns
+IIT	2	07:53	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	48	-	63
+07:53	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+07:53	Misc Stat > Defensive Rebound > Aston Francis
+WHE	2	07:47	22 Ricky Samuelson > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	48	-	63
+07:47	Shot > Ricky Samuelson > Any Type > 3 Point Attempt > Miss 3 Pts
+07:47	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	2	07:37	13 Calvin Schmitz > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	48	-	63
+07:37	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+07:37	Misc Stat > Defensive Rebound > Luke Peters
+WHE	2	07:19	1 Aston Francis > ISO > Right > Drives Left > Dribble Jumper > Short to < 17' > Miss 2 Pts	48	-	63
+07:19	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+07:19	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	06:58	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Split > Defense Commits 
+06:58	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+06:58	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	06:54	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	48	-	63
+06:54	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	06:54	13 Calvin Schmitz > Offensive Rebound > Short > Run Offense	48	-	63
+06:54	Misc Stat > Offensive Rebound > Calvin Schmitz
+06:53	Player Movement > Sub In > Away Player > Parker Joncus
+06:53	Player Movement > Sub Out > Away Player > Calvin Schmitz
+IIT	2	06:35	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+06:35	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:35	Misc Stat > Block > Jay Spencer
+IIT	2	06:33	15 Capriest Gardner > Offensive Rebound > Long > Run Offense	48	-	63
+06:33	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	2	06:25	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	51	-	63
+06:25	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Make 3 Pts
+06:25	Misc Stat > Assist > Capriest Gardner
+WHE	2	06:06	35 Spencer Peterson > Cut > Basket > Make 2 Pts	51	-	65
+06:06	Shot > Spencer Peterson > Any Type > 2 Point Attempt > Make 2 Pts
+06:06	Misc Stat > Assist > Aston Francis
+IIT	2	05:50	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > No Dribble Move > To Hook > Miss 2 Pts	51	-	65
+05:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	05:50	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	51	-	65
+05:50	Misc Stat > Offensive Rebound > Jake Digiorgio
+05:49	Player Movement > Sub Out > Away Player > Max Hisatake
+05:49	Player Movement > Sub In > Away Player > Kohl Linder
+05:49	Player Movement > Sub Out > Home Player > Spencer Peterson
+05:49	Personal Foul > Defensive - Any > Jay Spencer
+05:49	Player Movement > Sub In > Home Player > Kobe Eichelberger
+IIT	2	05:44	2 Anthony Mosley > Spot-Up > Drives Left > To Basket > Miss 2 Pts	51	-	65
+05:44	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+05:44	Misc Stat > Block > Jay Spencer
+IIT	2	05:37	2 Anthony Mosley > P&R Ball Handler > High P&R > Takes Early Jump Shot > Long/3pt > Miss 3 Pts	51	-	65
+05:37	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+05:37	Misc Stat > Defensive Rebound > Kobe Eichelberger
+WHE	2	05:08	1 Aston Francis > ISO > Top > Drives Left > To Basket > Make 2 Pts	51	-	67
+05:08	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	04:51	15 Capriest Gardner > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	51	-	67
+04:51	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	04:50	10 Jake Bruns > No Play Type > Turnover	51	-	67
+04:50	Player Movement > Sub Out > Away Player > Kohl Linder
+04:50	Player Movement > Sub Out > Home Player > Jay Spencer
+04:50	Player Movement > Sub In > Away Player > Max Hisatake
+04:50	Player Movement > Sub In > Home Player > Spencer Peterson
+04:50	Player Movement > Sub In > Away Player > Jake Bruns
+04:50	Player Movement > Sub Out > Away Player > Capriest Gardner
+04:47	Turnover > Any Type > Jake Bruns
+04:47	Misc Stat > Steal > Spencer Peterson
+WHE	2	04:28	1 Aston Francis > ISO > Right > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	51	-	67
+04:28	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+04:28	Misc Stat > Offensive Rebound > Aston Francis
+WHE	2	04:23	1 Aston Francis > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	51	-	69
+04:23	Shot > Aston Francis > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	04:07	22 Max Hisatake > Non Possession > Non Shooting Foul	51	-	69
+04:07	Personal Foul > Defensive - Any > Spencer Peterson
+IIT	2	03:59	32 Parker Joncus > Off Screen > To Shooter's Right > Turnover	51	-	69
+03:59	Turnover > Any Type > Parker Joncus
+03:59	Misc Stat > Steal > Aston Francis
+WHE	2	03:56	3 Kobe Eichelberger > Transition > Ballhandler > To Basket > Make 2 Pts	51	-	71
+03:56	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Make 2 Pts
+03:56	Misc Stat > Assist > Aston Francis
+IIT	2	03:38	22 Max Hisatake > Post-Up > Right Block > Left Shoulder > Dribble Move > Turnover	51	-	71
+03:38	Turnover > Any Type > Max Hisatake
+WHE	2	03:17	1 Aston Francis > Off Screen > To Shooter's Left > Straight > Dribble Jumper > Long/3pt > Make 3 Pts	51	-	74
+03:17	Shot > Aston Francis > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	03:06	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	53	-	74
+03:06	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+WHE	2	02:44	3 Kobe Eichelberger > Spot-Up > Drives Right > To Basket > Miss 2 Pts	53	-	74
+02:44	Shot > Kobe Eichelberger > Any Type > 2 Point Attempt > Miss 2 Pts
+WHE	2	02:44	3 Kobe Eichelberger > Offensive Rebound > Short > Run Offense	53	-	74
+02:44	Misc Stat > Offensive Rebound > Kobe Eichelberger
+02:25	Player Movement > Sub Out > Away Player > Parker Joncus
+02:25	Player Movement > Sub In > Away Player > Brett Ott
+02:25	Player Movement > Sub In > Home Player > Jay Spencer
+02:25	Player Movement > Sub Out > Away Player > Anthony Mosley
+02:25	Player Movement > Sub In > Away Player > Kohl Linder
+02:25	Player Movement > Sub Out > Away Player > Max Hisatake
+02:25	Player Movement > Sub In > Away Player > Jason Morris
+02:25	Player Movement > Sub Out > Away Player > Jake Digiorgio
+02:25	Player Movement > Sub In > Away Player > Calvin Schmitz
+02:25	Player Movement > Sub Out > Home Player > Kobe Eichelberger
+WHE	2	02:20	22 Ricky Samuelson > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	53	-	74
+02:20	Shot > Ricky Samuelson > Any Type > 2 Point Attempt > Miss 2 Pts
+02:20	Misc Stat > Defensive Rebound > Brett Ott
+IIT	2	01:50	13 Calvin Schmitz > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	55	-	74
+01:50	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+01:50	Misc Stat > Assist > Jake Bruns
+WHE	2	01:30	34 Luke Peters > ISO > Top > Drives Left > Defense Commits 
+01:30	Shot > Aston Francis > Any Type > 2 Point Attempt > Miss 2 Pts
+01:30	Misc Stat > Defensive Rebound > Kohl Linder
+IIT	2	01:11	13 Calvin Schmitz > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	55	-	74
+01:11	Shot > Calvin Schmitz > Any Type > 3 Point Attempt > Miss 3 Pts
+01:11	Misc Stat > Defensive Rebound > Aston Francis
+WHE	2	00:54	33 Mark Champion > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	55	-	74
+00:54	Shot > Mark Champion > Any Type > 3 Point Attempt > Miss 3 Pts
+00:43	Player Movement > Sub Out > Home Player > Zack Kvam
+00:43	Player Movement > Sub In > Home Player > Reagan Jones
+WHE	2	00:27	11 Tyrel Derrick > ISO > Top > Drives Right > Dribble Jumper > Short to < 17' > Make 2 Pts	55	-	76
+00:27	Shot > Tyrel Derrick > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	00:01	13 Calvin Schmitz > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:01	Shot > Brett Ott > Any Type > 2 Point Attempt > Miss 2 Pts
+00:01	Misc Stat > Defensive Rebound > Zac Holman
+00:01	Misc Stat > Block > Zac Holman

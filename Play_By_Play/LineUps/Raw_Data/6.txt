@@ -1,0 +1,631 @@
+RLA	1	19:44	44 Chandler Fuzak > Post-Up > Flash Middle > Right Shoulder > Dribble Move > Turnover			
+19:44	Turnover > Any Type > Chandler Fuzak
+19:43	Misc Stat > Steal > Parker Joncus
+IIT	1	19:32	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+19:32	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+19:32	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	19:27	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts			
+19:27	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+19:27	Misc Stat > Block > Chandler Fuzak
+IIT	1	19:26	20 Brett Ott > Offensive Rebound > Long > Run Offense			
+19:26	Misc Stat > Offensive Rebound > Brett Ott
+IIT	1	19:03	2 Anthony Mosley > ISO > Left > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts			
+19:03	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+19:03	Misc Stat > Defensive Rebound > Carson Hughes
+RLA	1	18:50	44 Chandler Fuzak > Off Screen > To Shooter's Left > Straight > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts			
+18:50	Shot > Chandler Fuzak > Any Type > 3 Point Attempt > Miss 3 Pts
+18:50	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	18:43	2 Anthony Mosley > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts			
+18:43	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+18:43	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	18:37	22 Max Hisatake > Offensive Rebound > Long > Scoring Attempt > Short to < 17' > Miss 2 Pts			
+18:37	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+18:37	Misc Stat > Defensive Rebound > Chandler Fuzak
+RLA	1	18:23	4 Jake Ludwig > Transition > Ballhandler > To Basket > Make 2 Pts	2	-	0
+18:23	Shot > Jake Ludwig > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	18:19	22 Max Hisatake > Spot-Up > Drives Right > To Basket > Make 2 Pts	2	-	2
+18:19	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+18:19	Misc Stat > Assist > Brett Ott
+RLA	1	18:12	24 Adam Alexander > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts	2	-	2
+18:12	Shot > Adam Alexander > Any Type > 2 Point Attempt > Miss 2 Pts
+18:12	Misc Stat > Block > Jake Digiorgio
+18:10	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	17:21	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > Turnover	2	-	2
+17:21	Turnover > Any Type > Max Hisatake
+RLA	1	17:10	23 Grant Gibson > Off Screen > To Shooter's Left > Flare > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	5	-	2
+17:10	Shot > Grant Gibson > Any Type > 3 Point Attempt > Make 3 Pts
+17:10	Misc Stat > Assist > Adam Alexander
+IIT	1	16:41	21 Jake Digiorgio > Spot-Up > Drives Left > Turnover	5	-	2
+16:41	Player Movement > Sub Out > Home Player > Brett Ott
+16:41	Player Movement > Sub In > Home Player > Jake Bruns
+16:41	Turnover > Any Type > Jake Digiorgio
+RLA	1	16:30	4 Jake Ludwig > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	5	-	2
+16:30	Shot > Jake Ludwig > Any Type > 2 Point Attempt > Miss 2 Pts
+16:30	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	16:25	10 Jake Bruns > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	5	-	2
+16:25	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+16:25	Misc Stat > Defensive Rebound > Carson Hughes
+RLA	1	16:15	1 Carson Hughes > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	5	-	2
+16:15	Shot > Carson Hughes > Any Type > 3 Point Attempt > Miss 3 Pts
+16:15	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	16:06	32 Parker Joncus > Transition > Right Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	5	-	5
+16:06	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+16:06	Misc Stat > Assist > Anthony Mosley
+RLA	1	15:52	4 Jake Ludwig > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+15:52	Personal Foul > Defensive - Any > Max Hisatake
+RLA	1	15:52	44 Chandler Fuzak > Non Possession > Free Throw	5	-	5
+15:52	Shot > Chandler Fuzak > Free Throw > Missed
+RLA	1	15:52	44 Chandler Fuzak > Non Possession > Free Throw	5	-	5
+15:52	Shot > Chandler Fuzak > Free Throw > Missed
+15:52	Player Movement > Sub In > Away Player > Joshua Dillingham
+15:52	Player Movement > Sub Out > Home Player > Max Hisatake
+15:52	Misc Stat > Defensive Rebound > Jake Digiorgio
+15:52	Player Movement > Sub In > Home Player > Capriest Gardner
+15:52	Player Movement > Sub Out > Away Player > Adam Alexander
+IIT	1	15:32	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	5	-	8
+15:32	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+RLA	1	15:13	1 Carson Hughes > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	5	-	8
+15:13	Shot > Carson Hughes > Any Type > 2 Point Attempt > Miss 2 Pts
+15:13	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	14:52	10 Jake Bruns > Spot-Up > Drives Straight > Dribble Jumper > Long/3pt > Miss 3 Pts	5	-	8
+14:52	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+14:52	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	14:47	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	5	-	10
+14:47	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	1	14:36	4 Jake Ludwig > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:36	Shot > Chandler Fuzak > Any Type > 3 Point Attempt > Miss 3 Pts
+14:36	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	14:26	2 Anthony Mosley > Transition > Ballhandler > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	5	-	10
+14:26	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+14:26	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	1	14:17	4 Jake Ludwig > Transition > Trailer > Turnover	5	-	10
+14:17	Player Movement > Sub In > Away Player > Kyle Bumbalough
+14:17	Player Movement > Sub Out > Away Player > Chandler Fuzak
+14:17	Player Movement > Sub In > Away Player > Jake Asquini
+14:17	Player Movement > Sub Out > Away Player > Jake Ludwig
+14:17	Player Movement > Sub In > Away Player > Andre Raiford Jr.
+14:17	Player Movement > Sub Out > Away Player > Carson Hughes
+14:17	Turnover > Any Type > Jake Ludwig
+IIT	1	13:57	15 Capriest Gardner > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Make 2 Pts	5	-	12
+13:57	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	1	13:40	23 Grant Gibson > Off Screen > To Shooter's Left > Flare > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	5	-	12
+13:40	Shot > Grant Gibson > Any Type > 3 Point Attempt > Miss 3 Pts
+13:40	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	13:26	2 Anthony Mosley > Non Possession > Non Shooting Foul	5	-	12
+13:26	Player Movement > Sub Out > Away Player > Grant Gibson
+13:26	Player Movement > Sub In > Away Player > Carson Hughes
+13:26	Personal Foul > Defensive - Any > Grant Gibson
+IIT	1	13:17	32 Parker Joncus > No Play Type > Turnover	5	-	12
+13:17	Turnover > Any Type > Parker Joncus
+13:16	Misc Stat > Steal > Joshua Dillingham
+RLA	1	13:09	33 Jake Asquini > Spot-Up > Drives Left > To Basket > Make 2 Pts	7	-	12
+13:09	Shot > Jake Asquini > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	12:45	21 Jake Digiorgio > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	7	-	12
+12:45	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+12:45	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	1	12:42	32 Parker Joncus > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	7	-	12
+12:42	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+12:42	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	1	12:24	22 Joshua Dillingham > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Foul	7	-	12
+12:24	Personal Foul > Defensive - Any > Jake Digiorgio
+RLA	1	12:24	22 Joshua Dillingham > Non Possession > Free Throw	8	-	12
+12:24	Shot > Joshua Dillingham > Free Throw > Made
+RLA	1	12:24	22 Joshua Dillingham > Non Possession > Free Throw	8	-	12
+12:24	Shot > Joshua Dillingham > Free Throw > Missed
+RLA	1	12:24	13 Kyle Bumbalough > Offensive Rebound > Long > Run Offense	8	-	12
+12:24	Player Movement > Sub In > Home Player > Max Hisatake
+12:24	Player Movement > Sub Out > Home Player > Parker Joncus
+12:24	Misc Stat > Offensive Rebound > Kyle Bumbalough
+12:24	Player Movement > Sub Out > Home Player > Jake Digiorgio
+12:24	Player Movement > Sub In > Home Player > Calvin Schmitz
+RLA	1	12:14	13 Kyle Bumbalough > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+12:14	Turnover > Any Type > Jake Asquini
+12:13	Misc Stat > Steal > Anthony Mosley
+IIT	1	11:59	13 Calvin Schmitz > No Play Type > Turnover	8	-	12
+11:59	Turnover > Any Type > Calvin Schmitz
+RLA	1	11:44	22 Joshua Dillingham > Post-Up > Right Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	8	-	12
+11:44	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Miss 2 Pts
+11:44	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	11:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Make 2 Pts	8	-	14
+11:33	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	1	11:17	22 Joshua Dillingham > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	10	-	14
+11:17	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:59	22 Max Hisatake > Non Possession > Non Shooting Foul	10	-	14
+10:59	Player Movement > Sub Out > Home Player > Capriest Gardner
+10:59	Player Movement > Sub In > Away Player > Kevin Day
+10:59	Player Movement > Sub Out > Home Player > Jake Bruns
+10:59	Personal Foul > Defensive - Any > Joshua Dillingham
+10:59	Player Movement > Sub In > Home Player > Kohl Linder
+10:59	Player Movement > Sub Out > Away Player > Andre Raiford Jr.
+RLA	1	10:24	1 Carson Hughes > Off Screen > To Shooter's Right > Straight > Turnover	10	-	14
+10:24	Player Movement > Sub In > Away Player > Jake Ludwig
+10:24	Turnover > Any Type > Carson Hughes
+10:24	Player Movement > Sub Out > Away Player > Kyle Bumbalough
+IIT	1	10:13	2 Anthony Mosley > P&R Ball Handler > High P&R > Split > To Basket > Miss 2 Pts	10	-	14
+10:13	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+10:13	Misc Stat > Block > Kevin Day
+IIT	1	10:07	2 Anthony Mosley > Spot-Up > Drives Left > Turnover	10	-	14
+10:07	Turnover > Any Type > Anthony Mosley
+10:06	Misc Stat > Steal > Jake Asquini
+RLA	1	10:02	1 Carson Hughes > Transition > Right Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	10	-	14
+10:02	Shot > Carson Hughes > Any Type > 3 Point Attempt > Miss 3 Pts
+10:02	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	09:37	2 Anthony Mosley > Non Possession > Non Shooting Foul	10	-	14
+09:37	Player Movement > Sub In > Away Player > Chandler Fuzak
+09:37	Player Movement > Sub Out > Away Player > Joshua Dillingham
+09:37	Personal Foul > Defensive - Any > Joshua Dillingham
+09:37	Player Movement > Sub Out > Away Player > Carson Hughes
+09:37	Player Movement > Sub In > Away Player > Adam Alexander
+IIT	1	09:17	13 Calvin Schmitz > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+09:17	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	09:17	35 Kohl Linder > Offensive Rebound > Short > Run Offense	10	-	14
+09:17	Misc Stat > Offensive Rebound > Kohl Linder
+09:14	Player Movement > Sub In > Home Player > Parker Joncus
+09:14	Personal Foul > Defensive - Any > Jake Asquini
+09:14	Player Movement > Sub Out > Home Player > Kohl Linder
+09:14	Player Movement > Sub In > Home Player > Jake Digiorgio
+IIT	1	08:51	2 Anthony Mosley > Off Screen > To Shooter's Left > Straight > Dribble Jumper > Short to < 17' > Miss 2 Pts	10	-	14
+08:51	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	08:51	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	10	-	14
+08:51	Misc Stat > Offensive Rebound > Jake Digiorgio
+08:46	Player Movement > Sub Out > Away Player > Jake Asquini
+08:46	Player Movement > Sub In > Away Player > Kyle Bumbalough
+IIT	1	08:26	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Miss 2 Pts	10	-	14
+08:26	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	08:26	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	10	-	14
+08:26	Misc Stat > Offensive Rebound > Jake Digiorgio
+08:23	Personal Foul > Defensive - Any > Kevin Day
+IIT	1	08:23	21 Jake Digiorgio > Non Possession > Free Throw	10	-	14
+08:23	Shot > Jake Digiorgio > Free Throw > Missed
+IIT	1	08:23	21 Jake Digiorgio > Non Possession > Free Throw	10	-	15
+08:23	Shot > Jake Digiorgio > Free Throw > Made
+RLA	1	08:16	4 Jake Ludwig > Off Screen > To Shooter's Right > Straight > Dribble Jumper > Short to < 17' > Make 2 Pts	12	-	15
+08:16	Shot > Jake Ludwig > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	07:48	2 Anthony Mosley > Non Possession > Non Shooting Foul	12	-	15
+07:48	Personal Foul > Defensive - Any > Jake Ludwig
+IIT	1	07:39	21 Jake Digiorgio > Cut > Flash > Turnover	12	-	15
+07:39	Turnover > Any Type > Jake Digiorgio
+07:38	Misc Stat > Steal > Jake Ludwig
+RLA	1	07:35	4 Jake Ludwig > Transition > Ballhandler > To Basket > Miss 2 Pts	12	-	15
+07:35	Shot > Jake Ludwig > Any Type > 2 Point Attempt > Miss 2 Pts
+07:35	Misc Stat > Block > Anthony Mosley
+07:33	Misc Stat > Offensive Rebound > Adam Alexander
+RLA	1	07:31	24 Adam Alexander > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	12	-	15
+07:31	Shot > Adam Alexander > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	07:31	32 Parker Joncus > No Play Type > Foul	12	-	15
+07:31	Personal Foul > Defensive - Any > Adam Alexander
+IIT	1	07:31	32 Parker Joncus > Non Possession > Free Throw	12	-	15
+07:31	Shot > Parker Joncus > Free Throw > Missed
+07:31	Misc Stat > Defensive Rebound > Kyle Bumbalough
+RLA	1	07:16	44 Chandler Fuzak > Cut > Screen > Make 2 Pts	14	-	15
+07:16	Shot > Chandler Fuzak > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	06:55	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Defense Commits 
+06:55	Personal Foul > Defensive - Any > Chandler Fuzak
+IIT	1	06:55	22 Max Hisatake > Non Possession > Free Throw	14	-	16
+06:55	Shot > Max Hisatake > Free Throw > Made
+IIT	1	06:55	22 Max Hisatake > Non Possession > Free Throw	14	-	17
+06:55	Shot > Max Hisatake > Free Throw > Made
+RLA	1	06:44	4 Jake Ludwig > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+06:44	Shot > Chandler Fuzak > Any Type > 2 Point Attempt > Make 2 Pts
+06:44	Misc Stat > Assist > Jake Ludwig
+IIT	1	06:26	10 Jake Bruns > No Play Type > Turnover	16	-	17
+06:26	Turnover > Any Type > Jake Bruns
+06:26	Personal Foul > Defensive - Any > Jake Bruns
+06:26	Player Movement > Sub Out > Away Player > Chandler Fuzak
+06:26	Player Movement > Sub In > Away Player > Andre Raiford Jr.
+RLA	1	06:15	4 Jake Ludwig > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits > Turnover	16	-	17
+06:15	Turnover > Any Type > Jake Ludwig
+06:13	Misc Stat > Steal > Anthony Mosley
+IIT	1	05:50	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+05:50	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+05:50	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	05:47	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	16	-	19
+05:47	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	1	05:30	21 Andre Raiford Jr. > Off Screen > To Shooter's Right > Straight > Turnover	16	-	19
+05:30	Player Movement > Sub Out > Away Player > Jake Ludwig
+05:30	Turnover > Any Type > Andre Raiford Jr.
+05:30	Player Movement > Sub Out > Away Player > Adam Alexander
+05:30	Player Movement > Sub In > Away Player > Kyle Bumbalough
+05:30	Player Movement > Sub In > Away Player > Joshua Dillingham
+IIT	1	05:10	21 Jake Digiorgio > ISO > Left > Drives Left > To Basket > Turnover	16	-	19
+05:10	Turnover > Any Type > Jake Digiorgio
+RLA	1	05:02	13 Kyle Bumbalough > No Play Type > To Basket > Make 2 Pts	18	-	19
+05:02	Shot > Kyle Bumbalough > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	04:29	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Miss 2 Pts	18	-	19
+04:29	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+04:29	Misc Stat > Defensive Rebound > Andre Raiford Jr.
+RLA	1	04:07	22 Joshua Dillingham > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	18	-	19
+04:07	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Miss 2 Pts
+04:07	Player Movement > Sub In > Away Player > Jake Asquini
+04:07	Misc Stat > Block > Max Hisatake
+04:07	Player Movement > Sub Out > Away Player > Grant Gibson
+RLA	1	04:01	3 Kevin Day > Spot-Up > Drives Left > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	18	-	19
+04:01	Shot > Kevin Day > Any Type > 2 Point Attempt > Miss 2 Pts
+04:01	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	03:54	2 Anthony Mosley > Transition > Ballhandler > To Basket > Turnover	18	-	19
+03:54	Player Movement > Sub In > Away Player > Chandler Fuzak
+03:54	Turnover > Any Type > Anthony Mosley
+03:54	Player Movement > Sub Out > Away Player > Kevin Day
+RLA	1	03:33	44 Chandler Fuzak > Post-Up > Flash Middle > Left Shoulder > No Dribble Move > To Basket > Turnover	18	-	19
+03:33	Turnover > Any Type > Chandler Fuzak
+IIT	1	03:16	10 Jake Bruns > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+03:16	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+03:16	Misc Stat > Assist > Jake Bruns
+RLA	1	03:00	44 Chandler Fuzak > Post-Up > Left Block > Defense Commits 
+03:00	Turnover > Any Type > Joshua Dillingham
+02:59	Misc Stat > Steal > Jake Digiorgio
+IIT	1	02:32	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	18	-	23
+02:32	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	1	02:11	22 Joshua Dillingham > Post-Up > Left Block > Face-up > Defense Commits 
+02:11	Shot > Kyle Bumbalough > Any Type > 3 Point Attempt > Miss 3 Pts
+02:11	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	01:47	2 Anthony Mosley > ISO > Top > Drives Right > Defense Commits 
+01:47	Player Movement > Sub Out > Away Player > Andre Raiford Jr.
+01:47	Player Movement > Sub In > Away Player > Carson Hughes
+01:47	Turnover > Any Type > Max Hisatake
+RLA	1	01:25	33 Jake Asquini > Off Screen > To Shooter's Left > Flare > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	18	-	23
+01:25	Shot > Jake Asquini > Any Type > 2 Point Attempt > Miss 2 Pts
+01:25	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	01:11	2 Anthony Mosley > No Play Type > Turnover	18	-	23
+01:11	Turnover > Any Type > Anthony Mosley
+RLA	1	00:52	33 Jake Asquini > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	18	-	23
+00:52	Shot > Jake Asquini > Any Type > 3 Point Attempt > Miss 3 Pts
+00:52	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	00:33	32 Parker Joncus > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	18	-	23
+00:33	Shot > Parker Joncus > Any Type > 2 Point Attempt > Miss 2 Pts
+00:33	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	1	00:06	44 Chandler Fuzak > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Make 2 Pts	20	-	23
+00:06	Shot > Chandler Fuzak > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	00:00	21 Jake Digiorgio > No Play Type > Dribble Jumper > Long/3pt > Miss 3 Pts	20	-	23
+00:00	Shot > Jake Digiorgio > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	20:00	Player Movement > Sub In > Home Player > Jake Bruns
+20:00	Player Movement > Sub Out > Home Player > Brett Ott
+RLA	2	19:43	24 Adam Alexander > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Miss 2 Pts	20	-	23
+19:43	Shot > Adam Alexander > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	19:41	10 Jake Bruns > Non Possession > Non Shooting Foul	20	-	23
+19:41	Personal Foul > Defensive - Any > Jake Ludwig
+IIT	2	19:13	2 Anthony Mosley > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > To Basket > Miss 2 Pts	20	-	23
+19:13	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+19:13	Misc Stat > Offensive Rebound > Anthony Mosley
+IIT	2	19:10	2 Anthony Mosley > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	20	-	23
+19:10	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+19:10	Misc Stat > Block > Adam Alexander
+19:08	Misc Stat > Defensive Rebound > Adam Alexander
+RLA	2	19:04	23 Grant Gibson > Transition > Left Wing > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	20	-	23
+19:04	Shot > Grant Gibson > Any Type > 3 Point Attempt > Miss 3 Pts
+19:02	Personal Foul > Defensive - Any > Adam Alexander
+IIT	2	18:43	32 Parker Joncus > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	20	-	23
+18:43	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	18:43	22 Max Hisatake > Offensive Rebound > Long > Run Offense	20	-	23
+18:43	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	2	18:38	22 Max Hisatake > Post-Up > Right Block > Defense Commits 
+18:38	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+18:38	Misc Stat > Assist > Max Hisatake
+RLA	2	18:26	44 Chandler Fuzak > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	20	-	26
+18:26	Shot > Chandler Fuzak > Any Type > 3 Point Attempt > Miss 3 Pts
+RLA	2	18:26	4 Jake Ludwig > Offensive Rebound > Long > Scoring Attempt > At Basket > Foul	20	-	26
+18:26	Misc Stat > Offensive Rebound > Jake Ludwig
+18:16	Personal Foul > Defensive - Any > Max Hisatake
+RLA	2	18:16	4 Jake Ludwig > Non Possession > Free Throw	21	-	26
+18:16	Shot > Jake Ludwig > Free Throw > Made
+RLA	2	18:16	4 Jake Ludwig > Non Possession > Free Throw	22	-	26
+18:16	Shot > Jake Ludwig > Free Throw > Made
+18:16	Player Movement > Sub In > Away Player > Kyle Bumbalough
+18:16	Player Movement > Sub Out > Away Player > Jake Ludwig
+IIT	2	17:56	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Turnover	22	-	26
+17:56	Turnover > Any Type > Jake Digiorgio
+RLA	2	17:24	1 Carson Hughes > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Make 2 Pts	24	-	26
+17:24	Shot > Carson Hughes > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:00	10 Jake Bruns > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	24	-	29
+17:00	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+RLA	2	16:46	13 Kyle Bumbalough > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+16:46	Shot > Adam Alexander > Any Type > 3 Point Attempt > Make 3 Pts
+16:46	Misc Stat > Assist > Grant Gibson
+IIT	2	16:31	10 Jake Bruns > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	27	-	32
+16:31	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+16:31	Misc Stat > Assist > Anthony Mosley
+RLA	2	16:17	13 Kyle Bumbalough > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+16:17	Shot > Adam Alexander > Any Type > 2 Point Attempt > Miss 2 Pts
+16:17	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	2	15:45	22 Max Hisatake > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Turnover	27	-	32
+15:45	Player Movement > Sub In > Home Player > Kohl Linder
+15:45	Player Movement > Sub Out > Away Player > Chandler Fuzak
+15:45	Player Movement > Sub In > Away Player > Joshua Dillingham
+15:45	Player Movement > Sub Out > Home Player > Max Hisatake
+15:45	Turnover > Any Type > Max Hisatake
+RLA	2	15:33	22 Joshua Dillingham > Cut > Screen > Turnover	27	-	32
+15:33	Misc Stat > Steal > Jake Digiorgio
+15:33	Turnover > Any Type > Joshua Dillingham
+15:33	Player Movement > Sub Out > Home Player > Jake Digiorgio
+15:33	Player Movement > Sub In > Home Player > Capriest Gardner
+IIT	2	15:15	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+15:15	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+15:15	Misc Stat > Assist > Anthony Mosley
+15:13	Personal Foul > Defensive - Any > Carson Hughes
+IIT	2	15:13	10 Jake Bruns > Non Possession > Free Throw	27	-	35
+15:13	Shot > Jake Bruns > Free Throw > Made
+RLA	2	14:57	23 Grant Gibson > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+14:57	Shot > Carson Hughes > Any Type > 3 Point Attempt > Make 3 Pts
+14:57	Misc Stat > Assist > Grant Gibson
+IIT	2	14:37	2 Anthony Mosley > Spot-Up > Drives Left > To Basket > Foul	30	-	35
+14:37	Personal Foul > Defensive - Any > Joshua Dillingham
+IIT	2	14:37	2 Anthony Mosley > Non Possession > Free Throw	30	-	35
+14:37	Shot > Anthony Mosley > Free Throw > Missed
+IIT	2	14:37	2 Anthony Mosley > Non Possession > Free Throw	30	-	36
+14:37	Shot > Anthony Mosley > Free Throw > Made
+14:37	Player Movement > Sub Out > Away Player > Joshua Dillingham
+14:37	Player Movement > Sub In > Away Player > Andre Raiford Jr.
+14:37	Player Movement > Sub Out > Away Player > Adam Alexander
+14:37	Player Movement > Sub In > Away Player > Kevin Day
+14:37	Player Movement > Sub Out > Home Player > Kohl Linder
+14:37	Player Movement > Sub Out > Away Player > Grant Gibson
+14:37	Player Movement > Sub In > Home Player > Max Hisatake
+14:37	Player Movement > Sub In > Away Player > Jake Asquini
+RLA	2	14:21	21 Andre Raiford Jr. > Spot-Up > Drives Right > To Basket > Make 2 Pts Foul > 0 Pts	32	-	36
+14:21	Shot > Andre Raiford Jr. > Any Type > 2 Point Attempt > Make 2 Pts
+14:21	Personal Foul > Defensive - Any > Capriest Gardner
+RLA	2	14:21	21 Andre Raiford Jr. > Non Possession > Free Throw	32	-	36
+14:21	Shot > Andre Raiford Jr. > Free Throw > Missed
+14:21	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	14:02	22 Max Hisatake > Spot-Up > Drives Right > To Basket > Make 2 Pts Foul > 0 Pts	32	-	38
+14:02	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+14:02	Misc Stat > Assist > Anthony Mosley
+14:02	Personal Foul > Defensive - Any > Kevin Day
+IIT	2	14:02	22 Max Hisatake > Non Possession > Free Throw	32	-	38
+14:02	Shot > Max Hisatake > Free Throw > Missed
+14:02	Misc Stat > Defensive Rebound > Kevin Day
+RLA	2	13:44	3 Kevin Day > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	34	-	38
+13:44	Shot > Kevin Day > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	13:20	22 Max Hisatake > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Foul	34	-	38
+13:20	Personal Foul > Defensive - Any > Andre Raiford Jr.
+IIT	2	13:20	22 Max Hisatake > Non Possession > Free Throw	34	-	38
+13:20	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	13:20	22 Max Hisatake > Non Possession > Free Throw	34	-	38
+13:20	Shot > Max Hisatake > Free Throw > Missed
+13:20	Misc Stat > Defensive Rebound > Kyle Bumbalough
+13:20	Player Movement > Sub Out > Home Player > Parker Joncus
+13:20	Player Movement > Sub In > Home Player > Jake Digiorgio
+RLA	2	13:06	33 Jake Asquini > No Play Type > Turnover	34	-	38
+13:06	Turnover > Any Type > Jake Asquini
+13:05	Misc Stat > Steal > Jake Bruns
+IIT	2	13:02	15 Capriest Gardner > Transition > Ballhandler > To Basket > Miss 2 Pts	34	-	38
+13:02	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+13:02	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	12:53	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	34	-	38
+12:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+12:53	Misc Stat > Defensive Rebound > Jake Asquini
+RLA	2	12:53	21 Andre Raiford Jr. > Transition > Right Wing > To Basket > Turnover	34	-	38
+12:53	Turnover > Any Type > Andre Raiford Jr.
+12:52	Player Movement > Sub In > Home Player > Brett Ott
+12:52	Player Movement > Sub Out > Home Player > Jake Bruns
+IIT	2	12:33	15 Capriest Gardner > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	34	-	38
+12:33	Shot > Capriest Gardner > Any Type > 3 Point Attempt > Miss 3 Pts
+12:33	Misc Stat > Defensive Rebound > Carson Hughes
+RLA	2	12:21	1 Carson Hughes > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	34	-	38
+12:21	Shot > Carson Hughes > Any Type > 3 Point Attempt > Miss 3 Pts
+12:21	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	12:11	22 Max Hisatake > Transition > First Middle > To Basket > Make 2 Pts	34	-	40
+12:11	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+12:11	Misc Stat > Assist > Anthony Mosley
+RLA	2	11:56	1 Carson Hughes > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	34	-	40
+11:56	Shot > Carson Hughes > Any Type > 2 Point Attempt > Miss 2 Pts
+11:56	Misc Stat > Block > Brett Ott
+11:54	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	11:48	21 Jake Digiorgio > Post-Up > Flash Middle > Foul	34	-	40
+11:48	Personal Foul > Defensive - Any > Kyle Bumbalough
+IIT	2	11:48	21 Jake Digiorgio > Non Possession > Free Throw	34	-	40
+11:48	Shot > Jake Digiorgio > Free Throw > Missed
+11:48	Player Movement > Sub Out > Away Player > Andre Raiford Jr.
+11:48	Player Movement > Sub In > Away Player > Chandler Fuzak
+11:48	Player Movement > Sub Out > Away Player > Kevin Day
+11:48	Player Movement > Sub In > Away Player > Joshua Dillingham
+11:48	Player Movement > Sub Out > Away Player > Carson Hughes
+11:48	Misc Stat > Defensive Rebound > Joshua Dillingham
+11:48	Player Movement > Sub In > Away Player > Jake Ludwig
+RLA	2	11:28	22 Joshua Dillingham > No Play Type > Turnover	34	-	40
+11:28	Misc Stat > Steal > Capriest Gardner
+11:28	Turnover > Any Type > Joshua Dillingham
+IIT	2	11:15	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+11:15	Turnover > Any Type > Max Hisatake
+11:14	Misc Stat > Steal > Joshua Dillingham
+RLA	2	11:08	33 Jake Asquini > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	37	-	40
+11:08	Shot > Jake Asquini > Any Type > 3 Point Attempt > Make 3 Pts
+11:08	Misc Stat > Assist > Jake Ludwig
+IIT	2	10:41	20 Brett Ott > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	37	-	40
+10:41	Shot > Brett Ott > Any Type > 2 Point Attempt > Miss 2 Pts
+10:41	Misc Stat > Defensive Rebound > Chandler Fuzak
+RLA	2	10:26	22 Joshua Dillingham > Post-Up > Left Block > Right Shoulder > Dribble Move > Defense Commits 
+10:26	Shot > Jake Asquini > Any Type > 3 Point Attempt > Make 3 Pts
+IIT	2	10:05	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+10:05	Shot > Brett Ott > Any Type > 2 Point Attempt > Miss 2 Pts
+10:05	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	10:01	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	40	-	42
+10:01	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	2	09:42	22 Joshua Dillingham > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	40	-	42
+09:42	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Miss 2 Pts
+09:42	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	09:28	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > Defense Commits 
+09:28	Personal Foul > Defensive - Any > Joshua Dillingham
+IIT	2	09:28	22 Max Hisatake > Non Possession > Free Throw	40	-	42
+09:28	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	09:28	22 Max Hisatake > Non Possession > Free Throw	40	-	42
+09:28	Shot > Max Hisatake > Free Throw > Missed
+09:28	Misc Stat > Defensive Rebound > Kyle Bumbalough
+09:28	Player Movement > Sub In > Home Player > Calvin Schmitz
+09:28	Player Movement > Sub Out > Away Player > Joshua Dillingham
+09:28	Player Movement > Sub In > Away Player > Adam Alexander
+09:28	Player Movement > Sub Out > Home Player > Brett Ott
+RLA	2	09:06	24 Adam Alexander > No Play Type > Turnover	40	-	42
+09:06	Turnover > Any Type > Adam Alexander
+09:06	Personal Foul > Defensive - Any > Adam Alexander
+IIT	2	08:44	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Hook > Miss 2 Pts	40	-	42
+08:44	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	08:44	22 Max Hisatake > Offensive Rebound > Long > Turnover	40	-	42
+08:44	Misc Stat > Offensive Rebound > Max Hisatake
+08:42	Player Movement > Sub Out > Away Player > Chandler Fuzak
+08:42	Player Movement > Sub In > Away Player > Andre Raiford Jr.
+08:42	Player Movement > Sub Out > Home Player > Capriest Gardner
+08:42	Player Movement > Sub In > Home Player > Jake Bruns
+RLA	2	08:25	4 Jake Ludwig > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+08:25	Shot > Adam Alexander > Any Type > 2 Point Attempt > Make 2 Pts
+08:25	Misc Stat > Assist > Jake Ludwig
+IIT	2	08:05	2 Anthony Mosley > ISO > Right > Drives Right > Defense Commits > Foul	42	-	42
+08:05	Personal Foul > Defensive - Any > Kyle Bumbalough
+IIT	2	08:05	2 Anthony Mosley > Non Possession > Free Throw	42	-	43
+08:05	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	08:05	2 Anthony Mosley > Non Possession > Free Throw	42	-	43
+08:05	Shot > Anthony Mosley > Free Throw > Missed
+IIT	2	08:05	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	42	-	43
+08:05	Misc Stat > Offensive Rebound > Max Hisatake
+08:01	Personal Foul > Defensive - Any > Adam Alexander
+IIT	2	08:01	22 Max Hisatake > Non Possession > Free Throw	42	-	44
+08:01	Shot > Max Hisatake > Free Throw > Made
+IIT	2	08:01	22 Max Hisatake > Non Possession > Free Throw	42	-	44
+08:01	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	08:01	13 Calvin Schmitz > Offensive Rebound > Long > Turnover	42	-	44
+08:01	Misc Stat > Offensive Rebound > Calvin Schmitz
+08:01	Player Movement > Sub Out > Away Player > Adam Alexander
+08:01	Player Movement > Sub In > Away Player > Kevin Day
+07:59	Turnover > Any Type > Calvin Schmitz
+07:59	Player Movement > Sub Out > Home Player > Calvin Schmitz
+07:59	Player Movement > Sub In > Home Player > Parker Joncus
+07:59	Misc Stat > Steal > Kevin Day
+RLA	2	07:41	13 Kyle Bumbalough > Spot-Up > Drives Right > To Basket > Miss 2 Pts	42	-	44
+07:41	Shot > Kyle Bumbalough > Any Type > 2 Point Attempt > Miss 2 Pts
+07:41	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	2	07:37	10 Jake Bruns > No Play Type > Foul	42	-	44
+07:37	Personal Foul > Defensive - Any > Kevin Day
+IIT	2	07:37	10 Jake Bruns > Non Possession > Free Throw	42	-	45
+07:37	Shot > Jake Bruns > Free Throw > Made
+IIT	2	07:37	10 Jake Bruns > Non Possession > Free Throw	42	-	46
+07:37	Shot > Jake Bruns > Free Throw > Made
+RLA	2	07:26	33 Jake Asquini > Hand Off > From Dribble > Right > Dribble Jumper > Long/3pt > Miss 3 Pts	42	-	46
+07:26	Shot > Jake Asquini > Any Type > 3 Point Attempt > Miss 3 Pts
+07:26	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	06:58	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Make 2 Pts	42	-	48
+06:58	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	2	06:43	33 Jake Asquini > Off Screen > To Shooter's Right > Flare > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	45	-	48
+06:43	Shot > Jake Asquini > Any Type > 3 Point Attempt > Make 3 Pts
+06:43	Misc Stat > Assist > Kevin Day
+IIT	2	06:14	32 Parker Joncus > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	45	-	51
+06:14	Shot > Parker Joncus > Any Type > 3 Point Attempt > Make 3 Pts
+06:14	Misc Stat > Assist > Anthony Mosley
+RLA	2	05:55	3 Kevin Day > Post-Up > Right Block > Post Pin > Dribble Move > To Basket > Miss 2 Pts	45	-	51
+05:55	Shot > Kevin Day > Any Type > 2 Point Attempt > Miss 2 Pts
+05:55	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	05:35	22 Max Hisatake > Spot-Up > Drives Left > To Basket > Turnover	45	-	51
+05:35	Player Movement > Sub In > Away Player > Chandler Fuzak
+05:35	Player Movement > Sub Out > Away Player > Kyle Bumbalough
+05:35	Turnover > Any Type > Max Hisatake
+05:35	Player Movement > Sub Out > Away Player > Kevin Day
+05:35	Player Movement > Sub In > Away Player > Grant Gibson
+RLA	2	05:12	4 Jake Ludwig > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	45	-	51
+05:12	Shot > Jake Ludwig > Any Type > 3 Point Attempt > Miss 3 Pts
+05:12	Misc Stat > Block > Jake Digiorgio
+05:10	Personal Foul > Defensive - Any > Max Hisatake
+RLA	2	05:07	4 Jake Ludwig > Hand Off > From Stationary > Left > Dribble Jumper > Short to < 17' > Make 2 Pts	47	-	51
+05:07	Shot > Jake Ludwig > Any Type > 2 Point Attempt > Make 2 Pts
+05:07	Misc Stat > Assist > Chandler Fuzak
+IIT	2	05:01	2 Anthony Mosley > No Play Type > Foul	47	-	51
+05:01	Personal Foul > Defensive - Any > Grant Gibson
+IIT	2	05:01	2 Anthony Mosley > Non Possession > Free Throw	47	-	51
+05:01	Shot > Anthony Mosley > Free Throw > Missed
+IIT	2	05:01	2 Anthony Mosley > Non Possession > Free Throw	47	-	52
+05:01	Shot > Anthony Mosley > Free Throw > Made
+05:01	Player Movement > Sub Out > Away Player > Andre Raiford Jr.
+05:01	Player Movement > Sub In > Away Player > Adam Alexander
+05:01	Player Movement > Sub Out > Away Player > Chandler Fuzak
+05:01	Player Movement > Sub In > Away Player > Carson Hughes
+05:01	Player Movement > Sub Out > Away Player > Jake Asquini
+05:01	Player Movement > Sub In > Away Player > Joshua Dillingham
+RLA	2	04:40	23 Grant Gibson > Non Possession > Non Shooting Foul	47	-	52
+04:40	Personal Foul > Defensive - Any > Anthony Mosley
+RLA	2	04:33	23 Grant Gibson > Non Possession > Non Shooting Foul	47	-	52
+04:33	Personal Foul > Defensive - Any > Jake Bruns
+RLA	2	04:24	23 Grant Gibson > Off Screen > To Shooter's Right > Straight > To Basket > Make 2 Pts	49	-	52
+04:24	Shot > Grant Gibson > Any Type > 2 Point Attempt > Make 2 Pts
+04:24	Personal Foul > Defensive - Any > Jake Digiorgio
+RLA	2	04:14	1 Carson Hughes > No Play Type > Foul	49	-	52
+04:14	Personal Foul > Defensive - Any > Parker Joncus
+RLA	2	04:14	1 Carson Hughes > Non Possession > Free Throw	50	-	52
+04:14	Shot > Carson Hughes > Free Throw > Made
+RLA	2	04:14	1 Carson Hughes > Non Possession > Free Throw	51	-	52
+04:14	Shot > Carson Hughes > Free Throw > Made
+IIT	2	03:59	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	51	-	52
+03:59	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+RLA	2	03:57	24 Adam Alexander > No Play Type > Foul	51	-	52
+03:57	Personal Foul > Defensive - Any > Jake Digiorgio
+RLA	2	03:57	24 Adam Alexander > Non Possession > Free Throw	51	-	52
+03:57	Shot > Adam Alexander > Free Throw > Missed
+03:57	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	03:45	21 Jake Digiorgio > No Play Type > Turnover	51	-	52
+03:45	Turnover > Any Type > Jake Digiorgio
+03:45	Personal Foul > Defensive - Any > Jake Digiorgio
+RLA	2	03:35	4 Jake Ludwig > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+03:35	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Miss 2 Pts
+03:35	Misc Stat > Block > Max Hisatake
+03:33	Misc Stat > Offensive Rebound > Joshua Dillingham
+RLA	2	03:31	22 Joshua Dillingham > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	53	-	52
+03:31	Shot > Joshua Dillingham > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	03:24	2 Anthony Mosley > Transition > Ballhandler > Turnover	53	-	52
+03:24	Turnover > Any Type > Anthony Mosley
+03:23	Misc Stat > Steal > Jake Ludwig
+RLA	2	03:03	1 Carson Hughes > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	53	-	52
+03:03	Shot > Carson Hughes > Any Type > 2 Point Attempt > Miss 2 Pts
+03:03	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	02:43	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > Dribble Move > To Basket > Foul	53	-	52
+02:43	Personal Foul > Defensive - Any > Grant Gibson
+IIT	2	02:43	22 Max Hisatake > Non Possession > Free Throw	53	-	52
+02:43	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	02:43	22 Max Hisatake > Non Possession > Free Throw	53	-	52
+02:43	Shot > Max Hisatake > Free Throw > Missed
+02:43	Player Movement > Sub Out > Away Player > Carson Hughes
+02:43	Player Movement > Sub In > Away Player > Kyle Bumbalough
+02:43	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	2	02:30	24 Adam Alexander > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	56	-	52
+02:30	Shot > Adam Alexander > Any Type > 3 Point Attempt > Make 3 Pts
+02:30	Misc Stat > Assist > Jake Ludwig
+IIT	2	02:09	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits 
+02:09	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+02:09	Misc Stat > Defensive Rebound > Jake Ludwig
+RLA	2	01:44	4 Jake Ludwig > No Play Type > Turnover	56	-	52
+01:44	Turnover > Any Type > Jake Ludwig
+IIT	2	01:26	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	56	-	52
+01:26	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+01:26	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	2	00:54	23 Grant Gibson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	59	-	52
+00:54	Shot > Grant Gibson > Any Type > 3 Point Attempt > Make 3 Pts
+00:54	Misc Stat > Assist > Jake Ludwig
+IIT	2	00:38	22 Max Hisatake > Post-Up > Left Block > Right Shoulder > No Dribble Move > To Up and Under > Make 2 Pts	59	-	54
+00:38	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+00:38	Misc Stat > Assist > Jake Bruns
+RLA	2	00:36	4 Jake Ludwig > No Play Type > Foul	59	-	54
+00:36	Personal Foul > Defensive - Any > Anthony Mosley
+RLA	2	00:36	4 Jake Ludwig > Non Possession > Free Throw	60	-	54
+00:36	Shot > Jake Ludwig > Free Throw > Made
+RLA	2	00:36	4 Jake Ludwig > Non Possession > Free Throw	61	-	54
+00:36	Shot > Jake Ludwig > Free Throw > Made
+IIT	2	00:31	2 Anthony Mosley > Transition > Ballhandler > To Basket > Make 2 Pts	61	-	56
+00:31	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+RLA	2	00:30	13 Kyle Bumbalough > No Play Type > Foul	61	-	56
+00:30	Player Movement > Sub Out > Away Player > Joshua Dillingham
+00:30	Player Movement > Sub In > Away Player > Jake Asquini
+00:28	Personal Foul > Defensive - Any > Jake Bruns
+RLA	2	00:28	13 Kyle Bumbalough > Non Possession > Free Throw	62	-	56
+00:28	Shot > Kyle Bumbalough > Free Throw > Made
+RLA	2	00:28	13 Kyle Bumbalough > Non Possession > Free Throw	63	-	56
+00:28	Shot > Kyle Bumbalough > Free Throw > Made
+00:28	Player Movement > Sub Out > Away Player > Jake Asquini
+00:28	Player Movement > Sub In > Away Player > Joshua Dillingham
+IIT	2	00:23	10 Jake Bruns > Transition > Ballhandler > Dribble Jumper > Long/3pt > Miss 3 Pts	63	-	56
+00:23	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+00:23	Misc Stat > Defensive Rebound > Joshua Dillingham
+RLA	2	00:19	22 Joshua Dillingham > No Play Type > Foul	63	-	56
+00:19	Personal Foul > Defensive - Any > Parker Joncus
+RLA	2	00:19	22 Joshua Dillingham > Non Possession > Free Throw	64	-	56
+00:19	Shot > Joshua Dillingham > Free Throw > Made
+RLA	2	00:19	22 Joshua Dillingham > Non Possession > Free Throw	65	-	56
+00:19	Shot > Joshua Dillingham > Free Throw > Made
+IIT	2	00:14	2 Anthony Mosley > Transition > Ballhandler > To Basket > Miss 2 Pts	65	-	56
+00:14	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+00:14	Misc Stat > Defensive Rebound > Adam Alexander

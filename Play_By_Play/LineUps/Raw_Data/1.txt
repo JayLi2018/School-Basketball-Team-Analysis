@@ -1,0 +1,658 @@
+IIT	1	19:55	21 Jake Digiorgio > No Play Type > To Basket > Make 2 Pts	0	-	2
+19:55	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+19:55	Misc Stat > Assist > Max Hisatake
+EWP	1	19:38	10 Manny Coleman > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+19:38	Shot > Markus Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+19:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	19:10	32 Parker Joncus > Spot-Up > Drives Right > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	0	-	4
+19:10	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+19:10	Misc Stat > Assist > Jake Digiorgio
+EWP	1	18:55	2 Sherman Carter > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Long/3pt > Miss 3 Pts	0	-	4
+18:55	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+18:55	Misc Stat > Defensive Rebound > Parker Joncus
+IIT	1	18:37	21 Jake Digiorgio > Cut > Basket > Make 2 Pts	0	-	6
+18:37	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	18:19	10 Manny Coleman > ISO > Top > Drives Right > Defense Commits 
+18:19	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+18:19	Misc Stat > Defensive Rebound > Malik Howze
+IIT	1	17:55	3 Malik Howze > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	0	-	6
+17:55	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	17:55	22 Max Hisatake > Offensive Rebound > Long > Run Offense	0	-	6
+17:55	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	17:41	21 Jake Digiorgio > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	0	-	6
+17:41	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:41	Misc Stat > Block > Carl Moore
+17:39	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	17:38	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	0	-	6
+17:38	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+17:37	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	1	17:17	30 Kinsley Shaw > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	0	-	6
+17:17	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+17:17	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	17:08	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+17:08	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+17:08	Misc Stat > Assist > Malik Howze
+EWP	1	16:47	2 Sherman Carter > Spot-Up > Drives Left > To Basket > Foul	0	-	8
+16:47	Personal Foul > Defensive - Any > Max Hisatake
+EWP	1	16:47	2 Sherman Carter > Non Possession > Free Throw	0	-	8
+16:47	Shot > Sherman Carter > Free Throw > Missed
+EWP	1	16:47	2 Sherman Carter > Non Possession > Free Throw	1	-	8
+16:47	Shot > Sherman Carter > Free Throw > Made
+EWP	1	16:04	23 Stanley Thomas > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	1	-	8
+16:04	Personal Foul > Defensive - Any > Malik Howze
+EWP	1	16:04	23 Stanley Thomas > Non Possession > Free Throw	1	-	8
+16:04	Shot > Stanley Thomas > Free Throw > Missed
+EWP	1	16:04	23 Stanley Thomas > Non Possession > Free Throw	1	-	8
+16:04	Shot > Stanley Thomas > Free Throw > Missed
+16:04	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	15:54	32 Parker Joncus > Non Possession > Non Shooting Foul	1	-	8
+15:54	Personal Foul > Defensive - Any > Stanley Thomas
+15:54	Player Movement > Sub Out > Away Player > Stanley Thomas
+15:54	Player Movement > Sub In > Away Player > Adonis Bell
+15:54	Player Movement > Sub Out > Home Player > Parker Joncus
+15:54	Player Movement > Sub In > Home Player > Jake Bruns
+IIT	1	15:37	22 Max Hisatake > No Play Type > To Basket > Miss 2 Pts	1	-	8
+15:37	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+15:37	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	1	15:32	1 Adonis Bell > Transition > Left Wing > Turnover	1	-	8
+15:32	Turnover > Any Type > Adonis Bell
+IIT	1	15:15	10 Jake Bruns > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Make 3 Pts	1	-	11
+15:15	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+15:15	Misc Stat > Assist > Max Hisatake
+EWP	1	14:58	10 Manny Coleman > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	3	-	11
+14:58	Shot > Manny Coleman > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	14:37	2 Anthony Mosley > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	3	-	13
+14:37	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	14:18	2 Sherman Carter > Hand Off > From Stationary > Left > To Basket > Foul	3	-	13
+14:18	Personal Foul > Defensive - Any > Max Hisatake
+EWP	1	14:18	2 Sherman Carter > Non Possession > Free Throw	4	-	13
+14:18	Shot > Sherman Carter > Free Throw > Made
+EWP	1	14:18	2 Sherman Carter > Non Possession > Free Throw	4	-	13
+14:18	Shot > Sherman Carter > Free Throw > Missed
+14:18	Misc Stat > Defensive Rebound > Jake Digiorgio
+14:18	Player Movement > Sub Out > Home Player > Max Hisatake
+14:18	Player Movement > Sub Out > Home Player > Anthony Mosley
+14:18	Player Movement > Sub In > Home Player > Parker Joncus
+14:18	Player Movement > Sub In > Home Player > Kohl Linder
+IIT	1	14:00	3 Malik Howze > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > Dribble Jumper > Long/3pt > Make 3 Pts	4	-	16
+14:00	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+EWP	1	13:41	4 Carl Moore > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits > Turnover	4	-	16
+13:41	Turnover > Any Type > Carl Moore
+13:40	Misc Stat > Steal > Parker Joncus
+IIT	1	13:19	32 Parker Joncus > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Defense Commits > Turnover	4	-	16
+13:19	Turnover > Any Type > Parker Joncus
+EWP	1	13:08	4 Carl Moore > Post-Up > Right Block > Right Shoulder > Dribble Move > Defense Commits 
+13:08	Shot > Adonis Bell > Any Type > 2 Point Attempt > Miss 2 Pts
+13:08	Misc Stat > Defensive Rebound > Jake Bruns
+IIT	1	12:58	3 Malik Howze > Transition > Ballhandler > Turnover	4	-	16
+12:58	Turnover > Any Type > Malik Howze
+12:57	Misc Stat > Steal > Sherman Carter
+EWP	1	12:54	2 Sherman Carter > Transition > Leak Outs > To Basket > Miss 2 Pts	4	-	16
+12:54	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+12:54	Misc Stat > Block > Kohl Linder
+EWP	1	12:54	4 Carl Moore > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+12:54	Player Movement > Sub Out > Away Player > Adonis Bell
+12:54	Player Movement > Sub In > Away Player > Kinsley Shaw
+12:54	Player Movement > Sub Out > Home Player > Malik Howze
+12:54	Player Movement > Sub In > Home Player > Anthony Mosley
+12:44	Turnover > Any Type > Kinsley Shaw
+IIT	1	12:14	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Make 2 Pts	4	-	18
+12:14	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	11:54	2 Sherman Carter > P&R Ball Handler > Right P&R > Side > Dribble Off Pick > To Basket > Miss 2 Pts	4	-	18
+11:54	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	1	11:52	10 Manny Coleman > Non Possession > Shot Clock Violation	4	-	18
+11:52	Player Movement > Sub In > Home Player > Capriest Gardner
+11:52	Player Movement > Sub Out > Home Player > Parker Joncus
+11:52	Player Movement > Sub Out > Away Player > Kinsley Shaw
+11:52	Player Movement > Sub Out > Home Player > Jake Digiorgio
+11:52	Player Movement > Sub In > Away Player > Roland Watkins
+11:52	Player Movement > Sub In > Home Player > Calvin Schmitz
+IIT	1	11:33	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	4	-	18
+11:33	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+11:33	Misc Stat > Defensive Rebound > Carl Moore
+EWP	1	11:16	5 Markus Johnson > Post-Up > Left Block > Right Shoulder > Dribble Move > To Drop Step > Miss 2 Pts	4	-	18
+11:16	Shot > Markus Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+11:16	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	10:57	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	4	-	18
+10:57	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+10:57	Misc Stat > Defensive Rebound > Manny Coleman
+EWP	1	10:50	2 Sherman Carter > Transition > Left Wing > Dribble Jumper > Long/3pt > Miss 3 Pts	4	-	18
+10:50	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+10:50	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	1	10:41	13 Calvin Schmitz > Transition > Ballhandler > To Basket > Make 2 Pts	4	-	20
+10:41	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Make 2 Pts
+10:41	Player Movement > Sub Out > Away Player > Manny Coleman
+10:41	Player Movement > Sub In > Away Player > Joshua Johnson
+EWP	1	10:30	4 Carl Moore > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	6	-	20
+10:30	Shot > Carl Moore > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	10:14	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Go Away from Pick > To Basket > Make 2 Pts	6	-	22
+10:14	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	10:05	4 Carl Moore > Transition > Left Wing > Dribble Jumper > Long/3pt > Miss 3 Pts	6	-	22
+10:05	Shot > Carl Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+EWP	1	10:05	21 Roland Watkins > Offensive Rebound > Long > Run Offense	6	-	22
+10:05	Misc Stat > Offensive Rebound > Roland Watkins
+EWP	1	09:52	4 Carl Moore > Post-Up > Left Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	6	-	22
+09:52	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+09:52	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	1	09:40	2 Anthony Mosley > ISO > Top > Early Jumper > Medium/17' to <3p > Miss 2 Pts	6	-	22
+09:40	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+09:37	Personal Foul > Defensive - Any > Kohl Linder
+09:37	Player Movement > Sub Out > Home Player > Jake Bruns
+09:37	Player Movement > Sub Out > Home Player > Kohl Linder
+09:37	Player Movement > Sub In > Home Player > Malik Howze
+09:37	Player Movement > Sub In > Home Player > Jake Digiorgio
+EWP	1	09:20	4 Carl Moore > Post-Up > Right Block > Left Shoulder > Dribble Move > To Drop Step > Make 2 Pts	8	-	22
+09:20	Shot > Carl Moore > Any Type > 2 Point Attempt > Make 2 Pts
+09:20	Misc Stat > Assist > Sherman Carter
+IIT	1	08:58	13 Calvin Schmitz > Non Possession > Non Shooting Foul	8	-	22
+08:58	Personal Foul > Defensive - Any > Joshua Johnson
+IIT	1	08:50	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Defense Commits 
+08:50	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Miss 2 Pts
+08:50	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	1	08:41	4 Carl Moore > Transition > Right Wing > To Basket > Miss 2 Pts	8	-	22
+08:41	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+08:41	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	1	08:28	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	8	-	22
+08:28	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	08:23	13 Calvin Schmitz > Off Screen > To Shooter's Left > Straight > To Basket > Miss 2 Pts	8	-	22
+08:23	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+08:23	Misc Stat > Offensive Rebound > Calvin Schmitz
+IIT	1	08:21	13 Calvin Schmitz > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Miss 2 Pts	8	-	22
+08:21	Shot > Calvin Schmitz > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	08:21	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	8	-	22
+08:21	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	1	07:58	15 Capriest Gardner > Post-Up > Left Block > Face-up > Jumper > Make 2 Pts	8	-	24
+07:58	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+07:58	Misc Stat > Assist > Malik Howze
+EWP	1	07:30	4 Carl Moore > P&R Ball Handler > High P&R > Go Away from Pick > Defense Commits 
+07:30	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+07:30	Misc Stat > Block > Capriest Gardner
+EWP	1	07:30	2 Sherman Carter > Offensive Rebound > Short > Turnover	8	-	24
+07:30	Misc Stat > Offensive Rebound > Sherman Carter
+07:30	Turnover > Any Type > Sherman Carter
+IIT	1	07:30	2 Anthony Mosley > Non Possession > Non Shooting Foul	8	-	24
+07:30	Player Movement > Sub In > Home Player > Max Hisatake
+07:30	Player Movement > Sub Out > Home Player > Calvin Schmitz
+07:30	Player Movement > Sub Out > Home Player > Capriest Gardner
+07:30	Player Movement > Sub In > Home Player > Parker Joncus
+07:13	Personal Foul > Defensive - Any > Roland Watkins
+IIT	1	07:09	22 Max Hisatake > Cut > Screen > Turnover	8	-	24
+07:09	Misc Stat > Steal > Markus Johnson
+07:09	Turnover > Any Type > Max Hisatake
+EWP	1	07:03	4 Carl Moore > Transition > Leak Outs > To Basket > Miss 2 Pts	8	-	24
+07:03	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+07:03	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	06:57	21 Jake Digiorgio > Non Possession > Non Shooting Foul	8	-	24
+06:57	Personal Foul > Defensive - Any > Markus Johnson
+IIT	1	06:57	32 Parker Joncus > No Play Type > Turnover	8	-	24
+06:57	Player Movement > Sub Out > Away Player > Markus Johnson
+06:57	Player Movement > Sub In > Away Player > Stanley Thomas
+06:49	Turnover > Any Type > Parker Joncus
+06:48	Misc Stat > Steal > Stanley Thomas
+EWP	1	06:42	2 Sherman Carter > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	8	-	24
+06:42	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+06:42	Misc Stat > Offensive Rebound > Stanley Thomas
+EWP	1	06:37	23 Stanley Thomas > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	8	-	24
+06:37	Shot > Stanley Thomas > Any Type > 2 Point Attempt > Miss 2 Pts
+06:37	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	06:26	2 Anthony Mosley > ISO > Top > Drives Left > Defense Commits 
+06:26	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	1	06:26	32 Parker Joncus > Offensive Rebound > Long > Run Offense	8	-	24
+06:26	Misc Stat > Offensive Rebound > Parker Joncus
+IIT	1	06:06	22 Max Hisatake > Post-Up > Flash Middle > Right Shoulder > No Dribble Move > To Basket > Miss 2 Pts	8	-	24
+06:06	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+06:06	Misc Stat > Block > Carl Moore
+06:04	Misc Stat > Offensive Rebound > Max Hisatake
+IIT	1	06:02	22 Max Hisatake > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	8	-	26
+06:02	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	05:45	2 Sherman Carter > ISO > Right > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	8	-	26
+05:45	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+05:45	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	1	05:36	32 Parker Joncus > Transition > Right Wing > To Basket > Foul	8	-	26
+05:36	Personal Foul > Defensive - Any > Joshua Johnson
+IIT	1	05:36	32 Parker Joncus > Non Possession > Free Throw	8	-	26
+05:36	Shot > Parker Joncus > Free Throw > Missed
+IIT	1	05:36	32 Parker Joncus > Non Possession > Free Throw	8	-	27
+05:36	Shot > Parker Joncus > Free Throw > Made
+05:36	Player Movement > Sub Out > Away Player > Joshua Johnson
+05:36	Player Movement > Sub In > Away Player > Manny Coleman
+05:36	Player Movement > Sub Out > Home Player > Parker Joncus
+05:36	Player Movement > Sub In > Home Player > Jake Bruns
+EWP	1	05:30	10 Manny Coleman > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Short to < 17' > Miss 2 Pts	8	-	27
+05:30	Shot > Manny Coleman > Any Type > 2 Point Attempt > Miss 2 Pts
+05:30	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	05:19	22 Max Hisatake > Transition > Leak Outs > To Basket > Miss 2 Pts	8	-	27
+05:19	Shot > Max Hisatake > Any Type > 2 Point Attempt > Miss 2 Pts
+05:19	Misc Stat > Block > Stanley Thomas
+05:17	Misc Stat > Defensive Rebound > Carl Moore
+EWP	1	05:12	4 Carl Moore > Transition > Trailer > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	11	-	27
+05:12	Shot > Carl Moore > Any Type > 3 Point Attempt > Make 3 Pts
+05:12	Misc Stat > Assist > Sherman Carter
+IIT	1	04:56	2 Anthony Mosley > P&R Ball Handler > Left P&R > Side > Takes Early Jump Shot > Long/3pt > Miss 3 Pts	11	-	27
+04:56	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+04:56	Misc Stat > Defensive Rebound > Carl Moore
+EWP	1	04:40	10 Manny Coleman > ISO > Top > Drives Left > To Basket > Miss 2 Pts	11	-	27
+04:40	Shot > Manny Coleman > Any Type > 2 Point Attempt > Miss 2 Pts
+04:40	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	1	04:33	22 Max Hisatake > Transition > Leak Outs > To Basket > Make 2 Pts	11	-	29
+04:33	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+04:33	Misc Stat > Assist > Anthony Mosley
+EWP	1	04:01	2 Sherman Carter > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+04:01	Shot > Roland Watkins > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	1	04:01	2 Sherman Carter > Offensive Rebound > Long > Run Offense	11	-	29
+04:01	Misc Stat > Offensive Rebound > Sherman Carter
+EWP	1	03:49	4 Carl Moore > Spot-Up > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	11	-	29
+03:49	Shot > Carl Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+03:49	Misc Stat > Offensive Rebound > Sherman Carter
+EWP	1	03:46	2 Sherman Carter > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	11	-	29
+03:46	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+03:46	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	03:44	21 Jake Digiorgio > Non Possession > Non Shooting Foul	11	-	29
+03:44	Personal Foul > Defensive - Any > Sherman Carter
+03:44	Player Movement > Sub Out > Home Player > Max Hisatake
+03:44	Player Movement > Sub In > Home Player > Capriest Gardner
+03:44	Player Movement > Sub Out > Away Player > Roland Watkins
+03:44	Player Movement > Sub In > Away Player > Kinsley Shaw
+IIT	1	03:26	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	11	-	29
+03:26	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+EWP	1	03:13	30 Kinsley Shaw > Post-Up > Right Block > Left Shoulder > Dribble Move > To Basket > Foul	11	-	29
+03:13	Personal Foul > Defensive - Any > Capriest Gardner
+EWP	1	03:13	30 Kinsley Shaw > Non Possession > Free Throw	12	-	29
+03:13	Shot > Kinsley Shaw > Free Throw > Made
+EWP	1	03:13	30 Kinsley Shaw > Non Possession > Free Throw	13	-	29
+03:13	Shot > Kinsley Shaw > Free Throw > Made
+03:13	Player Movement > Sub Out > Away Player > Stanley Thomas
+03:13	Player Movement > Sub In > Away Player > Adonis Bell
+IIT	1	02:58	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > To Hook > Miss 2 Pts	13	-	29
+02:58	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+02:58	Misc Stat > Defensive Rebound > Kinsley Shaw
+EWP	1	02:40	10 Manny Coleman > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+02:40	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	1	02:11	21 Jake Digiorgio > Post-Up > Right Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	15	-	31
+02:11	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	01:47	4 Carl Moore > Post-Up > Right Block > Defense Commits 
+01:47	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+01:47	Misc Stat > Assist > Carl Moore
+IIT	1	01:20	2 Anthony Mosley > P&R Ball Handler > High P&R > Go Away from Pick > To Basket > Make 2 Pts	17	-	33
+01:20	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	1	01:05	30 Kinsley Shaw > Post-Up > Right Block > Face-up > Drive Middle > Make 2 Pts	19	-	33
+01:05	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	1	00:47	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	19	-	33
+00:47	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+00:47	Misc Stat > Defensive Rebound > Kinsley Shaw
+EWP	1	00:38	4 Carl Moore > Transition > Left Wing > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	19	-	33
+00:38	Shot > Carl Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+00:38	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	1	00:09	2 Anthony Mosley > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+00:09	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+00:09	Misc Stat > Assist > Anthony Mosley
+EWP	1	00:03	30 Kinsley Shaw > No Play Type > Turnover	19	-	35
+00:03	Turnover > Any Type > Kinsley Shaw
+00:02	Misc Stat > Steal > Malik Howze
+IIT	1	00:00	3 Malik Howze > No Play Type > Dribble Jumper > Long/3pt > Miss 3 Pts	19	-	35
+00:00	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+00:00	Misc Stat > Defensive Rebound > Manny Coleman
+EWP	2	19:41	30 Kinsley Shaw > Post-Up > Left Block > Right Shoulder > Dribble Move > To Basket > Make 2 Pts	21	-	35
+19:41	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+19:41	Misc Stat > Assist > Sherman Carter
+IIT	2	19:09	21 Jake Digiorgio > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+19:09	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+19:09	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	2	18:42	30 Kinsley Shaw > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	23	-	35
+18:42	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	2	18:10	4 Carl Moore > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	23	-	37
+18:10	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+18:10	Misc Stat > Offensive Rebound > Kinsley Shaw
+EWP	2	18:06	30 Kinsley Shaw > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	25	-	37
+18:06	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	17:44	22 Max Hisatake > Post-Up > Left Block > Left Shoulder > Dribble Move > Defense Commits 
+17:44	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Make 2 Pts
+17:44	Personal Foul > Defensive - Any > Carl Moore
+IIT	2	17:44	2 Anthony Mosley > Non Possession > Free Throw	25	-	40
+17:44	Shot > Anthony Mosley > Free Throw > Made
+EWP	2	17:18	2 Sherman Carter > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Defense Commits > Turnover	25	-	40
+17:18	Turnover > Any Type > Sherman Carter
+17:16	Misc Stat > Steal > Parker Joncus
+IIT	2	17:13	32 Parker Joncus > Transition > Ballhandler > To Basket > Make 2 Pts	25	-	42
+17:13	Shot > Parker Joncus > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	2	17:00	10 Manny Coleman > ISO > Left > Drives Left > To Basket > Miss 2 Pts	25	-	42
+17:00	Shot > Manny Coleman > Any Type > 2 Point Attempt > Miss 2 Pts
+IIT	2	16:41	22 Max Hisatake > Cut > Basket > Foul	25	-	42
+16:41	Personal Foul > Defensive - Any > Kinsley Shaw
+IIT	2	16:41	22 Max Hisatake > Non Possession > Free Throw	25	-	43
+16:41	Shot > Max Hisatake > Free Throw > Made
+IIT	2	16:41	22 Max Hisatake > Non Possession > Free Throw	25	-	44
+16:41	Shot > Max Hisatake > Free Throw > Made
+EWP	2	16:19	5 Markus Johnson > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	25	-	44
+16:19	Shot > Markus Johnson > Any Type > 2 Point Attempt > Miss 2 Pts
+16:19	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	16:07	3 Malik Howze > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	25	-	44
+16:07	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	16:07	21 Jake Digiorgio > Offensive Rebound > Short > Run Offense	25	-	44
+16:07	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	15:53	22 Max Hisatake > Non Possession > Non Shooting Foul	25	-	44
+15:53	Personal Foul > Defensive - Any > Manny Coleman
+IIT	2	15:50	3 Malik Howze > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	25	-	47
+15:50	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+15:50	Misc Stat > Assist > Max Hisatake
+EWP	2	15:29	30 Kinsley Shaw > Post-Up > Right Block > Right Shoulder > Dribble Move > To Jumper > Miss 2 Pts	25	-	47
+15:29	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+15:29	Misc Stat > Offensive Rebound > Manny Coleman
+EWP	2	15:24	10 Manny Coleman > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	25	-	47
+15:24	Shot > Manny Coleman > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	2	15:24	5 Markus Johnson > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	25	-	47
+15:24	Misc Stat > Offensive Rebound > Markus Johnson
+EWP	2	15:20	5 Markus Johnson > Offensive Rebound > Short > Scoring Attempt > At Basket > Foul	25	-	47
+15:20	Personal Foul > Defensive - Any > Jake Digiorgio
+EWP	2	15:20	5 Markus Johnson > Non Possession > Free Throw	25	-	47
+15:20	Shot > Markus Johnson > Free Throw > Missed
+EWP	2	15:20	5 Markus Johnson > Non Possession > Free Throw	25	-	47
+15:20	Shot > Markus Johnson > Free Throw > Missed
+15:20	Misc Stat > Defensive Rebound > Max Hisatake
+15:20	Player Movement > Sub In > Away Player > Roland Watkins
+15:20	Player Movement > Sub Out > Home Player > Parker Joncus
+15:20	Player Movement > Sub In > Home Player > Jake Bruns
+15:20	Player Movement > Sub Out > Away Player > Manny Coleman
+IIT	2	15:14	3 Malik Howze > Transition > Ballhandler > Dribble Jumper > Long/3pt > Make 3 Pts	25	-	50
+15:14	Shot > Malik Howze > Any Type > 3 Point Attempt > Make 3 Pts
+EWP	2	14:42	2 Sherman Carter > ISO > Right > Drives Left > To Basket > Foul	25	-	50
+14:42	Personal Foul > Defensive - Any > Anthony Mosley
+EWP	2	14:42	2 Sherman Carter > Non Possession > Free Throw	26	-	50
+14:42	Shot > Sherman Carter > Free Throw > Made
+EWP	2	14:42	2 Sherman Carter > Non Possession > Free Throw	26	-	50
+14:42	Shot > Sherman Carter > Free Throw > Missed
+14:42	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	14:20	3 Malik Howze > Non Possession > Non Shooting Foul	26	-	50
+14:20	Personal Foul > Defensive - Any > Sherman Carter
+IIT	2	14:14	3 Malik Howze > Off Screen > To Shooter's Left > Straight > Turnover	26	-	50
+14:14	Misc Stat > Steal > Kinsley Shaw
+14:14	Turnover > Any Type > Malik Howze
+EWP	2	14:12	30 Kinsley Shaw > Transition > Ballhandler > Turnover	26	-	50
+14:12	Turnover > Any Type > Kinsley Shaw
+14:11	Misc Stat > Steal > Anthony Mosley
+IIT	2	14:09	22 Max Hisatake > Transition > First Middle > To Basket > Foul	26	-	50
+14:09	Personal Foul > Defensive - Any > Roland Watkins
+IIT	2	14:09	22 Max Hisatake > Non Possession > Free Throw	26	-	50
+14:09	Shot > Max Hisatake > Free Throw > Missed
+IIT	2	14:09	22 Max Hisatake > Non Possession > Free Throw	26	-	50
+14:09	Shot > Max Hisatake > Free Throw > Missed
+14:09	Misc Stat > Defensive Rebound > Sherman Carter
+EWP	2	13:58	2 Sherman Carter > Non Possession > Non Shooting Foul	26	-	50
+13:58	Personal Foul > Defensive - Any > Jake Digiorgio
+EWP	2	13:58	4 Carl Moore > No Play Type > To Basket > Foul	26	-	50
+13:58	Player Movement > Sub Out > Home Player > Max Hisatake
+13:58	Player Movement > Sub In > Home Player > Capriest Gardner
+13:52	Personal Foul > Defensive - Any > Anthony Mosley
+EWP	2	13:52	4 Carl Moore > Non Possession > Free Throw	27	-	50
+13:52	Shot > Carl Moore > Free Throw > Made
+EWP	2	13:52	4 Carl Moore > Non Possession > Free Throw	27	-	50
+13:52	Shot > Carl Moore > Free Throw > Missed
+13:52	Misc Stat > Offensive Rebound > Sherman Carter
+EWP	2	13:49	2 Sherman Carter > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	27	-	50
+13:49	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	2	13:49	21 Roland Watkins > Offensive Rebound > Short > Scoring Attempt > Short to < 17' > Foul	27	-	50
+13:49	Misc Stat > Offensive Rebound > Roland Watkins
+13:45	Personal Foul > Defensive - Any > Anthony Mosley
+EWP	2	13:45	21 Roland Watkins > Non Possession > Free Throw	27	-	50
+13:45	Shot > Roland Watkins > Free Throw > Missed
+EWP	2	13:45	21 Roland Watkins > Non Possession > Free Throw	28	-	50
+13:45	Shot > Roland Watkins > Free Throw > Made
+13:45	Player Movement > Sub Out > Away Player > Roland Watkins
+13:45	Player Movement > Sub In > Away Player > Stanley Thomas
+IIT	2	13:31	21 Jake Digiorgio > Spot-Up > Drives Left > To Basket > Miss 2 Pts	28	-	50
+13:31	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+13:31	Misc Stat > Defensive Rebound > Kinsley Shaw
+EWP	2	13:20	2 Sherman Carter > Hand Off > From Dribble > Top > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	28	-	50
+13:20	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+EWP	2	13:20	5 Markus Johnson > Offensive Rebound > Short > Run Offense	28	-	50
+13:20	Misc Stat > Offensive Rebound > Markus Johnson
+EWP	2	13:08	2 Sherman Carter > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+13:08	Shot > Carl Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	12:44	15 Capriest Gardner > Non Possession > Non Shooting Foul	28	-	50
+12:44	Personal Foul > Defensive - Any > Stanley Thomas
+IIT	2	12:41	10 Jake Bruns > Off Screen > To Shooter's Right > Straight > No Dribble Jumper > Guarded > Long/3pt > Miss 3 Pts	28	-	50
+12:41	Shot > Jake Bruns > Any Type > 3 Point Attempt > Miss 3 Pts
+EWP	2	12:31	4 Carl Moore > P&R Ball Handler > Left P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover	28	-	50
+12:31	Turnover > Any Type > Carl Moore
+12:30	Misc Stat > Steal > Jake Digiorgio
+IIT	2	12:22	21 Jake Digiorgio > Transition > First Middle > To Basket > Foul	28	-	50
+12:22	Personal Foul > Defensive - Any > Markus Johnson
+IIT	2	12:22	21 Jake Digiorgio > Non Possession > Free Throw	28	-	51
+12:22	Shot > Jake Digiorgio > Free Throw > Made
+IIT	2	12:22	21 Jake Digiorgio > Non Possession > Free Throw	28	-	51
+12:22	Shot > Jake Digiorgio > Free Throw > Missed
+12:22	Misc Stat > Defensive Rebound > Stanley Thomas
+12:22	Player Movement > Sub Out > Home Player > Malik Howze
+12:22	Player Movement > Sub In > Home Player > Calvin Schmitz
+EWP	2	12:14	2 Sherman Carter > P&R Ball Handler > Right P&R > Side > Takes Early Jump Shot > Long/3pt > Miss 3 Pts	28	-	51
+12:14	Shot > Sherman Carter > Any Type > 3 Point Attempt > Miss 3 Pts
+12:14	Misc Stat > Defensive Rebound > Calvin Schmitz
+IIT	2	11:46	13 Calvin Schmitz > Spot-Up > Drives Left > Turnover	28	-	51
+11:46	Misc Stat > Steal > Markus Johnson
+11:46	Turnover > Any Type > Calvin Schmitz
+EWP	2	11:40	23 Stanley Thomas > Transition > Ballhandler > To Basket > Foul	28	-	51
+11:40	Personal Foul > Defensive - Any > Capriest Gardner
+EWP	2	11:40	23 Stanley Thomas > Non Possession > Free Throw	29	-	51
+11:40	Shot > Stanley Thomas > Free Throw > Made
+EWP	2	11:40	23 Stanley Thomas > Non Possession > Free Throw	30	-	51
+11:40	Shot > Stanley Thomas > Free Throw > Made
+IIT	2	11:40	2 Anthony Mosley > ISO > Top > Drives Left > Turnover	30	-	51
+11:40	Player Movement > Sub Out > Home Player > Jake Digiorgio
+11:40	Player Movement > Sub In > Home Player > Max Hisatake
+11:29	Turnover > Any Type > Anthony Mosley
+11:28	Misc Stat > Steal > Sherman Carter
+EWP	2	11:25	2 Sherman Carter > Transition > Ballhandler > Turnover	30	-	51
+11:25	Turnover > Any Type > Sherman Carter
+11:24	Misc Stat > Steal > Max Hisatake
+IIT	2	11:22	22 Max Hisatake > Transition > Ballhandler > To Basket > Make 2 Pts	30	-	53
+11:22	Shot > Max Hisatake > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	2	11:12	30 Kinsley Shaw > Spot-Up > No Dribble Jumper > Open > Medium/17' to <3p > Miss 2 Pts	30	-	53
+11:12	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+11:12	Misc Stat > Defensive Rebound > Max Hisatake
+IIT	2	10:50	13 Calvin Schmitz > No Play Type > Turnover	30	-	53
+10:50	Turnover > Any Type > Calvin Schmitz
+10:50	Player Movement > Sub In > Away Player > Manny Coleman
+10:50	Player Movement > Sub Out > Away Player > Stanley Thomas
+10:50	Player Movement > Sub Out > Away Player > Markus Johnson
+10:50	Player Movement > Sub In > Away Player > Adonis Bell
+EWP	2	10:26	30 Kinsley Shaw > Cut > Basket > Miss 2 Pts	30	-	53
+10:26	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	2	10:26	30 Kinsley Shaw > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	30	-	53
+10:26	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+10:26	Misc Stat > Offensive Rebound > Kinsley Shaw
+EWP	2	10:24	2 Sherman Carter > Off Screen > To Shooter's Right > Straight > Turnover	30	-	53
+10:24	Turnover > Any Type > Sherman Carter
+10:24	Misc Stat > Steal > Anthony Mosley
+IIT	2	10:00	15 Capriest Gardner > Post-Up > Flash Middle > Face-up > Drives Right > Make 2 Pts	30	-	55
+10:00	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+10:00	Misc Stat > Assist > Jake Bruns
+EWP	2	09:38	4 Carl Moore > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover	30	-	55
+09:38	Turnover > Any Type > Carl Moore
+09:35	Misc Stat > Steal > Capriest Gardner
+IIT	2	09:35	22 Max Hisatake > Post-Up > Right Block > Post Pin > Foul	30	-	55
+09:35	Player Movement > Sub In > Away Player > Markus Johnson
+09:35	Player Movement > Sub Out > Home Player > Calvin Schmitz
+09:35	Player Movement > Sub In > Home Player > Malik Howze
+09:35	Player Movement > Sub Out > Away Player > Kinsley Shaw
+09:26	Personal Foul > Defensive - Any > Adonis Bell
+IIT	2	09:26	22 Max Hisatake > Non Possession > Free Throw	30	-	56
+09:26	Shot > Max Hisatake > Free Throw > Made
+IIT	2	09:26	22 Max Hisatake > Non Possession > Free Throw	30	-	57
+09:26	Shot > Max Hisatake > Free Throw > Made
+EWP	2	09:18	4 Carl Moore > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	30	-	57
+09:18	Shot > Carl Moore > Any Type > 3 Point Attempt > Miss 3 Pts
+09:18	Misc Stat > Defensive Rebound > Capriest Gardner
+IIT	2	09:09	15 Capriest Gardner > Transition > Ballhandler > To Basket > Foul	30	-	57
+09:09	Personal Foul > Defensive - Any > Markus Johnson
+IIT	2	09:09	15 Capriest Gardner > Non Possession > Free Throw	30	-	57
+09:09	Shot > Capriest Gardner > Free Throw > Missed
+IIT	2	09:09	15 Capriest Gardner > Non Possession > Free Throw	30	-	58
+09:09	Shot > Capriest Gardner > Free Throw > Made
+EWP	2	09:09	2 Sherman Carter > No Play Type > Turnover	30	-	58
+09:09	Player Movement > Sub In > Home Player > Parker Joncus
+09:09	Player Movement > Sub Out > Away Player > Manny Coleman
+09:09	Player Movement > Sub In > Away Player > Joshua Johnson
+09:09	Player Movement > Sub Out > Home Player > Capriest Gardner
+09:01	Misc Stat > Steal > Max Hisatake
+09:01	Turnover > Any Type > Sherman Carter
+IIT	2	08:33	3 Malik Howze > ISO > Right > Drives Right > To Basket > Miss 2 Pts	30	-	58
+08:33	Shot > Malik Howze > Any Type > 2 Point Attempt > Miss 2 Pts
+08:33	Misc Stat > Defensive Rebound > Markus Johnson
+EWP	2	08:22	30 Kinsley Shaw > Transition > Right Wing > To Basket > Miss 2 Pts	30	-	58
+08:22	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Miss 2 Pts
+EWP	2	08:22	5 Markus Johnson > Offensive Rebound > Short > Turnover	30	-	58
+08:22	Misc Stat > Offensive Rebound > Markus Johnson
+08:19	Turnover > Any Type > Markus Johnson
+08:18	Misc Stat > Steal > Max Hisatake
+IIT	2	08:02	32 Parker Joncus > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	30	-	58
+08:02	Shot > Parker Joncus > Any Type > 3 Point Attempt > Miss 3 Pts
+08:02	Misc Stat > Defensive Rebound > Sherman Carter
+EWP	2	07:46	5 Markus Johnson > Post-Up > Right Block > Left Shoulder > Dribble Move > Foul	30	-	58
+07:46	Personal Foul > Defensive - Any > Max Hisatake
+EWP	2	07:46	5 Markus Johnson > Non Possession > Free Throw	30	-	58
+07:46	Shot > Markus Johnson > Free Throw > Missed
+07:46	Misc Stat > Offensive Rebound > Adonis Bell
+07:46	Player Movement > Sub Out > Away Player > Joshua Johnson
+07:46	Player Movement > Sub In > Away Player > Manny Coleman
+EWP	2	07:44	1 Adonis Bell > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	30	-	58
+07:44	Shot > Adonis Bell > Any Type > 2 Point Attempt > Miss 2 Pts
+07:44	Misc Stat > Block > Max Hisatake
+07:43	Misc Stat > Defensive Rebound > Anthony Mosley
+IIT	2	07:27	2 Anthony Mosley > ISO > Right > Drives Right > Defense Commits 
+07:27	Personal Foul > Defensive - Any > Markus Johnson
+IIT	2	07:27	22 Max Hisatake > Non Possession > Free Throw	30	-	59
+07:27	Shot > Max Hisatake > Free Throw > Made
+IIT	2	07:27	22 Max Hisatake > Non Possession > Free Throw	30	-	59
+07:27	Shot > Max Hisatake > Free Throw > Missed
+07:27	Misc Stat > Defensive Rebound > Adonis Bell
+EWP	2	07:20	2 Sherman Carter > P&R Ball Handler > High P&R > Dribble Off Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	30	-	59
+07:20	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+07:20	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	07:11	2 Anthony Mosley > Transition > Ballhandler > To Basket > Foul	30	-	59
+07:11	Personal Foul > Defensive - Any > Sherman Carter
+IIT	2	07:11	2 Anthony Mosley > Non Possession > Free Throw	30	-	60
+07:11	Shot > Anthony Mosley > Free Throw > Made
+IIT	2	07:11	2 Anthony Mosley > Non Possession > Free Throw	30	-	61
+07:11	Shot > Anthony Mosley > Free Throw > Made
+07:11	Player Movement > Sub Out > Home Player > Jake Bruns
+07:11	Player Movement > Sub In > Home Player > Jake Digiorgio
+EWP	2	06:56	2 Sherman Carter > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits 
+06:56	Shot > Adonis Bell > Any Type > 2 Point Attempt > Make 2 Pts
+06:56	Misc Stat > Assist > Sherman Carter
+IIT	2	06:48	2 Anthony Mosley > Non Possession > Non Shooting Foul	32	-	61
+06:48	Personal Foul > Defensive - Any > Sherman Carter
+IIT	2	06:24	2 Anthony Mosley > Spot-Up > Drives Left > Dribble Jumper > Long/3pt > Miss 3 Pts	32	-	61
+06:24	Shot > Anthony Mosley > Any Type > 3 Point Attempt > Miss 3 Pts
+06:24	Misc Stat > Defensive Rebound > Manny Coleman
+EWP	2	06:17	2 Sherman Carter > Transition > Leak Outs > To Basket > Miss 2 Pts	32	-	61
+06:17	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+06:17	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	05:48	2 Anthony Mosley > ISO > Left > Drives Right > To Basket > Miss 2 Pts	32	-	61
+05:48	Shot > Anthony Mosley > Any Type > 2 Point Attempt > Miss 2 Pts
+05:48	Misc Stat > Defensive Rebound > Manny Coleman
+EWP	2	05:44	10 Manny Coleman > No Play Type > Foul	32	-	61
+05:44	Personal Foul > Defensive - Any > Anthony Mosley
+EWP	2	05:44	10 Manny Coleman > Non Possession > Free Throw	32	-	61
+05:44	Shot > Manny Coleman > Free Throw > Missed
+05:44	Misc Stat > Defensive Rebound > Jake Digiorgio
+05:44	Player Movement > Sub In > Home Player > Capriest Gardner
+05:44	Player Movement > Sub Out > Home Player > Max Hisatake
+05:44	Player Movement > Sub In > Home Player > Calvin Schmitz
+05:44	Player Movement > Sub Out > Home Player > Anthony Mosley
+05:44	Player Movement > Sub Out > Away Player > Markus Johnson
+05:44	Player Movement > Sub In > Home Player > Jake Bruns
+05:44	Player Movement > Sub In > Away Player > Kinsley Shaw
+05:44	Player Movement > Sub Out > Home Player > Parker Joncus
+IIT	2	05:21	3 Malik Howze > Hand Off > From Stationary > Top > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	32	-	61
+05:21	Shot > Malik Howze > Any Type > 3 Point Attempt > Miss 3 Pts
+05:21	Misc Stat > Offensive Rebound > Jake Digiorgio
+IIT	2	05:16	21 Jake Digiorgio > Offensive Rebound > Short > Scoring Attempt > At Basket > Miss 2 Pts	32	-	61
+05:16	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Miss 2 Pts
+05:16	Misc Stat > Defensive Rebound > Sherman Carter
+EWP	2	05:12	4 Carl Moore > Transition > Leak Outs > To Basket > Make 2 Pts	34	-	61
+05:12	Shot > Carl Moore > Any Type > 2 Point Attempt > Make 2 Pts
+05:12	Misc Stat > Assist > Sherman Carter
+IIT	2	04:48	10 Jake Bruns > Spot-Up > No Dribble Jumper > Open > Long/3pt > Make 3 Pts	34	-	64
+04:48	Shot > Jake Bruns > Any Type > 3 Point Attempt > Make 3 Pts
+04:48	Misc Stat > Assist > Malik Howze
+EWP	2	04:35	30 Kinsley Shaw > Cut > Basket > Turnover	34	-	64
+04:35	Turnover > Any Type > Kinsley Shaw
+04:34	Misc Stat > Steal > Malik Howze
+IIT	2	04:30	15 Capriest Gardner > Transition > Leak Outs > To Basket > Make 2 Pts	34	-	66
+04:30	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+04:30	Misc Stat > Assist > Malik Howze
+EWP	2	04:09	4 Carl Moore > ISO > Right > Drives Right > Dribble Jumper > Short to < 17' > Miss 2 Pts	34	-	66
+04:09	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+04:09	Misc Stat > Defensive Rebound > Malik Howze
+IIT	2	03:53	21 Jake Digiorgio > Transition > Right Wing > To Basket > Make 2 Pts	34	-	68
+03:53	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+03:53	Misc Stat > Assist > Calvin Schmitz
+EWP	2	03:39	10 Manny Coleman > P&R Ball Handler > High P&R > Dribble Off Pick > Defense Commits 
+03:39	Shot > Adonis Bell > Any Type > 3 Point Attempt > Miss 3 Pts
+EWP	2	03:39	2 Sherman Carter > Offensive Rebound > Short > Run Offense	34	-	68
+03:39	Misc Stat > Offensive Rebound > Sherman Carter
+EWP	2	03:27	30 Kinsley Shaw > Post-Up > Left Block > Left Shoulder > Dribble Move > To Basket > Make 2 Pts	36	-	68
+03:27	Shot > Kinsley Shaw > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	03:15	15 Capriest Gardner > Transition > Left Wing > To Basket > Make 2 Pts	36	-	70
+03:15	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	2	02:55	10 Manny Coleman > P&R Ball Handler > High P&R > Dribble Off Pick > To Basket > Miss 2 Pts	36	-	70
+02:55	Shot > Manny Coleman > Any Type > 2 Point Attempt > Miss 2 Pts
+02:55	Misc Stat > Defensive Rebound > Jake Digiorgio
+IIT	2	02:49	10 Jake Bruns > Transition > Leak Outs > To Basket > Make 2 Pts	36	-	72
+02:49	Shot > Jake Bruns > Any Type > 2 Point Attempt > Make 2 Pts
+02:49	Misc Stat > Assist > Malik Howze
+EWP	2	02:35	2 Sherman Carter > P&R Ball Handler > Right P&R > Side > Go Away from Pick > Dribble Jumper > Medium/17' to <3p > Miss 2 Pts	36	-	72
+02:35	Shot > Sherman Carter > Any Type > 2 Point Attempt > Miss 2 Pts
+02:35	Misc Stat > Offensive Rebound > Manny Coleman
+EWP	2	02:30	10 Manny Coleman > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	38	-	72
+02:30	Shot > Manny Coleman > Any Type > 2 Point Attempt > Make 2 Pts
+IIT	2	02:23	21 Jake Digiorgio > Transition > Leak Outs > To Basket > Make 2 Pts	38	-	74
+02:23	Shot > Jake Digiorgio > Any Type > 2 Point Attempt > Make 2 Pts
+02:23	Misc Stat > Assist > Calvin Schmitz
+EWP	2	02:07	1 Adonis Bell > Post-Up > Left Block > Face-up > Drive Middle > Miss 2 Pts	38	-	74
+02:07	Shot > Adonis Bell > Any Type > 2 Point Attempt > Miss 2 Pts
+02:07	Misc Stat > Offensive Rebound > Sherman Carter
+EWP	2	02:03	2 Sherman Carter > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	40	-	74
+02:03	Shot > Sherman Carter > Any Type > 2 Point Attempt > Make 2 Pts
+01:56	Player Movement > Sub In > Away Player > Roland Watkins
+01:56	Player Movement > Sub In > Home Player > Kohl Linder
+01:56	Player Movement > Sub Out > Away Player > Adonis Bell
+01:56	Player Movement > Sub Out > Home Player > Jake Digiorgio
+01:56	Player Movement > Sub In > Away Player > Stanley Thomas
+01:56	Player Movement > Sub In > Home Player > Brinden Carlson
+01:56	Player Movement > Sub Out > Away Player > Manny Coleman
+01:56	Player Movement > Sub Out > Home Player > Malik Howze
+01:56	Player Movement > Sub In > Home Player > Jason Morris
+01:56	Player Movement > Sub In > Away Player > Joshua Johnson
+01:56	Player Movement > Sub Out > Home Player > Calvin Schmitz
+01:56	Player Movement > Sub Out > Away Player > Kinsley Shaw
+IIT	2	01:53	25 Brinden Carlson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	40	-	74
+01:53	Shot > Brinden Carlson > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	01:53	35 Kohl Linder > Offensive Rebound > Long > Run Offense	40	-	74
+01:53	Misc Stat > Offensive Rebound > Kohl Linder
+IIT	2	01:26	25 Brinden Carlson > Spot-Up > No Dribble Jumper > Open > Long/3pt > Miss 3 Pts	40	-	74
+01:26	Shot > Brinden Carlson > Any Type > 3 Point Attempt > Miss 3 Pts
+IIT	2	01:26	10 Jake Bruns > Offensive Rebound > Short > Run Offense	40	-	74
+01:26	Misc Stat > Offensive Rebound > Jake Bruns
+IIT	2	01:15	35 Kohl Linder > Cut > Basket > Miss 2 Pts	40	-	74
+01:15	Shot > Kohl Linder > Any Type > 2 Point Attempt > Miss 2 Pts
+01:15	Misc Stat > Block > Roland Watkins
+01:13	Misc Stat > Offensive Rebound > Capriest Gardner
+IIT	2	01:11	15 Capriest Gardner > Offensive Rebound > Short > Scoring Attempt > At Basket > Make 2 Pts	40	-	76
+01:11	Shot > Capriest Gardner > Any Type > 2 Point Attempt > Make 2 Pts
+EWP	2	01:03	21 Roland Watkins > Transition > Trailer > To Basket > Make 2 Pts	42	-	76
+01:03	Shot > Roland Watkins > Any Type > 2 Point Attempt > Make 2 Pts
+01:03	Misc Stat > Assist > Sherman Carter
+IIT	2	00:45	35 Kohl Linder > Cut > Basket > Make 2 Pts	42	-	78
+00:45	Shot > Kohl Linder > Any Type > 2 Point Attempt > Make 2 Pts
+00:45	Misc Stat > Assist > Brinden Carlson
+EWP	2	00:34	2 Sherman Carter > P&R Ball Handler > Right P&R > Baseline > Dribble Off Pick > Defense Commits > Turnover	42	-	78
+00:34	Turnover > Any Type > Sherman Carter
+IIT	2	00:22	11 Jason Morris > Spot-Up > No Dribble Jumper > Guarded > Medium/17' to <3p > Miss 2 Pts	42	-	78
+00:22	Shot > Jason Morris > Any Type > 2 Point Attempt > Miss 2 Pts
+00:22	Misc Stat > Defensive Rebound > Roland Watkins
+EWP	2	00:14	4 Carl Moore > Transition > Leak Outs > To Basket > Miss 2 Pts	42	-	78
+00:14	Shot > Carl Moore > Any Type > 2 Point Attempt > Miss 2 Pts
+00:14	Misc Stat > Offensive Rebound > Joshua Johnson
+EWP	2	00:11	11 Joshua Johnson > Offensive Rebound > Long > Scoring Attempt > Long/3pt > Miss 3 Pts	42	-	78
+00:11	Shot > Joshua Johnson > Any Type > 3 Point Attempt > Miss 3 Pts
