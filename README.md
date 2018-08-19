@@ -23,3 +23,7 @@ So I uploaded the modified version of SQL for creating tables.
   First we noticed that their are some breakdowns about each player's "play type", which is how they finish his possessesion when shooting the ball.
   From this point, I decided to choose "PPP" as the evaluation parameter: compare each player's overall PPP, and then compare their each  play type's PPP with the overall PPP to get the idea of "In what way is this player's performance most efficient". The results is pretty nice to me!
   Please refer to "strength and weakness" folder to get mor details.
+
+2018.8.1 - 2018.8.18
+  During these two weeks I developed a "play_by_play processor" program which can be used to generate the squads existed in each game and  players' corresponding stats and their squads stats. Based on these results, I generated some plus-minus for each player in each game and in the whole season.
+  I also formalized them to our database called "lineupinfo", for more information check "play-by-play" folder.
