@@ -5,7 +5,7 @@ import os
 import fileinput
 import pandas as pd 
 
-stats_offensive_list = ['Play Types']
+# stats_offensive_list = ['Play Types']
 
 stats_offensive_list = ['Overall Offense','Offense Including Passes','During Pass Out Situations',
 'During Trapping Situations','Shot Attempt - Half Court','Catch and Shoot - Half Court','Dribble Jumper - Half Court',
@@ -14,18 +14,20 @@ stats_offensive_list = ['Overall Offense','Offense Including Passes','During Pas
 'P&R - Derived Offense','P&R Ball Handler','P&R BH - Defense Commits Info','P&R Ball Handler - Traps','P&R Roll Man',
 'Spot-Up','Off Screen','Hand Off','Cut','Offensive Rebounds (put backs)','Transition','Miscellaneous']
 
-stats_defensive_list = ['Play Types']
+# stats_defensive_list = ['Play Types']
 
-# stats_defensive_list = ['Overall Defense','Shot Attempt - Half Court','Catch and Shoot - Half Court',
-# 'Dribble Jumper - Half Court','Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation',
-# 'Post-Up','P&R Ball Handler','P&R Roll Man','Spot-Up','Off Screen','Hand Off']
+stats_defensive_list = ['Overall Defense','Shot Attempt - Half Court','Catch and Shoot - Half Court',
+'Dribble Jumper - Half Court','Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation',
+'Post-Up','P&R Ball Handler','P&R Roll Man','Spot-Up','Off Screen','Hand Off']
+
+
 print(len(stats_offensive_list))
 
 def append_player_table(school_name,player_name):
  
-	file_needed_1  = open("C:/Users/lchen/Desktop/school_raw_data/"+school_name+"/"+player_name+'_'+'Offensive'+".txt","r")
+	file_needed_1  = open("C:/Users/lchen/Desktop/Player_Raw_Data/"+school_name+"/"+player_name+'_'+'Offensive'+".txt","r")
 
-	file_needed_2  = open("C:/Users/lchen/Desktop/school_raw_data/"+school_name+"/"+player_name+'_'+'Defensive'+".txt","r")
+	file_needed_2  = open("C:/Users/lchen/Desktop/Player_Raw_Data/"+school_name+"/"+player_name+'_'+'Defensive'+".txt","r")
 	
 	
 

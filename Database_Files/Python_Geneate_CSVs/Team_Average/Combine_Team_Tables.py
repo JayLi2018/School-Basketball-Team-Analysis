@@ -5,24 +5,24 @@ import os
 import fileinput
 import pandas as pd 
 
-stats_offensive_list = ['Shot Attempt - Half Court']
+# stats_offensive_list = ['Shot Attempt - Half Court']
 
-# stats_offensive_list = ['Overall Offense','Play Types','Offense Including Passes','During Pass Out Situations',
-# 'During Trapping Situations','Catch and Shoot - Half Court','Dribble Jumper - Half Court',
-# 'Jump Shot Range - half court']
+stats_offensive_list = ['Overall Offense','Play Types','Offense Including Passes','During Pass Out Situations',
+'During Trapping Situations','Catch and Shoot - Half Court','Dribble Jumper - Half Court',
+'Jump Shot Range - half court']
 
-stats_defensive_list = ['Shot Attempt - Half Court']
+# stats_defensive_list = ['Shot Attempt - Half Court']
 
 
-# stats_defensive_list = ['Overall Defense','Play Types','Offense Including Passes','During Pass Out Situations','During Trapping Situations',
-# 'Catch and Shoot - Half Court','Dribble Jumper - Half Court','Jump Shot Range - half court']
+stats_defensive_list = ['Overall Defense','Play Types','Offense Including Passes','During Pass Out Situations','During Trapping Situations',
+'Catch and Shoot - Half Court','Dribble Jumper - Half Court','Jump Shot Range - half court']
 # print(len(stats_offensive_list))
 
 def append_team_table(school_name):
  
-	file_needed_1  = open("C:/Users/lchen/Desktop/Teams_Raw_Data/"+school_name+'_'+'Offensive'+".txt","r")
+	file_needed_1  = open("C:/Users/lchen/Desktop/Teams_Raw_Data1/"+school_name+'_'+'Offensive'+".txt","r")
 
-	file_needed_2  = open("C:/Users/lchen/Desktop/Teams_Raw_Data/"+school_name+'_'+'Defensive'+".txt","r")
+	file_needed_2  = open("C:/Users/lchen/Desktop/Teams_Raw_Data1/"+school_name+'_'+'Defensive'+".txt","r")
 	
 
 
@@ -78,10 +78,10 @@ def append_team_table(school_name):
 
 		# print(row_1)
 		# print(len(row_1))
-		directory = 'C:/Users/lchen/Desktop/Chenjie_Combied_Tables/'
+		directory = 'C:/Users/lchen/Desktop/Chenjie_New_Team_Tables/'
 		if not os.path.exists(directory):
 			os.makedirs(directory)
-		with open('C:/Users/lchen/Desktop/Chenjie_Combied_Tables/combined_team_tables.csv','a', newline = '') as ft:
+		with open('C:/Users/lchen/Desktop/Chenjie_New_Team_Tables/combined_team_tables.csv','a', newline = '') as ft:
 			a = csv.writer(ft,delimiter = ',')
 			# a.writerow(columns_1)  ---- we don't need columns' names here
 			a.writerows(row_1)
@@ -137,10 +137,10 @@ def append_team_table(school_name):
 					columns_2.append(line.rstrip())
 
 		
-			directory = 'C:/Users/lchen/Desktop/Chenjie_Combied_Tables/'
+			directory = 'C:/Users/lchen/Desktop/Chenjie_New_Team_Tables/'
 		if not os.path.exists(directory):
 			os.makedirs(directory)
-		with open('C:/Users/lchen/Desktop/Chenjie_Combied_Tables/combined_team_tables.csv','a', newline = '') as ft:
+		with open('C:/Users/lchen/Desktop/Chenjie_New_Team_Tables/combined_team_tables.csv','a', newline = '') as ft:
 			a = csv.writer(ft,delimiter = ',')
 			# a.writerow(columns_1)  ---- we don't need columns' names here
 			a.writerows(row_2)
