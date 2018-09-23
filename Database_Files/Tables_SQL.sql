@@ -379,3 +379,5 @@ copy Team_Cumulative(Team_Cumulative_ID,Player_ID,Team_ID,GP,Min,SST,SSTexPts,Pt
 
 
 copy LINEUPINFO(Game_ID,Session_ID,LineUp_ID,Player_ID,Game_Status_ID,Min,Lineup_Score,Oppo_Score,Plus_Minus,Oppo_FGA,Oppo_FGmade,Oppo_FGmiss,Oppo_Two_FGA,Oppo_Two_FGMade,Oppo_Two_Fgmiss,Oppo_Three_FGA,Oppo_Three_FGMade,Oppo_Three_Fgmiss,Oppo_DefReb,Oppo_OffReb,Oppo_TtlReb,Oppo_FTA,Oppo_Ftmiss,Oppo_FTMade,Oppo_Ast,Oppo_Stl,Pts,OffReb,DefReb,TtlReb,FGA,FGMade,FGmiss,Two_FGA,Two_FGMade,Two_FGmiss,Three_FGA,Three_FGMade,Three_Fgmiss,Ast,Stl,FTA,FTMade,FTmiss) from 'C:\Users\lchen\Desktop\Some_valuable_queries\Play_By_Play\LineUps\lineupinfo_final_version.csv' DELIMITER ',' CSV HEADER;
+
+
