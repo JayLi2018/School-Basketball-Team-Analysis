@@ -1,0 +1,732 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Player Views/College Men - Defensive - Emil Radisevic #15	Change
+Player
+Offensive	Defensive	Cumulative Box	ISO/Post Chart	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Edgewood College (WI) Eagles	Date Range: 11/11/2017 to 02/23/2018	Number of Games: 27
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Emil Radisevic	100%	181	174	0.961	28%	Below Average	80	71	151	47%	53%	11%	6.6%	3.9%	44.8%
+                    Short Shot Clock <4 Seconds	4.4%	8	7	0.875	-	-	3	2	5	40%	50%	12.5%	25%	12.5%	50%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	5%	9	8	0.889	-	-	4	4	8	50%	50%	11.1%	0%	0%	44.4%
+         Out of Bounds (Side)	2.2%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+         After Time Outs	12.7%	23	22	0.957	35%	Average	9	9	18	50%	55.6%	17.4%	4.3%	4.3%	43.5%
+Breakdown of Half Court Defensive Situations by Offense Type:
+  Man Defense	100%	181	174	0.961	27%	Below Average	80	71	151	47%	53%	11%	6.6%	3.9%	44.8%
+  Zone Defense	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Post-Up	46.4%	84	64	0.762	66%	Very Good	40	29	69	42%	42%	10.7%	7.1%	2.4%	41.7%
+ Spot Up	27.1%	49	58	1.184	12%	Poor	18	22	40	55%	70%	16.3%	4.1%	4.1%	46.9%
+ P&R Roll Man	11.6%	21	30	1.429	6%	Poor	8	10	18	55.6%	66.7%	0%	19%	14.3%	61.9%
+ Isolation	7.2%	13	8	0.615	73%	Very Good	8	4	12	33.3%	33.3%	7.7%	0%	0%	30.8%
+ Off Screen	3.9%	7	5	0.714	-	-	5	2	7	28.6%	35.7%	0%	0%	0%	28.6%
+ Hand Off	2.8%	5	7	1.4	-	-	1	3	4	75%	87.5%	20%	0%	0%	60%
+ P&R Ball Handler	1.1%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	40.4%	61	76	1.246	11%	Poor	32	29	61	47.5%	62.3%	0%	0%	0%	47.5%
+          Short Shot Clock <4 Seconds	2%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+Runner	1.3%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+          Short Shot Clock <4 Seconds	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Around Basket (not Post-Ups)	12.6%	19	28	1.474	4%	Poor	6	13	19	68.4%	68.4%	0%	10.5%	10.5%	68.4%
+Post-Ups	45.7%	69	58	0.841	70%	Very Good	40	29	69	42%	42%	0%	0%	0%	42%
+          Short Shot Clock <4 Seconds	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	31.1%	47	68	1.447	7%	Poor	22	25	47	53.2%	72.3%	0%	0%	0%	53.2%
+  Guarded	68.1%	32	48	1.5	5%	Poor	14	18	32	56.3%	75%	0%	0%	0%	56.3%
+  Unguarded	31.9%	15	20	1.333	25%	Below Average	8	7	15	46.7%	66.7%	0%	0%	0%	46.7%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	7.3%	11	8	0.727	60%	Good	7	4	11	36.4%	36.4%	0%	0%	0%	36.4%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	24.6%	15	12	0.8	43%	Average	9	6	15	40%	40%	0%	0%	0%	40%
+Medium (17' to <3 point line)	18%	11	10	0.909	25%	Below Average	6	5	11	45.5%	45.5%	0%	0%	0%	45.5%
+Long (3 point jump shots)	57.4%	35	54	1.543	4%	Poor	17	18	35	51.4%	77.1%	0%	0%	0%	51.4%
+
+
+ Drive Direction (ISO Situations)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Drives Right	30%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+  Pulls up for the jumper	33.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+  Runner	33.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+  Drives to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Turnover/Fouled	33.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+Drives Left	70%	7	8	1.143	-	-	3	4	7	57.1%	57.1%	0%	0%	0%	57.1%
+  Pulls up for the jumper	42.9%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+  Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Drives to the Basket	57.1%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+  Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall ISO - Single Covered	6.6%	12	8	0.667	77%	Very Good	8	4	12	33.3%	33.3%	0%	0%	0%	33.3%
+         Short Shot Clock <4 Seconds	8.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Shoots Jumper (no drive)	25%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+    Drives (including pull-up jumpers)	75%	9	8	0.889	-	-	5	4	9	44.4%	44.4%	0%	0%	0%	44.4%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Left Side ISOs	8.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Drives Baseline	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      To Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Drives Middle	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      To Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Shoots No Drive	100%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Right Side ISOs	58.3%	7	4	0.571	-	-	5	2	7	28.6%	28.6%	0%	0%	0%	28.6%
+    Drives Baseline	14.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+      Dribble Jumper	100%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+      Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      To Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Drives Middle	71.4%	5	4	0.8	-	-	3	2	5	40%	40%	0%	0%	0%	40%
+      Dribble Jumper	40%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+      Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      To Basket	60%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Shoots No Drive	14.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Top ISOs	33.3%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+    Drives Left	50%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+      Dribble Jumper	50%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+      Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      To Basket	50%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Drives Right	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+      Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Runner	100%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+      To Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Shoots No Drive	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Breakdown of ISO Situations by Defensive Switches:
+    From P&R Defensive Switch	25%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+    From Other Man-To-Man Defense	75%	9	8	0.889	-	-	5	4	9	44.4%	44.4%	0%	0%	0%	44.4%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall Post Up - Single Covered	44.2%	80	63	0.788	71%	Very Good	39	29	68	42.6%	42.6%	8.8%	6.3%	2.5%	42.5%
+         Short Shot Clock <4 Seconds	2.5%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	0%	50%
+  Left Block	46.3%	37	26	0.703	76%	Very Good	20	12	32	37.5%	37.5%	8.1%	5.4%	2.7%	37.8%
+    Turns Left Shoulder	48.6%	18	17	0.944	41%	Average	9	8	17	47.1%	47.1%	0%	5.6%	0%	50%
+        Jump Shot	22.2%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+        To Basket	5.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+        Drop Step	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Up and Under	11.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+        Hook	55.6%	10	10	1	50%	Average	5	5	10	50%	50%	0%	0%	0%	50%
+        Turnover/Fouled	5.6%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+      Left Shoulder - Dribble	100%	18	17	0.944	35%	Average	9	8	17	47.1%	47.1%	0%	5.6%	0%	50%
+      Left Shoulder - No Dribble	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turns Right Shoulder	21.6%	8	4	0.5	-	-	5	2	7	28.6%	28.6%	12.5%	0%	0%	25%
+        Jump Shot	25%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+        To Basket	37.5%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+        Drop Step	37.5%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+        Up and Under	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Hook	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Right Shoulder - Dribble	100%	8	4	0.5	-	-	5	2	7	28.6%	28.6%	12.5%	0%	0%	25%
+      Right Shoulder - No Dribble	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Faces Up	24.3%	9	2	0.222	-	-	6	1	7	14.3%	14.3%	22.2%	0%	0%	11.1%
+      Early Jumper	44.4%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+      Drives Baseline	22.2%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+      Drives Middle	22.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+      Turnover/Fouled	11.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+    Post Pin (over the top)	5.4%	2	3	1.5	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Right Block	41.3%	33	28	0.848	53%	Good	16	14	30	46.7%	46.7%	9.1%	0%	0%	42.4%
+    Turns Left Shoulder	39.4%	13	14	1.077	27%	Below Average	6	7	13	53.8%	53.8%	0%	0%	0%	53.8%
+        Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        To Basket	23.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+        Drop Step	46.2%	6	8	1.333	-	-	2	4	6	66.7%	66.7%	0%	0%	0%	66.7%
+        Up and Under	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Hook	30.8%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+        Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Left Shoulder - Dribble	92.3%	12	12	1	34%	Average	6	6	12	50%	50%	0%	0%	0%	50%
+      Left Shoulder - No Dribble	7.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+    Turns Right Shoulder	33.3%	11	10	0.909	41%	Average	4	5	9	55.6%	55.6%	18.2%	0%	0%	45.5%
+        Jump Shot	36.4%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+        To Basket	18.2%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+        Drop Step	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Up and Under	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Hook	36.4%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+        Turnover/Fouled	9.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+      Right Shoulder - Dribble	100%	11	10	0.909	39%	Average	4	5	9	55.6%	55.6%	18.2%	0%	0%	45.5%
+      Right Shoulder - No Dribble	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Faces Up	27.3%	9	4	0.444	-	-	6	2	8	25%	25%	11.1%	0%	0%	22.2%
+      Early Jumper	44.4%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+      Drives Baseline	33.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+      Drives Middle	22.2%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Post Pin (over the top)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Flash Middle (in the paint)	12.5%	10	9	0.9	57%	Good	3	3	6	50%	50%	10%	30%	10%	60%
+    Turns Left Shoulder	40%	4	3	0.75	-	-	1	1	2	50%	50%	25%	25%	25%	50%
+        Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        To Basket	25%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+        Drop Step	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Up and Under	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Hook	50%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+        Turnover/Fouled	25%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+      Left Shoulder - Dribble	75%	3	1	0.333	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+      Left Shoulder - No Dribble	25%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+    Turns Right Shoulder	40%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+        Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        To Basket	50%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+        Drop Step	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Up and Under	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Hook	50%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+        Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Right Shoulder - Dribble	50%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+      Right Shoulder - No Dribble	50%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+    Faces Up	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Early Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Drives Left	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Drives Right	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Post Pin (over the top)	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	20%	2	2	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+Breakdown of Post-Up Situations by Defensive Switches:
+    From P&R Defensive Switch	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    From Other Man-To-Man Defense	100%	80	63	0.788	71%	Very Good	39	29	68	42.6%	42.6%	8.8%	6.3%	2.5%	42.5%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall P&R BH - Single Covered	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+          Short Shot Clock <4 Seconds	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Takes Early Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Dribbles Off Pick	100%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	100%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Goes Away From Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Splits the Defenders	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Left Side P&R - Single	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Takes Early Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Dribbles Off Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Goes Away From Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Splits the Defenders	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Right Side P&R - Single	100%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+        Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Takes Early Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Dribbles Off Pick	100%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	100%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Goes Away From Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Splits the Defenders	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+(Defend - Continued)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  High P&R - Single	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+        Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Takes Early Jump Shot	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Dribbles Off Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Goes Away From Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Splits the Defenders	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Over Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Under Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+          Defender Into Pick	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes a Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Takes it to the Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+      Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall P&R Roll Man	11.6%	21	30	1.429	6%	Poor	8	10	18	55.6%	66.7%	0%	19%	14.3%	61.9%
+         Short Shot Clock <4 Seconds	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Left Side	33.3%	7	14	2	-	-	1	5	6	83.3%	108.3%	0%	14.3%	0%	85.7%
+    Right Side	19%	4	4	1	-	-	2	0	2	0%	0%	0%	50%	50%	50%
+    High	47.6%	10	12	1.2	18%	Below Average	5	5	10	50%	55%	0%	10%	10%	50%
+  Pick and Pop	85.7%	18	23	1.278	9%	Poor	8	9	17	52.9%	61.8%	0%	11.1%	5.6%	55.6%
+    No Dribble Jumper	66.7%	12	15	1.25	16%	Below Average	6	6	12	50%	62.5%	0%	0%	0%	50%
+    Dribble Jumper	5.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    To Basket	22.2%	4	7	1.75	-	-	1	3	4	75%	75%	0%	25%	25%	75%
+    Turnover/Fouled	5.6%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+  Rolls to Basket	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Slips the Pick	14.3%	3	7	2.333	-	-	0	1	1	100%	150%	0%	66.7%	66.7%	100%
+    No Dribble Jumper	33.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+    Dribble Jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    To Basket	66.7%	2	4	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+ Spot-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall Spot Up	27.1%	49	58	1.184	12%	Poor	18	22	40	55%	70%	16.3%	4.1%	4.1%	46.9%
+         Short Shot Clock <4 Seconds	4.1%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+    No Dribble Jumper	57.1%	28	42	1.5	6%	Poor	13	15	28	53.6%	75%	0%	0%	0%	53.6%
+    Dribble Jumper	6.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+    Runner	2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    To Basket	20.4%	10	14	1.4	7%	Poor	2	6	8	75%	75%	10%	20%	20%	70%
+    Turnover/Fouled	14.3%	7	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+  Drives Right	22.4%	11	8	0.727	47%	Average	4	3	7	42.9%	42.9%	27.3%	18.2%	18.2%	36.4%
+    Pulls up for the jumper	18.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+    Runner	9.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Drives to the basket	45.5%	5	8	1.6	-	-	1	3	4	75%	75%	0%	40%	40%	80%
+    Turnover/Fouled	27.3%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+  Drives Left	18.4%	9	8	0.889	-	-	1	4	5	80%	80%	44.4%	0%	0%	44.4%
+    Pulls up for the jumper	11.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+    Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Drives to the basket	44.4%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+    Turnover/Fouled	44.4%	4	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+  Drives Straight	2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+    Pulls up for the jumper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Runner	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Drives to the basket	100%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Breakdown of Spot-Up Situations by Offensive Type:
+  From Post-Up - Defense Commits	2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+  From P&R BH - Defense Commits	12.2%	6	6	1	-	-	2	3	5	60%	60%	16.7%	0%	0%	50%
+  From ISO - Defense Commits	4.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+  From Other Man-To-Man Defense	81.6%	40	49	1.225	11%	Poor	14	18	32	56.3%	73.4%	17.5%	5%	5%	47.5%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall OffScreen	3.9%	7	5	0.714	-	-	5	2	7	28.6%	35.7%	0%	0%	0%	28.6%
+         Short Shot Clock <4 Seconds	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Comes Off to Shooter's Left	57.1%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+    Comes Off Straight	75%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+    Fades	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Curls	25%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+    Flares	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Comes Off to Shooter's Right	42.9%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+    Comes Off Straight	66.7%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+    Fades	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Curls	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+    Flares	33.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+    Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+  Turnover/Fouled	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Overall HandOff	2.8%	5	7	1.4	-	-	1	3	4	75%	87.5%	20%	0%	0%	60%
+         Short Shot Clock <4 Seconds	60%	3	5	1.667	-	-	0	2	2	100%	125%	33.3%	0%	0%	66.7%
+    From Dribble	80%	4	7	1.75	-	-	1	3	4	75%	87.5%	0%	0%	0%	75%
+    From Stationary	20%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 
