@@ -1,0 +1,623 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Carroll (WI) Pioneers	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Carroll (WI) Pioneers	Date Range: 11/17/2017 to 02/20/2018	Number of Games: 25
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	100%	1902	1784	0.938	80%	Very Good	717	638	1355	47.1%	53%	16.9%	14.2%	9.7%	43.6%
+ Transition	13.4%	254	273	1.075	87%	Excellent	86	97	183	53%	59.3%	16.1%	15%	14.2%	49.2%
+ Overall Half Court	86.6%	1648	1511	0.917	79%	Very Good	631	541	1172	46.2%	52%	17.1%	14.1%	9%	42.8%
+                    Short Shot Clock <4 Seconds	5.6%	106	76	0.717	57%	Good	59	27	86	31.4%	36.6%	11.3%	9.4%	6.6%	33%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	9.2%	152	113	0.743	24%	Below Average	65	42	107	39.3%	42.5%	21.1%	10.5%	8.6%	35.5%
+         Out of Bounds (Side)	5.8%	96	87	0.906	76%	Very Good	39	31	70	44.3%	52.1%	17.7%	11.5%	9.4%	40.6%
+         After Time Outs	12.4%	204	161	0.789	33%	Average	93	59	152	38.8%	43.4%	16.7%	9.8%	5.9%	36.8%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	93.4%	1540	1409	0.915	81%	Very Good	588	508	1096	46.4%	51.9%	16.8%	14.3%	9.1%	43.1%
+    Against Zone	6.6%	108	102	0.944	63%	Good	43	33	76	43.4%	53.9%	20.4%	11.1%	8.3%	38.9%
+Breakdown of Full Court Press Situations:
+  Press Offense	5.5%	91	89	0.978	87%	Excellent	37	28	65	43.1%	50.8%	13.2%	20.9%	9.9%	45.1%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	23.9%	455	432	0.949	64%	Good	251	150	401	37.4%	49.4%	6.8%	7.3%	5.7%	36.9%
+ P&R Ball Handler	14.7%	280	240	0.857	81%	Very Good	95	99	194	51%	52.1%	21.1%	11.1%	9.6%	42.5%
+ Transition	13.4%	254	273	1.075	87%	Excellent	86	97	183	53%	59.3%	16.1%	15%	14.2%	49.2%
+ Cut	11.1%	211	248	1.175	80%	Very Good	55	95	150	63.3%	63.3%	11.8%	20.9%	18.5%	61.1%
+ Post-Up	7.8%	149	115	0.772	32%	Average	63	44	107	41.1%	41.1%	14.8%	14.1%	8.1%	40.3%
+ P&R Roll Man	4.9%	94	101	1.074	76%	Very Good	34	36	70	51.4%	58.6%	12.8%	16%	14.9%	50%
+ Off Screen	4.5%	86	87	1.012	79%	Very Good	45	30	75	40%	52.7%	8.1%	9.3%	5.8%	39.5%
+ Offensive Rebounds (put backs)	4.2%	79	100	1.266	96%	Excellent	23	39	62	62.9%	63.7%	2.5%	22.8%	12.7%	64.6%
+ Isolation	3.6%	69	48	0.696	24%	Below Average	31	17	48	35.4%	36.5%	20.3%	14.5%	11.6%	34.8%
+ Hand Off	3.5%	67	57	0.851	63%	Good	28	20	48	41.7%	46.9%	16.4%	11.9%	10.4%	40.3%
+ Miscellaneous	8.3%	158	83	0.525	68%	Very Good	6	11	17	64.7%	70.6%	62%	27.8%	0.6%	29.1%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	4.9%	94	75	0.798	39%	Average	38	27	65	41.5%	44.6%	20.2%	14.9%	12.8%	39.4%
+  Pick and Rolls Including Passes	29.2%	555	537	0.968	93%	Excellent	214	209	423	49.4%	54.8%	15%	10.8%	9%	44.9%
+  Post-Ups Including Passes	10%	190	154	0.811	28%	Below Average	86	57	143	39.9%	42.3%	12.6%	13.7%	8.9%	40%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.3%	25	27	1.08	72%	Very Good	7	10	17	58.8%	67.6%	20%	16%	16%	52%
+  P&R BH - Defense Commits	16.8%	319	297	0.931	87%	Excellent	119	110	229	48%	57.2%	21.3%	9.1%	7.2%	40.8%
+  Post-Up - Defense Commits	2.2%	41	39	0.951	38%	Average	23	13	36	36.1%	45.8%	4.9%	12.2%	12.2%	39%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.4%	8	15	1.875	-	-	1	5	6	83.3%	116.7%	12.5%	12.5%	12.5%	75%
+  Post-Up - Hard Double	1.3%	25	30	1.2	97%	Excellent	9	13	22	59.1%	63.6%	8%	8%	8%	56%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	42%	492	501	1.018	78%	Very Good	312	180	492	36.6%	50.6%	0%	1%	1%	36.6%
+          Short Shot Clock <4 Seconds	4.2%	49	28	0.571	36%	Average	39	10	49	20.4%	28.6%	0%	0%	0%	20.4%
+Runner	6.3%	74	47	0.635	28%	Below Average	51	23	74	31.1%	31.1%	0%	2.7%	2.7%	31.1%
+          Short Shot Clock <4 Seconds	0.9%	11	8	0.727	70%	Very Good	7	4	11	36.4%	36.4%	0%	0%	0%	36.4%
+Around Basket (not Post-Ups)	42.6%	499	606	1.214	90%	Excellent	205	294	499	58.9%	58.9%	0%	5.8%	5.8%	58.9%
+Post-Ups	9.1%	107	89	0.832	21%	Below Average	63	44	107	41.1%	41.1%	0%	0.9%	0.9%	41.1%
+          Short Shot Clock <4 Seconds	0.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	32.3%	378	401	1.061	63%	Good	242	136	378	36%	52.8%	0%	1.1%	1.1%	36%
+  Guarded	60.3%	228	244	1.07	78%	Very Good	145	83	228	36.4%	53.1%	0%	1.8%	1.8%	36.4%
+  Unguarded	39.7%	150	157	1.047	39%	Average	97	53	150	35.3%	52.3%	0%	0%	0%	35.3%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	8.7%	102	92	0.902	89%	Excellent	61	41	102	40.2%	44.6%	0%	1%	1%	40.2%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	13%	64	51	0.797	68%	Very Good	39	25	64	39.1%	39.1%	0%	1.6%	1.6%	39.1%
+Medium (17' to <3 point line)	8.9%	44	34	0.773	67%	Very Good	27	17	44	38.6%	38.6%	0%	0%	0%	38.6%
+Long (3 point jump shots)	78%	384	416	1.083	73%	Very Good	246	138	384	35.9%	53.9%	0%	1%	1%	35.9%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	100%	1902	1784	0.938	80%	Very Good	717	638	1355	47.1%	53%	16.9%	14.2%	9.7%	43.6%
+#23 Joel Heesch	19.1%	363	296	0.815	46%	Average	122	113	235	48.1%	49.6%	23.7%	13.5%	9.4%	40.5%
+#22 Tanner Zaeske	14.2%	270	267	0.989	82%	Very Good	144	92	236	39%	51.1%	7.4%	7%	3.3%	38.9%
+#52 Tyler Ingebrigtsen	13.9%	264	243	0.92	69%	Very Good	94	91	185	49.2%	50.8%	17.8%	16.3%	12.5%	45.1%
+#34 Ray Pierce	7.6%	144	121	0.84	51%	Good	50	52	102	51%	52%	18.1%	12.5%	9.7%	43.8%
+#33 Charlie Soule	7.4%	140	152	1.086	93%	Excellent	42	51	93	54.8%	54.8%	11.4%	25.7%	21.4%	57.1%
+#42 Kale Maupin	7%	134	122	0.91	67%	Very Good	50	43	93	46.2%	52.2%	13.4%	20.9%	9%	42.5%
+#4 Nick Penny	6.9%	132	177	1.341	100%	Excellent	45	54	99	54.5%	71.7%	12.9%	14.4%	9.1%	53%
+#10 Troy Howat	5.6%	107	124	1.159	97%	Excellent	48	42	90	46.7%	61.1%	8.4%	8.4%	3.7%	46.7%
+#12 Ben Widdes	4.5%	86	60	0.698	25%	Below Average	39	20	59	33.9%	37.3%	19.8%	14%	10.5%	34.9%
+#11 Ryan Clarey	3.9%	75	70	0.933	72%	Very Good	24	26	50	52%	60%	26.7%	8%	8%	41.3%
+#30 Anthony Marlowe	3.7%	71	63	0.887	61%	Good	13	26	39	66.7%	66.7%	33.8%	12.7%	9.9%	45.1%
+#20 Alec Hamilton	2.8%	54	48	0.889	62%	Good	15	15	30	50%	50%	18.5%	29.6%	20.4%	50%
+#3 Justin Gruber	0.7%	13	5	0.385	3%	Poor	8	2	10	20%	20%	15.4%	7.7%	7.7%	23.1%
+#25 Joey Archer	0.6%	12	10	0.833	50%	Average	8	3	11	27.3%	36.4%	0%	8.3%	0%	33.3%
+#15 Michael Keane	0.6%	11	6	0.545	10%	Poor	6	2	8	25%	31.3%	18.2%	9.1%	0%	27.3%
+#24 Cory Nies	0.6%	11	8	0.727	29%	Below Average	4	2	6	33.3%	50%	36.4%	9.1%	9.1%	27.3%
+#41 Tyler Barman	0.4%	7	3	0.429	-	-	2	1	3	33.3%	33.3%	42.9%	14.3%	14.3%	28.6%
+#32 Marty Langhenry	0.2%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#44 Tarren Hall	0.2%	3	7	2.333	-	-	0	2	2	100%	125%	0%	33.3%	33.3%	100%
+#40 Caleb Thomas	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	23.9%	455	432	0.949	64%	Good	251	150	401	37.4%	49.4%	6.8%	7.3%	5.7%	36.9%
+#22 Tanner Zaeske	23.7%	108	108	1	69%	Very Good	67	36	103	35%	49.5%	1.9%	3.7%	2.8%	36.1%
+#4 Nick Penny	13.2%	60	95	1.583	100%	Excellent	23	29	52	55.8%	79.8%	6.7%	10%	6.7%	55%
+#23 Joel Heesch	9.9%	45	35	0.778	33%	Average	24	13	37	35.1%	41.9%	13.3%	11.1%	8.9%	33.3%
+#10 Troy Howat	9.7%	44	51	1.159	87%	Excellent	25	18	43	41.9%	58.1%	0%	2.3%	0%	43.2%
+#52 Tyler Ingebrigtsen	7.7%	35	28	0.8	36%	Average	18	12	30	40%	46.7%	14.3%	2.9%	2.9%	34.3%
+#34 Ray Pierce	7%	32	23	0.719	26%	Below Average	14	10	24	41.7%	45.8%	12.5%	12.5%	12.5%	34.4%
+#11 Ryan Clarey	5.7%	26	17	0.654	19%	Below Average	14	6	20	30%	40%	19.2%	3.8%	3.8%	26.9%
+#42 Kale Maupin	5.5%	25	20	0.8	36%	Average	17	7	24	29.2%	39.6%	0%	8%	4%	28%
+#12 Ben Widdes	5.1%	23	9	0.391	4%	Poor	17	4	21	19%	21.4%	8.7%	0%	0%	17.4%
+#33 Charlie Soule	4.6%	21	15	0.714	25%	Below Average	12	4	16	25%	25%	4.8%	23.8%	23.8%	38.1%
+#20 Alec Hamilton	2.2%	10	9	0.9	52%	Good	2	3	5	60%	60%	20%	40%	30%	50%
+#24 Cory Nies	1.3%	6	6	1	-	-	4	2	6	33.3%	50%	0%	0%	0%	33.3%
+#25 Joey Archer	1.3%	6	6	1	-	-	4	2	6	33.3%	50%	0%	0%	0%	33.3%
+#15 Michael Keane	1.1%	5	3	0.6	-	-	4	1	5	20%	30%	0%	0%	0%	20%
+#3 Justin Gruber	0.9%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#30 Anthony Marlowe	0.7%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#32 Marty Langhenry	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Tarren Hall	0.2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	14.7%	280	240	0.857	81%	Very Good	95	99	194	51%	52.1%	21.1%	11.1%	9.6%	42.5%
+#23 Joel Heesch	53.2%	149	123	0.826	63%	Good	47	50	97	51.5%	52.1%	23.5%	12.1%	11.4%	41.6%
+#34 Ray Pierce	12.9%	36	36	1	88%	Excellent	13	17	30	56.7%	56.7%	11.1%	8.3%	8.3%	50%
+#12 Ben Widdes	10.4%	29	18	0.621	28%	Below Average	14	7	21	33.3%	33.3%	20.7%	10.3%	10.3%	31%
+#22 Tanner Zaeske	7.5%	21	22	1.048	91%	Excellent	9	9	18	50%	55.6%	9.5%	9.5%	4.8%	47.6%
+#10 Troy Howat	5.4%	15	15	1	88%	Excellent	6	6	12	50%	54.2%	13.3%	6.7%	6.7%	46.7%
+#11 Ryan Clarey	4.3%	12	14	1.167	97%	Excellent	1	6	7	85.7%	85.7%	33.3%	8.3%	8.3%	58.3%
+#4 Nick Penny	1.8%	5	4	0.8	-	-	1	1	2	50%	50%	40%	20%	0%	40%
+#33 Charlie Soule	1.4%	4	2	0.5	-	-	0	0	0	-	-	50%	50%	25%	25%
+#3 Justin Gruber	1.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#15 Michael Keane	0.7%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#20 Alec Hamilton	0.7%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#24 Cory Nies	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Kale Maupin	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	13.4%	254	273	1.075	87%	Excellent	86	97	183	53%	59.3%	16.1%	15%	14.2%	49.2%
+#22 Tanner Zaeske	18.5%	47	56	1.191	82%	Very Good	22	21	43	48.8%	60.5%	6.4%	4.3%	4.3%	46.8%
+#23 Joel Heesch	15%	38	38	1	55%	Good	11	16	27	59.3%	59.3%	23.7%	10.5%	10.5%	47.4%
+#34 Ray Pierce	12.6%	32	23	0.719	16%	Below Average	11	8	19	42.1%	42.1%	21.9%	18.8%	15.6%	40.6%
+#4 Nick Penny	10.2%	26	31	1.192	82%	Very Good	9	9	18	50%	61.1%	11.5%	19.2%	19.2%	53.8%
+#33 Charlie Soule	7.9%	20	27	1.35	93%	Excellent	5	10	15	66.7%	66.7%	10%	20%	20%	65%
+#11 Ryan Clarey	7.5%	19	19	1	55%	Good	6	7	13	53.8%	65.4%	26.3%	5.3%	5.3%	42.1%
+#12 Ben Widdes	6.3%	16	20	1.25	87%	Excellent	4	6	10	60%	70%	12.5%	31.3%	31.3%	62.5%
+#10 Troy Howat	5.9%	15	23	1.533	98%	Excellent	6	8	14	57.1%	71.4%	0%	13.3%	6.7%	60%
+#52 Tyler Ingebrigtsen	4.3%	11	10	0.909	41%	Average	2	3	5	60%	60%	36.4%	27.3%	27.3%	45.5%
+#42 Kale Maupin	4.3%	11	11	1	55%	Good	3	4	7	57.1%	57.1%	18.2%	27.3%	27.3%	45.5%
+#20 Alec Hamilton	2%	5	2	0.4	-	-	3	1	4	25%	25%	20%	0%	0%	20%
+#30 Anthony Marlowe	1.6%	4	6	1.5	-	-	0	2	2	100%	100%	25%	25%	25%	75%
+#3 Justin Gruber	1.6%	4	3	0.75	-	-	1	1	2	50%	50%	25%	25%	25%	50%
+#15 Michael Keane	0.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#32 Marty Langhenry	0.8%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#25 Joey Archer	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#44 Tarren Hall	0.4%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	11.1%	211	248	1.175	80%	Very Good	55	95	150	63.3%	63.3%	11.8%	20.9%	18.5%	61.1%
+#33 Charlie Soule	28.9%	61	75	1.23	70%	Very Good	12	27	39	69.2%	69.2%	13.1%	26.2%	23%	65.6%
+#52 Tyler Ingebrigtsen	18.5%	39	44	1.128	55%	Good	13	16	29	55.2%	55.2%	10.3%	25.6%	23.1%	56.4%
+#30 Anthony Marlowe	8.5%	18	23	1.278	77%	Very Good	3	10	13	76.9%	76.9%	16.7%	11.1%	11.1%	66.7%
+#42 Kale Maupin	8.5%	18	21	1.167	61%	Good	4	9	13	69.2%	69.2%	11.1%	22.2%	16.7%	61.1%
+#23 Joel Heesch	8.1%	17	24	1.412	90%	Excellent	4	9	13	69.2%	69.2%	5.9%	17.6%	17.6%	70.6%
+#20 Alec Hamilton	6.6%	14	13	0.929	27%	Below Average	5	4	9	44.4%	44.4%	14.3%	28.6%	28.6%	50%
+#22 Tanner Zaeske	5.7%	12	12	1	35%	Average	5	6	11	54.5%	54.5%	8.3%	0%	0%	50%
+#34 Ray Pierce	4.7%	10	10	1	35%	Average	4	5	9	55.6%	55.6%	10%	0%	0%	50%
+#10 Troy Howat	3.3%	7	7	1	-	-	1	2	3	66.7%	66.7%	28.6%	28.6%	14.3%	57.1%
+#4 Nick Penny	1.9%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#12 Ben Widdes	1.4%	3	2	0.667	-	-	1	0	1	0%	0%	33.3%	33.3%	33.3%	33.3%
+#11 Ryan Clarey	1.4%	3	6	2	-	-	0	2	2	100%	100%	0%	33.3%	33.3%	100%
+#25 Joey Archer	0.9%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#41 Tyler Barman	0.9%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#44 Tarren Hall	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	7.8%	149	115	0.772	32%	Average	63	44	107	41.1%	41.1%	14.8%	14.1%	8.1%	40.3%
+#52 Tyler Ingebrigtsen	66.4%	99	81	0.818	47%	Average	43	33	76	43.4%	43.4%	13.1%	11.1%	7.1%	41.4%
+#42 Kale Maupin	18.1%	27	17	0.63	20%	Below Average	11	6	17	35.3%	35.3%	14.8%	22.2%	7.4%	37%
+#33 Charlie Soule	7.4%	11	9	0.818	47%	Average	5	2	7	28.6%	28.6%	9.1%	27.3%	18.2%	45.5%
+#30 Anthony Marlowe	2.7%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+#20 Alec Hamilton	2.7%	4	4	1	-	-	1	1	2	50%	50%	25%	25%	25%	50%
+#4 Nick Penny	1.3%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#22 Tanner Zaeske	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Joel Heesch	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	4.9%	94	101	1.074	76%	Very Good	34	36	70	51.4%	58.6%	12.8%	16%	14.9%	50%
+#52 Tyler Ingebrigtsen	36.2%	34	39	1.147	73%	Very Good	13	14	27	51.9%	55.6%	5.9%	17.6%	14.7%	55.9%
+#30 Anthony Marlowe	21.3%	20	18	0.9	37%	Average	5	6	11	54.5%	54.5%	30%	20%	20%	45%
+#42 Kale Maupin	21.3%	20	26	1.3	88%	Excellent	9	9	18	50%	66.7%	5%	10%	10%	50%
+#22 Tanner Zaeske	8.5%	8	8	1	-	-	5	3	8	37.5%	50%	0%	0%	0%	37.5%
+#20 Alec Hamilton	4.3%	4	2	0.5	-	-	0	0	0	-	-	25%	75%	75%	50%
+#23 Joel Heesch	3.2%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#41 Tyler Barman	2.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#33 Charlie Soule	2.1%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#34 Ray Pierce	1.1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	4.5%	86	87	1.012	79%	Very Good	45	30	75	40%	52.7%	8.1%	9.3%	5.8%	39.5%
+#22 Tanner Zaeske	47.7%	41	35	0.854	42%	Average	25	11	36	30.6%	44.4%	7.3%	7.3%	4.9%	31.7%
+#10 Troy Howat	16.3%	14	17	1.214	84%	Excellent	8	6	14	42.9%	60.7%	0%	0%	0%	42.9%
+#4 Nick Penny	15.1%	13	15	1.154	78%	Very Good	6	6	12	50%	58.3%	7.7%	7.7%	7.7%	46.2%
+#23 Joel Heesch	7%	6	5	0.833	-	-	3	2	5	40%	40%	16.7%	16.7%	16.7%	33.3%
+#34 Ray Pierce	3.5%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	33.3%	33.3%	33.3%
+#12 Ben Widdes	2.3%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#52 Tyler Ingebrigtsen	2.3%	2	1	0.5	-	-	0	0	0	-	-	50%	50%	0%	50%
+#11 Ryan Clarey	2.3%	2	5	2.5	-	-	0	2	2	100%	125%	0%	0%	0%	100%
+#25 Joey Archer	1.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Charlie Soule	1.2%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#20 Alec Hamilton	1.2%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	4.2%	79	100	1.266	96%	Excellent	23	39	62	62.9%	63.7%	2.5%	22.8%	12.7%	64.6%
+#23 Joel Heesch	26.6%	21	23	1.095	53%	Good	9	10	19	52.6%	52.6%	0%	9.5%	4.8%	57.1%
+#52 Tyler Ingebrigtsen	12.7%	10	14	1.4	91%	Excellent	1	5	6	83.3%	83.3%	10%	30%	30%	70%
+#42 Kale Maupin	12.7%	10	10	1	39%	Average	3	5	8	62.5%	62.5%	10%	10%	0%	50%
+#33 Charlie Soule	10.1%	8	11	1.375	-	-	2	3	5	60%	60%	0%	50%	37.5%	75%
+#34 Ray Pierce	8.9%	7	8	1.143	-	-	3	4	7	57.1%	57.1%	0%	0%	0%	57.1%
+#22 Tanner Zaeske	7.6%	6	10	1.667	-	-	2	4	6	66.7%	75%	0%	16.7%	16.7%	66.7%
+#30 Anthony Marlowe	6.3%	5	4	0.8	-	-	2	2	4	50%	50%	0%	20%	0%	40%
+#20 Alec Hamilton	5.1%	4	8	2	-	-	0	4	4	100%	100%	0%	0%	0%	100%
+#4 Nick Penny	3.8%	3	6	2	-	-	0	1	1	100%	100%	0%	66.7%	33.3%	100%
+#15 Michael Keane	1.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#12 Ben Widdes	1.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#10 Troy Howat	1.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#25 Joey Archer	1.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Ryan Clarey	1.3%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	3.6%	69	48	0.696	24%	Below Average	31	17	48	35.4%	36.5%	20.3%	14.5%	11.6%	34.8%
+#23 Joel Heesch	27.5%	19	7	0.368	5%	Poor	15	3	18	16.7%	16.7%	0%	5.3%	5.3%	21.1%
+#52 Tyler Ingebrigtsen	24.6%	17	18	1.059	85%	Excellent	3	6	9	66.7%	66.7%	35.3%	29.4%	29.4%	47.1%
+#34 Ray Pierce	13%	9	7	0.778	-	-	3	3	6	50%	50%	22.2%	11.1%	11.1%	44.4%
+#42 Kale Maupin	5.8%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#12 Ben Widdes	4.3%	3	5	1.667	-	-	0	2	2	100%	100%	0%	33.3%	0%	100%
+#30 Anthony Marlowe	4.3%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#33 Charlie Soule	4.3%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#22 Tanner Zaeske	2.9%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#10 Troy Howat	2.9%	2	2	1	-	-	0	0	0	-	-	50%	50%	0%	50%
+#4 Nick Penny	2.9%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#24 Cory Nies	1.4%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#32 Marty Langhenry	1.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#20 Alec Hamilton	1.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Ryan Clarey	1.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Caleb Thomas	1.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	3.5%	67	57	0.851	63%	Good	28	20	48	41.7%	46.9%	16.4%	11.9%	10.4%	40.3%
+#23 Joel Heesch	32.8%	22	18	0.818	48%	Average	8	6	14	42.9%	46.4%	18.2%	18.2%	13.6%	40.9%
+#10 Troy Howat	10.4%	7	8	1.143	-	-	2	2	4	50%	75%	28.6%	14.3%	14.3%	42.9%
+#4 Nick Penny	10.4%	7	12	1.714	-	-	2	4	6	66.7%	83.3%	0%	14.3%	14.3%	71.4%
+#22 Tanner Zaeske	9%	6	0	0	-	-	5	0	5	0%	0%	16.7%	0%	0%	0%
+#34 Ray Pierce	7.5%	5	6	1.2	-	-	1	3	4	75%	75%	20%	0%	0%	60%
+#11 Ryan Clarey	7.5%	5	6	1.2	-	-	2	2	4	50%	50%	0%	20%	20%	60%
+#33 Charlie Soule	6%	4	3	0.75	-	-	2	1	3	33.3%	33.3%	0%	25%	25%	50%
+#20 Alec Hamilton	6%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#52 Tyler Ingebrigtsen	4.5%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#12 Ben Widdes	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#30 Anthony Marlowe	1.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Kale Maupin	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Justin Gruber	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Carroll (WI) Pioneers	8.3%	158	83	0.525	68%	Very Good	6	11	17	64.7%	70.6%	62%	27.8%	0.6%	29.1%
+#23 Joel Heesch	26.6%	42	21	0.5	56%	Good	0	3	3	100%	100%	66.7%	26.2%	0%	28.6%
+#22 Tanner Zaeske	11.4%	18	13	0.722	83%	Excellent	2	1	3	33.3%	50%	44.4%	38.9%	0%	38.9%
+#42 Kale Maupin	10.8%	17	15	0.882	93%	Excellent	0	2	2	100%	100%	35.3%	58.8%	5.9%	47.1%
+#52 Tyler Ingebrigtsen	8.9%	14	6	0.429	45%	Average	0	1	1	100%	100%	71.4%	21.4%	0%	21.4%
+#30 Anthony Marlowe	8.2%	13	2	0.154	10%	Poor	0	1	1	100%	100%	84.6%	7.7%	0%	7.7%
+#4 Nick Penny	6.3%	10	8	0.8	89%	Excellent	0	1	1	100%	150%	60%	30%	0%	40%
+#34 Ray Pierce	5.7%	9	6	0.667	-	-	0	1	1	100%	100%	55.6%	33.3%	0%	44.4%
+#12 Ben Widdes	5.1%	8	2	0.25	-	-	1	0	1	0%	0%	75%	12.5%	0%	12.5%
+#11 Ryan Clarey	3.8%	6	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#33 Charlie Soule	3.2%	5	4	0.8	-	-	2	1	3	33.3%	33.3%	20%	20%	0%	40%
+#20 Alec Hamilton	3.2%	5	4	0.8	-	-	1	0	1	0%	0%	20%	60%	0%	60%
+#24 Cory Nies	1.9%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#41 Tyler Barman	1.9%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Troy Howat	1.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Michael Keane	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#25 Joey Archer	0.6%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+#3 Justin Gruber	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 

@@ -1,0 +1,496 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Lakeland (WI) Muskies	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Lakeland (WI) Muskies	Date Range: 11/15/2017 to 02/20/2018	Number of Games: 26
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	100%	2378	2102	0.884	55%	Good	975	775	1750	44.3%	48.6%	15.5%	13.1%	9%	41.8%
+ Transition	16%	381	319	0.837	96%	Excellent	145	122	267	45.7%	49.1%	19.2%	11.8%	8.7%	40.9%
+ Overall Half Court	84%	1997	1783	0.893	33%	Average	830	653	1483	44%	48.6%	14.8%	13.3%	9.1%	42%
+                    Short Shot Clock <4 Seconds	3.9%	92	66	0.717	47%	Average	56	25	81	30.9%	35.2%	7.6%	7.6%	6.5%	30.4%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	9%	180	151	0.839	54%	Good	85	61	146	41.8%	45.5%	12.2%	7.8%	6.1%	38.9%
+         Out of Bounds (Side)	3.6%	71	45	0.634	91%	Excellent	34	17	51	33.3%	37.3%	23.9%	7%	4.2%	28.2%
+         After Time Outs	11.1%	221	191	0.864	47%	Average	97	77	174	44.3%	48%	14%	9.5%	7.2%	41.2%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	100%	1997	1783	0.893	30%	Below Average	830	653	1483	44%	48.6%	14.8%	13.3%	9.1%	42%
+    Zone Defense	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Breakdown of Full Court Press Situations:
+  Press Defense	3.9%	77	65	0.844	54%	Good	28	19	47	40.4%	44.7%	15.6%	27.3%	11.7%	42.9%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	18.3%	435	417	0.959	32%	Average	213	151	364	41.5%	52.5%	11.5%	6.4%	4.8%	38.9%
+ Transition	16%	381	319	0.837	96%	Excellent	145	122	267	45.7%	49.1%	19.2%	11.8%	8.7%	40.9%
+ Post-Up	11.6%	275	260	0.945	18%	Below Average	112	105	217	48.4%	48.4%	9.8%	14.5%	10.9%	47.3%
+ P&R Ball Handler	11%	262	177	0.676	82%	Very Good	129	58	187	31%	35.3%	17.9%	12.6%	11.1%	31.7%
+ Cut	8.5%	202	249	1.233	8%	Poor	63	105	168	62.5%	62.5%	6.4%	16.3%	15.8%	60.9%
+ Isolation	7.8%	185	155	0.838	40%	Average	79	60	139	43.2%	44.6%	15.1%	11.9%	9.2%	41.6%
+ Offensive Rebounds (put backs)	6.9%	165	156	0.945	83%	Excellent	67	59	126	46.8%	46.8%	8.5%	17%	15.2%	49.7%
+ Off Screen	6.4%	153	153	1	24%	Below Average	78	58	136	42.6%	50%	5.2%	9.2%	7.2%	42.5%
+ P&R Roll Man	3.3%	78	80	1.026	34%	Average	33	33	66	50%	53.8%	7.7%	10.3%	9%	48.7%
+ Hand Off	2.6%	61	42	0.689	82%	Very Good	30	15	45	33.3%	42.2%	18%	8.2%	4.9%	29.5%
+ Miscellaneous	7.6%	181	94	0.519	34%	Average	26	9	35	25.7%	27.1%	50.8%	30.4%	3.9%	29.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	10%	238	204	0.857	46%	Average	107	78	185	42.2%	45.4%	13.9%	10.5%	8.4%	40.8%
+  Pick and Rolls Including Passes	19.3%	459	363	0.791	81%	Very Good	218	129	347	37.2%	42.8%	15%	11.1%	9.4%	36.2%
+  Post-Ups Including Passes	13.8%	328	317	0.966	22%	Below Average	135	126	261	48.3%	49.8%	9.8%	14%	11%	47.3%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.2%	53	49	0.925	56%	Good	28	18	46	39.1%	47.8%	9.4%	5.7%	5.7%	37.7%
+  P&R BH - Defense Commits	10%	237	189	0.797	63%	Good	89	71	160	44.4%	51.6%	24.9%	8.9%	6.3%	35.9%
+  Post-Up - Defense Commits	2.2%	53	57	1.075	40%	Average	23	21	44	47.7%	56.8%	9.4%	11.3%	11.3%	47.2%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.1%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+  Post-Up - Hard Double	1.1%	26	22	0.846	45%	Average	13	7	20	35%	37.5%	7.7%	19.2%	11.5%	38.5%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	39.7%	589	531	0.902	78%	Very Good	392	197	589	33.4%	44.8%	0%	0.5%	0.5%	33.4%
+          Short Shot Clock <4 Seconds	3.3%	49	31	0.633	51%	Good	37	12	49	24.5%	31.6%	0%	0%	0%	24.5%
+Runner	7%	104	82	0.788	33%	Average	64	40	104	38.5%	38.5%	0%	1.9%	1.9%	38.5%
+          Short Shot Clock <4 Seconds	0.5%	8	2	0.25	-	-	7	1	8	12.5%	12.5%	0%	0%	0%	12.5%
+Around Basket (not Post-Ups)	38.6%	573	649	1.133	42%	Average	262	311	573	54.3%	54.3%	0%	5.9%	5.9%	54.3%
+Post-Ups	14.6%	217	216	0.995	45%	Average	112	105	217	48.4%	48.4%	0%	4.1%	4.1%	48.4%
+          Short Shot Clock <4 Seconds	0.5%	8	7	0.875	-	-	5	3	8	37.5%	37.5%	0%	12.5%	12.5%	37.5%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	23.5%	349	353	1.011	58%	Good	227	122	349	35%	50.4%	0%	0.3%	0.3%	35%
+  Guarded	59.6%	208	198	0.952	61%	Good	140	68	208	32.7%	47.4%	0%	0.5%	0.5%	32.7%
+  Unguarded	40.4%	141	155	1.099	51%	Good	87	54	141	38.3%	55%	0%	0%	0%	38.3%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	13.4%	198	150	0.758	61%	Good	135	63	198	31.8%	37.4%	0%	1%	1%	31.8%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	17.5%	103	71	0.689	75%	Very Good	68	35	103	34%	34%	0%	1%	1%	34%
+Medium (17' to <3 point line)	15.3%	90	56	0.622	79%	Very Good	62	28	90	31.1%	31.1%	0%	0%	0%	31.1%
+Long (3 point jump shots)	67.2%	396	404	1.02	55%	Good	262	134	396	33.8%	50.8%	0%	0.5%	0.5%	33.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	100%	2378	2102	0.884	55%	Good	975	775	1750	44.3%	48.6%	15.5%	13.1%	9%	41.8%
+#11 Pat McDonald	10.7%	255	220	0.863	53%	Good	130	85	215	39.5%	45.1%	8.6%	8.2%	6.3%	39.2%
+#21 Zach Hasenstein	8.5%	203	180	0.887	47%	Average	88	61	149	40.9%	47.3%	14.8%	14.3%	11.3%	41.4%
+#10 Carlos Campos	7.4%	175	164	0.937	33%	Average	74	60	134	44.8%	54.1%	17.1%	7.4%	5.7%	40%
+#5 Shakur Jinad	7.1%	169	152	0.899	44%	Average	80	57	137	41.6%	45.6%	9.5%	11.8%	8.3%	42.6%
+#34 Eric Nygaard	6.9%	163	151	0.926	36%	Average	75	59	134	44%	49.3%	11.7%	9.2%	8.6%	41.7%
+#23 Joshuan McNeal	6.6%	158	124	0.785	72%	Very Good	83	53	136	39%	41.5%	8.9%	6.3%	3.2%	36.7%
+#22 Garrett Duffin	4.4%	104	88	0.846	58%	Good	51	31	82	37.8%	44.5%	13.5%	13.5%	12.5%	34.6%
+#24 Trent Nickel	2.4%	57	59	1.035	16%	Below Average	24	23	47	48.9%	57.4%	12.3%	7%	5.3%	45.6%
+#4 Jequan Pegeese	1.7%	41	31	0.756	78%	Very Good	21	11	32	34.4%	40.6%	17.1%	9.8%	7.3%	31.7%
+#2 Corey Allen	1.5%	35	27	0.771	75%	Very Good	15	9	24	37.5%	45.8%	20%	11.4%	8.6%	34.3%
+#35 Isaac Anderson	0.5%	12	6	0.5	97%	Excellent	6	0	6	0%	0%	25%	25%	25%	25%
+#33 Ben Stasewich	0.5%	11	10	0.909	41%	Average	5	5	10	50%	50%	0%	9.1%	0%	45.5%
+#12 Eddie Burnett	0.3%	7	11	1.571	-	-	1	4	5	80%	110%	28.6%	0%	0%	57.1%
+#30 Sam Kaminski	0.3%	6	2	0.333	-	-	1	1	2	50%	50%	33.3%	33.3%	33.3%	16.7%
+#15 K.J. Odom	0.2%	5	4	0.8	-	-	2	1	3	33.3%	33.3%	20%	20%	20%	40%
+#32 Carl Garner	0.1%	3	8	2.667	-	-	0	2	2	100%	150%	0%	33.3%	33.3%	100%
+#40 Reggie Nimmer	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#3 Andre Sanchez-Amarillas	0.1%	2	2	1	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#1 Deonte Carlton	0.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#42 Ahmari Dantzler	0.1%	2	3	1.5	-	-	0	1	1	100%	150%	0%	50%	0%	50%
+#14 Kyle Domark	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	18.3%	435	417	0.959	32%	Average	213	151	364	41.5%	52.5%	11.5%	6.4%	4.8%	38.9%
+#21 Zach Hasenstein	20.9%	91	82	0.901	54%	Good	40	29	69	42%	52.2%	15.4%	9.9%	6.6%	39.6%
+#11 Pat McDonald	12.4%	54	59	1.093	21%	Below Average	27	22	49	44.9%	55.1%	5.6%	5.6%	3.7%	44.4%
+#5 Shakur Jinad	12.4%	54	38	0.704	85%	Excellent	28	14	42	33.3%	38.1%	14.8%	9.3%	3.7%	33.3%
+#34 Eric Nygaard	11.7%	51	55	1.078	23%	Below Average	25	20	45	44.4%	57.8%	9.8%	3.9%	3.9%	41.2%
+#10 Carlos Campos	11%	48	59	1.229	10%	Poor	21	21	42	50%	65.5%	8.3%	4.2%	4.2%	47.9%
+#22 Garrett Duffin	9.4%	41	38	0.927	49%	Average	19	14	33	42.4%	54.5%	17.1%	7.3%	7.3%	34.1%
+#23 Joshuan McNeal	6.7%	29	20	0.69	86%	Excellent	19	8	27	29.6%	37%	6.9%	0%	0%	27.6%
+#24 Trent Nickel	6.4%	28	35	1.25	9%	Poor	12	13	25	52%	68%	10.7%	3.6%	3.6%	46.4%
+#2 Corey Allen	2.5%	11	8	0.727	82%	Very Good	6	3	9	33.3%	44.4%	9.1%	9.1%	9.1%	27.3%
+#4 Jequan Pegeese	2.1%	9	6	0.667	-	-	6	2	8	25%	37.5%	11.1%	0%	0%	22.2%
+#35 Isaac Anderson	1.1%	5	2	0.4	-	-	3	0	3	0%	0%	20%	20%	20%	20%
+#33 Ben Stasewich	0.5%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#32 Carl Garner	0.5%	2	5	2.5	-	-	0	1	1	100%	150%	0%	50%	50%	100%
+#30 Sam Kaminski	0.5%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#1 Deonte Carlton	0.5%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#40 Reggie Nimmer	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#15 K.J. Odom	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Kyle Domark	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Andre Sanchez-Amarillas	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Eddie Burnett	0.2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#42 Ahmari Dantzler	0.2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	11.6%	275	260	0.945	18%	Below Average	112	105	217	48.4%	48.4%	9.8%	14.5%	10.9%	47.3%
+#23 Joshuan McNeal	29.5%	81	66	0.815	55%	Good	39	28	67	41.8%	41.8%	7.4%	11.1%	4.9%	40.7%
+#34 Eric Nygaard	28.4%	78	79	1.013	23%	Below Average	27	33	60	55%	55%	14.1%	12.8%	11.5%	51.3%
+#5 Shakur Jinad	15.3%	42	34	0.81	57%	Good	23	14	37	37.8%	37.8%	4.8%	9.5%	9.5%	40.5%
+#11 Pat McDonald	8%	22	24	1.091	16%	Below Average	8	9	17	52.9%	52.9%	9.1%	18.2%	18.2%	54.5%
+#10 Carlos Campos	4.7%	13	19	1.462	1%	Poor	3	8	11	72.7%	72.7%	7.7%	15.4%	15.4%	69.2%
+#21 Zach Hasenstein	2.5%	7	5	0.714	-	-	3	1	4	25%	25%	14.3%	42.9%	28.6%	42.9%
+#22 Garrett Duffin	2.5%	7	7	1	-	-	3	2	5	40%	40%	14.3%	28.6%	14.3%	42.9%
+#33 Ben Stasewich	2.2%	6	6	1	-	-	3	3	6	50%	50%	0%	0%	0%	50%
+#2 Corey Allen	1.5%	4	4	1	-	-	1	1	2	50%	50%	25%	25%	0%	50%
+#24 Trent Nickel	1.5%	4	6	1.5	-	-	1	3	4	75%	75%	0%	0%	0%	75%
+#30 Sam Kaminski	1.1%	3	2	0.667	-	-	0	1	1	100%	100%	0%	66.7%	66.7%	33.3%
+#35 Isaac Anderson	1.1%	3	4	1.333	-	-	1	0	1	0%	0%	0%	66.7%	66.7%	66.7%
+#4 Jequan Pegeese	0.7%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#15 K.J. Odom	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#12 Eddie Burnett	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#42 Ahmari Dantzler	0.4%	1	0	0	-	-	0	0	0	-	-	0%	100%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	11%	262	177	0.676	82%	Very Good	129	58	187	31%	35.3%	17.9%	12.6%	11.1%	31.7%
+#11 Pat McDonald	30.2%	79	52	0.658	69%	Very Good	44	19	63	30.2%	34.1%	12.7%	8.9%	6.3%	30.4%
+#10 Carlos Campos	21.4%	56	34	0.607	76%	Very Good	26	11	37	29.7%	36.5%	25%	10.7%	8.9%	26.8%
+#21 Zach Hasenstein	13%	34	24	0.706	60%	Good	15	6	21	28.6%	28.6%	17.6%	20.6%	17.6%	38.2%
+#4 Jequan Pegeese	6.9%	18	10	0.556	83%	Excellent	10	3	13	23.1%	30.8%	22.2%	5.6%	5.6%	22.2%
+#22 Garrett Duffin	6.1%	16	9	0.563	82%	Very Good	8	3	11	27.3%	31.8%	18.8%	18.8%	18.8%	25%
+#23 Joshuan McNeal	5.3%	14	4	0.286	99%	Excellent	9	2	11	18.2%	18.2%	21.4%	0%	0%	14.3%
+#5 Shakur Jinad	5%	13	23	1.769	0%	Poor	3	7	10	70%	80%	0%	38.5%	38.5%	76.9%
+#24 Trent Nickel	4.6%	12	9	0.75	52%	Good	5	3	8	37.5%	37.5%	16.7%	16.7%	16.7%	41.7%
+#2 Corey Allen	4.2%	11	5	0.455	91%	Excellent	5	2	7	28.6%	28.6%	27.3%	9.1%	9.1%	27.3%
+#12 Eddie Burnett	1.5%	4	5	1.25	-	-	1	2	3	66.7%	83.3%	25%	0%	0%	50%
+#34 Eric Nygaard	1.1%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#15 K.J. Odom	0.4%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#35 Isaac Anderson	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	7.8%	185	155	0.838	40%	Average	79	60	139	43.2%	44.6%	15.1%	11.9%	9.2%	41.6%
+#11 Pat McDonald	21.6%	40	29	0.725	58%	Good	21	12	33	36.4%	36.4%	7.5%	10%	10%	40%
+#5 Shakur Jinad	16.2%	30	26	0.867	38%	Average	13	9	22	40.9%	40.9%	6.7%	20%	10%	46.7%
+#21 Zach Hasenstein	15.1%	28	29	1.036	19%	Below Average	9	9	18	50%	55.6%	17.9%	17.9%	14.3%	50%
+#10 Carlos Campos	13.5%	25	19	0.76	53%	Good	7	8	15	53.3%	56.7%	36%	4%	0%	36%
+#22 Garrett Duffin	8.6%	16	18	1.125	11%	Poor	6	6	12	50%	54.2%	12.5%	18.8%	18.8%	50%
+#23 Joshuan McNeal	6.5%	12	10	0.833	42%	Average	5	5	10	50%	50%	16.7%	0%	0%	41.7%
+#34 Eric Nygaard	6.5%	12	3	0.25	98%	Excellent	10	1	11	9.1%	9.1%	8.3%	8.3%	8.3%	8.3%
+#4 Jequan Pegeese	4.3%	8	9	1.125	-	-	2	4	6	66.7%	66.7%	25%	25%	25%	50%
+#24 Trent Nickel	4.3%	8	8	1	-	-	4	4	8	50%	50%	0%	0%	0%	50%
+#2 Corey Allen	1.6%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#35 Isaac Anderson	1.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#15 K.J. Odom	0.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	6.4%	153	153	1	24%	Below Average	78	58	136	42.6%	50%	5.2%	9.2%	7.2%	42.5%
+#11 Pat McDonald	22.9%	35	32	0.914	49%	Average	19	14	33	42.4%	48.5%	2.9%	2.9%	0%	40%
+#21 Zach Hasenstein	19.6%	30	24	0.8	63%	Good	17	9	26	34.6%	38.5%	10%	13.3%	13.3%	33.3%
+#10 Carlos Campos	12.4%	19	26	1.368	7%	Poor	7	10	17	58.8%	73.5%	5.3%	5.3%	5.3%	57.9%
+#5 Shakur Jinad	10.5%	16	19	1.188	17%	Below Average	7	8	15	53.3%	63.3%	6.3%	0%	0%	50%
+#22 Garrett Duffin	10.5%	16	14	0.875	54%	Good	10	5	15	33.3%	36.7%	0%	12.5%	12.5%	37.5%
+#23 Joshuan McNeal	9.2%	14	16	1.143	21%	Below Average	7	7	14	50%	53.6%	0%	7.1%	7.1%	50%
+#34 Eric Nygaard	5.2%	8	4	0.5	-	-	6	1	7	14.3%	14.3%	0%	12.5%	12.5%	25%
+#2 Corey Allen	3.9%	6	8	1.333	-	-	2	2	4	50%	75%	16.7%	16.7%	16.7%	50%
+#4 Jequan Pegeese	2%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	0%	33.3%
+#40 Reggie Nimmer	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Ben Stasewich	0.7%	1	0	0	-	-	0	0	0	-	-	0%	100%	0%	0%
+#32 Carl Garner	0.7%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#3 Andre Sanchez-Amarillas	0.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#12 Eddie Burnett	0.7%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#24 Trent Nickel	0.7%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	3.3%	78	80	1.026	34%	Average	33	33	66	50%	53.8%	7.7%	10.3%	9%	48.7%
+#34 Eric Nygaard	11.5%	9	10	1.111	-	-	4	4	8	50%	62.5%	0%	11.1%	11.1%	44.4%
+#11 Pat McDonald	9%	7	11	1.571	-	-	2	4	6	66.7%	83.3%	0%	14.3%	0%	71.4%
+#5 Shakur Jinad	7.7%	6	7	1.167	-	-	2	3	5	60%	70%	16.7%	0%	0%	50%
+#10 Carlos Campos	6.4%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#21 Zach Hasenstein	6.4%	5	6	1.2	-	-	1	3	4	75%	75%	20%	0%	0%	60%
+#23 Joshuan McNeal	2.6%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#33 Ben Stasewich	2.6%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#22 Garrett Duffin	2.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#30 Sam Kaminski	1.3%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#35 Isaac Anderson	1.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#4 Jequan Pegeese	1.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#24 Trent Nickel	1.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Lakeland (WI) Muskies	2.6%	61	42	0.689	82%	Very Good	30	15	45	33.3%	42.2%	18%	8.2%	4.9%	29.5%
+#11 Pat McDonald	29.5%	18	13	0.722	60%	Good	9	5	14	35.7%	46.4%	16.7%	5.6%	5.6%	27.8%
+#10 Carlos Campos	14.8%	9	5	0.556	-	-	6	1	7	14.3%	21.4%	11.1%	11.1%	0%	22.2%
+#5 Shakur Jinad	13.1%	8	5	0.625	-	-	4	2	6	33.3%	41.7%	25%	0%	0%	25%
+#21 Zach Hasenstein	13.1%	8	10	1.25	-	-	3	4	7	57.1%	64.3%	0%	12.5%	12.5%	62.5%
+#23 Joshuan McNeal	9.8%	6	6	1	-	-	3	2	5	40%	60%	16.7%	0%	0%	33.3%
+#22 Garrett Duffin	9.8%	6	2	0.333	-	-	3	1	4	25%	25%	16.7%	16.7%	16.7%	16.7%
+#24 Trent Nickel	4.9%	3	1	0.333	-	-	1	0	1	0%	0%	33.3%	33.3%	0%	33.3%
+#34 Eric Nygaard	3.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 K.J. Odom	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 

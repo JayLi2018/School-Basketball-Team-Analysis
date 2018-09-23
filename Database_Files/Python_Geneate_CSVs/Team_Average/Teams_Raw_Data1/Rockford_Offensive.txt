@@ -1,0 +1,607 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Rockford Regents	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Rockford Regents	Date Range: 11/15/2017 to 02/17/2018	Number of Games: 27
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	100%	2381	2035	0.855	35%	Average	1008	773	1781	43.4%	47.9%	16%	11.8%	8.1%	39.9%
+ Transition	18%	428	453	1.058	83%	Excellent	143	173	316	54.7%	60.3%	15%	14.3%	11.2%	50%
+ Overall Half Court	82%	1953	1582	0.81	27%	Below Average	865	600	1465	41%	45.2%	16.2%	11.3%	7.5%	37.7%
+                    Short Shot Clock <4 Seconds	3%	71	23	0.324	2%	Poor	52	9	61	14.8%	17.2%	11.3%	4.2%	2.8%	14.1%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.3%	163	111	0.681	13%	Poor	84	45	129	34.9%	39.9%	17.8%	4.3%	4.3%	30.1%
+         Out of Bounds (Side)	4.4%	85	70	0.824	53%	Good	34	27	61	44.3%	47.5%	17.6%	11.8%	9.4%	41.2%
+         After Time Outs	10.2%	199	152	0.764	25%	Below Average	93	63	156	40.4%	43.9%	14.6%	10.1%	8.5%	35.7%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	95.5%	1866	1483	0.795	24%	Below Average	828	562	1390	40.4%	44.4%	16.6%	11.5%	7.6%	37.2%
+    Against Zone	4.5%	87	99	1.138	96%	Excellent	37	38	75	50.7%	61.3%	9.2%	5.7%	4.6%	47.1%
+Breakdown of Full Court Press Situations:
+  Press Offense	5.6%	110	85	0.773	34%	Average	36	32	68	47.1%	50%	21.8%	18.2%	3.6%	38.2%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	18.9%	449	403	0.898	43%	Average	241	143	384	37.2%	48.8%	10.2%	5.6%	4.2%	35.2%
+ Transition	18%	428	453	1.058	83%	Excellent	143	173	316	54.7%	60.3%	15%	14.3%	11.2%	50%
+ Post-Up	12.2%	291	222	0.763	29%	Below Average	139	91	230	39.6%	39.6%	12.7%	10.7%	6.9%	38.5%
+ Cut	10%	238	254	1.067	46%	Average	92	113	205	55.1%	55.1%	7.1%	10.9%	10.1%	52.1%
+ P&R Ball Handler	9.8%	233	163	0.7	33%	Average	99	69	168	41.1%	42.6%	21%	9.9%	7.7%	35.2%
+ Offensive Rebounds (put backs)	7.3%	174	178	1.023	41%	Average	69	64	133	48.1%	48.1%	7.5%	19%	15.5%	51.1%
+ Off Screen	5%	118	102	0.864	48%	Average	65	39	104	37.5%	45.7%	8.5%	5.9%	5.9%	35.6%
+ Isolation	4.7%	111	69	0.622	11%	Poor	60	25	85	29.4%	31.8%	16.2%	9.9%	8.1%	28.8%
+ P&R Roll Man	3.9%	93	84	0.903	43%	Average	47	32	79	40.5%	44.9%	10.8%	9.7%	8.6%	38.7%
+ Hand Off	2.6%	62	35	0.565	7%	Poor	32	11	43	25.6%	29.1%	14.5%	19.4%	19.4%	29%
+ Miscellaneous	7.7%	184	72	0.391	24%	Below Average	21	13	34	38.2%	38.2%	58.7%	23.4%	1.1%	23.4%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	5.5%	131	78	0.595	4%	Poor	76	28	104	26.9%	28.8%	13.7%	9.9%	8.4%	27.5%
+  Pick and Rolls Including Passes	18.9%	451	361	0.8	37%	Average	213	141	354	39.8%	44.8%	15.7%	8.9%	7.5%	36.1%
+  Post-Ups Including Passes	15%	358	299	0.835	35%	Average	169	120	289	41.5%	43.9%	11.2%	10.3%	7%	40.5%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	0.8%	20	9	0.45	1%	Poor	16	3	19	15.8%	15.8%	0%	10%	10%	20%
+  P&R BH - Defense Commits	10.8%	258	198	0.767	38%	Average	114	72	186	38.7%	46.8%	24%	6.6%	6.2%	31.4%
+  Post-Up - Defense Commits	2.8%	67	77	1.149	74%	Very Good	30	29	59	49.2%	61%	4.5%	9%	7.5%	49.3%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.2%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+  Post-Up - Hard Double	1.7%	40	33	0.825	54%	Good	14	10	24	41.7%	52.1%	27.5%	12.5%	7.5%	37.5%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	41.7%	611	509	0.833	13%	Poor	419	192	611	31.4%	41.7%	0%	0%	0%	31.4%
+          Short Shot Clock <4 Seconds	2.6%	38	13	0.342	9%	Poor	33	5	38	13.2%	17.1%	0%	0%	0%	13.2%
+Runner	3.5%	52	41	0.788	70%	Very Good	32	20	52	38.5%	38.5%	0%	1.9%	1.9%	38.5%
+          Short Shot Clock <4 Seconds	0.1%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+Around Basket (not Post-Ups)	39%	572	622	1.087	44%	Average	275	297	572	51.9%	51.9%	0%	7.2%	7.2%	51.9%
+Post-Ups	15.7%	230	188	0.817	18%	Below Average	139	91	230	39.6%	39.6%	0%	3%	3%	39.6%
+          Short Shot Clock <4 Seconds	0.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	28.3%	415	396	0.954	27%	Below Average	274	141	415	34%	47.7%	0%	0%	0%	34%
+  Guarded	65.8%	273	255	0.934	34%	Average	181	92	273	33.7%	46.7%	0%	0%	0%	33.7%
+  Unguarded	34.2%	142	141	0.993	25%	Below Average	93	49	142	34.5%	49.6%	0%	0%	0%	34.5%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	10.2%	150	89	0.593	6%	Poor	109	41	150	27.3%	29.7%	0%	0%	0%	27.3%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	19.6%	120	82	0.683	29%	Below Average	79	41	120	34.2%	34.2%	0%	0%	0%	34.2%
+Medium (17' to <3 point line)	14.6%	89	52	0.584	19%	Below Average	63	26	89	29.2%	29.2%	0%	0%	0%	29.2%
+Long (3 point jump shots)	65.8%	402	375	0.933	21%	Below Average	277	125	402	31.1%	46.6%	0%	0%	0%	31.1%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	100%	2381	2035	0.855	35%	Average	1008	773	1781	43.4%	47.9%	16%	11.8%	8.1%	39.9%
+#34 Tony Diemer	20.7%	494	458	0.927	71%	Very Good	207	185	392	47.2%	49.6%	12.3%	10.1%	6.5%	44.7%
+#0 Trae Blumhorst	16.3%	388	316	0.814	46%	Average	131	119	250	47.6%	48.4%	19.8%	22.2%	17.8%	41%
+#4 Brandon Emerick	11.3%	270	246	0.911	67%	Very Good	121	90	211	42.7%	50%	14.1%	9.3%	7.4%	40.4%
+#15 Kevin Diemer	11%	262	257	0.981	81%	Very Good	106	98	204	48%	51%	12.2%	12.6%	8.8%	46.9%
+#42 Taylor Krocker	10.7%	254	230	0.906	66%	Very Good	110	91	201	45.3%	48%	12.2%	11.4%	7.9%	42.9%
+#40 Ben Weber	8.1%	194	129	0.665	20%	Below Average	85	41	126	32.5%	40.9%	25.8%	9.3%	4.1%	29.4%
+#5 Will Adams	6.8%	161	137	0.851	53%	Good	72	50	122	41%	45.1%	13.7%	14.9%	9.3%	39.8%
+#33 Ben Temrowski	4.9%	116	96	0.828	48%	Average	70	34	104	32.7%	45.7%	9.5%	0.9%	0%	30.2%
+#23 Andrew Squires	4.3%	102	98	0.961	77%	Very Good	47	41	88	46.6%	55.1%	10.8%	3.9%	2.9%	41.2%
+#2 Ryan Fiorucci	2.4%	57	35	0.614	15%	Below Average	28	11	39	28.2%	38.5%	24.6%	7%	1.8%	26.3%
+#10 Nicolas Ramos	0.9%	22	8	0.364	3%	Poor	6	2	8	25%	25%	50%	18.2%	9.1%	22.7%
+#25 Talon Hardin	0.9%	21	16	0.762	35%	Average	6	7	13	53.8%	57.7%	33.3%	9.5%	4.8%	33.3%
+#3 Jacob Siewert	0.5%	12	2	0.167	0%	Poor	2	1	3	33.3%	33.3%	75%	0%	0%	8.3%
+#24 Ajibola OkeDiran	0.4%	9	2	0.222	-	-	4	1	5	20%	20%	33.3%	11.1%	0%	11.1%
+#22 Damon Hofmann	0.3%	6	0	0	-	-	5	0	5	0%	0%	16.7%	0%	0%	0%
+#21 Daniel Rosenstiel	0.2%	4	2	0.5	-	-	1	1	2	50%	50%	50%	0%	0%	25%
+#32 Josh Carrasquillo	0.1%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#11 Dante Cameron	0.1%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#13 Jacob Hilliker	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#41 Sawyer Myers	0.1%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#35 Jacob Heaver	<1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	18.9%	449	403	0.898	43%	Average	241	143	384	37.2%	48.8%	10.2%	5.6%	4.2%	35.2%
+#34 Tony Diemer	17.8%	80	92	1.15	87%	Excellent	30	34	64	53.1%	63.3%	12.5%	10%	8.8%	50%
+#4 Brandon Emerick	13.1%	59	53	0.898	51%	Good	40	18	58	31%	45.7%	1.7%	0%	0%	30.5%
+#40 Ben Weber	10.9%	49	28	0.571	12%	Poor	27	10	37	27%	35.1%	22.4%	2%	2%	22.4%
+#33 Ben Temrowski	9.4%	42	51	1.214	92%	Excellent	25	17	42	40.5%	60.7%	0%	0%	0%	40.5%
+#5 Will Adams	8.9%	40	35	0.875	47%	Average	24	13	37	35.1%	43.2%	5%	7.5%	7.5%	35%
+#42 Taylor Krocker	8.5%	38	40	1.053	76%	Very Good	17	14	31	45.2%	59.7%	10.5%	7.9%	5.3%	42.1%
+#15 Kevin Diemer	8.2%	37	42	1.135	85%	Excellent	17	17	34	50%	61.8%	8.1%	0%	0%	45.9%
+#0 Trae Blumhorst	8%	36	18	0.5	7%	Poor	16	6	22	27.3%	29.5%	27.8%	16.7%	13.9%	22.2%
+#23 Andrew Squires	6%	27	17	0.63	16%	Below Average	19	6	25	24%	34%	3.7%	3.7%	0%	22.2%
+#2 Ryan Fiorucci	5.1%	23	19	0.826	40%	Average	14	6	20	30%	45%	8.7%	4.3%	4.3%	30.4%
+#10 Nicolas Ramos	1.1%	5	5	1	-	-	1	1	2	50%	50%	20%	40%	0%	60%
+#22 Damon Hofmann	0.7%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#25 Talon Hardin	0.7%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#32 Josh Carrasquillo	0.4%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#21 Daniel Rosenstiel	0.4%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#24 Ajibola OkeDiran	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Jacob Siewert	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#41 Sawyer Myers	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	18%	428	453	1.058	83%	Excellent	143	173	316	54.7%	60.3%	15%	14.3%	11.2%	50%
+#4 Brandon Emerick	22.4%	96	108	1.125	74%	Very Good	29	38	67	56.7%	61.9%	13.5%	18.8%	16.7%	54.2%
+#34 Tony Diemer	16.4%	70	90	1.286	89%	Excellent	17	38	55	69.1%	70.9%	8.6%	14.3%	11.4%	64.3%
+#0 Trae Blumhorst	14.3%	61	62	1.016	58%	Good	16	23	39	59%	59%	18%	27.9%	24.6%	54.1%
+#40 Ben Weber	11.2%	48	43	0.896	38%	Average	17	14	31	45.2%	56.5%	22.9%	12.5%	4.2%	39.6%
+#5 Will Adams	8.6%	37	25	0.676	13%	Poor	19	8	27	29.6%	31.5%	13.5%	16.2%	8.1%	32.4%
+#23 Andrew Squires	6.3%	27	36	1.333	92%	Excellent	9	14	23	60.9%	78.3%	14.8%	3.7%	3.7%	51.9%
+#33 Ben Temrowski	5.8%	25	19	0.76	20%	Below Average	16	7	23	30.4%	41.3%	8%	0%	0%	28%
+#15 Kevin Diemer	5.1%	22	32	1.455	97%	Excellent	8	13	21	61.9%	69%	0%	9.1%	9.1%	63.6%
+#42 Taylor Krocker	4.7%	20	27	1.35	93%	Excellent	6	13	19	68.4%	71.1%	5%	5%	5%	65%
+#2 Ryan Fiorucci	1.9%	8	7	0.875	-	-	2	3	5	60%	70%	37.5%	0%	0%	37.5%
+#25 Talon Hardin	1.6%	7	2	0.286	-	-	2	1	3	33.3%	33.3%	57.1%	0%	0%	14.3%
+#10 Nicolas Ramos	0.7%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#3 Jacob Siewert	0.7%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#21 Daniel Rosenstiel	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	12.2%	291	222	0.763	29%	Below Average	139	91	230	39.6%	39.6%	12.7%	10.7%	6.9%	38.5%
+#34 Tony Diemer	33.7%	98	71	0.724	32%	Average	52	30	82	36.6%	36.6%	10.2%	7.1%	3.1%	36.7%
+#42 Taylor Krocker	24.4%	71	48	0.676	25%	Below Average	35	20	55	36.4%	36.4%	14.1%	9.9%	5.6%	35.2%
+#0 Trae Blumhorst	21%	61	54	0.885	60%	Good	25	22	47	46.8%	46.8%	11.5%	16.4%	13.1%	44.3%
+#15 Kevin Diemer	19.6%	57	47	0.825	48%	Average	25	18	43	41.9%	41.9%	15.8%	12.3%	8.8%	40.4%
+#24 Ajibola OkeDiran	1.4%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	10%	238	254	1.067	46%	Average	92	113	205	55.1%	55.1%	7.1%	10.9%	10.1%	52.1%
+#34 Tony Diemer	33.6%	80	94	1.175	62%	Good	31	43	74	58.1%	58.1%	3.8%	6.3%	5%	57.5%
+#15 Kevin Diemer	22.7%	54	48	0.889	21%	Below Average	24	21	45	46.7%	46.7%	7.4%	9.3%	9.3%	46.3%
+#42 Taylor Krocker	16.8%	40	38	0.95	30%	Below Average	18	17	35	48.6%	48.6%	7.5%	10%	10%	45%
+#0 Trae Blumhorst	12.2%	29	38	1.31	81%	Very Good	7	17	24	70.8%	70.8%	3.4%	24.1%	20.7%	62.1%
+#23 Andrew Squires	4.2%	10	12	1.2	66%	Very Good	3	6	9	66.7%	66.7%	10%	0%	0%	60%
+#5 Will Adams	3.4%	8	16	2	-	-	0	6	6	100%	100%	12.5%	37.5%	37.5%	87.5%
+#10 Nicolas Ramos	1.3%	3	1	0.333	-	-	0	0	0	-	-	66.7%	33.3%	33.3%	33.3%
+#33 Ben Temrowski	1.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#24 Ajibola OkeDiran	0.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#40 Ben Weber	0.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#25 Talon Hardin	0.8%	2	3	1.5	-	-	1	1	2	50%	50%	0%	50%	50%	50%
+#13 Jacob Hilliker	0.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#4 Brandon Emerick	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#35 Jacob Heaver	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#41 Sawyer Myers	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	9.8%	233	163	0.7	33%	Average	99	69	168	41.1%	42.6%	21%	9.9%	7.7%	35.2%
+#0 Trae Blumhorst	36.1%	84	58	0.69	38%	Average	35	23	58	39.7%	39.7%	19%	17.9%	14.3%	35.7%
+#4 Brandon Emerick	23.6%	55	45	0.818	62%	Good	25	19	44	43.2%	47.7%	16.4%	3.6%	3.6%	38.2%
+#5 Will Adams	13.3%	31	25	0.806	59%	Good	13	12	25	48%	48%	16.1%	6.5%	3.2%	41.9%
+#40 Ben Weber	9.4%	22	11	0.5	14%	Poor	8	4	12	33.3%	33.3%	36.4%	9.1%	4.5%	27.3%
+#2 Ryan Fiorucci	5.2%	12	0	0	0%	Poor	7	0	7	0%	0%	41.7%	0%	0%	0%
+#23 Andrew Squires	5.2%	12	13	1.083	93%	Excellent	3	6	9	66.7%	66.7%	16.7%	8.3%	8.3%	58.3%
+#33 Ben Temrowski	1.7%	4	2	0.5	-	-	3	1	4	25%	25%	0%	0%	0%	25%
+#10 Nicolas Ramos	1.3%	3	2	0.667	-	-	0	1	1	100%	100%	66.7%	33.3%	33.3%	33.3%
+#34 Tony Diemer	1.3%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#25 Talon Hardin	1.3%	3	5	1.667	-	-	0	2	2	100%	125%	33.3%	0%	0%	66.7%
+#22 Damon Hofmann	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Jacob Siewert	0.4%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Kevin Diemer	0.4%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#42 Taylor Krocker	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	7.3%	174	178	1.023	41%	Average	69	64	133	48.1%	48.1%	7.5%	19%	15.5%	51.1%
+#34 Tony Diemer	25.3%	44	37	0.841	20%	Below Average	19	11	30	36.7%	36.7%	11.4%	22.7%	15.9%	43.2%
+#15 Kevin Diemer	24.7%	43	50	1.163	63%	Good	17	17	34	50%	50%	4.7%	23.3%	18.6%	55.8%
+#42 Taylor Krocker	20.7%	36	44	1.222	73%	Very Good	12	17	29	58.6%	58.6%	2.8%	16.7%	13.9%	61.1%
+#0 Trae Blumhorst	8.6%	15	20	1.333	85%	Excellent	3	7	10	70%	70%	13.3%	26.7%	26.7%	66.7%
+#23 Andrew Squires	6.9%	12	12	1	39%	Average	5	6	11	54.5%	54.5%	0%	8.3%	8.3%	50%
+#40 Ben Weber	6.3%	11	7	0.636	5%	Poor	5	2	7	28.6%	28.6%	18.2%	18.2%	18.2%	36.4%
+#4 Brandon Emerick	2.9%	5	6	1.2	-	-	2	3	5	60%	60%	0%	0%	0%	60%
+#10 Nicolas Ramos	1.7%	3	0	0	-	-	3	0	3	0%	0%	0%	0%	0%	0%
+#5 Will Adams	1.7%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#33 Ben Temrowski	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#21 Daniel Rosenstiel	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	5%	118	102	0.864	48%	Average	65	39	104	37.5%	45.7%	8.5%	5.9%	5.9%	35.6%
+#40 Ben Weber	26.3%	31	23	0.742	28%	Below Average	18	7	25	28%	40%	12.9%	6.5%	6.5%	29%
+#33 Ben Temrowski	16.1%	19	21	1.105	73%	Very Good	11	8	19	42.1%	55.3%	0%	0%	0%	42.1%
+#34 Tony Diemer	16.1%	19	15	0.789	33%	Average	12	7	19	36.8%	36.8%	0%	5.3%	5.3%	36.8%
+#0 Trae Blumhorst	11.9%	14	20	1.429	95%	Excellent	3	9	12	75%	79.2%	7.1%	21.4%	21.4%	64.3%
+#4 Brandon Emerick	7.6%	9	9	1	-	-	5	3	8	37.5%	56.3%	11.1%	0%	0%	33.3%
+#23 Andrew Squires	7.6%	9	3	0.333	-	-	7	1	8	12.5%	18.8%	11.1%	0%	0%	11.1%
+#42 Taylor Krocker	4.2%	5	4	0.8	-	-	3	2	5	40%	40%	0%	0%	0%	40%
+#2 Ryan Fiorucci	2.5%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#3 Jacob Siewert	2.5%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Kevin Diemer	2.5%	3	2	0.667	-	-	2	0	2	0%	0%	0%	33.3%	33.3%	33.3%
+#5 Will Adams	1.7%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#22 Damon Hofmann	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	4.7%	111	69	0.622	11%	Poor	60	25	85	29.4%	31.8%	16.2%	9.9%	8.1%	28.8%
+#0 Trae Blumhorst	23.4%	26	18	0.692	34%	Average	10	5	15	33.3%	33.3%	23.1%	23.1%	19.2%	34.6%
+#5 Will Adams	21.6%	24	31	1.292	97%	Excellent	9	11	20	55%	62.5%	4.2%	16.7%	12.5%	58.3%
+#34 Tony Diemer	18.9%	21	6	0.286	3%	Poor	15	3	18	16.7%	16.7%	14.3%	0%	0%	14.3%
+#4 Brandon Emerick	13.5%	15	5	0.333	4%	Poor	10	2	12	16.7%	16.7%	20%	6.7%	6.7%	13.3%
+#40 Ben Weber	9%	10	5	0.5	11%	Poor	7	2	9	22.2%	27.8%	10%	0%	0%	20%
+#42 Taylor Krocker	4.5%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#15 Kevin Diemer	2.7%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#10 Nicolas Ramos	1.8%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#2 Ryan Fiorucci	1.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#3 Jacob Siewert	0.9%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#25 Talon Hardin	0.9%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#11 Dante Cameron	0.9%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	3.9%	93	84	0.903	43%	Average	47	32	79	40.5%	44.9%	10.8%	9.7%	8.6%	38.7%
+#34 Tony Diemer	46.2%	43	37	0.86	33%	Average	23	15	38	39.5%	44.7%	9.3%	4.7%	4.7%	37.2%
+#42 Taylor Krocker	24.7%	23	20	0.87	35%	Average	12	6	18	33.3%	36.1%	13%	21.7%	17.4%	34.8%
+#15 Kevin Diemer	23.7%	22	24	1.091	67%	Very Good	8	10	18	55.6%	58.3%	13.6%	9.1%	9.1%	50%
+#33 Ben Temrowski	4.3%	4	0	0	-	-	4	0	4	0%	0%	0%	0%	0%	0%
+#0 Trae Blumhorst	1.1%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	2.6%	62	35	0.565	7%	Poor	32	11	43	25.6%	29.1%	14.5%	19.4%	19.4%	29%
+#0 Trae Blumhorst	48.4%	30	19	0.633	25%	Below Average	13	5	18	27.8%	30.6%	13.3%	33.3%	33.3%	33.3%
+#4 Brandon Emerick	12.9%	8	6	0.75	-	-	3	3	6	50%	50%	25%	0%	0%	37.5%
+#33 Ben Temrowski	9.7%	6	0	0	-	-	6	0	6	0%	0%	0%	0%	0%	0%
+#40 Ben Weber	8.1%	5	5	1	-	-	2	2	4	50%	62.5%	20%	0%	0%	40%
+#5 Will Adams	8.1%	5	2	0.4	-	-	2	0	2	0%	0%	20%	40%	40%	40%
+#2 Ryan Fiorucci	3.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#34 Tony Diemer	3.2%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#10 Nicolas Ramos	1.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Kevin Diemer	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Andrew Squires	1.6%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#42 Taylor Krocker	1.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Rockford Regents	7.7%	184	72	0.391	24%	Below Average	21	13	34	38.2%	38.2%	58.7%	23.4%	1.1%	23.4%
+#34 Tony Diemer	18.5%	34	16	0.471	51%	Good	3	4	7	57.1%	57.1%	58.8%	20.6%	0%	26.5%
+#0 Trae Blumhorst	16.8%	31	6	0.194	15%	Below Average	3	1	4	25%	25%	61.3%	25.8%	3.2%	12.9%
+#4 Brandon Emerick	12%	22	12	0.545	63%	Good	7	3	10	30%	30%	40.9%	18.2%	4.5%	27.3%
+#15 Kevin Diemer	10.3%	19	10	0.526	60%	Good	3	1	4	25%	25%	47.4%	31.6%	0%	36.8%
+#40 Ben Weber	8.7%	16	7	0.438	46%	Average	0	0	0	-	-	68.8%	31.3%	0%	25%
+#42 Taylor Krocker	7.6%	14	7	0.5	56%	Good	1	1	2	50%	50%	64.3%	21.4%	0%	28.6%
+#33 Ben Temrowski	6.5%	12	1	0.083	5%	Poor	2	0	2	0%	0%	75%	8.3%	0%	8.3%
+#5 Will Adams	6%	11	3	0.273	23%	Below Average	1	0	1	0%	0%	54.5%	36.4%	0%	18.2%
+#2 Ryan Fiorucci	3.8%	7	4	0.571	-	-	0	0	0	-	-	57.1%	42.9%	0%	42.9%
+#25 Talon Hardin	2.7%	5	4	0.8	-	-	0	2	2	100%	100%	40%	20%	0%	40%
+#23 Andrew Squires	2.2%	4	2	0.5	-	-	1	1	2	50%	50%	50%	0%	0%	25%
+#3 Jacob Siewert	1.6%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#10 Nicolas Ramos	1.1%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#24 Ajibola OkeDiran	1.1%	2	0	0	-	-	0	0	0	-	-	50%	50%	0%	0%
+#22 Damon Hofmann	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Dante Cameron	0.5%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 

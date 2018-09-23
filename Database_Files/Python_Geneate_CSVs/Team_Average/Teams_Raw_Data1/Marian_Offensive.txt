@@ -1,0 +1,638 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Marian University (WI) Sabres	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Marian University (WI) Sabres	Date Range: 11/17/2017 to 02/17/2018	Number of Games: 25
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	100%	2127	1789	0.841	29%	Below Average	923	657	1580	41.6%	46.4%	15.2%	12.5%	8.7%	39.9%
+ Transition	14.7%	313	301	0.962	46%	Average	113	116	229	50.7%	53.9%	14.7%	14.7%	11.2%	47.3%
+ Overall Half Court	85.3%	1814	1488	0.82	32%	Average	810	541	1351	40%	45.1%	15.3%	12.1%	8.3%	38.6%
+                    Short Shot Clock <4 Seconds	3.2%	68	49	0.721	59%	Good	42	19	61	31.1%	35.2%	5.9%	8.8%	5.9%	30.9%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	8.8%	159	158	0.994	90%	Excellent	68	62	130	47.7%	56.2%	13.2%	6.9%	4.4%	42.8%
+         Out of Bounds (Side)	3.7%	68	56	0.824	53%	Good	31	19	50	38%	43%	14.7%	11.8%	7.4%	39.7%
+         After Time Outs	10.4%	189	148	0.783	31%	Average	82	58	140	41.4%	46.4%	19.6%	7.4%	5.8%	36.5%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	95%	1723	1404	0.815	32%	Average	771	510	1281	39.8%	44.6%	15.2%	12.2%	8.5%	38.6%
+    Against Zone	5%	91	84	0.923	56%	Good	39	31	70	44.3%	53.6%	16.5%	8.8%	4.4%	39.6%
+Breakdown of Full Court Press Situations:
+  Press Offense	6%	108	78	0.722	21%	Below Average	48	26	74	35.1%	38.5%	18.5%	13%	7.4%	36.1%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	25.9%	550	441	0.802	13%	Poor	324	155	479	32.4%	42%	8%	5.8%	4.9%	32.4%
+ Transition	14.7%	313	301	0.962	46%	Average	113	116	229	50.7%	53.9%	14.7%	14.7%	11.2%	47.3%
+ Post-Up	14.1%	300	242	0.807	43%	Average	108	89	197	45.2%	45.2%	18%	19.3%	12.3%	43.7%
+ Cut	8.2%	175	197	1.126	68%	Very Good	54	82	136	60.3%	60.3%	10.9%	14.9%	13.1%	57.7%
+ P&R Ball Handler	8.1%	172	108	0.628	12%	Poor	92	42	134	31.3%	34.3%	15.7%	7.6%	4.7%	29.1%
+ Offensive Rebounds (put backs)	6.8%	144	148	1.028	43%	Average	55	57	112	50.9%	51.3%	6.9%	18.8%	14.6%	53.5%
+ Off Screen	6.2%	132	141	1.068	86%	Excellent	65	50	115	43.5%	53.9%	6.1%	9.1%	7.6%	43.9%
+ Isolation	4.9%	105	80	0.762	43%	Average	48	29	77	37.7%	39%	13.3%	15.2%	14.3%	40%
+ P&R Roll Man	2.1%	45	40	0.889	40%	Average	22	16	38	42.1%	47.4%	11.1%	4.4%	4.4%	40%
+ Hand Off	1.7%	36	36	1	89%	Excellent	17	13	30	43.3%	51.7%	8.3%	8.3%	8.3%	44.4%
+ Miscellaneous	7.3%	155	55	0.355	17%	Below Average	25	8	33	24.2%	24.2%	60%	19.4%	2.6%	19.4%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	6.3%	134	112	0.836	50%	Average	63	42	105	40%	43.3%	10.4%	13.4%	12.7%	41.8%
+  Pick and Rolls Including Passes	14.8%	315	243	0.771	26%	Below Average	164	92	256	35.9%	41.2%	12.7%	7.3%	5.4%	34%
+  Post-Ups Including Passes	20.8%	443	378	0.853	42%	Average	188	141	329	42.9%	46.5%	13.3%	14.9%	9.7%	42.4%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.4%	29	32	1.103	76%	Very Good	15	13	28	46.4%	55.4%	0%	6.9%	6.9%	48.3%
+  P&R BH - Defense Commits	7.9%	168	139	0.827	58%	Good	72	50	122	41%	48.8%	21.4%	7.1%	5.4%	35.1%
+  Post-Up - Defense Commits	6.7%	143	136	0.951	37%	Average	80	52	132	39.4%	48.5%	3.5%	5.6%	4.2%	39.9%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.2%	4	0	0	-	-	1	0	1	0%	0%	75%	0%	0%	0%
+  Post-Up - Hard Double	2.6%	55	56	1.018	85%	Excellent	21	19	40	47.5%	61.3%	16.4%	10.9%	5.5%	43.6%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	44.2%	597	510	0.854	17%	Below Average	410	187	597	31.3%	42.7%	0%	0.2%	0.2%	31.3%
+          Short Shot Clock <4 Seconds	3%	40	20	0.5	25%	Below Average	32	8	40	20%	25%	0%	0%	0%	20%
+Runner	7.4%	100	69	0.69	42%	Average	66	34	100	34%	34%	0%	1%	1%	34%
+          Short Shot Clock <4 Seconds	0.4%	6	4	0.667	-	-	4	2	6	33.3%	33.3%	0%	0%	0%	33.3%
+Around Basket (not Post-Ups)	33.8%	457	476	1.042	25%	Below Average	226	231	457	50.5%	50.5%	0%	4.8%	4.8%	50.5%
+Post-Ups	14.6%	197	180	0.914	40%	Average	108	89	197	45.2%	45.2%	0%	4.6%	4.6%	45.2%
+          Short Shot Clock <4 Seconds	0.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	29.8%	402	384	0.955	27%	Below Average	271	131	402	32.6%	47.8%	0%	0.2%	0.2%	32.6%
+  Guarded	63.4%	255	201	0.788	8%	Poor	187	68	255	26.7%	39.4%	0%	0%	0%	26.7%
+  Unguarded	36.6%	147	183	1.245	86%	Excellent	84	63	147	42.9%	62.2%	0%	0.7%	0.7%	42.9%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	12.8%	173	105	0.607	7%	Poor	125	48	173	27.7%	30.3%	0%	0%	0%	27.7%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	17.8%	106	68	0.642	18%	Below Average	72	34	106	32.1%	32.1%	0%	0%	0%	32.1%
+Medium (17' to <3 point line)	8.4%	50	34	0.68	39%	Average	33	17	50	34%	34%	0%	0%	0%	34%
+Long (3 point jump shots)	73.9%	441	408	0.925	19%	Below Average	305	136	441	30.8%	46.3%	0%	0.2%	0.2%	30.8%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	100%	2127	1789	0.841	29%	Below Average	923	657	1580	41.6%	46.4%	15.2%	12.5%	8.7%	39.9%
+#20 Alex Manhardt	17.3%	369	338	0.916	68%	Very Good	109	123	232	53%	53%	18.7%	20.9%	13.3%	49.6%
+#4 Tyrese Pinson	12.1%	258	221	0.857	55%	Good	116	84	200	42%	46.5%	13.2%	10.5%	7.8%	40.3%
+#30 Kelvin Jones	9.5%	202	165	0.817	46%	Average	102	61	163	37.4%	41.7%	11.4%	9.9%	6.4%	38.1%
+#42 Evan Hansen	8.9%	189	160	0.847	53%	Good	78	58	136	42.6%	45.2%	14.8%	14.8%	10.6%	41.8%
+#11 Tavaris Mccullough	7.8%	165	132	0.8	43%	Average	67	51	118	43.2%	47.9%	19.4%	12.1%	9.7%	37.6%
+#32 Tristan Ess	7.3%	156	154	0.987	81%	Very Good	67	62	129	48.1%	51.6%	9%	12.2%	11.5%	47.4%
+#10 Will Olewinski	6.3%	135	132	0.978	80%	Very Good	75	47	122	38.5%	53.7%	8.9%	1.5%	1.5%	35.6%
+#31 Logan Hamilton	5%	107	95	0.888	61%	Good	38	31	69	44.9%	52.2%	20.6%	16.8%	12.1%	42.1%
+#25 Ryan Biffert	5%	106	65	0.613	15%	Below Average	56	24	80	30%	33.8%	15.1%	9.4%	4.7%	28.3%
+#2 Will Polczynski	4.9%	104	82	0.788	41%	Average	40	38	78	48.7%	48.7%	20.2%	6.7%	5.8%	40.4%
+#5 Taylor Rahn	4.8%	102	72	0.706	26%	Below Average	55	23	78	29.5%	35.9%	14.7%	11.8%	6.9%	30.4%
+#34 Trentin Fouse	4.6%	98	74	0.755	34%	Average	56	18	74	24.3%	31.8%	9.2%	16.3%	10.2%	32.7%
+#15 Justin Wilson	2.2%	46	28	0.609	15%	Below Average	26	12	38	31.6%	35.5%	13%	6.5%	6.5%	28.3%
+#23 Matt Shaw	0.9%	19	14	0.737	31%	Average	10	5	15	33.3%	43.3%	15.8%	5.3%	0%	31.6%
+#24 Marcus Kadinger	0.8%	17	17	1	84%	Excellent	5	6	11	54.5%	72.7%	29.4%	5.9%	5.9%	41.2%
+#14 Noah Knudsen	0.8%	17	14	0.824	48%	Average	8	4	12	33.3%	50%	17.6%	11.8%	0%	29.4%
+#50 Myles Cochran	0.5%	10	10	1	84%	Excellent	5	4	9	44.4%	50%	10%	10%	10%	40%
+#22 Coy Paulson	0.4%	9	4	0.444	-	-	4	2	6	33.3%	33.3%	33.3%	0%	0%	22.2%
+#12 Caleb Martin	0.4%	8	8	1	-	-	3	3	6	50%	66.7%	25%	0%	0%	37.5%
+#3 Julian Lynch	0.2%	5	3	0.6	-	-	2	1	3	33.3%	50%	40%	0%	0%	20%
+#40 Danny Duchaj	0.2%	5	1	0.2	-	-	1	0	1	0%	0%	60%	20%	20%	20%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	25.9%	550	441	0.802	13%	Poor	324	155	479	32.4%	42%	8%	5.8%	4.9%	32.4%
+#30 Kelvin Jones	13.3%	73	51	0.699	23%	Below Average	47	17	64	26.6%	35.2%	6.8%	5.5%	5.5%	28.8%
+#42 Evan Hansen	10.7%	59	59	1	69%	Very Good	28	22	50	44%	51%	8.5%	8.5%	6.8%	44.1%
+#4 Tyrese Pinson	9.6%	53	42	0.792	35%	Average	32	16	48	33.3%	41.7%	1.9%	7.5%	5.7%	32.1%
+#10 Will Olewinski	9.3%	51	51	1	69%	Very Good	32	17	49	34.7%	52%	3.9%	2%	2%	33.3%
+#34 Trentin Fouse	9.1%	50	37	0.74	29%	Below Average	33	10	43	23.3%	33.7%	6%	8%	6%	28%
+#5 Taylor Rahn	8%	44	28	0.636	17%	Below Average	28	9	37	24.3%	33.8%	11.4%	6.8%	6.8%	25%
+#25 Ryan Biffert	7.8%	43	25	0.581	13%	Poor	28	10	38	26.3%	32.9%	9.3%	2.3%	0%	23.3%
+#32 Tristan Ess	7.1%	39	27	0.692	22%	Below Average	28	10	38	26.3%	34.2%	0%	2.6%	2.6%	28.2%
+#11 Tavaris Mccullough	5.3%	29	30	1.034	73%	Very Good	11	11	22	50%	63.6%	20.7%	6.9%	3.4%	41.4%
+#31 Logan Hamilton	4.9%	27	17	0.63	16%	Below Average	16	5	21	23.8%	31%	14.8%	11.1%	11.1%	25.9%
+#20 Alex Manhardt	4.5%	25	23	0.92	55%	Good	7	9	16	56.3%	56.3%	20%	16%	16%	52%
+#15 Justin Wilson	3.3%	18	12	0.667	20%	Below Average	13	5	18	27.8%	33.3%	0%	0%	0%	27.8%
+#23 Matt Shaw	1.5%	8	8	1	-	-	5	3	8	37.5%	50%	0%	0%	0%	37.5%
+#24 Marcus Kadinger	1.3%	7	14	2	-	-	2	5	7	71.4%	100%	0%	0%	0%	71.4%
+#14 Noah Knudsen	1.3%	7	3	0.429	-	-	6	1	7	14.3%	21.4%	0%	0%	0%	14.3%
+#2 Will Polczynski	0.7%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#12 Caleb Martin	0.7%	4	6	1.5	-	-	2	2	4	50%	75%	0%	0%	0%	50%
+#3 Julian Lynch	0.5%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#50 Myles Cochran	0.5%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#22 Coy Paulson	0.4%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#40 Danny Duchaj	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	14.7%	313	301	0.962	46%	Average	113	116	229	50.7%	53.9%	14.7%	14.7%	11.2%	47.3%
+#42 Evan Hansen	20.1%	63	52	0.825	28%	Below Average	26	20	46	43.5%	43.5%	12.7%	17.5%	15.9%	42.9%
+#4 Tyrese Pinson	14.1%	44	58	1.318	91%	Excellent	7	22	29	75.9%	79.3%	20.5%	18.2%	15.9%	63.6%
+#20 Alex Manhardt	11.2%	35	43	1.229	85%	Excellent	9	18	27	66.7%	66.7%	8.6%	17.1%	11.4%	65.7%
+#11 Tavaris Mccullough	11.2%	35	37	1.057	63%	Good	12	15	27	55.6%	61.1%	11.4%	11.4%	8.6%	51.4%
+#30 Kelvin Jones	10.9%	34	26	0.765	20%	Below Average	14	10	24	41.7%	43.8%	20.6%	11.8%	5.9%	38.2%
+#5 Taylor Rahn	6.1%	19	12	0.632	10%	Poor	10	4	14	28.6%	32.1%	10.5%	15.8%	10.5%	31.6%
+#10 Will Olewinski	5.4%	17	14	0.824	28%	Below Average	12	5	17	29.4%	41.2%	0%	0%	0%	29.4%
+#34 Trentin Fouse	4.2%	13	12	0.923	43%	Average	6	3	9	33.3%	33.3%	0%	38.5%	15.4%	46.2%
+#32 Tristan Ess	4.2%	13	22	1.692	100%	Excellent	2	8	10	80%	90%	7.7%	15.4%	15.4%	76.9%
+#31 Logan Hamilton	3.2%	10	7	0.7	14%	Poor	3	3	6	50%	50%	30%	20%	20%	40%
+#25 Ryan Biffert	2.9%	9	2	0.222	-	-	5	1	6	16.7%	16.7%	33.3%	0%	0%	11.1%
+#2 Will Polczynski	1.9%	6	6	1	-	-	1	3	4	75%	75%	33.3%	0%	0%	50%
+#15 Justin Wilson	1.3%	4	0	0	-	-	2	0	2	0%	0%	25%	25%	25%	0%
+#14 Noah Knudsen	1%	3	6	2	-	-	0	2	2	100%	150%	33.3%	0%	0%	66.7%
+#24 Marcus Kadinger	0.6%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#22 Coy Paulson	0.6%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#50 Myles Cochran	0.6%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#23 Matt Shaw	0.6%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	14.1%	300	242	0.807	43%	Average	108	89	197	45.2%	45.2%	18%	19.3%	12.3%	43.7%
+#20 Alex Manhardt	59.7%	179	146	0.816	46%	Average	59	50	109	45.9%	45.9%	19.6%	22.9%	13.4%	44.7%
+#32 Tristan Ess	17.3%	52	45	0.865	56%	Good	22	18	40	45%	45%	11.5%	13.5%	13.5%	46.2%
+#2 Will Polczynski	13%	39	22	0.564	13%	Poor	20	11	31	35.5%	35.5%	20.5%	5.1%	5.1%	28.2%
+#31 Logan Hamilton	9%	27	28	1.037	85%	Excellent	5	10	15	66.7%	66.7%	18.5%	25.9%	11.1%	55.6%
+#24 Marcus Kadinger	0.3%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+#10 Will Olewinski	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#40 Danny Duchaj	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	8.2%	175	197	1.126	68%	Very Good	54	82	136	60.3%	60.3%	10.9%	14.9%	13.1%	57.7%
+#20 Alex Manhardt	17.1%	30	38	1.267	75%	Very Good	6	14	20	70%	70%	10%	30%	26.7%	66.7%
+#4 Tyrese Pinson	12.6%	22	28	1.273	76%	Very Good	5	11	16	68.8%	68.8%	9.1%	18.2%	9.1%	68.2%
+#32 Tristan Ess	11.4%	20	30	1.5	96%	Excellent	6	13	19	68.4%	68.4%	0%	20%	20%	70%
+#2 Will Polczynski	10.3%	18	17	0.944	30%	Below Average	5	8	13	61.5%	61.5%	22.2%	5.6%	5.6%	50%
+#25 Ryan Biffert	9.1%	16	19	1.188	64%	Good	5	7	12	58.3%	58.3%	6.3%	18.8%	18.8%	62.5%
+#11 Tavaris Mccullough	8.6%	15	18	1.2	66%	Very Good	6	8	14	57.1%	57.1%	0%	13.3%	13.3%	60%
+#30 Kelvin Jones	6.3%	11	14	1.273	76%	Very Good	3	6	9	66.7%	66.7%	9.1%	9.1%	9.1%	63.6%
+#34 Trentin Fouse	5.1%	9	5	0.556	-	-	5	1	6	16.7%	16.7%	11.1%	22.2%	22.2%	33.3%
+#10 Will Olewinski	4%	7	12	1.714	-	-	1	6	7	85.7%	85.7%	0%	0%	0%	85.7%
+#31 Logan Hamilton	4%	7	6	0.857	-	-	2	3	5	60%	60%	28.6%	0%	0%	42.9%
+#42 Evan Hansen	2.3%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#5 Taylor Rahn	2.3%	4	0	0	-	-	2	0	2	0%	0%	50%	0%	0%	0%
+#15 Justin Wilson	1.7%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#50 Myles Cochran	1.7%	3	4	1.333	-	-	1	2	3	66.7%	66.7%	0%	0%	0%	66.7%
+#24 Marcus Kadinger	1.1%	2	2	1	-	-	0	1	1	100%	100%	50%	0%	0%	50%
+#3 Julian Lynch	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#22 Coy Paulson	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Caleb Martin	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#14 Noah Knudsen	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	8.1%	172	108	0.628	12%	Poor	92	42	134	31.3%	34.3%	15.7%	7.6%	4.7%	29.1%
+#4 Tyrese Pinson	34.3%	59	46	0.78	54%	Good	31	18	49	36.7%	40.8%	11.9%	5.1%	3.4%	35.6%
+#11 Tavaris Mccullough	25%	43	20	0.465	12%	Poor	21	7	28	25%	28.6%	25.6%	11.6%	7%	20.9%
+#42 Evan Hansen	12.2%	21	18	0.857	68%	Very Good	9	8	17	47.1%	47.1%	9.5%	9.5%	4.8%	42.9%
+#30 Kelvin Jones	11.6%	20	8	0.4	7%	Poor	15	4	19	21.1%	21.1%	5%	0%	0%	20%
+#15 Justin Wilson	4.1%	7	3	0.429	-	-	4	1	5	20%	30%	28.6%	0%	0%	14.3%
+#25 Ryan Biffert	3.5%	6	2	0.333	-	-	5	1	6	16.7%	16.7%	0%	0%	0%	16.7%
+#34 Trentin Fouse	3.5%	6	5	0.833	-	-	3	1	4	25%	37.5%	16.7%	16.7%	0%	33.3%
+#31 Logan Hamilton	2.3%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#5 Taylor Rahn	1.2%	2	3	1.5	-	-	0	1	1	100%	100%	50%	50%	50%	50%
+#22 Coy Paulson	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#10 Will Olewinski	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#23 Matt Shaw	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#32 Tristan Ess	0.6%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	6.8%	144	148	1.028	43%	Average	55	57	112	50.9%	51.3%	6.9%	18.8%	14.6%	53.5%
+#20 Alex Manhardt	36.8%	53	56	1.057	47%	Average	16	22	38	57.9%	57.9%	9.4%	18.9%	9.4%	56.6%
+#32 Tristan Ess	11.1%	16	22	1.375	88%	Excellent	4	10	14	71.4%	71.4%	6.3%	18.8%	18.8%	68.8%
+#2 Will Polczynski	8.3%	12	19	1.583	98%	Excellent	2	8	10	80%	80%	0%	16.7%	16.7%	83.3%
+#4 Tyrese Pinson	7.6%	11	7	0.636	5%	Poor	7	2	9	22.2%	27.8%	9.1%	9.1%	0%	27.3%
+#25 Ryan Biffert	6.9%	10	4	0.4	1%	Poor	7	1	8	12.5%	12.5%	10%	10%	10%	20%
+#10 Will Olewinski	6.3%	9	7	0.778	-	-	5	3	8	37.5%	37.5%	0%	11.1%	11.1%	44.4%
+#31 Logan Hamilton	4.2%	6	5	0.833	-	-	2	0	2	0%	0%	16.7%	50%	50%	50%
+#30 Kelvin Jones	3.5%	5	7	1.4	-	-	2	2	4	50%	50%	0%	40%	40%	60%
+#15 Justin Wilson	3.5%	5	5	1	-	-	2	2	4	50%	50%	0%	40%	40%	60%
+#34 Trentin Fouse	2.8%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#11 Tavaris Mccullough	2.8%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#5 Taylor Rahn	2.1%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#42 Evan Hansen	1.4%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#24 Marcus Kadinger	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#12 Caleb Martin	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#50 Myles Cochran	0.7%	1	3	3	-	-	0	1	1	100%	100%	0%	100%	100%	100%
+#40 Danny Duchaj	0.7%	1	1	1	-	-	0	0	0	-	-	0%	100%	100%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	6.2%	132	141	1.068	86%	Excellent	65	50	115	43.5%	53.9%	6.1%	9.1%	7.6%	43.9%
+#10 Will Olewinski	23.5%	31	42	1.355	92%	Excellent	17	14	31	45.2%	67.7%	0%	0%	0%	45.2%
+#30 Kelvin Jones	12.1%	16	23	1.438	95%	Excellent	4	10	14	71.4%	75%	12.5%	12.5%	12.5%	62.5%
+#5 Taylor Rahn	10.6%	14	19	1.357	92%	Excellent	5	6	11	54.5%	63.6%	7.1%	21.4%	7.1%	57.1%
+#4 Tyrese Pinson	9.8%	13	12	0.923	52%	Good	8	5	13	38.5%	46.2%	0%	0%	0%	38.5%
+#42 Evan Hansen	9.1%	12	6	0.5	8%	Poor	5	1	6	16.7%	16.7%	25%	25%	25%	33.3%
+#25 Ryan Biffert	6.1%	8	9	1.125	-	-	4	3	7	42.9%	50%	0%	12.5%	12.5%	50%
+#11 Tavaris Mccullough	6.1%	8	4	0.5	-	-	4	2	6	33.3%	33.3%	12.5%	12.5%	12.5%	25%
+#34 Trentin Fouse	5.3%	7	7	1	-	-	4	1	5	20%	30%	0%	28.6%	28.6%	42.9%
+#2 Will Polczynski	3.8%	5	4	0.8	-	-	3	2	5	40%	40%	0%	0%	0%	40%
+#20 Alex Manhardt	3%	4	4	1	-	-	2	2	4	50%	50%	0%	0%	0%	50%
+#14 Noah Knudsen	2.3%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#23 Matt Shaw	2.3%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#31 Logan Hamilton	2.3%	3	5	1.667	-	-	1	2	3	66.7%	83.3%	0%	0%	0%	66.7%
+#15 Justin Wilson	1.5%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#24 Marcus Kadinger	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#3 Julian Lynch	0.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Tristan Ess	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	4.9%	105	80	0.762	43%	Average	48	29	77	37.7%	39%	13.3%	15.2%	14.3%	40%
+#4 Tyrese Pinson	28.6%	30	18	0.6	21%	Below Average	18	6	24	25%	27.1%	6.7%	16.7%	16.7%	33.3%
+#30 Kelvin Jones	19%	20	19	0.95	75%	Very Good	9	9	18	50%	50%	5%	5%	5%	50%
+#11 Tavaris Mccullough	14.3%	15	11	0.733	40%	Average	9	3	12	25%	25%	0%	26.7%	26.7%	40%
+#20 Alex Manhardt	9.5%	10	6	0.6	21%	Below Average	2	1	3	33.3%	33.3%	50%	20%	20%	30%
+#42 Evan Hansen	8.6%	9	10	1.111	-	-	2	4	6	66.7%	66.7%	11.1%	22.2%	11.1%	55.6%
+#31 Logan Hamilton	8.6%	9	4	0.444	-	-	5	1	6	16.7%	25%	22.2%	11.1%	11.1%	22.2%
+#15 Justin Wilson	4.8%	5	6	1.2	-	-	0	3	3	100%	100%	40%	0%	0%	60%
+#5 Taylor Rahn	2.9%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#22 Coy Paulson	1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#34 Trentin Fouse	1%	1	2	2	-	-	0	0	0	-	-	0%	100%	100%	100%
+#14 Noah Knudsen	1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#32 Tristan Ess	1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	2.1%	45	40	0.889	40%	Average	22	16	38	42.1%	47.4%	11.1%	4.4%	4.4%	40%
+#20 Alex Manhardt	28.9%	13	14	1.077	63%	Good	3	6	9	66.7%	66.7%	23.1%	7.7%	7.7%	53.8%
+#2 Will Polczynski	26.7%	12	12	1	52%	Good	6	5	11	45.5%	45.5%	0%	8.3%	8.3%	50%
+#10 Will Olewinski	15.6%	7	3	0.429	-	-	6	1	7	14.3%	21.4%	0%	0%	0%	14.3%
+#32 Tristan Ess	13.3%	6	5	0.833	-	-	3	2	5	40%	50%	16.7%	0%	0%	33.3%
+#31 Logan Hamilton	8.9%	4	6	1.5	-	-	1	2	3	66.7%	100%	25%	0%	0%	50%
+#25 Ryan Biffert	2.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#34 Trentin Fouse	2.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#50 Myles Cochran	2.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	1.7%	36	36	1	89%	Excellent	17	13	30	43.3%	51.7%	8.3%	8.3%	8.3%	44.4%
+#31 Logan Hamilton	16.7%	6	14	2.333	-	-	1	4	5	80%	110%	0%	16.7%	16.7%	83.3%
+#4 Tyrese Pinson	13.9%	5	6	1.2	-	-	1	3	4	75%	75%	20%	0%	0%	60%
+#5 Taylor Rahn	13.9%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#42 Evan Hansen	8.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#30 Kelvin Jones	8.3%	3	3	1	-	-	2	1	3	33.3%	50%	0%	0%	0%	33.3%
+#34 Trentin Fouse	8.3%	3	2	0.667	-	-	2	1	3	33.3%	33.3%	0%	0%	0%	33.3%
+#20 Alex Manhardt	5.6%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	50%	50%
+#25 Ryan Biffert	5.6%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#11 Tavaris Mccullough	5.6%	2	3	1.5	-	-	0	1	1	100%	100%	0%	50%	50%	100%
+#10 Will Olewinski	5.6%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+#15 Justin Wilson	2.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#23 Matt Shaw	2.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#32 Tristan Ess	2.8%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Marian University (WI) Sabres	7.3%	155	55	0.355	17%	Below Average	25	8	33	24.2%	24.2%	60%	19.4%	2.6%	19.4%
+#4 Tyrese Pinson	13.5%	21	4	0.19	14%	Poor	7	1	8	12.5%	12.5%	52.4%	9.5%	4.8%	9.5%
+#30 Kelvin Jones	12.9%	20	14	0.7	81%	Very Good	6	2	8	25%	25%	30%	30%	5%	40%
+#20 Alex Manhardt	11.6%	18	7	0.389	40%	Average	4	1	5	20%	20%	55.6%	16.7%	0%	22.2%
+#42 Evan Hansen	10.3%	16	9	0.563	65%	Very Good	3	0	3	0%	0%	50%	31.3%	6.3%	31.3%
+#11 Tavaris Mccullough	9%	14	5	0.357	35%	Average	2	2	4	50%	50%	71.4%	7.1%	7.1%	14.3%
+#25 Ryan Biffert	7.1%	11	4	0.364	36%	Average	0	1	1	100%	100%	54.5%	36.4%	0%	18.2%
+#10 Will Olewinski	5.8%	9	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#2 Will Polczynski	5.2%	8	0	0	-	-	1	0	1	0%	0%	75%	12.5%	0%	0%
+#5 Taylor Rahn	5.2%	8	4	0.5	-	-	2	0	2	0%	0%	50%	25%	0%	25%
+#32 Tristan Ess	3.9%	6	2	0.333	-	-	0	1	1	100%	100%	66.7%	16.7%	0%	16.7%
+#34 Trentin Fouse	2.6%	4	2	0.5	-	-	0	0	0	-	-	75%	25%	0%	25%
+#23 Matt Shaw	2.6%	4	1	0.25	-	-	0	0	0	-	-	75%	25%	0%	25%
+#31 Logan Hamilton	2.6%	4	1	0.25	-	-	0	0	0	-	-	75%	25%	0%	25%
+#24 Marcus Kadinger	1.9%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#22 Coy Paulson	1.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#12 Caleb Martin	1.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#14 Noah Knudsen	1.3%	2	2	1	-	-	0	0	0	-	-	0%	100%	0%	50%
+#40 Danny Duchaj	1.3%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#15 Justin Wilson	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 

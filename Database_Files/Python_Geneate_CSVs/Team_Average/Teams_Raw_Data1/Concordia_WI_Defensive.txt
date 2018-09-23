@@ -1,0 +1,480 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Defensive - Concordia (WI) Falcons	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Concordia (WI) Falcons	Date Range: 11/17/2017 to 02/23/2018	Number of Games: 27
+
+Overall Defense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	100%	2355	2047	0.869	67%	Very Good	1037	762	1799	42.4%	48.1%	14.8%	10.8%	7.4%	40%
+ Transition	14.8%	348	346	0.994	42%	Average	134	136	270	50.4%	55.6%	13.8%	11.2%	8.3%	46%
+ Overall Half Court	85.2%	2007	1701	0.848	68%	Very Good	903	626	1529	40.9%	46.8%	14.9%	10.8%	7.3%	39%
+                    Short Shot Clock <4 Seconds	3.7%	87	52	0.598	76%	Very Good	57	20	77	26%	31.2%	6.9%	5.7%	4.6%	25.3%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.9%	159	120	0.755	77%	Very Good	76	48	124	38.7%	42.7%	16.4%	8.2%	8.2%	35.2%
+         Out of Bounds (Side)	4.2%	84	68	0.81	52%	Good	37	24	61	39.3%	43.4%	14.3%	13.1%	7.1%	41.7%
+         After Time Outs	10.3%	206	174	0.845	55%	Good	87	64	151	42.4%	49%	18%	9.7%	7.8%	39.3%
+Breakdown of Half Court Defensive Situations by Offense Type:
+    Man Defense	97.5%	1956	1662	0.85	63%	Good	876	612	1488	41.1%	46.9%	15.1%	10.7%	7.3%	39.1%
+    Zone Defense	2.5%	51	39	0.765	89%	Excellent	27	14	41	34.1%	40.2%	7.8%	11.8%	7.8%	37.3%
+Breakdown of Full Court Press Situations:
+  Press Defense	2.8%	56	45	0.804	66%	Very Good	14	9	23	39.1%	50%	32.1%	28.6%	8.9%	41.1%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	28%	660	526	0.797	96%	Excellent	399	188	587	32%	41.4%	7.4%	4.7%	4.4%	31.8%
+ Transition	14.8%	348	346	0.994	42%	Average	134	136	270	50.4%	55.6%	13.8%	11.2%	8.3%	46%
+ P&R Ball Handler	10%	235	205	0.872	14%	Poor	90	77	167	46.1%	50.9%	20%	11.9%	9.4%	40.4%
+ Cut	8.7%	204	225	1.103	45%	Average	75	100	175	57.1%	57.1%	7.4%	11.3%	11.3%	55.4%
+ Post-Up	6.5%	153	128	0.837	58%	Good	57	50	107	46.7%	46.7%	18.3%	14.4%	11.1%	41.8%
+ Isolation	6.4%	151	120	0.795	54%	Good	68	44	112	39.3%	42%	13.9%	13.2%	9.3%	41.1%
+ Offensive Rebounds (put backs)	6.3%	149	150	1.007	67%	Very Good	53	59	112	52.7%	52.7%	9.4%	18.1%	11.4%	54.4%
+ Off Screen	5.5%	129	129	1	24%	Below Average	69	45	114	39.5%	52.6%	7%	5.4%	3.9%	38.8%
+ P&R Roll Man	4%	94	90	0.957	51%	Good	39	36	75	48%	51.3%	11.7%	10.6%	9.6%	45.7%
+ Hand Off	2.8%	66	61	0.924	26%	Below Average	32	22	54	40.7%	50.9%	9.1%	10.6%	9.1%	40.9%
+ Miscellaneous	7%	166	67	0.404	78%	Very Good	21	5	26	19.2%	19.2%	60.2%	24.7%	2.4%	22.9%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	8.6%	202	151	0.748	81%	Very Good	105	56	161	34.8%	38.8%	11.4%	10.9%	7.9%	36.6%
+  Pick and Rolls Including Passes	21.7%	512	471	0.92	20%	Below Average	224	179	403	44.4%	51.2%	14.6%	9%	7.6%	40.6%
+  Post-Ups Including Passes	8.3%	195	159	0.815	81%	Very Good	84	62	146	42.5%	44.5%	15.9%	11.8%	9.2%	39%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	2.2%	51	31	0.608	95%	Excellent	37	12	49	24.5%	31.6%	3.9%	3.9%	3.9%	23.5%
+  P&R BH - Defense Commits	13.7%	322	272	0.845	43%	Average	134	102	236	43.2%	51.5%	21.4%	6.8%	5.3%	36.3%
+  Post-Up - Defense Commits	1.8%	42	31	0.738	92%	Excellent	27	12	39	30.8%	38.5%	7.1%	2.4%	2.4%	28.6%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.3%	6	6	1	-	-	2	2	4	50%	75%	33.3%	0%	0%	33.3%
+  Post-Up - Hard Double	1.6%	37	33	0.892	38%	Average	16	13	29	44.8%	51.7%	18.9%	5.4%	5.4%	37.8%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	53.6%	820	717	0.874	87%	Excellent	551	269	820	32.8%	43.7%	0%	0.4%	0.4%	32.8%
+          Short Shot Clock <4 Seconds	3.3%	50	28	0.56	66%	Very Good	40	10	50	20%	28%	0%	0%	0%	20%
+Runner	5%	77	60	0.779	37%	Average	48	29	77	37.7%	37.7%	0%	3.9%	3.9%	37.7%
+          Short Shot Clock <4 Seconds	0.5%	8	4	0.5	-	-	6	2	8	25%	25%	0%	0%	0%	25%
+Around Basket (not Post-Ups)	34.3%	525	574	1.093	60%	Good	247	278	525	53%	53%	0%	5.3%	5.3%	53%
+Post-Ups	7%	107	104	0.972	51%	Good	57	50	107	46.7%	46.7%	0%	3.7%	3.7%	46.7%
+          Short Shot Clock <4 Seconds	0.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	35.3%	540	476	0.881	96%	Excellent	375	165	540	30.6%	44.1%	0%	0.4%	0.4%	30.6%
+  Guarded	69.3%	374	317	0.848	92%	Excellent	265	109	374	29.1%	42.4%	0%	0.3%	0.3%	29.1%
+  Unguarded	30.7%	166	159	0.958	87%	Excellent	110	56	166	33.7%	47.9%	0%	0.6%	0.6%	33.7%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	15%	229	208	0.908	10%	Poor	139	90	229	39.3%	45.2%	0%	0.4%	0.4%	39.3%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	14.6%	120	105	0.875	17%	Below Average	68	52	120	43.3%	43.3%	0%	1.7%	1.7%	43.3%
+Medium (17' to <3 point line)	12.9%	106	78	0.736	47%	Average	67	39	106	36.8%	36.8%	0%	0%	0%	36.8%
+Long (3 point jump shots)	72.4%	594	534	0.899	94%	Excellent	416	178	594	30%	44.9%	0%	0.2%	0.2%	30%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	100%	2355	2047	0.869	67%	Very Good	1037	762	1799	42.4%	48.1%	14.8%	10.8%	7.4%	40%
+#42 Josh Hau	10.6%	249	195	0.783	73%	Very Good	130	72	202	35.6%	43.3%	14.9%	6%	6%	32.9%
+#22 Andrew Fratzke	9%	211	165	0.782	73%	Very Good	117	61	178	34.3%	40.7%	10%	6.6%	4.3%	34.1%
+#3 Jake Jurss	7.5%	176	141	0.801	69%	Very Good	96	52	148	35.1%	42.9%	10.8%	6.3%	6.3%	34.7%
+#34 Josh Erickson	6.9%	163	163	1	20%	Below Average	80	61	141	43.3%	54.3%	9.8%	6.1%	5.5%	40.5%
+#24 Jordan Johnson	5.9%	138	115	0.833	61%	Good	67	40	107	37.4%	46.3%	14.5%	9.4%	8%	36.2%
+#0 Noah Gosse	4.7%	111	109	0.982	24%	Below Average	51	36	87	41.4%	47.1%	6.3%	17.1%	14.4%	46.8%
+#2 Isaiah Tenette	4.3%	101	85	0.842	59%	Good	51	29	80	36.3%	43.8%	9.9%	10.9%	5.9%	37.6%
+#4 George Olalekan	3.7%	88	61	0.693	87%	Excellent	45	25	70	35.7%	42.9%	18.2%	3.4%	2.3%	29.5%
+#20 Dane Fronek	2.8%	66	57	0.864	53%	Good	34	23	57	40.4%	44.7%	9.1%	9.1%	7.6%	39.4%
+#32 Matt Ulrich	2.7%	64	59	0.922	37%	Average	32	21	53	39.6%	43.4%	6.3%	14.1%	12.5%	42.2%
+#15 Matthew Myers	2.5%	60	55	0.917	39%	Average	26	22	48	45.8%	52.1%	10%	11.7%	8.3%	41.7%
+#30 Joey Zietlow	0.6%	14	14	1	20%	Below Average	4	5	9	55.6%	72.2%	28.6%	7.1%	0%	42.9%
+#1 Jose Alicea	0.3%	7	4	0.571	-	-	5	1	6	16.7%	25%	0%	14.3%	14.3%	28.6%
+#33 Jacob Lord	0.2%	5	2	0.4	-	-	4	1	5	20%	20%	0%	0%	0%	20%
+#11 Jason Klug	0.1%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#25 Julien Addison	<1%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	28%	660	526	0.797	96%	Excellent	399	188	587	32%	41.4%	7.4%	4.7%	4.4%	31.8%
+#42 Josh Hau	17.1%	113	81	0.717	83%	Excellent	71	29	100	29%	37.5%	8.8%	2.7%	2.7%	28.3%
+#22 Andrew Fratzke	16.2%	107	76	0.71	84%	Excellent	69	28	97	28.9%	37.1%	7.5%	1.9%	0.9%	28%
+#3 Jake Jurss	13.6%	90	76	0.844	65%	Very Good	50	26	76	34.2%	44.7%	8.9%	6.7%	6.7%	35.6%
+#34 Josh Erickson	11.4%	75	72	0.96	42%	Average	41	24	65	36.9%	51.5%	9.3%	6.7%	6.7%	34.7%
+#24 Jordan Johnson	9.2%	61	48	0.787	74%	Very Good	39	18	57	31.6%	41.2%	6.6%	1.6%	1.6%	29.5%
+#0 Noah Gosse	6.8%	45	37	0.822	69%	Very Good	28	12	40	30%	36.3%	2.2%	11.1%	11.1%	35.6%
+#4 George Olalekan	5.9%	39	35	0.897	55%	Good	22	13	35	37.1%	50%	10.3%	2.6%	2.6%	33.3%
+#2 Isaiah Tenette	4.7%	31	29	0.935	47%	Average	18	11	29	37.9%	48.3%	3.2%	3.2%	0%	38.7%
+#32 Matt Ulrich	4.7%	31	25	0.806	71%	Very Good	20	8	28	28.6%	35.7%	0%	12.9%	12.9%	32.3%
+#20 Dane Fronek	4.5%	30	22	0.733	81%	Very Good	17	10	27	37%	40.7%	10%	3.3%	3.3%	33.3%
+#15 Matthew Myers	3.3%	22	13	0.591	93%	Excellent	15	5	20	25%	30%	4.5%	4.5%	4.5%	27.3%
+#30 Joey Zietlow	1.2%	8	8	1	-	-	3	3	6	50%	66.7%	25%	0%	0%	37.5%
+#1 Jose Alicea	0.9%	6	4	0.667	-	-	4	1	5	20%	30%	0%	16.7%	16.7%	33.3%
+#11 Jason Klug	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Jacob Lord	0.2%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	10%	235	205	0.872	14%	Poor	90	77	167	46.1%	50.9%	20%	11.9%	9.4%	40.4%
+#42 Josh Hau	16.6%	39	36	0.923	24%	Below Average	11	13	24	54.2%	62.5%	30.8%	12.8%	12.8%	41%
+#2 Isaiah Tenette	15.7%	37	22	0.595	78%	Very Good	19	8	27	29.6%	29.6%	16.2%	10.8%	5.4%	29.7%
+#34 Josh Erickson	13.2%	31	32	1.032	13%	Poor	15	13	28	46.4%	55.4%	9.7%	3.2%	3.2%	41.9%
+#0 Noah Gosse	10.2%	24	23	0.958	20%	Below Average	11	8	19	42.1%	47.4%	12.5%	12.5%	12.5%	41.7%
+#3 Jake Jurss	9.4%	22	17	0.773	48%	Average	9	7	16	43.8%	50%	27.3%	9.1%	9.1%	31.8%
+#4 George Olalekan	8.9%	21	9	0.429	93%	Excellent	10	4	14	28.6%	28.6%	28.6%	4.8%	4.8%	23.8%
+#32 Matt Ulrich	7.7%	18	19	1.056	12%	Poor	5	6	11	54.5%	54.5%	16.7%	22.2%	16.7%	55.6%
+#24 Jordan Johnson	6.8%	16	14	0.875	30%	Below Average	3	6	9	66.7%	66.7%	25%	18.8%	12.5%	50%
+#15 Matthew Myers	6.4%	15	23	1.533	1%	Poor	2	9	11	81.8%	90.9%	13.3%	20%	20%	66.7%
+#22 Andrew Fratzke	3%	7	8	1.143	-	-	3	2	5	40%	50%	0%	28.6%	0%	57.1%
+#30 Joey Zietlow	1.7%	4	2	0.5	-	-	1	1	2	50%	50%	50%	0%	0%	25%
+#1 Jose Alicea	0.4%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	6.5%	153	128	0.837	58%	Good	57	50	107	46.7%	46.7%	18.3%	14.4%	11.1%	41.8%
+#22 Andrew Fratzke	27.5%	42	32	0.762	66%	Very Good	16	12	28	42.9%	42.9%	21.4%	14.3%	11.9%	38.1%
+#42 Josh Hau	13.7%	21	15	0.714	73%	Very Good	7	7	14	50%	50%	33.3%	4.8%	4.8%	33.3%
+#20 Dane Fronek	12.4%	19	15	0.789	61%	Good	10	5	15	33.3%	33.3%	10.5%	21.1%	21.1%	36.8%
+#0 Noah Gosse	10.5%	16	21	1.313	3%	Poor	2	8	10	80%	80%	18.8%	18.8%	12.5%	68.8%
+#34 Josh Erickson	9.8%	15	14	0.933	36%	Average	6	7	13	53.8%	53.8%	13.3%	0%	0%	46.7%
+#24 Jordan Johnson	7.8%	12	11	0.917	39%	Average	3	3	6	50%	50%	25%	25%	16.7%	50%
+#3 Jake Jurss	6.5%	10	8	0.8	59%	Good	6	4	10	40%	40%	0%	0%	0%	40%
+#4 George Olalekan	4.6%	7	4	0.571	-	-	4	2	6	33.3%	33.3%	0%	14.3%	0%	28.6%
+#2 Isaiah Tenette	3.9%	6	4	0.667	-	-	2	0	2	0%	0%	16.7%	50%	50%	33.3%
+#32 Matt Ulrich	1.3%	2	4	2	-	-	0	2	2	100%	100%	0%	0%	0%	100%
+#15 Matthew Myers	1.3%	2	0	0	-	-	0	0	0	-	-	50%	50%	0%	0%
+#33 Jacob Lord	0.7%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	6.4%	151	120	0.795	54%	Good	68	44	112	39.3%	42%	13.9%	13.2%	9.3%	41.1%
+#42 Josh Hau	17.2%	26	16	0.615	73%	Very Good	14	6	20	30%	30%	15.4%	15.4%	15.4%	30.8%
+#3 Jake Jurss	13.9%	21	10	0.476	87%	Excellent	14	4	18	22.2%	25%	9.5%	4.8%	4.8%	23.8%
+#22 Andrew Fratzke	13.2%	20	19	0.95	28%	Below Average	9	8	17	47.1%	50%	10%	5%	5%	45%
+#24 Jordan Johnson	11.9%	18	8	0.444	90%	Excellent	10	2	12	16.7%	16.7%	16.7%	16.7%	16.7%	27.8%
+#34 Josh Erickson	8.6%	13	9	0.692	63%	Good	4	3	7	42.9%	42.9%	30.8%	15.4%	15.4%	38.5%
+#2 Isaiah Tenette	8.6%	13	16	1.231	6%	Poor	4	5	9	55.6%	66.7%	7.7%	23.1%	7.7%	61.5%
+#0 Noah Gosse	6.6%	10	12	1.2	7%	Poor	3	4	7	57.1%	57.1%	0%	30%	20%	70%
+#4 George Olalekan	6.6%	10	11	1.1	13%	Poor	2	5	7	71.4%	78.6%	30%	0%	0%	50%
+#32 Matt Ulrich	4.6%	7	4	0.571	-	-	4	2	6	33.3%	33.3%	14.3%	0%	0%	28.6%
+#15 Matthew Myers	4.6%	7	7	1	-	-	3	3	6	50%	50%	0%	14.3%	0%	57.1%
+#20 Dane Fronek	2%	3	3	1	-	-	1	1	2	50%	75%	33.3%	0%	0%	33.3%
+#25 Julien Addison	0.7%	1	2	2	-	-	0	0	0	-	-	0%	100%	0%	100%
+#30 Joey Zietlow	0.7%	1	1	1	-	-	0	0	0	-	-	0%	100%	0%	100%
+#33 Jacob Lord	0.7%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	5.5%	129	129	1	24%	Below Average	69	45	114	39.5%	52.6%	7%	5.4%	3.9%	38.8%
+#42 Josh Hau	27.1%	35	34	0.971	41%	Average	20	12	32	37.5%	50%	5.7%	2.9%	2.9%	37.1%
+#3 Jake Jurss	13.2%	17	11	0.647	79%	Very Good	12	4	16	25%	28.1%	0%	5.9%	5.9%	29.4%
+#34 Josh Erickson	12.4%	16	20	1.25	12%	Poor	8	7	15	46.7%	63.3%	0%	6.3%	0%	50%
+#24 Jordan Johnson	11.6%	15	18	1.2	16%	Below Average	5	6	11	54.5%	81.8%	26.7%	0%	0%	40%
+#0 Noah Gosse	10.1%	13	12	0.923	47%	Average	7	3	10	30%	45%	0%	23.1%	15.4%	38.5%
+#15 Matthew Myers	6.2%	8	8	1	-	-	4	3	7	42.9%	57.1%	12.5%	0%	0%	37.5%
+#2 Isaiah Tenette	5.4%	7	3	0.429	-	-	5	1	6	16.7%	25%	14.3%	0%	0%	14.3%
+#22 Andrew Fratzke	3.9%	5	6	1.2	-	-	3	2	5	40%	60%	0%	0%	0%	40%
+#32 Matt Ulrich	3.9%	5	7	1.4	-	-	2	3	5	60%	60%	0%	20%	20%	60%
+#4 George Olalekan	3.1%	4	0	0	-	-	3	0	3	0%	0%	25%	0%	0%	0%
+#20 Dane Fronek	3.1%	4	10	2.5	-	-	0	4	4	100%	125%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	4%	94	90	0.957	51%	Good	39	36	75	48%	51.3%	11.7%	10.6%	9.6%	45.7%
+#22 Andrew Fratzke	22.3%	21	20	0.952	36%	Average	11	8	19	42.1%	47.4%	4.8%	9.5%	4.8%	42.9%
+#3 Jake Jurss	8.5%	8	9	1.125	-	-	2	3	5	60%	70%	25%	12.5%	12.5%	50%
+#20 Dane Fronek	8.5%	8	6	0.75	-	-	5	3	8	37.5%	37.5%	0%	0%	0%	37.5%
+#42 Josh Hau	7.4%	7	7	1	-	-	2	3	5	60%	60%	14.3%	14.3%	14.3%	57.1%
+#24 Jordan Johnson	6.4%	6	2	0.333	-	-	4	0	4	0%	0%	16.7%	16.7%	16.7%	16.7%
+#34 Josh Erickson	5.3%	5	9	1.8	-	-	1	4	5	80%	90%	0%	20%	20%	80%
+#4 George Olalekan	4.3%	4	2	0.5	-	-	2	1	3	33.3%	33.3%	25%	0%	0%	25%
+#15 Matthew Myers	1.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#30 Joey Zietlow	1.1%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#33 Jacob Lord	1.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Concordia (WI) Falcons	2.8%	66	61	0.924	26%	Below Average	32	22	54	40.7%	50.9%	9.1%	10.6%	9.1%	40.9%
+#24 Jordan Johnson	15.2%	10	14	1.4	5%	Poor	3	5	8	62.5%	75%	10%	20%	20%	60%
+#22 Andrew Fratzke	13.6%	9	4	0.444	-	-	6	1	7	14.3%	21.4%	11.1%	11.1%	11.1%	22.2%
+#34 Josh Erickson	12.1%	8	7	0.875	-	-	5	3	8	37.5%	43.8%	0%	0%	0%	37.5%
+#3 Jake Jurss	12.1%	8	10	1.25	-	-	3	4	7	57.1%	71.4%	12.5%	0%	0%	50%
+#42 Josh Hau	12.1%	8	6	0.75	-	-	5	2	7	28.6%	42.9%	12.5%	0%	0%	25%
+#2 Isaiah Tenette	10.6%	7	11	1.571	-	-	3	4	7	57.1%	78.6%	0%	0%	0%	57.1%
+#15 Matthew Myers	7.6%	5	2	0.4	-	-	2	1	3	33.3%	33.3%	20%	20%	20%	20%
+#0 Noah Gosse	4.5%	3	4	1.333	-	-	0	1	1	100%	100%	0%	66.7%	66.7%	100%
+#4 George Olalekan	4.5%	3	0	0	-	-	2	0	2	0%	0%	33.3%	0%	0%	0%
+#20 Dane Fronek	3%	2	1	0.5	-	-	1	0	1	0%	0%	0%	50%	0%	50%
+#11 Jason Klug	1.5%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#32 Matt Ulrich	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#33 Jacob Lord	1.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 

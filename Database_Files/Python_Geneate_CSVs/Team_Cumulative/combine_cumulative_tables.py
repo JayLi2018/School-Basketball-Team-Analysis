@@ -7,7 +7,7 @@ import pandas as pd
 
 def append_cumulative_table(school_name,school_id):
  
-	file_needed_1  = open("C:/Users/lchen/Desktop/Basketball_Project_Archives/Cumulative_Raw_Data/"+school_id+".txt",'r')
+	file_needed_1  = open("C:/Users/lchen/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Team_Cumulative/Cumulative_Raw_Data1/"+school_id+".txt",'r')
 
 	in_table = False
 	in_row = False
@@ -60,12 +60,12 @@ def append_cumulative_table(school_name,school_id):
 	directory = 'C:/Users/lchen/Desktop/'
 	if not os.path.exists(directory):
 		os.makedirs(directory)
-	with open('C:/Users/lchen/Desktop/combined_team_tables.csv','a', newline = '') as ft:
+	with open('C:/Users/lchen/Desktop/combined_team_tables1.csv','a', newline = '') as ft:
 		a = csv.writer(ft,delimiter = ',')
 		# a.writerow(columns_1)  ---- we don't need columns' names here
 		a.writerows(row_1)
 
-	file_needed_1  = open("C:/Users/lchen/Desktop/Basketball_Project_Archives/Cumulative_Raw_Data/"+school_id+".txt",'r')
+	file_needed_1  = open("C:/Users/lchen/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Team_Cumulative/Cumulative_Raw_Data1/"+school_id+".txt",'r')
 
 	in_table = False
 	in_row = False
@@ -118,7 +118,7 @@ def append_cumulative_table(school_name,school_id):
 	directory = 'C:/Users/lchen/Desktop/'
 	if not os.path.exists(directory):
 		os.makedirs(directory)
-	with open('C:/Users/lchen/Desktop/combined_team_tables.csv','a', newline = '') as ft:
+	with open('C:/Users/lchen/Desktop/combined_team_tables1.csv','a', newline = '') as ft:
 		a = csv.writer(ft,delimiter = ',')
 		# a.writerow(columns_1)  ---- we don't need columns' names here
 		a.writerows(row_1)

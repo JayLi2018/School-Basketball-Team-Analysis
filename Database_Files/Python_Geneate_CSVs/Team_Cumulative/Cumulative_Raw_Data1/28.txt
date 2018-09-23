@@ -1,0 +1,61 @@
+
+
+
+
+
+nopix	_	_	nopix
+
+Cumulative_Box_Score/College_Men_-_Wisconsin_Lutheran_Warriors	Change
+Team
+Offensive	Defensive	Cumulative_Box	_	_
+Report_Contents	Print_Possessions_/_Game
+Season:_2017-2018	Team:	Date_Range:_11/15/2017_to_02/17/2018	Report_Generated:_09/22/2018
+
+
+Lutheran-WI
+Matt_Baker	5	7	0.54	0	3	0	0	-	0	0	0	0	0	0
+Colin_Biesterfeld	25	539	0.41	0.16	106	50	38	1.32	9	19	0	37	9	28
+Caleb_Goldstein	25	492	0.76	0.18	139	37	25	1.48	10	15	0	38	5	33
+Ben_Kennedy	7	23	0.53	0.35	3	1	1	1	0	1	0	6	2	4
+Matty_Farner	21	299	0.90	0.61	57	14	11	1.27	16	5	9	94	31	63
+Christian_Kennedy	25	381	0.61	0.25	103	32	19	1.68	8	7	1	42	8	34
+Chase_Nowak	25	779	1.17	0.21	429	59	88	0.67	32	48	15	102	29	73
+Tim_Edwards	3	5	0	0	0	0	0	-	0	0	0	0	0	0
+Randy_Johnson_Jr	14	83	0.91	0.16	41	8	8	1	0	4	0	12	1	11
+Mack_Knueppel	24	602	1.16	0.36	233	57	49	1.16	29	31	9	96	28	68
+Grant_Beck	19	78	0.68	0.36	11	4	3	1.33	2	2	2	14	4	10
+Sam_Kaufman	18	91	0.58	0.21	22	8	8	1	5	6	0	7	2	5
+Alex_Thiede	3	10	0.89	0.20	4	0	0	-	0	0	0	2	0	2
+Jerrod_Klug	2	3	2.43	-.67	2	0	1	0	0	1	0	0	0	0
+Paul_Schmelzer	6	24	0.53	0.25	2	0	3	0	0	3	0	8	4	4
+Eric_Boulden	8	15	0.24	0.27	2	0	0	-	0	0	1	2	0	2
+Anthony_Minnema	6	13	0.56	0.15	4	1	1	1	1	0	0	0	0	0
+Paul_Koier	24	226	0.94	0.54	54	8	10	0.80	7	3	12	67	22	45
+Collin_Kennedy	25	832	1.45	0.26	537	24	67	0.36	21	35	2	200	55	145
+Tyler_Young	25	597	0.98	0.41	189	29	49	0.59	11	19	17	180	49	131
+
+Lutheran-WI_1
+Matt_Baker	5	2	1	1	50%	75%	1	0	1	0%	1	1	0	100%	0	0	0	-	0	0	1
+Colin_Biesterfeld	25	127	36	91	28.4%	35.4%	69	18	51	26.1%	58	18	40	31%	22	16	6	72.7%	2	22	33
+Caleb_Goldstein	25	111	40	71	36%	42.3%	59	26	33	44.1%	52	14	38	26.9%	54	45	9	83.3%	2	39	23
+Ben_Kennedy	7	4	1	3	25%	25%	4	1	3	25%	0	0	0	-	2	1	1	50%	0	1	4
+Matty_Farner	21	50	24	26	48%	48%	48	24	24	50%	2	0	2	0%	15	9	6	60%	0	10	31
+Christian_Kennedy	25	102	37	65	36.3%	44.1%	50	21	29	42%	52	16	36	30.8%	20	13	7	65%	3	18	41
+Chase_Nowak	25	350	162	188	46.3%	49.6%	260	139	121	53.5%	90	23	67	25.6%	102	82	20	80.4%	12	78	65
+Tim_Edwards	3	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Randy_Johnson_Jr	14	27	13	14	48.2%	68.5%	5	2	3	40%	22	11	11	50%	6	4	2	66.7%	0	4	7
+Mack_Knueppel	24	153	71	82	46.4%	54.6%	89	46	43	51.7%	64	25	39	39.1%	86	66	20	76.7%	4	67	58
+Grant_Beck	19	11	3	8	27.3%	27.3%	10	3	7	30%	1	0	1	0%	6	5	1	83.3%	0	3	6
+Sam_Kaufman	18	19	8	11	42.1%	47.4%	13	6	7	46.2%	6	2	4	33.3%	8	4	4	50%	0	6	10
+Alex_Thiede	3	3	1	2	33.3%	50%	0	0	0	-	3	1	2	33.3%	2	1	1	50%	0	1	2
+Jerrod_Klug	2	0	0	0	-	-	0	0	0	-	0	0	0	-	2	2	0	100%	0	1	0
+Paul_Schmelzer	6	3	0	3	0%	0%	2	0	2	0%	1	0	1	0%	2	2	0	100%	0	1	4
+Eric_Boulden	8	5	1	4	20%	20%	4	1	3	25%	1	0	1	0%	0	0	0	-	0	0	1
+Anthony_Minnema	6	3	2	1	66.7%	66.7%	3	2	1	66.7%	0	0	0	-	0	0	0	-	0	0	0
+Paul_Koier	24	47	22	25	46.8%	46.8%	47	22	25	46.8%	0	0	0	-	13	10	3	76.9%	1	9	48
+Collin_Kennedy	25	418	193	225	46.2%	49.4%	339	166	173	49%	79	27	52	34.2%	160	124	36	77.5%	12	123	64
+Tyler_Young	25	136	64	72	47.1%	54.8%	85	43	42	50.6%	51	21	30	41.2%	58	40	18	69%	3	50	82
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.163	_	_

@@ -1,0 +1,65 @@
+
+
+
+
+
+nopix	_	_	nopix
+
+Cumulative_Box_Score/College_Men_-_Benedictine_(IL)_Eagles	Change
+Team
+Offensive	Defensive	Cumulative_Box	_	_
+Report_Contents	Print_Possessions_/_Game
+Season:_2017-2018	Team:	Date_Range:_11/15/2017_to_02/24/2018	Report_Generated:_09/22/2018
+
+
+Benedictine
+Brayden_Olson	26	845	1.40	0.30	565	134	89	1.51	26	37	3	93	14	79
+Dan_Gallagher	4	1	3.10	0	2	0	0	-	0	0	0	0	0	0
+Logan_Atkins	8	7	0.46	0.14	2	0	0	-	0	1	0	1	0	1
+Calvin_Brooks	3	15	0.72	0.27	2	0	0	-	0	0	0	4	0	4
+Isaiah_Gransberry	2	1	1	1	0	0	0	-	0	0	0	1	0	1
+Shaka_Washington	20	129	0.51	0.22	20	11	7	1.57	2	5	1	12	3	9
+Hayden_Helfrich	7	20	0.77	0.15	6	1	4	0.25	3	3	0	3	0	3
+Jaquan_Phipps	11	198	0.72	0.27	38	4	11	0.36	4	3	6	34	13	21
+Marques_Barnes	1	18	0.63	-.06	4	0	1	0	0	1	0	1	0	1
+Jonathon_Bailey	11	29	0.56	0.31	8	1	3	0.33	0	0	1	8	3	5
+Andrew_Shear	2	3	-.53	0	0	0	0	-	0	0	0	0	0	0
+Walter_Taylor	4	4	1.53	0.75	2	0	0	-	0	0	1	1	0	1
+Kenny_Bogus	26	795	1.11	0.44	278	89	66	1.35	31	38	35	146	24	122
+Paul_Noack	9	26	0.46	0.35	3	2	0	-	1	0	0	2	1	1
+Cole_Davenport	18	105	0.22	0.11	12	5	6	0.83	1	2	0	9	3	6
+Zach_Gorney	26	530	0.65	0.27	133	22	10	2.20	10	3	2	68	28	40
+Jens_Soderholm	26	602	1.65	0.45	404	31	31	1	6	21	11	197	40	157
+Kejuan_Glosson	26	673	0.68	0.23	171	56	38	1.47	24	22	0	61	11	50
+James_Dietz	25	210	0.65	0.38	38	5	5	1	5	3	6	44	14	30
+Eric_Grygo	26	611	1.29	0.50	286	23	34	0.68	7	12	33	189	56	133
+Kyle_Hornacek	10	25	1.35	0.96	9	2	2	1	0	1	2	14	6	8
+Richard_Krupa	5	10	-.48	-.40	0	0	2	0	0	2	0	0	0	0
+
+Benedictine_1
+Brayden_Olson	26	458	197	261	43%	51.1%	246	123	123	50%	212	74	138	34.9%	126	97	29	77%	11	140	63
+Dan_Gallagher	4	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	0
+Logan_Atkins	8	2	1	1	50%	50%	2	1	1	50%	0	0	0	-	0	0	0	-	0	1	0
+Calvin_Brooks	3	1	0	1	0%	0%	1	0	1	0%	0	0	0	-	4	2	2	50%	0	2	2
+Isaiah_Gransberry	2	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Shaka_Washington	20	21	5	16	23.8%	31%	3	2	1	66.7%	18	3	15	16.7%	10	7	3	70%	0	9	19
+Hayden_Helfrich	7	5	2	3	40%	40%	2	2	0	100%	3	0	3	0%	3	2	1	66.7%	0	2	3
+Jaquan_Phipps	11	23	12	11	52.2%	52.2%	23	12	11	52.2%	0	0	0	-	18	14	4	77.8%	3	16	25
+Marques_Barnes	1	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	2	2	0	100%	0	1	1
+Jonathon_Bailey	11	7	4	3	57.1%	57.1%	7	4	3	57.1%	0	0	0	-	3	0	3	0%	0	3	3
+Andrew_Shear	2	2	0	2	0%	0%	0	0	0	-	2	0	2	0%	0	0	0	-	0	0	1
+Walter_Taylor	4	1	1	0	100%	100%	1	1	0	100%	0	0	0	-	0	0	0	-	0	0	0
+Kenny_Bogus	26	203	93	110	45.8%	51%	135	72	63	53.3%	68	21	47	30.9%	102	71	31	69.6%	9	89	46
+Paul_Noack	9	2	1	1	50%	75%	0	0	0	-	2	1	1	50%	1	0	1	0%	0	1	1
+Cole_Davenport	18	13	5	8	38.5%	46.2%	6	3	3	50%	7	2	5	28.6%	1	0	1	0%	0	1	10
+Zach_Gorney	26	113	50	63	44.2%	51.8%	66	33	33	50%	47	17	30	36.2%	17	16	1	94.1%	3	15	32
+Jens_Soderholm	26	280	141	139	50.4%	58.9%	162	93	69	57.4%	118	48	70	40.7%	96	74	22	77.1%	11	70	55
+Kejuan_Glosson	26	122	53	69	43.4%	57%	52	20	32	38.5%	70	33	37	47.1%	39	32	7	82%	2	25	39
+James_Dietz	25	39	15	24	38.5%	39.7%	34	14	20	41.2%	5	1	4	20%	11	7	4	63.6%	1	12	40
+Eric_Grygo	26	198	123	75	62.1%	62.6%	188	121	67	64.4%	10	2	8	20%	52	38	14	73.1%	11	40	87
+Kyle_Hornacek	10	9	3	6	33.3%	44.4%	2	1	1	50%	7	2	5	28.6%	4	1	3	25%	0	2	4
+Richard_Krupa	5	1	0	1	0%	0%	0	0	0	-	1	0	1	0%	0	0	0	-	0	0	1
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.163	_	_

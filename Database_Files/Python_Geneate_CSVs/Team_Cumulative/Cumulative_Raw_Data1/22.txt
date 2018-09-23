@@ -1,0 +1,54 @@
+
+
+
+
+
+nopix	_	_	nopix
+
+Cumulative_Box_Score/College_Men_-_Northern_Illinois_Huskies	Change
+Team
+Offensive	Defensive	Cumulative_Box	_	_
+Report_Contents	Print_Possessions_/_Game
+Season:_2017-2018	Team:	Date_Range:_11/10/2017_to_03/05/2018	Report_Generated:_09/22/2018
+
+
+NIU
+Dante_Thorpe	28	752	0.83	0.24	287	47	48	0.98	24	22	8	87	30	57
+Marshawn_Wilson	1	26	2.39	0.27	23	0	1	0	3	0	0	2	1	1
+Gairges_Daow	32	673	0.60	0.27	137	26	32	0.81	21	14	5	112	31	81
+Marlo_Brown	3	2	0	0	0	0	0	-	0	0	0	0	0	0
+Lacey_James	32	685	0.81	0.26	184	17	58	0.29	21	21	7	150	57	93
+Justin_Thomas	32	820	0.68	0.30	189	59	32	1.84	41	16	3	88	13	75
+Eugene_German	32	991	1.29	0.18	659	54	66	0.82	28	29	5	122	13	109
+Noah_McCarty	32	531	0.70	0.31	130	18	32	0.56	17	15	10	102	36	66
+Anastasios_Demogerontas	30	450	0.71	0.26	119	21	28	0.75	20	8	3	63	23	40
+Jon_Siu	5	13	0.75	0.15	6	1	1	1	0	1	0	2	0	2
+Rod_Henry-Hayes	24	210	0.63	0.26	50	15	5	3	4	1	2	17	5	12
+Brennen_Woods	3	5	0.20	0.20	0	1	1	1	0	0	0	1	0	1
+Andrew_Zelis	12	65	0.72	0.37	16	3	3	1	0	2	4	10	6	4
+Owen_Hamilton	27	184	0.72	0.28	50	3	10	0.30	7	3	3	35	11	24
+Levi_Bradley	32	923	1.21	0.27	456	23	41	0.56	28	17	7	173	42	131
+Brandon_Danowski	9	17	0.96	0	7	1	3	0.33	1	3	0	2	0	2
+
+
+NIU_1
+Dante_Thorpe	28	226	119	107	52.6%	55.8%	189	105	84	55.6%	37	14	23	37.8%	51	35	16	68.6%	11	38	60
+Marshawn_Wilson	1	13	7	6	53.8%	53.8%	10	7	3	70%	3	0	3	0%	13	9	4	69.2%	0	0	1
+Gairges_Daow	32	119	48	71	40.3%	47.1%	71	32	39	45.1%	48	16	32	33.3%	34	25	9	73.5%	0	26	66
+Marlo_Brown	3	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Lacey_James	32	154	61	93	39.6%	39.6%	153	61	92	39.9%	1	0	1	0%	89	62	27	69.7%	9	65	105
+Justin_Thomas	32	149	67	82	45%	52%	96	46	50	47.9%	53	21	32	39.6%	54	34	20	63%	3	42	44
+Eugene_German	32	516	243	273	47.1%	53.1%	333	181	152	54.4%	183	62	121	33.9%	145	111	34	76.6%	15	120	52
+Noah_McCarty	32	116	48	68	41.4%	44.8%	83	40	43	48.2%	33	8	25	24.2%	43	26	17	60.5%	1	28	70
+Anastasios_Demogerontas	30	95	45	50	47.4%	51%	73	38	35	52%	22	7	15	31.8%	33	22	11	66.7%	3	22	39
+Jon_Siu	5	4	2	2	50%	75%	0	0	0	-	4	2	2	50%	0	0	0	-	0	0	2
+Rod_Henry-Hayes	24	38	17	21	44.7%	57.9%	9	7	2	77.8%	29	10	19	34.5%	8	6	2	75%	0	4	21
+Brennen_Woods	3	0	0	0	-	-	0	0	0	-	0	0	0	-	0	0	0	-	0	0	0
+Andrew_Zelis	12	14	7	7	50%	50%	14	7	7	50%	0	0	0	-	4	2	2	50%	0	3	11
+Owen_Hamilton	27	34	22	12	64.7%	64.7%	33	22	11	66.7%	1	0	1	0%	12	6	6	50%	1	12	30
+Levi_Bradley	32	367	157	210	42.8%	46.3%	277	131	146	47.3%	90	26	64	28.9%	138	116	22	84.1%	15	112	84
+Brandon_Danowski	9	2	2	0	100%	125%	1	1	0	100%	1	1	0	100%	3	2	1	66.7%	1	2	1
+
+_
+©2004-2018_Synergy_Sports_Technology,_LLC._All_Rights_Reserved
+v-1.0.163	_	_

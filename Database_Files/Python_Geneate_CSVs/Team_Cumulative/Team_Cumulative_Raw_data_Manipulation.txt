@@ -1,0 +1,18 @@
+Team_Cumulative_Raw_data
+
+1. change the name of the teams to the same as how it shows in "Team_Table"
+
+2. change the second table of the team to "teamname_1" format
+
+3. delete #
+
+4. add "_" in names
+
+5. delete_numbers
+
+6. delete team totals(search “ Team_Totals.* ”)
+
+appendix:
+
+#[0-9][0-9] 
+#[0-9]

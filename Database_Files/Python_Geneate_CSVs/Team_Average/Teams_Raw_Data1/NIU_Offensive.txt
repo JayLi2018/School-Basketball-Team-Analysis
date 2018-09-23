@@ -1,0 +1,572 @@
+
+
+
+
+
+nopix	 	 	nopix
+
+Multi-Game Team Views/College Men - Offensive - Northern Illinois Huskies	Change
+Team
+Offensive	Defensive	Cumulative Box	 	 
+Report Contents - Offense vs. Man and Zone Defense	Print Man Zone Possessions / Game	Report Generated: 09/22/2018
+Season: 2017-2018	Team: Northern Illinois Huskies	Date Range: 11/10/2017 to 03/05/2018	Number of Games: 32
+
+Overall Offense
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	100%	2504	2294	0.916	51%	Good	1017	842	1859	45.3%	49.8%	14.5%	13.6%	10.3%	43.4%
+ Transition	19.3%	483	517	1.07	66%	Very Good	146	197	343	57.4%	60.1%	14.7%	17.6%	14.9%	53.4%
+ Overall Half Court	80.7%	2021	1777	0.879	43%	Average	871	645	1516	42.5%	47.5%	14.5%	12.7%	9.2%	41%
+                    Short Shot Clock <4 Seconds	5.1%	127	82	0.646	20%	Below Average	82	31	113	27.4%	29.6%	5.5%	8.7%	7.9%	29.9%
+Breakdown of Out of Bounds / After Time Out Situations:
+         Out of Bounds (End)	7.3%	147	111	0.755	17%	Below Average	73	41	114	36%	41.7%	15.6%	6.8%	6.1%	34%
+         Out of Bounds (Side)	4.4%	88	77	0.875	61%	Good	40	26	66	39.4%	45.5%	12.5%	15.9%	13.6%	39.8%
+         After Time Outs	18%	363	287	0.791	17%	Below Average	183	111	294	37.8%	41.8%	12.4%	8.8%	6.3%	36.6%
+Breakdown of Half Court Offensive Situations by Defense Type:
+    Against Man	78.6%	1588	1390	0.875	44%	Average	685	495	1180	41.9%	46.4%	14%	14.2%	10%	41.2%
+    Against Zone	21.4%	433	387	0.894	35%	Average	186	150	336	44.6%	51.3%	16.2%	7.2%	6%	40.4%
+Breakdown of Full Court Press Situations:
+  Press Offense	5.8%	118	99	0.839	41%	Average	47	33	80	41.3%	45.6%	17.8%	16.1%	7.6%	40.7%
+
+
+Play Types
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+ Spot Up	20.8%	520	495	0.952	55%	Good	277	177	454	39%	50.7%	8.7%	4.8%	3.8%	37.7%
+ Transition	19.3%	483	517	1.07	66%	Very Good	146	197	343	57.4%	60.1%	14.7%	17.6%	14.9%	53.4%
+ P&R Ball Handler	13.9%	347	314	0.905	93%	Excellent	157	123	280	43.9%	47.3%	11.8%	10.4%	8.9%	42.1%
+ Post-Up	9.5%	238	187	0.786	35%	Average	98	68	166	41%	41%	18.5%	15.5%	11.3%	39.1%
+ Isolation	7.6%	191	159	0.832	63%	Good	92	61	153	39.9%	43.1%	11%	10.5%	7.9%	40.8%
+ Offensive Rebounds (put backs)	7.3%	184	205	1.114	58%	Good	57	80	137	58.4%	58.4%	7.6%	21.7%	18.5%	58.2%
+ Cut	7.1%	178	174	0.978	6%	Poor	63	65	128	50.8%	50.8%	10.7%	20.2%	18.5%	51.1%
+ P&R Roll Man	5.2%	130	110	0.846	16%	Below Average	69	39	108	36.1%	39.4%	6.2%	13.8%	13.1%	39.2%
+ Hand Off	1.4%	34	21	0.618	9%	Poor	16	7	23	30.4%	32.6%	23.5%	8.8%	5.9%	29.4%
+ Off Screen	1.3%	32	31	0.969	70%	Very Good	18	10	28	35.7%	44.6%	3.1%	12.5%	9.4%	40.6%
+ Miscellaneous	6.7%	167	81	0.485	28%	Below Average	24	15	39	38.5%	41%	55.1%	22.2%	1.8%	26.3%
+
+
+Offense Including Passes
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  Isolations Including Passes	9.2%	230	193	0.839	46%	Average	113	71	184	38.6%	42.1%	9.6%	12.2%	9.6%	40.9%
+  Pick and Rolls Including Passes	25.6%	642	581	0.905	66%	Very Good	314	219	533	41.1%	46.3%	9.7%	9.7%	8.6%	40.7%
+  Post-Ups Including Passes	11.5%	288	242	0.84	35%	Average	120	89	209	42.6%	44%	16.3%	14.2%	10.8%	41%
+
+
+During Pass Out Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  ISO - Defense Commits	1.6%	39	34	0.872	26%	Below Average	21	10	31	32.3%	37.1%	2.6%	20.5%	17.9%	41%
+  P&R BH - Defense Commits	13%	325	271	0.834	44%	Average	157	96	253	37.9%	45.3%	14.8%	8.9%	7.4%	36.3%
+  Post-Up - Defense Commits	2%	50	55	1.1	61%	Good	22	21	43	48.8%	55.8%	6%	8%	8%	50%
+
+
+During Trapping Situations
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+  P&R BH - Traps	0.4%	11	11	1	75%	Very Good	3	3	6	50%	50%	18.2%	27.3%	9.1%	54.5%
+  Post-Up - Hard Double	2.4%	60	48	0.8	44%	Average	26	16	42	38.1%	44%	18.3%	11.7%	8.3%	36.7%
+
+
+Shot Attempt - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Jump Shots	42.1%	638	588	0.922	31%	Average	420	218	638	34.2%	45.9%	0%	0.3%	0.3%	34.2%
+          Short Shot Clock <4 Seconds	4.3%	65	21	0.323	1%	Poor	57	8	65	12.3%	16.2%	0%	0%	0%	12.3%
+Runner	13.5%	204	198	0.971	98%	Excellent	107	97	204	47.5%	47.5%	0%	3.4%	3.4%	47.5%
+          Short Shot Clock <4 Seconds	0.7%	11	7	0.636	59%	Good	8	3	11	27.3%	27.3%	0%	9.1%	9.1%	27.3%
+Around Basket (not Post-Ups)	33.5%	508	542	1.067	16%	Below Average	246	262	508	51.6%	51.6%	0%	5.1%	5.1%	51.6%
+Post-Ups	10.9%	166	143	0.861	23%	Below Average	98	68	166	41%	41%	0%	5.4%	5.4%	41%
+          Short Shot Clock <4 Seconds	0.3%	5	4	0.8	-	-	3	2	5	40%	40%	0%	0%	0%	40%
+Video Not Available	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+
+Catch and Shoot - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Catch and Shoot	25.1%	380	380	1	31%	Average	248	132	380	34.7%	49.9%	0%	0.3%	0.3%	34.7%
+  Guarded	64.7%	246	243	0.988	48%	Average	162	84	246	34.1%	49.2%	0%	0.4%	0.4%	34.1%
+  Unguarded	35.3%	134	137	1.022	22%	Below Average	86	48	134	35.8%	51.1%	0%	0%	0%	35.8%
+
+
+Dribble Jumper - Half Court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+All Jump Shots off the Dribble	12.7%	192	141	0.734	24%	Below Average	132	60	192	31.3%	36.7%	0%	0%	0%	31.3%
+
+
+Jump Shot Range - half court
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Short (<17')	13.6%	87	65	0.747	42%	Average	55	32	87	36.8%	36.8%	0%	1.1%	1.1%	36.8%
+Medium (17' to <3 point line)	15.7%	100	72	0.72	56%	Good	64	36	100	36%	36%	0%	0%	0%	36%
+Long (3 point jump shots)	70.7%	451	451	1	33%	Average	301	150	451	33.3%	49.9%	0%	0.2%	0.2%	33.3%
+
+
+ Overall
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	100%	2504	2294	0.916	51%	Good	1017	842	1859	45.3%	49.8%	14.5%	13.6%	10.3%	43.4%
+#10 EugeneGerman	25.7%	643	647	1.006	81%	Very Good	275	239	514	46.5%	52.4%	10%	12.4%	10.4%	46.2%
+#42 Levi Bradley	19.2%	482	462	0.959	71%	Very Good	217	161	378	42.6%	46%	8.7%	16%	10.8%	45.2%
+#0 Dante Thorpe	12.2%	305	303	0.993	78%	Very Good	110	126	236	53.4%	56.8%	16.4%	9.8%	8.2%	47.2%
+#4 LaceyJames	10.1%	252	185	0.734	19%	Below Average	93	62	155	40%	40%	22.6%	19.4%	15.9%	38.5%
+#5 Justin Thomas	8.7%	217	191	0.88	49%	Average	87	67	154	43.5%	50.3%	15.7%	15.2%	9.7%	40.6%
+#2 Gairges Daow	7.1%	177	139	0.785	27%	Below Average	76	49	125	39.2%	45.6%	19.8%	9.6%	4.5%	36.2%
+#11 Noah McCarty	6.7%	168	127	0.756	22%	Below Average	69	47	116	40.5%	44%	18.5%	13.1%	9.5%	38.1%
+#12 Anastasios Demogerontas	5.3%	132	115	0.871	47%	Average	48	43	91	47.3%	51.1%	19.7%	13.6%	12.1%	43.2%
+#33 Owen Hamilton	2%	49	48	0.98	75%	Very Good	11	21	32	65.6%	65.6%	22.4%	14.3%	12.2%	51%
+#22 Rod Henry-Hayes	1.9%	48	50	1.042	87%	Excellent	21	17	38	44.7%	57.9%	12.5%	8.3%	4.2%	43.8%
+#32 Andrew Zelis	0.7%	18	14	0.778	25%	Below Average	7	6	13	46.2%	46.2%	16.7%	11.1%	11.1%	38.9%
+#20 Jon Siu	0.2%	6	6	1	-	-	3	2	5	40%	60%	16.7%	0%	0%	33.3%
+#55 BrandonDanowski	0.2%	6	7	1.167	-	-	0	2	2	100%	125%	50%	33.3%	33.3%	50%
+#25 BrennenWoods	<1%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ Spot Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	20.8%	520	495	0.952	55%	Good	277	177	454	39%	50.7%	8.7%	4.8%	3.8%	37.7%
+#10 EugeneGerman	24%	125	132	1.056	76%	Very Good	63	47	110	42.7%	56.4%	7.2%	4.8%	3.2%	40.8%
+#42 Levi Bradley	16.7%	87	91	1.046	74%	Very Good	45	32	77	41.6%	54.5%	6.9%	5.7%	3.4%	41.4%
+#5 Justin Thomas	16%	83	87	1.048	75%	Very Good	44	30	74	40.5%	52.7%	6%	6%	4.8%	41%
+#2 Gairges Daow	10.4%	54	53	0.981	62%	Good	29	19	48	39.6%	55.2%	11.1%	0%	0%	35.2%
+#12 Anastasios Demogerontas	8.7%	45	29	0.644	15%	Below Average	22	10	32	31.3%	39.1%	24.4%	4.4%	4.4%	26.7%
+#0 Dante Thorpe	8.5%	44	46	1.045	74%	Very Good	24	19	43	44.2%	53.5%	2.3%	2.3%	2.3%	43.2%
+#11 Noah McCarty	5.4%	28	14	0.5	6%	Poor	18	5	23	21.7%	28.3%	14.3%	3.6%	3.6%	21.4%
+#4 LaceyJames	5%	26	19	0.731	23%	Below Average	14	7	21	33.3%	33.3%	7.7%	15.4%	15.4%	38.5%
+#22 Rod Henry-Hayes	3.8%	20	19	0.95	56%	Good	13	6	19	31.6%	47.4%	0%	5%	5%	35%
+#20 Jon Siu	0.4%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#32 Andrew Zelis	0.4%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#33 Owen Hamilton	0.4%	2	2	1	-	-	1	1	2	50%	50%	0%	0%	0%	50%
+#25 BrennenWoods	0.2%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#55 BrandonDanowski	0.2%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Transition
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	19.3%	483	517	1.07	66%	Very Good	146	197	343	57.4%	60.1%	14.7%	17.6%	14.9%	53.4%
+#10 EugeneGerman	37.7%	182	202	1.11	63%	Good	52	79	131	60.3%	62.6%	13.2%	17%	15.4%	56%
+#0 Dante Thorpe	18%	87	107	1.23	80%	Very Good	21	43	64	67.2%	69.5%	16.1%	16.1%	14.9%	59.8%
+#5 Justin Thomas	11.8%	57	54	0.947	35%	Average	16	18	34	52.9%	54.4%	15.8%	28.1%	19.3%	50.9%
+#2 Gairges Daow	8.9%	43	34	0.791	14%	Poor	19	12	31	38.7%	40.3%	16.3%	11.6%	4.7%	39.5%
+#42 Levi Bradley	8.3%	40	40	1	43%	Average	16	14	30	46.7%	50%	10%	20%	20%	47.5%
+#12 Anastasios Demogerontas	5.4%	26	29	1.115	64%	Good	8	11	19	57.9%	63.2%	15.4%	15.4%	15.4%	53.8%
+#4 LaceyJames	3.1%	15	13	0.867	23%	Below Average	4	5	9	55.6%	55.6%	26.7%	20%	20%	46.7%
+#11 Noah McCarty	2.7%	13	14	1.077	57%	Good	3	6	9	66.7%	72.2%	23.1%	7.7%	7.7%	53.8%
+#22 Rod Henry-Hayes	2.5%	12	11	0.917	30%	Below Average	6	4	10	40%	45%	8.3%	8.3%	0%	41.7%
+#33 Owen Hamilton	0.6%	3	6	2	-	-	0	3	3	100%	100%	0%	0%	0%	100%
+#55 BrandonDanowski	0.6%	3	4	1.333	-	-	0	1	1	100%	100%	33.3%	66.7%	66.7%	66.7%
+#20 Jon Siu	0.4%	2	3	1.5	-	-	1	1	2	50%	75%	0%	0%	0%	50%
+
+
+ P&R Ball Handler
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	13.9%	347	314	0.905	93%	Excellent	157	123	280	43.9%	47.3%	11.8%	10.4%	8.9%	42.1%
+#10 EugeneGerman	55.3%	192	193	1.005	93%	Excellent	92	71	163	43.6%	48.2%	6.3%	13%	10.9%	45.8%
+#0 Dante Thorpe	23.6%	82	71	0.866	73%	Very Good	36	33	69	47.8%	49.3%	13.4%	3.7%	3.7%	41.5%
+#5 Justin Thomas	11%	38	24	0.632	26%	Below Average	14	10	24	41.7%	41.7%	26.3%	13.2%	10.5%	31.6%
+#2 Gairges Daow	5.8%	20	12	0.6	22%	Below Average	9	4	13	30.8%	30.8%	25%	10%	10%	30%
+#12 Anastasios Demogerontas	2.3%	8	6	0.75	-	-	4	3	7	42.9%	42.9%	12.5%	0%	0%	37.5%
+#22 Rod Henry-Hayes	1.2%	4	5	1.25	-	-	0	1	1	100%	150%	50%	25%	25%	50%
+#42 Levi Bradley	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#20 Jon Siu	0.3%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+#4 LaceyJames	0.3%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Post-Up
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	9.5%	238	187	0.786	35%	Average	98	68	166	41%	41%	18.5%	15.5%	11.3%	39.1%
+#42 Levi Bradley	47.9%	114	98	0.86	61%	Good	49	35	84	41.7%	41.7%	14%	17.5%	10.5%	42.1%
+#4 LaceyJames	31.9%	76	50	0.658	22%	Below Average	30	18	48	37.5%	37.5%	26.3%	14.5%	13.2%	32.9%
+#11 Noah McCarty	10.5%	25	24	0.96	80%	Very Good	10	9	19	47.4%	47.4%	12%	12%	12%	48%
+#33 Owen Hamilton	7.6%	18	11	0.611	16%	Below Average	6	5	11	45.5%	45.5%	27.8%	11.1%	5.6%	33.3%
+#32 Andrew Zelis	1.3%	3	4	1.333	-	-	1	1	2	50%	50%	0%	33.3%	33.3%	66.7%
+#12 Anastasios Demogerontas	0.8%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+
+
+ Isolation
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	7.6%	191	159	0.832	63%	Good	92	61	153	39.9%	43.1%	11%	10.5%	7.9%	40.8%
+#10 EugeneGerman	45%	86	73	0.849	60%	Good	44	26	70	37.1%	41.4%	9.3%	11.6%	10.5%	39.5%
+#42 Levi Bradley	26.7%	51	41	0.804	52%	Good	30	19	49	38.8%	39.8%	2%	2%	0%	39.2%
+#0 Dante Thorpe	16.2%	31	29	0.935	74%	Very Good	12	11	23	47.8%	54.3%	16.1%	12.9%	9.7%	45.2%
+#5 Justin Thomas	3.1%	6	5	0.833	-	-	2	2	4	50%	50%	16.7%	16.7%	0%	50%
+#12 Anastasios Demogerontas	3.1%	6	7	1.167	-	-	1	3	4	75%	75%	16.7%	16.7%	16.7%	66.7%
+#4 LaceyJames	2.6%	5	1	0.2	-	-	2	0	2	0%	0%	40%	20%	20%	20%
+#2 Gairges Daow	1.6%	3	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#11 Noah McCarty	1%	2	3	1.5	-	-	0	0	0	-	-	0%	100%	50%	100%
+#22 Rod Henry-Hayes	0.5%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+
+
+ Offensive Rebounds (put backs)
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	7.3%	184	205	1.114	58%	Good	57	80	137	58.4%	58.4%	7.6%	21.7%	18.5%	58.2%
+#4 LaceyJames	23.4%	43	42	0.977	29%	Below Average	15	15	30	50%	50%	11.6%	23.3%	23.3%	51.2%
+#42 Levi Bradley	15.2%	28	35	1.25	74%	Very Good	9	11	20	55%	55%	0%	32.1%	21.4%	67.9%
+#2 Gairges Daow	11.4%	21	22	1.048	41%	Average	6	10	16	62.5%	62.5%	9.5%	14.3%	14.3%	57.1%
+#11 Noah McCarty	10.9%	20	22	1.1	50%	Average	5	9	14	64.3%	64.3%	10%	20%	15%	55%
+#0 Dante Thorpe	9.8%	18	21	1.167	60%	Good	6	9	15	60%	60%	11.1%	16.7%	16.7%	55.6%
+#12 Anastasios Demogerontas	9.2%	17	23	1.353	86%	Excellent	3	9	12	75%	75%	11.8%	29.4%	23.5%	70.6%
+#10 EugeneGerman	5.4%	10	9	0.9	21%	Below Average	5	3	8	37.5%	37.5%	0%	20%	20%	50%
+#5 Justin Thomas	4.9%	9	8	0.889	-	-	4	3	7	42.9%	42.9%	11.1%	11.1%	11.1%	44.4%
+#33 Owen Hamilton	4.9%	9	12	1.333	-	-	2	6	8	75%	75%	0%	11.1%	11.1%	66.7%
+#32 Andrew Zelis	3.3%	6	6	1	-	-	2	3	5	60%	60%	0%	16.7%	16.7%	50%
+#22 Rod Henry-Hayes	1.6%	3	5	1.667	-	-	0	2	2	100%	100%	0%	33.3%	0%	100%
+
+
+ Cut
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	7.1%	178	174	0.978	6%	Poor	63	65	128	50.8%	50.8%	10.7%	20.2%	18.5%	51.1%
+#42 Levi Bradley	32%	57	61	1.07	39%	Average	24	26	50	52%	52%	1.8%	12.3%	12.3%	54.4%
+#4 LaceyJames	22.5%	40	35	0.875	15%	Below Average	13	9	22	40.9%	40.9%	17.5%	32.5%	27.5%	45%
+#11 Noah McCarty	16.9%	30	27	0.9	17%	Below Average	8	10	18	55.6%	55.6%	16.7%	23.3%	20%	50%
+#12 Anastasios Demogerontas	10.7%	19	17	0.895	16%	Below Average	8	6	14	42.9%	42.9%	5.3%	21.1%	21.1%	52.6%
+#2 Gairges Daow	6.2%	11	10	0.909	18%	Below Average	4	4	8	50%	50%	18.2%	9.1%	9.1%	45.5%
+#0 Dante Thorpe	4.5%	8	10	1.25	-	-	2	5	7	71.4%	71.4%	12.5%	12.5%	12.5%	62.5%
+#33 Owen Hamilton	3.9%	7	8	1.143	-	-	2	2	4	50%	50%	14.3%	42.9%	42.9%	57.1%
+#32 Andrew Zelis	2.2%	4	4	1	-	-	1	2	3	66.7%	66.7%	25%	0%	0%	50%
+#5 Justin Thomas	0.6%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#22 Rod Henry-Hayes	0.6%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ P&R Roll Man
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	5.2%	130	110	0.846	16%	Below Average	69	39	108	36.1%	39.4%	6.2%	13.8%	13.1%	39.2%
+#42 Levi Bradley	51.5%	67	66	0.985	46%	Average	32	20	52	38.5%	41.3%	6%	20.9%	19.4%	44.8%
+#11 Noah McCarty	25.4%	33	18	0.545	6%	Poor	25	7	32	21.9%	28.1%	3%	3%	3%	21.2%
+#4 LaceyJames	16.9%	22	15	0.682	13%	Poor	11	7	18	38.9%	38.9%	13.6%	4.5%	4.5%	36.4%
+#33 Owen Hamilton	3.1%	4	7	1.75	-	-	0	3	3	100%	100%	0%	25%	25%	100%
+#12 Anastasios Demogerontas	1.5%	2	2	1	-	-	0	1	1	100%	100%	0%	50%	50%	50%
+#32 Andrew Zelis	0.8%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#5 Justin Thomas	0.8%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Hand Off
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	1.4%	34	21	0.618	9%	Poor	16	7	23	30.4%	32.6%	23.5%	8.8%	5.9%	29.4%
+#0 Dante Thorpe	47.1%	16	10	0.625	23%	Below Average	6	3	9	33.3%	33.3%	31.3%	12.5%	6.3%	31.3%
+#10 EugeneGerman	29.4%	10	9	0.9	58%	Good	6	3	9	33.3%	38.9%	0%	10%	10%	40%
+#2 Gairges Daow	8.8%	3	0	0	-	-	1	0	1	0%	0%	66.7%	0%	0%	0%
+#42 Levi Bradley	5.9%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#5 Justin Thomas	5.9%	2	0	0	-	-	1	0	1	0%	0%	50%	0%	0%	0%
+#22 Rod Henry-Hayes	2.9%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+
+
+ Off Screen
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	1.3%	32	31	0.969	70%	Very Good	18	10	28	35.7%	44.6%	3.1%	12.5%	9.4%	40.6%
+#10 EugeneGerman	37.5%	12	12	1	63%	Good	7	3	10	30%	40%	0%	25%	16.7%	41.7%
+#42 Levi Bradley	18.8%	6	4	0.667	-	-	4	1	5	20%	20%	0%	16.7%	16.7%	33.3%
+#5 Justin Thomas	18.8%	6	8	1.333	-	-	3	3	6	50%	66.7%	0%	0%	0%	50%
+#0 Dante Thorpe	9.4%	3	2	0.667	-	-	1	1	2	50%	50%	33.3%	0%	0%	33.3%
+#2 Gairges Daow	6.3%	2	0	0	-	-	2	0	2	0%	0%	0%	0%	0%	0%
+#4 LaceyJames	3.1%	1	0	0	-	-	1	0	1	0%	0%	0%	0%	0%	0%
+#11 Noah McCarty	3.1%	1	2	2	-	-	0	1	1	100%	100%	0%	0%	0%	100%
+#22 Rod Henry-Hayes	3.1%	1	3	3	-	-	0	1	1	100%	150%	0%	0%	0%	100%
+
+
+ Miscellaneous
+% Time
+Poss
+Points
+PPP
+Rank
+Rating
+FGm
+FGM
+FGA
+FG%
+aFG%
+%TO
+%FT
+%SF
+%Score
+Northern Illinois Huskies	6.7%	167	81	0.485	28%	Below Average	24	15	39	38.5%	41%	55.1%	22.2%	1.8%	26.3%
+#42 Levi Bradley	17.4%	29	26	0.897	92%	Excellent	5	3	8	37.5%	37.5%	34.5%	41.4%	6.9%	44.8%
+#10 EugeneGerman	15.6%	26	17	0.654	70%	Very Good	6	7	13	53.8%	57.7%	42.3%	7.7%	0%	30.8%
+#4 LaceyJames	13.8%	23	10	0.435	38%	Average	2	1	3	33.3%	33.3%	60.9%	26.1%	0%	26.1%
+#2 Gairges Daow	12%	20	8	0.4	32%	Average	6	0	6	0%	0%	40%	30%	0%	25%
+#11 Noah McCarty	9.6%	16	3	0.188	8%	Poor	0	0	0	-	-	81.3%	18.8%	0%	18.8%
+#0 Dante Thorpe	9.6%	16	7	0.438	38%	Average	2	2	4	50%	50%	62.5%	12.5%	0%	25%
+#5 Justin Thomas	8.4%	14	3	0.214	11%	Poor	2	0	2	0%	0%	50%	35.7%	7.1%	14.3%
+#12 Anastasios Demogerontas	4.2%	7	2	0.286	-	-	0	0	0	-	-	85.7%	14.3%	0%	14.3%
+#33 Owen Hamilton	3.6%	6	2	0.333	-	-	0	1	1	100%	100%	83.3%	0%	0%	16.7%
+#22 Rod Henry-Hayes	3%	5	3	0.6	-	-	1	1	2	50%	75%	60%	0%	0%	20%
+#32 Andrew Zelis	1.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#55 BrandonDanowski	1.2%	2	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+#20 Jon Siu	0.6%	1	0	0	-	-	0	0	0	-	-	100%	0%	0%	0%
+
+
+ 
+©2004-2018 Synergy Sports Technology, LLC. All Rights Reserved
+v-1.0.163	 	 
