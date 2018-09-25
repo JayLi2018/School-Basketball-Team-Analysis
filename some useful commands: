@@ -1,0 +1,39 @@
+some useful commands:
+
+1. open Anaconda:
+
+$ source ~/anaconda3/bin/activate root
+$ anaconda-navigator
+
+2. pg_dump
+
+pg_dump -C -h basketball.cvbt5lgtmagt.us-west-2.rds.amazonaws.com -U chenjie BasketballStats | psql -h localhost -U lchenjie Basketballstats
+
+
+3.git commands
+
+basic:
+
+git status
+
+git add .
+
+git commit " "
+
+git push origin master
+
+
+
+
+git remote -v (see if there are any upstream)
+ 
+  if not:
+
+git remote add upstream (remove:  git remote rm upstream)
+
+git fetch upstream
+
+git merge upstream/master
+
+
+4.sudo pip3 install <packagenames>

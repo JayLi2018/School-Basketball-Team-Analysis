@@ -5,29 +5,29 @@ import os
 import fileinput
 import pandas as pd 
 
-# stats_offensive_list = ['Play Types']
+stats_offensive_list = ['Play Types']
 
-stats_offensive_list = ['Overall Offense','Offense Including Passes','During Pass Out Situations',
-'During Trapping Situations','Shot Attempt - Half Court','Catch and Shoot - Half Court','Dribble Jumper - Half Court',
-'Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation - Derived Offense',
-'Isolation','ISO - Defense Commits','Post-Up - Derived Offense','Post-Up','Post-Up - Defense Commits','Post-Up - Hard Double Team',
-'P&R - Derived Offense','P&R Ball Handler','P&R BH - Defense Commits Info','P&R Ball Handler - Traps','P&R Roll Man',
-'Spot-Up','Off Screen','Hand Off','Cut','Offensive Rebounds (put backs)','Transition','Miscellaneous']
+# stats_offensive_list = ['Overall Offense','Offense Including Passes','During Pass Out Situations',
+# 'During Trapping Situations','Shot Attempt - Half Court','Catch and Shoot - Half Court','Dribble Jumper - Half Court',
+# 'Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation - Derived Offense',
+# 'Isolation','ISO - Defense Commits','Post-Up - Derived Offense','Post-Up','Post-Up - Defense Commits','Post-Up - Hard Double Team',
+# 'P&R - Derived Offense','P&R Ball Handler','P&R BH - Defense Commits Info','P&R Ball Handler - Traps','P&R Roll Man',
+# 'Spot-Up','Off Screen','Hand Off','Cut','Offensive Rebounds (put backs)','Transition','Miscellaneous']
 
-# stats_defensive_list = ['Play Types']
+stats_defensive_list = ['Play Types']
 
-stats_defensive_list = ['Overall Defense','Shot Attempt - Half Court','Catch and Shoot - Half Court',
-'Dribble Jumper - Half Court','Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation',
-'Post-Up','P&R Ball Handler','P&R Roll Man','Spot-Up','Off Screen','Hand Off']
+# stats_defensive_list = ['Overall Defense','Shot Attempt - Half Court','Catch and Shoot - Half Court',
+# 'Dribble Jumper - Half Court','Jump Shot Range - half court','Drive Direction (ISO Situations)','Isolation',
+# 'Post-Up','P&R Ball Handler','P&R Roll Man','Spot-Up','Off Screen','Hand Off']
 
 
 print(len(stats_offensive_list))
 
 def append_player_table(school_name,player_name):
  
-	file_needed_1  = open("C:/Users/lchen/Desktop/Player_Raw_Data/"+school_name+"/"+player_name+'_'+'Offensive'+".txt","r")
+	file_needed_1  = open("/home/chenjie/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Player_Average/new_school_raw_data/"+school_name+"/"+player_name+'_'+'Offensive'+".txt","r")
 
-	file_needed_2  = open("C:/Users/lchen/Desktop/Player_Raw_Data/"+school_name+"/"+player_name+'_'+'Defensive'+".txt","r")
+	file_needed_2  = open("/home/chenjie/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Player_Average/new_school_raw_data/"+school_name+"/"+player_name+'_'+'Defensive'+".txt","r")
 	
 	
 
@@ -107,10 +107,10 @@ def append_player_table(school_name,player_name):
 
 		# print(row_1)
 		# print(len(row_1))
-		directory = 'C:/Users/lchen/Desktop/Chenjie_Combied_Tables/'
+		directory = '/home/chenjie/Desktop/Chenjie_Combied_Tables/'
 		if not os.path.exists(directory):
 			os.makedirs(directory)
-		with open('C:/Users/lchen/Desktop/Chenjie_Combied_Tables/combined_tables.csv','a', newline = '') as ft:
+		with open('/home/chenjie/Desktop/Chenjie_Combied_Tables/combined_tables.csv','a', newline = '') as ft:
 			a = csv.writer(ft,delimiter = ',')
 			# a.writerow(columns_1)  ---- we don't need columns' names here
 			a.writerows(row_1)
@@ -173,10 +173,10 @@ def append_player_table(school_name,player_name):
 					columns_2.append(line.rstrip())
 
 		
-			directory = 'C:/Users/lchen/Desktop/Chenjie_Combied_Tables/'
+			directory = '/home/chenjie/Desktop/Chenjie_Combied_Tables/'
 		if not os.path.exists(directory):
 			os.makedirs(directory)
-		with open('C:/Users/lchen/Desktop/Chenjie_Combied_Tables/combined_tables.csv','a', newline = '') as ft:
+		with open('/home/chenjie/Desktop/Chenjie_Combied_Tables/combined_tables.csv','a', newline = '') as ft:
 			a = csv.writer(ft,delimiter = ',')
 			# a.writerow(columns_1)  ---- we don't need columns' names here
 			a.writerows(row_2)

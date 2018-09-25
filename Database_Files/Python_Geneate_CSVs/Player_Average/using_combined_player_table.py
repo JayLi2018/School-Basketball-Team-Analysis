@@ -76,8 +76,66 @@ from combine_Players_Tables import append_player_table
 # Illinois_Tech = [ 'Anthony_Mosley', 'Brett_Ott', 'Brinden_Carlson', 'Calvin_Schmitz', 'Capriest_Gardner',
 # 	'Jake_Digiorgio', 'Jake_Bruns', 'Jason_Morris', 'Kohl_Linder', 'Malik_Howze', 'Max_Hisatake', 'Parker_Joncus', 'Quentin_Forberg']
 
-Trine = [ 'Austin_Penick', 'Hayden_Crowder', 'Jalen_Paul', 'Jared_Dishop', 'Jason_Clune', 'Joe_Smith', 'Kaleb_Swick', 'Kelham_Brown', 
-'Langston_Johnson', 'Marcus_Winters', 'Maurice_Hunter', 'Myles_Copeland', 'Nick_Daman', 'Paris_Partee', 'Pete_Smith', 'Robert_Warrick', 'Sean_Corcoran']
+NIU = [ 'Jon_Siu', 'Eugene_German', 'Rod_Henry-Hayes', 'Dante_Thorpe', 'Lacey_James', 'Owen_Hamilton', 
+'Brandon_Danowski', 'Andrew_Zelis', 'Noah_McCarty', 'Levi_Bradley', 'Anastasios_Demogerontas', 'Gairges_Daow', 'Justin_Thomas']
+print("NIU HAS " +str(len(NIU)))
+
+Benedictine = [ 'Jonathon_Bailey', 'Jens_Soderholm', 'Shaka_Washington', 
+'Brayden_Olson', 'Logan_Atkins', 'Cole_Davenport', 'Hayden_Helfrich', 'Calvin_Brooks', 
+'Jaquan_Phipps', 'Eric_Grygo', 'Kyle_Hornacek', 'Kejuan_Glosson', 'Zach_Gorney', 'Marques_Barnes', 'Walter_Taylor', 'James_Dietz', 'Kenny_Bogus']
+print("Benedictine has" +str(len(Benedictine)))
+
+Aurora = [ 'Bryce_Pedrin', 'Ben_Bowen', 'Justin_Wierzgac', 'Sean_Davis', 
+'Justin_Galusha', 'Matt_Dunn', 'Jacob_Buchner', 'Max_Vickers', 'Garrett_Hoffman', 
+'Ty_Carlson', 'Shane_Murray', 'Marcus_Myers', 'Nick_Chambers', 'Henry_Hudson', 'Bailey_Vance', 'Mike_Finley', 'Chris_Mahoney', 'Demetrius_Pointer', 'Pat_Kramp']
+print("Aurora has " +str(len(Aurora)))
+
+Edgewood = [ 'Charlie_Reuteman', 'Travis_Kell', 'Jake_Graf', 'Ben_Seefeld', 
+'Will_Schwartz', 'Tyler_Lemke', 'Jake_Negus', 'Mcclain_Steffens', 'Jacob_Miller', 
+'Arik_Anderson', 'Emil_Radisevic', 'Sy_Staver', 'Drew_Freitag', 'Kyle_Geiger', 'Ryan_Buss', 'Sam_Noyce', 'Sam_Fox']
+print("Edgewood has "+str(len(Edgewood)))
+
+Trine = [ 'Marcus_Winters', 'Langston_Johnson', 'Kaleb_Swick', 'Robert_Warrick', 
+'Sean_Corcoran', 'Kelham_Brown', 'Maurice_Hunter', 'Jason_Clune', 'Paris_Partee', 
+'Pete_Smith', 'Myles_Copeland', 'Hayden_Crowder', 'Nick_Daman', 'Jared_Dishop', 'Austin_Penick', 'Jalen_Paul', 'Joe_Smith']
+print("Trine has " + str(len(Edgewood)))
+
+Carroll = [ 'Alec_Hamilton', 'Kale_Maupin', 'Charlie_Soule', 'Tyler_Ingebrigtsen',
+ 'Tyler_Barman', 'Tanner_Zaeske', 'Joel_Heesch', 'Ryan_Clarey', 'Nick_Penny', 'Cory_Nies', 
+ 'Joey_Archer', 'Troy_Howat', 'Justin_Gruber', 'Michael_Keane', 'Ray_Pierce', 'Ben_Widdes', 'Anthony_Marlowe']
+print("Carroll has "+ str(len(Carroll)))
+
+Rockford = [ 'Andrew_Squires', 'Nicolas_Ramos', 'Damon_Hofmann', 'Will_Adams', 
+'Taylor_Krocker', 'Kevin_Diemer', 'Brandon_Emerick', 'Daniel_Rosenstiel', 'Ajibola_OkeDiran', 
+'Talon_Hardin', 'Jacob_Siewert', 'Tony_Diemer', 'Ben_Weber', 'Ben_Temrowski', 'Ryan_Fiorucci', 'Trae_Blumhorst']
+print("Rockford has " + str(len(Rockford)))
+
+Lutheran_WI = [ 'Matty_Farner', 'Chase_Nowak', 'Ben_Kennedy', 'Collin_Kennedy', 
+'Caleb_Goldstein', 'Alex_Thiede', 'Colin_Biesterfeld', 'Sam_Kaufman', 'Anthony_Minnema', 
+'Paul_Schmelzer', 'Eric_Boulden', 'Tyler_Young', 'Christian_Kennedy', 'Paul_Koier', 'Grant_Beck', 'Matt_Baker', 'Mack_Knueppel', 'Randy_Johnson_Jr']
+print("Lutheran_WI has " + str(len(Lutheran_WI)))
+
+Concordia_CHI = [ 'Israel_Dosie', 'Jamaal_Thomas', 'Jon_Beaver', 'Joel_Childers',
+ 'Hassan_Basbous', 'Immanuel_Oby', 'Neil_ODonnell', 'Justin_Schwarz', 'Jamal_Turner',
+  'Justin_Mack', 'Jalen_Meeks', 'Rodrigo_Nava', 'Jonathan_Wilson', 'Sheldon_Moore', 'Louis_Fernando', 'Kenta_Jones', 'Zach_Burk', 'Henry_Woo_Jr', 'Mitch_Pelissier', 'Chad_Abbadessa', 'Jarek_Hotwagner', 'Sawyer_Concklin']
+print("Concordia_CHI has " + str(len(Concordia_CHI)))
+
+Concordia_WI = [ 'Dane_Fronek', 'Noah_Gosse', 'Julien_Addison', 'Joey_Zietlow', 
+'Jake_Jurss', 'Jason_Klug', 'Josh_Erickson', 'Jacob_Lord', 'Jordan_Johnson', 'Jose_Alicea', 
+'George_Olalekan', 'Josh_Hau', 'Andrew_Fratzke', 'Matt_Ulrich', 'Matthew_Myers', 'Isaiah_Tenette']
+print("Concordia_WI has "+ str(len(Concordia_WI)))
+
+Marian = [ 'Alex_Manhardt', 'Tavaris_Mccullough', 'Trentin_Fouse', 'Tristan_Ess', 
+'Taylor_Rahn', 'Logan_Hamilton', 'Caleb_Martin', 'Coy_Paulson', 'Evan_Hansen', 'Justin_Wilson', 
+'Ryan_Biffert', 'Julian_Lynch', 'Will_Olewinski', 'Tyrese_Pinson', 'Marcus_Kadinger', 'Danny_Duchaj', 'Kelvin_Jones', 'Myles_Cochran', 'Noah_Knudsen', 'Will_Polczynski', 'Matt_Shaw']
+print("Marian has "+ str(len(Marian)))
+
+Lakeland = [ 'Isaac_Anderson', 'Jequan_Pegeese', 'Eric_Nygaard', 'Deonte_Carlton', 
+'Ahmari_Dantzler', 'Eddie_Burnett', 'Carlos_Campos', 'Garrett_Duffin', 'Andre_Sanchez-Amarillas',
+ 'Ben_Stasewich', 'Pat_McDonald', 'Shakur_Jinad', 'Carl_Garner', 'Sam_Kaminski', 'Joshuan_McNeal', 'Trent_Nickel', 'Kyle_Domark', 'K.J._Odom', 'Zach_Hasenstein', 'Corey_Allen', 'Reggie_Nimmer']
+print("Lakeland has "+ str(len(Lakeland)))
+
+
 
 # School_List = []
 # School_List.extend(['Albion', 'Carthage', 'Chicago', 'CornellCollege', 'Dominican', 'East_West', 'Fontbonne',
@@ -153,3 +211,47 @@ Trine = [ 'Austin_Penick', 'Hayden_Crowder', 'Jalen_Paul', 'Jared_Dishop', 'Jaso
 print('21')
 for m in range(len(Trine)):
 	append_player_table('Trine',Trine[m])
+
+print('22')
+for m in range(len(NIU)):
+	append_player_table('NIU',NIU[m])
+
+print('23')
+for m in range(len(Benedictine)):
+	append_player_table('Benedictine',Benedictine[m])
+
+print('24')
+for m in range(len(Aurora)):
+	append_player_table('Aurora',Aurora[m])
+
+print('25')
+for m in range(len(Edgewood)):
+	append_player_table('Edgewood',Edgewood[m])
+
+print('26')
+for m in range(len(Carroll)):
+	append_player_table('Carroll',Carroll[m])
+
+print('27')
+for m in range(len(Rockford)):
+	append_player_table('Rockford', Rockford[m])
+
+print('28')
+for m in range(len(Lutheran_WI)):
+	append_player_table('Lutheran_WI', Lutheran_WI[m])
+
+print('29')
+for m in range(len(Concordia_CHI)):
+	append_player_table('Concordia_CHI', Concordia_CHI[m])
+
+print('30')
+for m in range(len(Concordia_WI)):
+	append_player_table('Concordia_WI', Concordia_WI[m])
+
+print('31')
+for m in range(len(Marian)):
+	append_player_table('Marian', Marian[m])
+
+print('32')
+for m in range(len(Lakeland)):
+	append_player_table('Lakeland', Lakeland[m])
