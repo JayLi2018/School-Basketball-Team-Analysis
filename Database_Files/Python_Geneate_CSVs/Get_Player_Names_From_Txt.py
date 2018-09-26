@@ -10,17 +10,22 @@ import csv
 # school_name_list = ['Albion','Carthage','Chicago','CornellCollege','Dominican','East_West','Fontbonne','Knox','MoodyBible','MSOE',
 # 'Roosevelt','Wabash','Wheaton','Kalamazoo','NorthPark','UWPlatteville','OlivetCollege','Rose_Hulman','GustavusAdolphus','Illinois Tech']
 
-school_name_list = ['Trine']
+school_name_list = ['NIU', 'Benedictine', 'Aurora', 'Edgewood', 'Trine','Carroll', 
+'Rockford', 'Lutheran-WI', 'Concordia-CHI', 'Concordia-WI', 'Marian', 'Lakeland']
 
-
+print(len(school_name_list))
 player_name_list = []
 player_and_ID_pairs = []
 
-for m in range(len(school_name_list)):
-	print('\''+school_name_list[m]+'\',',end =' ')
+# os.chdir('/home/chenjie/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Player_Average/new_school_raw_data/')
+# for file in glob.glob("*"):
+# 	filename = str(file)
+# 	print('\''+filename+'\',',end = ' ')
+
+
 
 for i in range(len(school_name_list)):
-	os.chdir('C:/Users/lchen/Desktop/Player_Raw_Data/'+school_name_list[i]+'/')
+	os.chdir('/home/chenjie/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Player_Average/new_school_raw_data/'+school_name_list[i]+'/')
 	print(school_name_list[i]+' = [',end = ' ')
 	for file in glob.glob("*.txt"):
 		filename = str(file)
