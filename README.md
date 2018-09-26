@@ -33,4 +33,5 @@ So I uploaded the modified version of SQL for creating tables.
   
   
  2018.9.20 - 2018.9.25
+ 
    Based on the coach's request, we are putting 12 new opponents to our database
