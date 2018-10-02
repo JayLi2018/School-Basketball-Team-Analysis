@@ -577,7 +577,7 @@ group by p1.player_name,p2.player_name,p3.player_name,p4.player_name,p5.player_n
 
 psql -h myhost -d database_name -U username
 
-\copy team(Team_Name,Team_ID) from 'C:\Users\lchen\Desktop\School-Basketball-Team-Analysis\Database_Files\Python_Geneate_CSVs\New_Team_Table.csv' DELIMITER ','CSV HEADER;
+\copy team(Team_Name,Team_ID) from '\home\chenjie\Desktop\School-Basketball-Team-Analysis\Database_Files\Python_Geneate_CSVs\New_Tables\New_Team_Table.csv' DELIMITER ','CSV HEADER;
 
 
 2. add new player names and ids
@@ -588,10 +588,6 @@ psql -h myhost -d database_name -U username
 3. add new team_cumulative 
 
 copy Team_Cumulative(Team_Cumulative_ID,Team_ID,Player_ID,GP,Min,SST,SSTexPts,Pts,Ast,Turnover,Ast_To_Ratio,Stl,StlPos,Blk,TtlReb,OffReb,DefReb,Field_Goals_Attempt,Field_Goals_Made,Field_Goals_Missed,Field_Goal_Percentage,Adjusted_Field_Goal_Percentage,Two_Field_Goals_Attempt,Two_Field_Goals_Made,Two_Field_Goals_Missed,Two_Field_Goal_Percentage,Three_Field_Goals_Attempt,Three_Field_Goals_Made,Three_Field_Goals_Missed,Three_Field_Goal_Percentage,Free_Throw_Attempts,Free_Throw_Made,Free_Throw_Missed,Free_Throw_Percentage,And_One,Personal_Fouls_Taken,Total_Personal_Fouls_Commited)from 'C:/Users/lchen/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Team_Cumulative/NEW_team_cumulative.csv' DELIMITER ',' CSV HEADER NULL as '-';
-
-
-
-
 
 
 
