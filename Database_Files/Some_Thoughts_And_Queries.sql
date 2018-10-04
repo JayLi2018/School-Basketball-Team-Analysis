@@ -321,11 +321,7 @@ order by adopt.team_name DESC
 
 1.get score_difference
 create view game_score_difference as
-select t2.team_name,tg2.game_id,(tg1.pts-tg2.pts) as score_difference
-from team t1, team t2, team_game tg1, team_game tg2
-where t1.team_id = tg1.team_id and t2.team_id = tg2.team_id and t1.team_name = 'IllinoisTech'and tg1.game_id = tg2.game_id
-and t2.team_name != 'IllinoisTech'
-	
+\copy (select t2.team_name,tg2.game_id,(tg1.pts-tg2.pts) as score_difference from team t1, team t2, team_game tg1, team_game tg2 where t1.team_id = tg1.team_id and t2.team_id = tg2.team_id and t1.team_name = 'IllinoisTech'and tg1.game_id = tg2.game_id and t2.team_name != 'IllinoisTech') to '/home/chenjie/score_diff.csv' DELIMITER ',' CSV HEADER;
 
 2. get the table of ppp of each type and score_difference in games
 select t.team_name,f.format_name,e.element_name as play_type,ta.percentage_of_time,ta.ppp,gsd.score_difference
@@ -588,6 +584,144 @@ psql -h myhost -d database_name -U username
 3. add new team_cumulative 
 
 copy Team_Cumulative(Team_Cumulative_ID,Team_ID,Player_ID,GP,Min,SST,SSTexPts,Pts,Ast,Turnover,Ast_To_Ratio,Stl,StlPos,Blk,TtlReb,OffReb,DefReb,Field_Goals_Attempt,Field_Goals_Made,Field_Goals_Missed,Field_Goal_Percentage,Adjusted_Field_Goal_Percentage,Two_Field_Goals_Attempt,Two_Field_Goals_Made,Two_Field_Goals_Missed,Two_Field_Goal_Percentage,Three_Field_Goals_Attempt,Three_Field_Goals_Made,Three_Field_Goals_Missed,Three_Field_Goal_Percentage,Free_Throw_Attempts,Free_Throw_Made,Free_Throw_Missed,Free_Throw_Percentage,And_One,Personal_Fouls_Taken,Total_Personal_Fouls_Commited)from 'C:/Users/lchen/Desktop/School-Basketball-Team-Analysis/Database_Files/Python_Geneate_CSVs/Team_Cumulative/NEW_team_cumulative.csv' DELIMITER ',' CSV HEADER NULL as '-';
+
+
+
+
+10.3
+
+1) get the distribution of each play type:
+
+WITH Stat1 as (
+SELECT t1.team_name as team_name, ta1.percentage_of_time as spot_up
+FROM team t1,team_average ta1, format f1, category c1, element e1
+WHERE t1.team_id = ta1.team_id AND f1.format_id = ta1.format_id 
+AND f1.format_name= 'Offensive' AND c1.category_id = ta1.category_id
+AND c1.category_name = 'Play Types' AND e1.element_id = ta1.element_id
+AND e1.element_name = 'Spot Up' AND t1.team_id <21
+),
+Stat2 as 
+(
+SELECT t2.team_name as team_name, ta2.percentage_of_time as PR_Ball_Handler
+FROM team t2,team_average ta2, format f2, category c2, element e2
+WHERE t2.team_id = ta2.team_id AND f2.format_id = ta2.format_id 
+AND f2.format_name= 'Offensive' AND c2.category_id = ta2.category_id
+AND c2.category_name = 'Play Types' AND e2.element_id = ta2.element_id
+AND e2.element_name = 'P&R Ball Handler' AND t2.team_id <21
+),
+Stat3 as 
+(
+SELECT t3.team_name as team_name, ta3.percentage_of_time as Transition
+FROM team t3,team_average ta3, format f3, category c3, element e3
+WHERE t3.team_id = ta3.team_id AND f3.format_id = ta3.format_id 
+AND f3.format_name= 'Offensive' AND c3.category_id = ta3.category_id
+AND c3.category_name = 'Play Types' AND e3.element_id = ta3.element_id
+AND e3.element_name = 'Transition' AND t3.team_id <21
+),
+Stat5 as 
+(
+SELECT t5.team_name as team_name, ta5.percentage_of_time as Post_Up
+FROM team t5,team_average ta5, format f5, category c5, element e5
+WHERE t5.team_id = ta5.team_id AND f5.format_id = ta5.format_id 
+AND f5.format_name= 'Offensive' AND c5.category_id = ta5.category_id
+AND c5.category_name = 'Play Types' AND e5.element_id = ta5.element_id
+AND e5.element_name = 'Post-Up' AND t5.team_id <21
+),
+Stat7 as 
+(
+SELECT t7.team_name as team_name, ta7.percentage_of_time as Offensive_Rebound
+FROM team t7,team_average ta7, format f7, category c7, element e7
+WHERE t7.team_id = ta7.team_id AND f7.format_id = ta7.format_id 
+AND f7.format_name= 'Offensive' AND c7.category_id = ta7.category_id
+AND c7.category_name = 'Play Types' AND e7.element_id = ta7.element_id
+AND e7.element_name = 'Offensive Rebounds (put backs)' AND t7.team_id <21
+),
+Stat9 as 
+(
+SELECT t9.team_name as team_name, ta9.percentage_of_time as Cut
+FROM team t9,team_average ta9, format f9, category c9, element e9
+WHERE t9.team_id = ta9.team_id AND f9.format_id = ta9.format_id   
+AND f9.format_name= 'Offensive' AND c9.category_id = ta9.category_id
+AND c9.category_name = 'Play Types' AND e9.element_id = ta9.element_id
+AND e9.element_name = 'Cut' AND t9.team_id <21
+),
+Stat10 as 
+(
+SELECT t10.team_name as team_name, ta10.percentage_of_time as Isolation
+FROM team t10,team_average ta10, format f10, category c10, element e10
+WHERE t10.team_id = ta10.team_id AND f10.format_id = ta10.format_id 
+AND f10.format_name= 'Offensive' AND c10.category_id = ta10.category_id
+AND c10.category_name = 'Play Types' AND e10.element_id = ta10.element_id
+AND e10.element_name = 'Isolation' AND t10.team_id <21
+),
+Stat4 as 
+(
+SELECT t4.team_name as team_name, ta4.percentage_of_time as Off_Screen
+FROM team t4,team_average ta4, format f4, category c4, element e4
+WHERE t4.team_id = ta4.team_id AND f4.format_id = ta4.format_id 
+AND f4.format_name= 'Offensive' AND c4.category_id = ta4.category_id
+AND c4.category_name = 'Play Types' AND e4.element_id = ta4.element_id
+AND e4.element_name = 'Off Screen' AND t4.team_id <21
+),
+
+Stat6 as 
+(
+SELECT t6.team_name as team_name, ta6.percentage_of_time as PR_Roll_Man
+FROM team t6,team_average ta6, format f6, category c6, element e6
+WHERE t6.team_id = ta6.team_id AND f6.format_id = ta6.format_id 
+AND f6.format_name= 'Offensive' AND c6.category_id = ta6.category_id
+AND c6.category_name = 'Play Types' AND e6.element_id = ta6.element_id
+AND e6.element_name = 'P&R Roll Man' AND t6.team_id <21
+),
+Stat8 as 
+(
+SELECT t8.team_name as team_name, ta8.percentage_of_time as Hand_Off
+FROM team t8,team_average ta8, format f8, category c8, element e8
+WHERE t8.team_id = ta8.team_id AND f8.format_id = ta8.format_id 
+AND f8.format_name= 'Offensive' AND c8.category_id = ta8.category_id
+AND c8.category_name = 'Play Types' AND e8.element_id = ta8.element_id
+AND e8.element_name = 'Hand Off' AND t8.team_id <21
+)
+Select Stat1.*,Stat2.PR_Ball_Handler,Stat3.Transition,Stat4.Off_Screen,Stat5.Post_Up,Stat6.PR_Roll_Man,
+Stat7.Offensive_Rebound,Stat8.Hand_Off,Stat9.Cut,Stat10.Isolation
+FROM Stat1,Stat2,Stat3,Stat4,Stat5,Stat6,Stat7,Stat8,Stat9,Stat10
+WHERE 
+Stat1.Team_Name = Stat2.Team_Name AND Stat1.Team_Name = Stat3.Team_Name AND 
+Stat1.Team_Name = Stat4.Team_Name AND Stat1.Team_Name = Stat5.Team_Name AND
+Stat1.Team_Name = Stat6.Team_Name AND Stat1.Team_Name = Stat7.Team_Name AND
+Stat1.Team_Name = Stat8.Team_Name AND Stat1.Team_Name = Stat9.Team_Name AND 
+Stat1.Team_Name = Stat10.Team_Name AND 
+
+Stat2.Team_Name = Stat3.Team_Name AND Stat2.Team_Name = Stat4.Team_Name AND 
+Stat2.Team_Name = Stat5.Team_Name AND
+Stat2.Team_Name = Stat6.Team_Name AND Stat2.Team_Name = Stat7.Team_Name AND 
+Stat2.Team_Name = Stat8.Team_Name AND Stat2.Team_Name = Stat9.Team_Name AND
+Stat2.Team_Name = Stat10.Team_Name AND
+
+Stat3.Team_Name = Stat4.Team_Name AND Stat3.Team_Name = Stat5.Team_Name AND
+Stat3.Team_Name = Stat6.Team_Name AND 
+Stat3.Team_Name = Stat7.Team_Name AND Stat3.Team_Name = Stat8.Team_Name AND
+Stat3.Team_Name = Stat9.Team_Name AND Stat3.Team_Name = Stat10.Team_Name AND
+
+Stat4.Team_Name = Stat5.Team_Name AND Stat4.Team_Name = Stat6.Team_Name AND 
+Stat4.Team_Name = Stat7.Team_Name AND Stat4.Team_Name = Stat8.Team_Name AND
+Stat4.Team_Name = Stat9.Team_Name AND Stat4.Team_Name = Stat10.Team_Name AND
+
+Stat5.Team_Name = Stat6.Team_Name AND Stat5.Team_Name = Stat7.Team_Name AND 
+Stat5.Team_Name = Stat8.Team_Name AND Stat5.Team_Name = Stat9.Team_Name AND
+Stat5.Team_Name = Stat10.Team_Name AND
+
+Stat6.Team_Name = Stat7.Team_Name AND Stat6.Team_Name = Stat8.Team_Name AND 
+Stat6.Team_Name = Stat9.Team_Name AND Stat6.Team_Name = Stat10.Team_Name AND
+
+Stat7.Team_Name = Stat8.Team_Name AND Stat7.Team_Name = Stat9.Team_Name AND 
+Stat7.Team_Name = Stat10.Team_Name AND
+
+
+Stat8.Team_Name = Stat9.Team_Name AND Stat8.Team_Name = Stat10.Team_Name AND
+
+Stat9.Team_Name = Stat10.Team_Name 
+
 
 
 
