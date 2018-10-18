@@ -746,7 +746,7 @@ and f.format_name = 'Offensive' and c.category_name = 'Overall Offense' and e.el
 3. calculate average possesions for each team
 
 create view tm_ave_poss as 
-select tgp.team_name, round(tp.poss::numeric(4,0)/tgp.tm_gp,2) as avg_poss
+select tgp.team_name, tp.poss::numeric/tgp.tm_gp as avg_poss
 from team_game_played tgp, tm_poss tp
 where tgp.team_name = tp.team_name
 
@@ -755,13 +755,13 @@ where tgp.team_name = tp.team_name
 create view player_gp as
 select t.*,p.player_name,tc.gp
 from team t, team_cumulative tc, player p
-where t.team_id = tc.team_id and tc.player_id = p.player_id
+where t.team_id = tc.team_id and tc.player_id = p.player_id and p.team_id = t.team_id
 
 
 5. player average possesions
 
 create view player_avg_poss as 
-select t.*, p.player_name, round(pa.poss::numeric(4,0)/pg.gp,2) as player_avg_poss 
+select t.*, p.player_name, pa.poss::numeric/pg.gp as player_avg_poss 
 from player_gp pg, player p,player_average pa,category c, format f, element e, team t 
 where p.player_id = pa.player_id and p.team_id = t.team_id and p.player_name = pg.player_name 
 and pa.format_id = f.format_id and f.format_name = 'Offensive'
@@ -770,7 +770,7 @@ and pa.element_id = e.element_id and e.element_name = 'Player'
 
 6. 
 create view player_usg_rate as 
-select tap.*,pap.player_name,pap.player_avg_poss,pap.player_avg_poss::float/tap.avg_poss as usg_percentage
+select tap.*,pap.player_name,pap.player_avg_poss,pap.player_avg_poss::numeric/tap.avg_poss as usg_percentage
 from tm_ave_poss tap, player_avg_poss pap
 where tap.team_name = pap.team_name 
 

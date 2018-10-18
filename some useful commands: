@@ -2,8 +2,8 @@ some useful commands:
 
 1. open Anaconda:
 
-$ source ~/anaconda3/bin/activate root
-$ anaconda-navigator
+source ~/anaconda3/bin/activate root
+anaconda-navigator
 
 2. pg_dump
 
