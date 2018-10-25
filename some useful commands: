@@ -5,6 +5,28 @@ some useful commands:
 source ~/anaconda3/bin/activate root
 anaconda-navigator
 
+
+pip freeze --local > requirements.txt    
+
+# this is for generating the libraries names and versions to a file
+
+deactivate
+#get out of a python environment
+
+install those libraries above
+
+pip install -r requirements.txt
+
+
+after deactivate, if you want to remove it, run:
+
+rm -rf env_name/
+
+specify which python version to use:
+virtualenv -p /usr/bin/python[version number] project_name
+
+
+
 2. pg_dump
 
 pg_dump -C -h basketball.cvbt5lgtmagt.us-west-2.rds.amazonaws.com -U chenjie BasketballStats | psql -h localhost -U lchenjie Basketballstats
