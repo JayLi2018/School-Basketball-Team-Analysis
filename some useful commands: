@@ -59,3 +59,26 @@ git merge upstream/master
 
 
 4.sudo pip3 install <packagenames>
+
+
+5
+
+shlomo's server:
+psql -h basketball.cvbt5lgtmagt.us-west-2.rds.amazonaws.com -d New_BasketballStats -U chenjie
+
+
+my server:
+psql -h newbballserver.ctkmtyhjwqb1.us-east-2.rds.amazonaws.com -d whole_collection -U chenjie
+
+update player set player_name = "Neil_ODonnell" where player_name = "Neil_O'Donnell";
+
+
+
+6.
+GRANT ALL PRIVILEGES ON ALL TABLES IN SCHEMA public to dilruba;
+GRANT ALL PRIVILEGES ON ALL SEQUENCES IN SCHEMA public to dilruba;
+GRANT ALL PRIVILEGES ON ALL FUNCTIONS IN SCHEMA public to dilruba;
+
+
+7.
+CREATE USER qiao WITH PASSWORD 'qiao'
