@@ -47,7 +47,6 @@ Player_Average
 Player_Single_Game   
 Team_Average  
 Team_Cumulative   
-Team_Game   
-Team_Game_Status   
+Team_Game    
  
  
