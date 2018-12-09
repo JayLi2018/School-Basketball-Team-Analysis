@@ -35,3 +35,19 @@ So I uploaded the modified version of SQL for creating tables.
  2018.9.20 - 2018.9.25
  
    Based on the coach's request, we are putting 12 new opponents to our database
+   
+ 
+ 2018.12.8
+ ## Project continues.....
+ Since we are working on a new season, it is necessary for us to add a new attribute "Season" into the relations in our database.
+ The list we added the "Season" attribute is:
+ ## LineupInfo
+ ## Player
+ ## Player_Average
+ ## Player_Single_Game
+ ## Team_Average
+ ## Team_Cumulative
+ ## Team_Game
+ ## Team_Game_Status
+ 
+ 
