@@ -41,7 +41,7 @@ So I uploaded the modified version of SQL for creating tables.
  ## Project continues.....
  Since we are working on a new season, it is necessary for us to add a new attribute "Season" into the relations in our database.
  The list we added the "Season" attribute is:
-LineupInfo  
+LineupInfo    
 Player  
 Player_Average   
 Player_Single_Game   
